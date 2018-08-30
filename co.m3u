@@ -404,34 +404,35 @@ http://87.229.71.54:8081/1/E-star/playlist.m3u8
 
 #EXTINF:-1 group-title="Greece4" tvg-name="ΕΡΤ1" epg-id="EPT1.gr" tvg-logo="https://goo.gl/hD0NSD" ,ERT1
 
-https://cdn.tzampa.tv/live/ERT1.m3u8|referer=https://tzampa.tv/home#EXTINF:-1 group-title="Greece4" tvg-name="ΕΡΤ2" epg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2 
+https://cdn.tzampa.tv/live/ERT1.m3u8|referer=https://tzampa.tv/home&user-agent=
+#EXTINF:-1 group-title="Greece4" tvg-name="ΕΡΤ2" epg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2 
 
-https://cdn.tzampa.tv/live/ERT2.m3u8|referer=https://tzampa.tv/home
+https://cdn.tzampa.tv/live/ERT2.m3u8|referer=https://tzampa.tv/home&user-agent=
 #EXTINF:-1 group-title="Greece4"  ,ERT3
-https://cdn.tzampa.tv/live/ERT3.m3u8|referer=https://tzampa.tv/home
+https://cdn.tzampa.tv/live/ERT3.m3u8|referer=https://tzampa.tv/home&user-agent=
 #EXTINF:-1 group-title="Greece4"  ,ERTHD
 https://cdn.tzampa.tv/live/ERTHD.m3u8|referer=https://tzampa.tv/home
-
+&user-agent=
 #EXTINF:-1 group-title="Greece4" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 
-https://cdn.tzampa.tv/live/ANT1.m3u8|referer=https://tzampa.tv/home
+https://cdn.tzampa.tv/live/ANT1.m3u8|referer=https://tzampa.tv/home&user-agent=
 #EXTINF:-1 group-title="Greece4" tvg-name="Mega Channel" epg-id="mega.gr" tvg-logo="https://goo.gl/nTCu62" ,MEGA COSMOS
-https://cdn.tzampa.tv/live/MEGA.m3u8|referer=https://tzampa.tv/home 
+https://cdn.tzampa.tv/live/MEGA.m3u8|referer=https://tzampa.tv/home&user-agent= 
 
 #EXTINF:-1 group-title="Greece4" tvg-logo="https://goo.gl/np3siv" ,SKAI
 
-https://cdn.tzampa.tv/live/SKAI.m3u8|referer=https://tzampa.tv/home= 
+https://cdn.tzampa.tv/live/SKAI.m3u8|referer=https://tzampa.tv/home&user-agent= 
 
 #EXTINF:-1 group-title="Greece4" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
 
-https://cdn.tzampa.tv/live/STAR.m3u8|referer=https://tzampa.tv/home
+https://cdn.tzampa.tv/live/STAR.m3u8|referer=https://tzampa.tv/home&user-agent=
 #EXTINF:-1 group-title="Greece4" tvg-name="Alpha" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg" ,ALPHA 
 
-https://cdn.tzampa.tv/live/ALPHA.m3u8|referer=https://tzampa.tv/home
+https://cdn.tzampa.tv/live/ALPHA.m3u8|referer=https://tzampa.tv/home&user-agent=
 #EXTINF:-1 group-title="Greece4" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://goo.gl/tjFpM3" ,E
 
-https://cdn.tzampa.tv/live/EPSILON.m3u8|referer=https://tzampa.tv/home
+https://cdn.tzampa.tv/live/EPSILON.m3u8|referer=https://tzampa.tv/home&user-agent=
 #EXTINF:-1 group-title="Greece4" ,Nickelodeon
-https://cdn.tzampa.tv/live/NICKELODEON.m3u8|referer=https://tzampa.tv/home
+https://cdn.tzampa.tv/live/NICKELODEON.m3u8|referer=https://tzampa.tv/home&user-agent=
 
 
 
