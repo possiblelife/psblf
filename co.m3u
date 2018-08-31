@@ -14396,9 +14396,462 @@ http://109.248.236.41:4433/udp/238.1.1.206:1234
 
 
 
-#EXTINF:11 group-title="Russian6",
+#EXTINF:-1 group-title="Russian6",
 
-
+#EXTINF:-1 group-title="Russian6",Sirius 
+http://c0.cdn.trinity-tv.net/hls/240/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Star Family HD 
+http://c0.cdn.trinity-tv.net/hls/241/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Киносерия 
+http://c0.cdn.trinity-tv.net/hls/248/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Кинокомедия 
+http://c0.cdn.trinity-tv.net/hls/249/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Travel channel 
+http://c0.cdn.trinity-tv.net/hls/16/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",M1 
+http://c0.cdn.trinity-tv.net/hls/17/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",OTV 
+http://c0.cdn.trinity-tv.net/hls/18/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Мега 
+http://c0.cdn.trinity-tv.net/hls/19/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Беларусь 24 
+http://c0.cdn.trinity-tv.net/hls/20/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Перший автомобільний 
+http://c0.cdn.trinity-tv.net/hls/21/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",ID 
+http://c0.cdn.trinity-tv.net/hls/22/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",RTVI 
+http://c0.cdn.trinity-tv.net/hls/23/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Еврокино 
+http://c0.cdn.trinity-tv.net/hls/24/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",HD Fashion 
+http://c0.cdn.trinity-tv.net/hls/25/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Boutique TV 
+http://c0.cdn.trinity-tv.net/hls/26/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Sony channel 
+http://c0.cdn.trinity-tv.net/hls/27/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Bolt 
+http://c0.cdn.trinity-tv.net/hls/28/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Euronews 
+http://c0.cdn.trinity-tv.net/hls/29/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",UA:Культура 
+http://c0.cdn.trinity-tv.net/hls/30/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",К1 
+http://c0.cdn.trinity-tv.net/hls/31/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",К2 
+http://c0.cdn.trinity-tv.net/hls/32/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Bambarbia HD 
+http://c0.cdn.trinity-tv.net/hls/33/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Discovery 
+http://c0.cdn.trinity-tv.net/hls/34/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Прямий 
+http://c0.cdn.trinity-tv.net/hls/35/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Viasat Explore 
+http://c0.cdn.trinity-tv.net/hls/36/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Viasat History 
+http://c0.cdn.trinity-tv.net/hls/37/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",TV1000 
+http://c0.cdn.trinity-tv.net/hls/39/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",TV1000 World Kino 
+http://c0.cdn.trinity-tv.net/hls/40/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Настоящее время HD 
+http://c0.cdn.trinity-tv.net/hls/41/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",English club TV 
+http://c0.cdn.trinity-tv.net/hls/42/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",2+2 
+http://c0.cdn.trinity-tv.net/hls/43/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Ентер фільм 
+http://c0.cdn.trinity-tv.net/hls/44/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Zoom 
+http://c0.cdn.trinity-tv.net/hls/45/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Jim Jam 
+http://c0.cdn.trinity-tv.net/hls/46/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Піксель ТВ 
+http://c0.cdn.trinity-tv.net/hls/47/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Київ ТВ 
+http://c0.cdn.trinity-tv.net/hls/48/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Fashion 
+http://c0.cdn.trinity-tv.net/hls/49/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",КРТ 
+http://c0.cdn.trinity-tv.net/hls/50/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",NewsNetwork 
+http://c0.cdn.trinity-tv.net/hls/52/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Черноморская ТВ 
+http://c0.cdn.trinity-tv.net/hls/53/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Індиго ТВ 
+http://c0.cdn.trinity-tv.net/hls/54/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Discovery science 
+http://c0.cdn.trinity-tv.net/hls/55/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Fashion 
+http://c0.cdn.trinity-tv.net/hls/56/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Star Family 
+http://c0.cdn.trinity-tv.net/hls/57/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Xsport 
+http://c0.cdn.trinity-tv.net/hls/58/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",TLC 
+http://c0.cdn.trinity-tv.net/hls/59/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Sport 1 
+http://c0.cdn.trinity-tv.net/hls/60/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Nick Jr. 
+http://c0.cdn.trinity-tv.net/hls/61/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",В гостях у сказки 
+http://c0.cdn.trinity-tv.net/hls/62/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Футбол 1 
+http://c0.cdn.trinity-tv.net/hls/63/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",DW 
+http://c0.cdn.trinity-tv.net/hls/64/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Gulli girl 
+http://c0.cdn.trinity-tv.net/hls/65/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Глас 
+http://c0.cdn.trinity-tv.net/hls/66/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",M2 
+http://c0.cdn.trinity-tv.net/hls/67/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Тиса 
+http://c0.cdn.trinity-tv.net/hls/68/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",History HD 
+http://c0.cdn.trinity-tv.net/hls/69/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Еко ТВ 
+http://c0.cdn.trinity-tv.net/hls/70/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Eurosport 1 
+http://c0.cdn.trinity-tv.net/hls/71/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Discovery world 
+http://c0.cdn.trinity-tv.net/hls/73/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Zee TV 
+http://c0.cdn.trinity-tv.net/hls/74/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Sport 2 
+http://c0.cdn.trinity-tv.net/hls/75/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",VH1 
+http://c0.cdn.trinity-tv.net/hls/76/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Fashion HD 
+http://c0.cdn.trinity-tv.net/hls/77/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Eurosport 1 HD 
+http://c0.cdn.trinity-tv.net/hls/78/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Тет 
+http://c0.cdn.trinity-tv.net/hls/79/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Дорама 
+http://c0.cdn.trinity-tv.net/hls/80/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Prime Time 
+http://c0.cdn.trinity-tv.net/hls/81/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Ескулап ТВ 
+http://c0.cdn.trinity-tv.net/hls/82/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Sport 1 Baltic 
+http://c0.cdn.trinity-tv.net/hls/83/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",EU Music HD 
+http://c0.cdn.trinity-tv.net/hls/84/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Sport 2 Baltic 
+http://c0.cdn.trinity-tv.net/hls/85/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Viasat Sport HD 
+http://c0.cdn.trinity-tv.net/hls/86/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",MTV Dance 
+http://c0.cdn.trinity-tv.net/hls/87/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Epoque 
+http://c0.cdn.trinity-tv.net/hls/88/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",BBC World News 
+http://c0.cdn.trinity-tv.net/hls/89/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Тера 
+http://c0.cdn.trinity-tv.net/hls/90/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Мужское кино 
+http://c0.cdn.trinity-tv.net/hls/91/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Nick 
+http://c0.cdn.trinity-tv.net/hls/92/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Extreme 
+http://c0.cdn.trinity-tv.net/hls/93/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Наше любимое кино 
+http://c0.cdn.trinity-tv.net/hls/94/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Первый городской HD 
+http://c0.cdn.trinity-tv.net/hls/96/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",EU Music 
+http://c0.cdn.trinity-tv.net/hls/97/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Дитинець 
+http://c0.cdn.trinity-tv.net/hls/98/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",ОЦЕ 
+http://c0.cdn.trinity-tv.net/hls/100/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Music Box HD 
+http://c0.cdn.trinity-tv.net/hls/101/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",UA:Суми 
+http://c0.cdn.trinity-tv.net/hls/102/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Плюс Плюс 
+http://c0.cdn.trinity-tv.net/hls/103/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Детский мир/Телеклуб 
+http://c0.cdn.trinity-tv.net/hls/104/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Animal Planet 
+http://c0.cdn.trinity-tv.net/hls/105/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",DW 
+http://c0.cdn.trinity-tv.net/hls/106/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Максі ТВ 
+http://c0.cdn.trinity-tv.net/hls/108/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Дача 
+http://c0.cdn.trinity-tv.net/hls/109/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",ZIK 
+http://c0.cdn.trinity-tv.net/hls/110/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Трофей 
+http://c0.cdn.trinity-tv.net/hls/111/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",MCM Top 
+http://c0.cdn.trinity-tv.net/hls/112/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",France 24 HD 
+http://c0.cdn.trinity-tv.net/hls/113/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Надія 
+http://c0.cdn.trinity-tv.net/hls/114/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",8канал 
+http://c0.cdn.trinity-tv.net/hls/115/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Киномикс 
+http://c0.cdn.trinity-tv.net/hls/116/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Eurosport 2 
+http://c0.cdn.trinity-tv.net/hls/117/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Мультимания 
+http://c0.cdn.trinity-tv.net/hls/118/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",History 
+http://c0.cdn.trinity-tv.net/hls/119/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Наука 
+http://c0.cdn.trinity-tv.net/hls/120/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Epic Drama HD 
+http://c0.cdn.trinity-tv.net/hls/121/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Квартал ТВ 
+http://c0.cdn.trinity-tv.net/hls/122/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",TV1000 Action 
+http://c0.cdn.trinity-tv.net/hls/123/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",FilmBox Arthouse HD 
+http://c0.cdn.trinity-tv.net/hls/124/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Малятко ТВ 
+http://c0.cdn.trinity-tv.net/hls/125/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",News One 
+http://c0.cdn.trinity-tv.net/hls/126/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Vip Premiere HD 
+http://c0.cdn.trinity-tv.net/hls/127/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",VIP Comedy HD 
+http://c0.cdn.trinity-tv.net/hls/128/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",С Плюс 
+http://c0.cdn.trinity-tv.net/hls/129/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",ЯТБ 
+http://c0.cdn.trinity-tv.net/hls/130/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Fine Living 
+http://c0.cdn.trinity-tv.net/hls/131/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Белсат ТВ 
+http://c0.cdn.trinity-tv.net/hls/132/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Bolt HD 
+http://c0.cdn.trinity-tv.net/hls/133/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",MostVideo 
+http://c0.cdn.trinity-tv.net/hls/134/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Тео 
+http://c0.cdn.trinity-tv.net/hls/135/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Караван ТВ 
+http://c0.cdn.trinity-tv.net/hls/136/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Star Cinema HD 
+http://c0.cdn.trinity-tv.net/hls/137/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",CN 
+http://c0.cdn.trinity-tv.net/hls/139/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Zooпарк 
+http://c0.cdn.trinity-tv.net/hls/140/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",141 
+http://c0.cdn.trinity-tv.net/hls/141/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",UA:Перший HD 
+http://c0.cdn.trinity-tv.net/hls/142/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Новый Христианский 
+http://c0.cdn.trinity-tv.net/hls/143/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Bollywood HD 
+http://c0.cdn.trinity-tv.net/hls/144/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",DaVinci Learning 
+http://c0.cdn.trinity-tv.net/hls/145/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Уніан 
+http://c0.cdn.trinity-tv.net/hls/146/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Бігуді 
+http://c0.cdn.trinity-tv.net/hls/147/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",НЛО ТВ 
+http://c0.cdn.trinity-tv.net/hls/148/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",ДТВ 
+http://c0.cdn.trinity-tv.net/hls/149/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Наталі 
+http://c0.cdn.trinity-tv.net/hls/150/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Star Cinema 
+http://c0.cdn.trinity-tv.net/hls/151/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",24 канал 
+http://c0.cdn.trinity-tv.net/hls/152/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Iland 
+http://c0.cdn.trinity-tv.net/hls/153/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Донбас 
+http://c0.cdn.trinity-tv.net/hls/154/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Milady 
+http://c0.cdn.trinity-tv.net/hls/155/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Фауна 
+http://c0.cdn.trinity-tv.net/hls/156/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",MTV Hits 
+http://c0.cdn.trinity-tv.net/hls/157/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Paramount Comedy 
+http://c0.cdn.trinity-tv.net/hls/158/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Music Box 
+http://c0.cdn.trinity-tv.net/hls/159/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",MTV Rocks 
+http://c0.cdn.trinity-tv.net/hls/160/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Дача HD 
+http://c0.cdn.trinity-tv.net/hls/161/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",WF 
+http://c0.cdn.trinity-tv.net/hls/162/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",VH1 classic 
+http://c0.cdn.trinity-tv.net/hls/163/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Sony Turbo 
+http://c0.cdn.trinity-tv.net/hls/164/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",FilmBox Premium 
+http://c0.cdn.trinity-tv.net/hls/165/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Plus 
+http://c0.cdn.trinity-tv.net/hls/166/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Fast&FunBox HD 
+http://c0.cdn.trinity-tv.net/hls/167/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Olvia 
+http://c0.cdn.trinity-tv.net/hls/168/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Discovery HD 
+http://c0.cdn.trinity-tv.net/hls/169/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",ATR 
+http://c0.cdn.trinity-tv.net/hls/170/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",171 
+http://c0.cdn.trinity-tv.net/hls/171/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Spike 
+http://c0.cdn.trinity-tv.net/hls/172/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Перший західний 
+http://c0.cdn.trinity-tv.net/hls/173/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Правда Тут 
+http://c0.cdn.trinity-tv.net/hls/174/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Возрождение 
+http://c0.cdn.trinity-tv.net/hls/175/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",CNL 
+http://c0.cdn.trinity-tv.net/hls/176/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",112 HD 
+http://c0.cdn.trinity-tv.net/hls/177/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Sony sci - fi 
+http://c0.cdn.trinity-tv.net/hls/178/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Lale 
+http://c0.cdn.trinity-tv.net/hls/179/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Boutique 
+http://c0.cdn.trinity-tv.net/hls/180/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",UA:Перший 
+http://c0.cdn.trinity-tv.net/hls/181/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Футбол 2 
+http://c0.cdn.trinity-tv.net/hls/182/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Nick HD 
+http://c0.cdn.trinity-tv.net/hls/183/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Eurosport 2 HD 
+http://c0.cdn.trinity-tv.net/hls/184/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Viasat Sport 
+http://c0.cdn.trinity-tv.net/hls/185/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Viasat Nature/History HD 
+http://c0.cdn.trinity-tv.net/hls/186/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Южная волна HD 
+http://c0.cdn.trinity-tv.net/hls/187/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Viasat Nature 
+http://c0.cdn.trinity-tv.net/hls/188/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Food Network 
+http://c0.cdn.trinity-tv.net/hls/189/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",VIP Megahit HD 
+http://c0.cdn.trinity-tv.net/hls/190/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Xsport 
+http://c0.cdn.trinity-tv.net/hls/191/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",FashionBox HD 
+http://c0.cdn.trinity-tv.net/hls/192/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",4 канал 
+http://c0.cdn.trinity-tv.net/hls/193/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",360 TuneBox 
+http://c0.cdn.trinity-tv.net/hls/194/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Mezzo 
+http://c0.cdn.trinity-tv.net/hls/195/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",MGM HD 
+http://c0.cdn.trinity-tv.net/hls/196/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Вінтаж ТВ 
+http://c0.cdn.trinity-tv.net/hls/197/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Прямий HD 
+http://c0.cdn.trinity-tv.net/hls/198/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",tv5 
+http://c0.cdn.trinity-tv.net/hls/199/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",MTV Live HD 
+http://c0.cdn.trinity-tv.net/hls/200/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Телевсесвіт 
+http://c0.cdn.trinity-tv.net/hls/201/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Еспресо 
+http://c0.cdn.trinity-tv.net/hls/203/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Сонце 
+http://c0.cdn.trinity-tv.net/hls/204/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Kino 1 
+http://c0.cdn.trinity-tv.net/hls/205/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Oboz 
+http://c0.cdn.trinity-tv.net/hls/206/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Animal Planet HD 
+http://c0.cdn.trinity-tv.net/hls/207/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",XXI 
+http://c0.cdn.trinity-tv.net/hls/208/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Tiji 
+http://c0.cdn.trinity-tv.net/hls/209/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",FightBox HD 
+http://c0.cdn.trinity-tv.net/hls/210/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Vip Comedy 
+http://c0.cdn.trinity-tv.net/hls/211/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Docubox HD 
+http://c0.cdn.trinity-tv.net/hls/213/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Travel channel HD 
+http://c0.cdn.trinity-tv.net/hls/214/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Трофей HD 
+http://c0.cdn.trinity-tv.net/hls/215/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Наше новое кино 
+http://c0.cdn.trinity-tv.net/hls/216/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",UA TV 
+http://c0.cdn.trinity-tv.net/hls/217/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Brain TV 
+http://c0.cdn.trinity-tv.net/hls/218/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",CBN 
+http://c0.cdn.trinity-tv.net/hls/219/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",amc 
+http://c0.cdn.trinity-tv.net/hls/220/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Громадське 
+http://c0.cdn.trinity-tv.net/hls/221/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",РАІ 
+http://c0.cdn.trinity-tv.net/hls/224/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",TVP Info HD 
+http://c0.cdn.trinity-tv.net/hls/225/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",TVP Polonia 
+http://c0.cdn.trinity-tv.net/hls/226/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",ID fashion HD 
+http://c0.cdn.trinity-tv.net/hls/227/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",UA:Донбас 
+http://c0.cdn.trinity-tv.net/hls/228/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",ЧП Інфо 
+http://c0.cdn.trinity-tv.net/hls/229/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",FilmBox Premium 
+http://c0.cdn.trinity-tv.net/hls/230/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Outdoor 
+http://c0.cdn.trinity-tv.net/hls/231/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Етно канал HD 
+http://c0.cdn.trinity-tv.net/hls/233/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",234 
+http://c0.cdn.trinity-tv.net/hls/234/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Mezzo live HD 
+http://c0.cdn.trinity-tv.net/hls/235/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Наше Music HD 
+http://c0.cdn.trinity-tv.net/hls/236/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",ТВА 
+http://c0.cdn.trinity-tv.net/hls/237/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",МТВ 
+http://c0.cdn.trinity-tv.net/hls/1/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",7 TV 
+http://c0.cdn.trinity-tv.net/hls/3/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",1+1 
+http://c0.cdn.trinity-tv.net/hls/4/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Новий канал 
+http://c0.cdn.trinity-tv.net/hls/5/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",ICTV 
+http://c0.cdn.trinity-tv.net/hls/6/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Інтер 
+http://c0.cdn.trinity-tv.net/hls/7/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",НТН 
+http://c0.cdn.trinity-tv.net/hls/8/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",5 канал 
+http://c0.cdn.trinity-tv.net/hls/9/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Рада 
+http://c0.cdn.trinity-tv.net/hls/10/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Сигма 
+http://c0.cdn.trinity-tv.net/hls/11/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Україна 
+http://c0.cdn.trinity-tv.net/hls/12/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",UA:Крим 
+http://c0.cdn.trinity-tv.net/hls/13/stream.m3u8 
+#EXTINF:-1 group-title="Russian6",Glas 
+http://c0.cdn.trinity-tv.net/hls/14/stream.m3u8
 
 
 
