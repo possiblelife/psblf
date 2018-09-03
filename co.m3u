@@ -369,7 +369,7 @@ http://87.229.71.54:8081/1/E-skai/playlist.m3u8
 #EXTINF:-1 group-title="Greece2" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
 http://87.229.71.54:8081/1/E-star/playlist.m3u8
 
-#EXTINF:-1 group-title="Greece4" tvg-logo="https://vignette.wikia.nocookie.net/the-mysterious-mr-enter/images/6/62/NICKELODEON_Logo.png",Nickelodeon
+#EXTINF:-1 group-title="Greece2" tvg-logo="https://vignette.wikia.nocookie.net/the-mysterious-mr-enter/images/6/62/NICKELODEON_Logo.png",Nickelodeon
 http://sw.fannan.se:8000/live/zizo18040/54544452/11034.m3u8
 
 
