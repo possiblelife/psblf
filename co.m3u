@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,03/09/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,04/09/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -66,7 +66,7 @@ http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" epg-id="Sigma" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
 http://www.fireshow.xyz/sigmam.html|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus
-http://www.alphacyprus.com.cy/page/live|webdown$$start=url: 'http://$$end=',\n        }] $$replace1=url: '"$$add=
+http://www.alphacyprus.com.cy/page/live|webdown$$start=url: 'http://$$end=',\n        }]$$replace1=url: '"$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/v6twaoa6r/ant1.png",Ant1 Cyprus
 http://www.ant1iwo.com/webtv/web-tv-live/|webdown$$start=href=\"http://l$$end=\" data-in$$replace1=href=\"$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/v6twaoa6r/ant1.png",Ant1 Cyprus
@@ -401,37 +401,6 @@ http://sw.fannan.se:8000/live/zizo18040/54544452/11034.m3u8
 
 #EXTINF:-1 group-title="Greece4",
 
-#EXTINF:-1 group-title="Greece4" tvg-name="ΕΡΤ1" epg-id="EPT1.gr" tvg-logo="https://goo.gl/hD0NSD" ,ERT1
-
-https://cdn.tzampa.tv/live/ERT1.m3u8|referer=https://tzampa.tv/home&user-agent=
-#EXTINF:-1 group-title="Greece4" tvg-name="ΕΡΤ2" epg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2 
-
-https://cdn.tzampa.tv/live/ERT2.m3u8|referer=https://tzampa.tv/home&user-agent=
-#EXTINF:-1 group-title="Greece4"  tvg-logo="https://goo.gl/FOIiN8" ,ERT3
-https://cdn.tzampa.tv/live/ERT3.m3u8|referer=https://tzampa.tv/home&user-agent=
-#EXTINF:-1 group-title="Greece4"  tvg-logo="https://www.greektvlive.info/wp-content/uploads/2015/06/ert-hd-150x150.png",ERTHD
-https://cdn.tzampa.tv/live/ERTHD.m3u8|referer=https://tzampa.tv/home
-&user-agent=
-#EXTINF:-1 group-title="Greece4" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 
-https://cdn.tzampa.tv/live/ANT1.m3u8|referer=https://tzampa.tv/home&user-agent=
-#EXTINF:-1 group-title="Greece4" tvg-name="Mega Channel" epg-id="mega.gr" tvg-logo="https://goo.gl/nTCu62" ,MEGA COSMOS
-https://cdn.tzampa.tv/live/MEGA.m3u8|referer=https://tzampa.tv/home&user-agent= 
-
-#EXTINF:-1 group-title="Greece4" tvg-logo="https://goo.gl/np3siv" ,SKAI
-
-https://cdn.tzampa.tv/live/SKAI.m3u8|referer=https://tzampa.tv/home&user-agent= 
-
-#EXTINF:-1 group-title="Greece4" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
-
-https://cdn.tzampa.tv/live/STAR.m3u8|referer=https://tzampa.tv/home&user-agent=
-#EXTINF:-1 group-title="Greece4" tvg-name="Alpha" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg" ,ALPHA 
-
-https://cdn.tzampa.tv/live/ALPHA.m3u8|referer=https://tzampa.tv/home&user-agent=
-#EXTINF:-1 group-title="Greece4" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://goo.gl/tjFpM3" ,E
-
-https://cdn.tzampa.tv/live/EPSILON.m3u8|referer=https://tzampa.tv/home&user-agent=
-#EXTINF:-1 group-title="Greece4" tvg-logo="https://vignette.wikia.nocookie.net/the-mysterious-mr-enter/images/6/62/NICKELODEON_Logo.png",Nickelodeon
-https://cdn.tzampa.tv/live/NICKELODEON.m3u8|referer=https://tzampa.tv/home&user-agent=
 
 
 
@@ -1137,7 +1106,454 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1117.m3u8$http-refferer
 #EXTINF:-1 group-title="USA2-PREMIUM",
 
 
-
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Miami TV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3822.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: FOX Sport 1 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/371.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: FOX Sport 2 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/370.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: FOX Sports Indiana HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4040.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: FOX Sports Atlanta HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4037.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: FOX Sports Carolinas HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4038.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: FOX Sports Cincinnati HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4039.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: FOX Sports Prime Ticket HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4041.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: FOX Sports San Diego HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4042.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: FOX Sports SportsTime Ohio HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4044.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: FOX Sports Sw HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4045.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: FOX Sports Yes HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4046.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ESPN 1 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1336.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ESPN 2 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1335.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ESPN News HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2989.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ESPN U HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2990.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ESPN Network HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2988.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBCSN (Bay Area) HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4054.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBCSN (Boston) HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4055.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBCSN (California) HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4059.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBCSN (Chicago) HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4056.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBCSN (North West) HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4057.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBCSN (Philadelphia) HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4058.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBCSN (Washington) HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4060.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBCSN Epl HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4053.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBC Sport Network
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1326.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBC Golf HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1150.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: SportsNet ONE HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4066.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: SportsNet LA (Los Angeles) HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4065.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: SportsNet 360 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4064.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: SportsNet World HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4063.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Bein Sports US HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4029.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: BTN Sport HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4030.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Goal Line HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4047.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: New England Sports Network HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4061.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Stadium 1 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4067.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Stadium 2 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4068.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Stadium 3 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4069.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: PAC-12 Washington HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/360.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: PAC-12 Los Angeles HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/361.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: PAC-12 Arizona HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/359.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: PAC-12 Oregon HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/356.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: PAC-12 Mountain HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/355.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: PAC-12 Network HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/358.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: PAC-12 Bay Area HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/357.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: TSN Sport 1
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/376.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: TSN Sport 2
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/375.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: TSN Sport 3
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/374.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: TSN Sport 4
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/373.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: TSN Sport 5
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/372.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NFL Now Live
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2994.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NFL Network HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1253.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NFL Red Zone HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4062.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NHL Network HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2995.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: WWE Network HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1755.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: MLB Network HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1965.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: MSG HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4051.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBA US HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/363.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBA TV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4070.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Tennis Channel HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2998.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Willow Cricket HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3001.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: USA Network
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1766.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: TRT World HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4027.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: CW (Seattle) HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4036.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: AMC
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1895.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: TNT
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1769.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: TBS
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1770.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: PBS
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2996.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: GSN (Game Show Network)
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4024.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: OWN HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4026.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: BYU TV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4031.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: MUTE TV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4052.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Mavs Tv HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4050.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Bravo HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1897.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: FXX HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2991.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Epix HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4023.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Viceland HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2999.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: IFC (Independent Film Channel) HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4048.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: LifeTime Movies HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4049.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: HD Net Movies HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4025.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: MoreMax HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2960.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: MovieMax HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2961.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinemax HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2987.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinemax East HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2954.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinemax West HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2955.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinemax More Max HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3964.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinemax Action East HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2953.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinemax Thriller HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3963.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: HBO Family HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1911.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: HBO Signature HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2958.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: HBO Comedy HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2956.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: HBO 2 West HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2957.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Starz HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2980.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Starz West HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2982.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Starz Black HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2967.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Starz Edge HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3378.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Starz Edge West HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3379.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Starz Cinema East HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2968.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Starz Cinema West HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2970.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Starz Comedy East HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2971.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Starz Encore HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2977.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Starz Encore Action HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2973.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Starz Encore Black HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2974.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Starz Encore East HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2975.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Starz Encore Western HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2976.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Starz Encore Classic HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3372.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Starz Encore Suspense HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2978.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Starz Encore 2 East HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3823.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Starz Kids & Family HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2981.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Showtime 1 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3825.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Showtime 2 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3826.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Showtime West HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2966.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Showtime East HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3824.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Showtime Extreme HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3827.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Showtime Family Zone HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3828.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: OuterMax HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2964.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Hallmark Channel HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3832.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Hallmark Drama HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3851.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Hallmark Movies & Mysteries HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2993.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Comedy Central HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2986.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 01 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3965.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 02 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3966.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 03 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3967.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 04 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3968.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 05 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3969.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 06 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3970.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 07 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3971.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 08 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3972.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 09 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3973.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 10 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3974.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 11 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3975.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 12 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3976.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 13 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3977.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 14 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3978.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 15 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3979.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 16 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3980.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 17 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3981.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 18 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3982.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 19 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3983.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 20 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3984.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 21 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3985.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 22 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3986.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 23 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3987.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 24 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3988.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 25 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3989.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 26 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3990.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 27 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3991.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 28 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3992.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 29 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3993.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 30 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3994.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 31 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3995.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 32 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3996.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 33 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3997.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 34 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3998.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 35 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3999.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 36 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4000.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 37 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4001.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 38 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4002.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 39 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4003.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 40 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4004.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Cinema 41 PPV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4005.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: DayStar HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4022.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: American Hero HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4020.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Catholic TV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4033.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: BET HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4021.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBC HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1325.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: CNBC HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1765.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: CBS 47
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3000.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: CBS Los Angeles HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3849.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: CNN HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1322.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ABC HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/747.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ABC 2 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3852.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ABC 4 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3853.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ABC 5 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3854.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ABC 6 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3855.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ABC 7 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3856.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ABC 8 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3857.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ABC 9 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3858.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ABC 10 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3859.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ABC 11 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3860.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ABC 12 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3861.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ABC 13 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3862.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ABC 15 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3863.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ABC 28 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3864.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ABC 30 HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3865.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ABC West
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3002.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ABC News HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1332.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: ABC Big 5 Network HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3866.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: FOX News HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1333.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Bloomberg TV HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2985.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: Russia Today HD
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2997.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: C-SPAN 1
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2080.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: C-SPAN 2
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2081.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBA League Pass 1
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3888.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBA League Pass 2
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3889.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBA League Pass 3
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3890.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBA League Pass 4
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3891.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBA League Pass 5
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3892.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBA League Pass 6
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3893.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBA League Pass 7
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3894.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBA League Pass 8
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3895.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBA League Pass 9
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3896.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBA League Pass 10
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3897.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBA League Pass 11
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3898.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBA League Pass 12
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3899.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBA League Pass 13
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3900.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBA League Pass 14
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3901.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBA League Pass 15
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3902.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBA League Pass 16
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3903.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBA League Pass 17
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3904.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NBA League Pass 18
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3905.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NFL Sunday Ticket 1 HD (During the Match)
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3224.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NFL Sunday Ticket 2 HD (During the Match)
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3225.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NFL Sunday Ticket 3 HD (During the Match)
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3226.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NFL Sunday Ticket 4 HD (During the Match)
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3227.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NFL Sunday Ticket 5 HD (During the Match)
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3228.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NFL Sunday Ticket 6 HD (During the Match)
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3229.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NFL Sunday Ticket 7 HD (During the Match)
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3230.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NFL Sunday Ticket 8 HD (During the Match)
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3231.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NFL Sunday Ticket 9 HD (During the Match)
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3232.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NFL Sunday Ticket 10 HD (During the Match)
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3233.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NFL Sunday Ticket 11 HD (During the Match)
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3234.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NFL Sunday Ticket 12 HD (During the Match)
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3235.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA: NFL Sunday Ticket 13 HD (During the Match)
+http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3236.m3u8
 
 
 
@@ -6642,7 +7058,134 @@ http://77.54.248.94:9981/stream/channelid/806400516
 #EXTINF:-1 group-title="Portugal3-PREMIUM",
 
 
-
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: TVI Ficcao
+http://163.172.62.63:8000/live/fazeel/fazeel/3257.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: TV SERIES
+http://163.172.62.63:8000/live/fazeel/fazeel/3266.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: TV RECORD
+http://163.172.62.63:8000/live/fazeel/fazeel/3260.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: TV GLOBO PORTUGAL
+http://163.172.62.63:8000/live/fazeel/fazeel/3259.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: PFC
+http://163.172.62.63:8000/live/fazeel/fazeel/3265.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: TV CINE 3 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/3264.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: TV CINE 2 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/3263.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: TVI
+http://163.172.62.63:8000/live/fazeel/fazeel/3258.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: SPORTV
+http://163.172.62.63:8000/live/fazeel/fazeel/3281.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: SPORTING TV
+http://163.172.62.63:8000/live/fazeel/fazeel/3283.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: SPORT TV HD
+http://163.172.62.63:8000/live/fazeel/fazeel/3282.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: SIC MULHER
+http://163.172.62.63:8000/live/fazeel/fazeel/3262.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: SIC KIDS
+http://163.172.62.63:8000/live/fazeel/fazeel/3278.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: SIC
+http://163.172.62.63:8000/live/fazeel/fazeel/3256.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: RTP 3 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/3255.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: RTP 2 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/3254.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: RTP 1 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/3253.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: NAT GEO WILD
+http://163.172.62.63:8000/live/fazeel/fazeel/3273.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: MOV HD
+http://163.172.62.63:8000/live/fazeel/fazeel/3271.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: JIM JAM
+http://163.172.62.63:8000/live/fazeel/fazeel/3277.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: FOX Life
+http://163.172.62.63:8000/live/fazeel/fazeel/3268.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: FOX HD
+http://163.172.62.63:8000/live/fazeel/fazeel/3267.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: VH1
+http://163.172.62.63:8000/live/fazeel/fazeel/3269.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: Toros Tv
+http://163.172.62.63:8000/live/fazeel/fazeel/3270.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: CMTV
+http://163.172.62.63:8000/live/fazeel/fazeel/3261.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: CBS REALITY
+http://163.172.62.63:8000/live/fazeel/fazeel/3275.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: CANAL PORTO
+http://163.172.62.63:8000/live/fazeel/fazeel/3284.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: CANAL PANDA
+http://163.172.62.63:8000/live/fazeel/fazeel/3279.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: CANAL HOLLYWOOD
+http://163.172.62.63:8000/live/fazeel/fazeel/3272.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: Panda Biggs
+http://163.172.62.63:8000/live/fazeel/fazeel/3276.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: TV Globo Premium
+http://163.172.62.63:8000/live/fazeel/fazeel/3114.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: TV CINE 4
+http://163.172.62.63:8000/live/fazeel/fazeel/3113.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: SYFY
+http://163.172.62.63:8000/live/fazeel/fazeel/3141.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: SPORT TV 5 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/4397.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: SPORT TV 4 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/3118.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: SPORT TV 3 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/3117.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: SPORT TV 2 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/3116.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: SPORT TV 1 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/3115.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: Sic Noticias
+http://163.172.62.63:8000/live/fazeel/fazeel/3119.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: SIC Caras
+http://163.172.62.63:8000/live/fazeel/fazeel/3120.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: SIC RADICAL
+http://163.172.62.63:8000/live/fazeel/fazeel/3121.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: RTP Madeira
+http://163.172.62.63:8000/live/fazeel/fazeel/3122.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: Cine Mundo
+http://163.172.62.63:8000/live/fazeel/fazeel/3123.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: RTP Africa
+http://163.172.62.63:8000/live/fazeel/fazeel/3124.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: RTP Acores
+http://163.172.62.63:8000/live/fazeel/fazeel/3125.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: Benfica TV 1
+http://163.172.62.63:8000/live/fazeel/fazeel/3126.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: Tvi 24
+http://163.172.62.63:8000/live/fazeel/fazeel/3127.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: TV CINE 1 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/3128.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: NICKELODEON
+http://163.172.62.63:8000/live/fazeel/fazeel/3133.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: TVI Reality
+http://163.172.62.63:8000/live/fazeel/fazeel/3142.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: Porto canal
+http://163.172.62.63:8000/live/fazeel/fazeel/3143.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: National Geographic HD
+http://163.172.62.63:8000/live/fazeel/fazeel/3129.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: RTP MEMORIA
+http://163.172.62.63:8000/live/fazeel/fazeel/3144.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: FOX Movies HD
+http://163.172.62.63:8000/live/fazeel/fazeel/3130.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: RT GLOBAL
+http://163.172.62.63:8000/live/fazeel/fazeel/3132.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: A BOLA TV
+http://163.172.62.63:8000/live/fazeel/fazeel/3131.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: Euronews
+http://163.172.62.63:8000/live/fazeel/fazeel/3145.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: Disney Junior
+http://163.172.62.63:8000/live/fazeel/fazeel/3134.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: Disney Channel
+http://163.172.62.63:8000/live/fazeel/fazeel/3136.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: Discovery Channel
+http://163.172.62.63:8000/live/fazeel/fazeel/3137.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: Cartoon Network
+http://163.172.62.63:8000/live/fazeel/fazeel/3135.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: AXN White
+http://163.172.62.63:8000/live/fazeel/fazeel/3139.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: AXN HD
+http://163.172.62.63:8000/live/fazeel/fazeel/3140.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM",PT: AXN BLACK
+http://163.172.62.63:8000/live/fazeel/fazeel/3138.m3u8
 
 
 
@@ -11620,62 +12163,6 @@ httphost://$http-raw=http://unblocked.lol/beinsports13$http-refferer=https://unb
 #EXTINF:-1 group-title="United.Arab.Emirates4",
 
 
-#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 1 HD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/801.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 1 SD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/8035.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 2 HD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/797.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 2 SD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/9210.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 3 HD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/796.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",beIN SPORTS 3 SD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/10041.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 4 HD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/795.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",beIN SPORTS 4 SD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/10042.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 5 HD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/794.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",beIN SPORTS 5 SD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/10043.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 6 HD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/793.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",beIN SPORTS 6 SD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/10044.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 7 HD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/792.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",beIN SPORTS 7 SD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/10045.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 8 HD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/791.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",beIN SPORTS 8 SD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/10046.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 9 HD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/790.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",beIN SPORTS 9 SD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/10047.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN 10 HD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/800.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",beIN SPORTS 10 SD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/10048.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN 11 HD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/799.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN 12 HD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/798.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",Bein Sports 1 HD^
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/8034.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",Bein Sports 2 HD^
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/8033.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",Bein Sports 3 HD^
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/8032.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",Bein Sports 4 HD^
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/8031.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",Bein Sports 5 HD^
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/8030.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates4",Bein Sports 6 HD^
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/8029.m3u8
 
 
 
