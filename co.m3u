@@ -66,7 +66,7 @@ http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" epg-id="Sigma" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
 http://www.fireshow.xyz/sigmam.html|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus
-http://www.alphacyprus.com.cy/page/live|webdown$$start=url: 'http://$$end=',\n        }]$$replace1=url: '"$$add=
+http://www.alphacyprus.com.cy/page/live|webdown$$start=url: 'http://$$end=',\n        }]$$replace1=url: '$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/v6twaoa6r/ant1.png",Ant1 Cyprus
 http://www.ant1iwo.com/webtv/web-tv-live/|webdown$$start=href=\"http://l$$end=\" data-in$$replace1=href=\"$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/v6twaoa6r/ant1.png",Ant1 Cyprus
