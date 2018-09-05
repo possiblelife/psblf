@@ -2112,47 +2112,46 @@ http://62.210.93.115:80/live?channelId=258&uid=1917&deviceMac=00:1A:79:15:34:33
 
 #EXTINF:-1 group-title="UK3", 
 
-#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/6PNa3pim.png",4Seven
-http://123tv.live/watch/4seven-live-stream-sky-137_tuteDlWTjL.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
-#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/GlCExxVm.png",5USA
-http://123tv.live/watch/5usa-tv-live-stream-5usa-uk_PsExW1xTjN.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
-#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/fsCI6qDm.png",BBC News
-http://123tv.live/watch/bbc-news-live-stream-uk_xulANjUHtf.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
-#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/yKDqhfSm.png",BBC One
-http://123tv.live/watch/bbc-one-live-stream-uk_ZxMa9QlY9Z.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
-#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/euO1fqHm.png",BBC Two
-http://123tv.live/watch/bbc-two-live-stream-uk_8B65zQHneq.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
-#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/p3WKd91m.png",BBC World News
-http://123tv.live/watch/bbc-world-news-live-stream_eKzCxDAU9P.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
-#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/B5z7SRQm.jpg",Bloomberg Europe
-http://123tv.live/watch/bloomberg-europe-live-stream_HPlsSe1wab.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
-#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/adqiz2Km.png",CBBC Live Stream
-http://123tv.live/watch/cbbc-live-stream-cbbc-bbc-uk_xtizk9g79c.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
-#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/2H3ir5wm.png",CBS Reality 
-http://123tv.live/watch/cbs-reality-live-stream-sky-146_kGamw9TcLU.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
-#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/LbycMJSm.png",Channel 4
-http://123tv.live/watch/channel-4-live-stream-uk_PRFVIwBfit.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
-#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/nzhZbFlm.png",Channel 5
-http://123tv.live/watch/channel-5-live-stream-uk_fyppAefG99.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
-#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/DxC71PFm.png",CNBC Europe
-http://123tv.live/watch/cnbc-europe-live-stream_UhbquxKFG8.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
-#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/Vb3j2tAm.jpg",CNN International Europe
-http://123tv.live/watch/cnn-international-europe-live_zBrDhCw35W.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
-#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/JwXwTpkm.png",Dave Channel
-http://123tv.live/watch/dave-channel-live-stream-uktv_ghER2MSAEm.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
-#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/0eiMIP9m.png",Drama Channel
-http://123tv.live/watch/drama-channel-live-stream-d-uktv_fess9vwNNM.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
-#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/g2ncM8Xm.png",E4
-http://123tv.live/watch/e4-live-stream-uk_1gpqexC2mZ.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
-#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/3EjqhMSm.png",Euronews UK
-http://123tv.live/watch/euronews-uk-live-stream_iC22jxguR7.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
-#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/LClp2vem.png",Film4
-http://123tv.live/watch/film4-live-stream-uk_aMSXe4iUmm.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
-#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/BiO7KTom.png",ITV
-http://123tv.live/watch/itv-itv1-live-stream-uk_AxYK2Qwqfn.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
-#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/A6MHGHtm.png",FreeSports
-http://123tv.live/watch/freesports-live-stream-uk_NUGZs8XrTn.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
-
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/yKDqhfSm.png" ,BBC 1  (Double click for fullscreen)
+http://123tv.live/watch/bbc-one/|webview zoom=200 scroll=200,200
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/euO1fqHm.png" ,BBC 2   (Double click for fullscreen)
+http://123tv.live/watch/bbc-two/|webview zoom=200 scroll=200,200
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/adqiz2Km.png" ,CBBC  (Double click for fullscreen)
+http://123tv.live/watch/cbbc/|webview zoom=200 scroll=200,200
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/fsCI6qDm.png" ,BBC News  (Double click for fullscreen)
+http://123tv.live/watch/bbc-news/|webview zoom=200 scroll=200,200
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/p3WKd91m.png" ,BBC World News  (Double click for fullscreen)
+http://123tv.live/watch/bbc-world-news/|webview zoom=200 scroll=200,200
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/BiO7KTom.png" ,ITV 1  (Double click for fullscreen)
+http://123tv.live/watch/itv/|webview zoom=200 scroll=200,200
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/LbycMJSm.png" ,Channel 4  (Double click for fullscreen)
+http://123tv.live/watch/channel-4/|webview zoom=200 scroll=200,200
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/nzhZbFlm.png" ,Channel 5  (Double click for fullscreen)
+http://123tv.live/watch/channel-5/|webview zoom=200 scroll=200,200
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/LClp2vem.png" ,Film4  (Double click for fullscreen)
+http://123tv.live/watch/film4/|webview zoom=200 scroll=200,200
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/g2ncM8Xm.png" ,E4  (Double click for fullscreen)
+http://123tv.live/watch/e4-channel/|webview zoom=200 scroll=200,200
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/JwXwTpkm.png" ,Dave Channel  (Double click for fullscreen)
+http://123tv.live/watch/dave-channel/|webview zoom=200 scroll=200,200
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/6PNa3pim.png" ,4Seven  (Double click for fullscreen)
+http://123tv.live/watch/4seven/|webview zoom=200 scroll=200,200
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/GlCExxVm.png" ,5USA  (Double click for fullscreen)
+http://123tv.live/watch/5usa/|webview zoom=200 scroll=200,200
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/B5z7SRQm.jpg" ,Bloomberg Europe  (Double click for fullscreen)
+http://123tv.live/watch/bloomberg-europe/|webview zoom=200 scroll=200,200
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/2H3ir5wm.png" ,CBS Reality (Double click for fullscreen)
+http://123tv.live/watch/cbs-reality/|webview zoom=200 scroll=200,200
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/DxC71PFm.png" ,CNBC Europe  (Double click for fullscreen)
+http://123tv.live/watch/cnbc/|webview zoom=200 scroll=200,200
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/Vb3j2tAm.jpg" ,CNN International Europe  (Double click for fullscreen)
+http://123tv.live/watch/cnn/|webview zoom=200 scroll=200,200
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/0eiMIP9m.png" ,Drama Channel  (Double click for fullscreen)
+http://123tv.live/watch/drama-channel/|webview zoom=200 scroll=200,200
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/3EjqhMSm.png" ,Euronews UK  (Double click for fullscreen)
+http://123tv.live/watch/euronews-uk/|webview zoom=200 scroll=200,200
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/A6MHGHtm.png" ,FreeSports  (Double click for fullscreen)
+http://123tv.live/watch/freesports/|webview zoom=200 scroll=200,200
 
 
 
