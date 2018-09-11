@@ -1220,39 +1220,39 @@ http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34b
 http://..........
 
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/bbc1.jpg",BBC 1 
-https://easyview.eu/script.php?stream=bbc-1|webnoagent$$start=https://origin$$end=';\n\t\t\t$$replace=$$replacewith=$$add=
+https://easyview.eu/script.php?stream=bbc-1|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg",BBC 2
-https://easyview.eu/script.php?stream=bbc-two|webnoagent$$start=https://origin$$end=';\n\t\t\t$$replace=$$replacewith=$$add=
+https://easyview.eu/script.php?stream=bbc-two|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/bbc4-logo-400x284.jpg",BBC 4
-https://easyview.eu/script.php?stream=bbc-four|webnoagent$$start=https://origin$$end=';\n\t\t\t$$replace=$$replacewith=$$add=
+https://easyview.eu/script.php?stream=bbc-four|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/CBBC.jpg",Cbbc 
-https://easyview.eu/script.php?stream=cbbc|webnoagent$$start=https://origin$$end=';\n\t\t\t$$replace=$$replacewith=$$add=
+https://easyview.eu/script.php?stream=cbbc|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/cbeebies.jpg",cbeebies
-https://easyview.eu/script.php?stream=cbeebies|webnoagent$$start=https://origin$$end=';\n\t\t\t$$replace=$$replacewith=$$add=
+https://easyview.eu/script.php?stream=cbeebies|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg",BBC 1 Wales
-https://easyview.eu/script.php?stream=bbc-one-wales|webnoagent$$start=https://origin$$end=';\n\t\t\t$$replace=$$replacewith=$$add=
+https://easyview.eu/script.php?stream=bbc-one-wales|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg",BBC 1 Scotland
-https://easyview.eu/script.php?stream=bbc-one-scotland|webnoagent$$start=https://origin$$end=';\n\t\t\t$$replace=$$replacewith=$$add=
+https://easyview.eu/script.php?stream=bbc-one-scotland|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg",BBC 1 Northern Ireland
-https://easyview.eu/script.php?stream=bbc-one-northern-ireland|webnoagent$$start=https://origin$$end=';\n\t\t\t$$replace=$$replacewith=$$add=
+https://easyview.eu/script.php?stream=bbc-one-northern-ireland|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/bbc-parliament.jpg",BBC Parliament
-https://easyview.eu/script.php?stream=bbc-parliament|webnoagent$$start=https://origin$$end=';\n\t\t\t$$replace=$$replacewith=$$add=
+https://easyview.eu/script.php?stream=bbc-parliament|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/bbc_news.jpg",BBC News
-https://easyview.eu/script.php?stream=bbc-news|webnoagent$$start=https://origin$$end=';\n\t\t\t$$replace=$$replacewith=$$add=
+https://easyview.eu/script.php?stream=bbc-news|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/BBC_Alba.jpg",BBC alba
-https://easyview.eu/script.php?stream=bbc-alba|webnoagent$$start=https://origin$$end=';\n\t\t\t$$replace=$$replacewith=$$add=
+https://easyview.eu/script.php?stream=bbc-alba|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg",ITV
-https://easyview.eu/script.php?stream=itv|webnoagent$$start=https://origin$$end=';\n\t\t\t$$replace=$$replacewith=$$add=
+https://easyview.eu/script.php?stream=itv|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg",ITV 2
-https://easyview.eu/script.php?stream=itv2|webnoagent$$start=https://origin$$end=';\n\t\t\t$$replace=$$replacewith=$$add=
+https://easyview.eu/script.php?stream=itv2|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/itv3-400x284.jpg",ITV 3
-https://easyview.eu/script.php?stream=itv3|webnoagent$$start=https://origin$$end=';\n\t\t\t$$replace=$$replacewith=$$add=
+https://easyview.eu/script.php?stream=itv3|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/itv4-400x284.jpg",ITV 4
-https://easyview.eu/script.php?stream=itv4|webnoagent$$start=https://origin$$end=';\n\t\t\t$$replace=$$replacewith=$$add=
+https://easyview.eu/script.php?stream=itv4|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/citv_logo_2015-400x284.jpg",CITV
-https://easyview.eu/script.php?stream=citv|webnoagent$$start=https://origin$$end=';\n\t\t\t$$replace=$$replacewith=$$add=
+https://easyview.eu/script.php?stream=citv|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg",ITV Be.
-https://easyview.eu/script.php?stream=itvbe|webnoagent$$start=https://origin$$end=';\n\t\t\t$$replace=$$replacewith=$$add=
+https://easyview.eu/script.php?stream=itvbe|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 
 
 
