@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,31/08/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,11/09/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -66,24 +66,19 @@ http://37.194.121.4:1234/udp/239.1.3.11:1234
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://pbs.twimg.com/profile_images/1114619173/TLC_logo_400x400.jpg",TLC
 http://37.194.121.4:1234/udp/239.1.3.16:1234 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.amazingfactsministries.com/wp-content/uploads/2015/11/aftv.jpg",Amazing Facts TV
-http://bglive-w.bitgravity.com/amazingfacts/live/feed01
+https://www.youtube.com/watch?v=VsHCePF1KHw
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://mybnk.org/wp-content/uploads/2014/10/London-Live.jpg",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/1f/02/8d/1f028dc9-0feb-8280-37a0-ae9eaf62dde2/mzl.whuoihua.png/1200x630bb.jpg",FLORIDA CH
-http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
-#EXTINF:-1 group-title="Documentary/Entertainment",CW 44
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
+https://wowzaprod4-i.akamaihd.net/hls/live/254057/persisTarget_2443575804_tvweb1_247_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://image.roku.com/developer_channels/prod/9005813a83e9cad6f234a15733be5427a8dae5f5c7e9755194a37a882fd5c2e0.png",HSN
-http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31/mp4:420p500kB31.m3u8
+https://www.youtube.com/watch?v=1ph8qQnjXts
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://homeshoppingista.files.wordpress.com/2010/06/hsn2.jpg",HSN 2
-http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31/mp4:468p500kB3.m3u8
+https://www.youtube.com/watch?v=1pepSUbkLVI
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://images4.fanpop.com/image/photos/22500000/fashion-tv-fashion-tv-22517317-160-160.jpg",Fashion TV
 http://37.194.121.4:1234/udp/239.1.3.13:1234 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://78.media.tumblr.com/e8a19b51e0ed87dd2fc0864a77ceade2/tumblr_inline_nuhb48myFF1tzhl5u_400.gif",NASA USA
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.dafont.com/forum/attach/orig/4/4/441812.png",GAME SHOW 
-http://cdn-01.bonus-tv.ru:9090/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
-
+https://www.youtube.com/watch?v=wwMDvPCGeE0
 
 
 
@@ -101,8 +96,6 @@ http://cdn-01.bonus-tv.ru:9090/btv/gameshow/type/user/devname/LG-SmartTV/devid/L
 http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1 group-title="KIDS" ,Cartoon World (GR)
 http://bit.ly/2rvaV7Q
-#EXTINF:-1 group-title="KIDS",SQUEL TV (GR)
-http://portal2.iptv4younow.com:8000/live/greektv/FZlHCCdBHL/23279.ts
 #EXTINF:0 group-title="KIDS" tvg-logo="http://www.bestkabel.zywiec.pl/uploaded/Watch-Polsat-JimJam-Live-TV-from-Poland.jpg",Jim Jam
 http://37.194.182.58:81/udp/239.1.3.2:1234
 #EXTINF:-1 group-title="KIDS"  tvg-logo="http://www.bestkabel.zywiec.pl/uploaded/Watch-Polsat-JimJam-Live-TV-from-Poland.jpg",JimJam 
