@@ -5044,7 +5044,7 @@ http://sw.fannan.se:8000/live/zizo18040/54544452/9500.m3u8
 http://sw.fannan.se:8000/live/zizo18040/54544452/9502.m3u8
 #EXTINF:-1 group-title="Germany3-PREMIUM" tvg-name="DE:RTL_HD" ,DE:RTL_HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/9501.m3u8
-#EXTINF:-1 group-title="Germany3-PREMIUM" tvg-name="DE:RTL2_HD" group-title="",DE:RTL2_HD
+#EXTINF:-1 group-title="Germany3-PREMIUM" tvg-name="DE:RTL2_HD" ,DE:RTL2_HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/9503.m3u8
 #EXTINF:-1 group-title="Germany3-PREMIUM" tvg-name="DE:Select-HD-1" ,DE:Select-HD-1
 http://sw.fannan.se:8000/live/zizo18040/54544452/8260.m3u8
