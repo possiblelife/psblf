@@ -1,24 +1,24 @@
 ﻿#EXTM3U url-tvg="http://epg.in.ua/epg/tvprogram_ua_ru.gz ,http://sgcpm.com/epg/devilcosta.gz"
 
 
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,11/09/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,11/09/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
-#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
+#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,OFFICIAL e-Doctor
+#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,OFFICIAL e-Doctor
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,IPTV LIST
+#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,IPTV LIST
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,Powered by e-Doctor
+#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,Powered by e-Doctor
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,http://edoctorcy.xyz
+#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,http://edoctorcy.xyz
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,Download Official
+#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,Download Official
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,app from Website.
+#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,app from Website.
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 
@@ -57,9 +57,9 @@ http://www.fireshow.xyz/rik1.html|webdown
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|webdown$$start=\" src=\"http://l$$end=\" title=\"\">$$replace1=\" src=\"$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png",RIK2
 http://www.fireshow.xyz/rik2.html|webdown
-#EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.megatv.com.cy/images/logo_tvone.png" ,TVONE
+#EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cypruswebsites.com/imTvAdmin/assets/logos/TVONE_LOGO.png" ,TVONE
 http://www.megatv.com.cy/live/?cs=1|webdown$$start=file: \"http://$$end=\"},$$replace1=file: \"$$add=
-#EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.megatv.com.cy/images/logo_tvone.png" ,TVONE
+#EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cypruswebsites.com/imTvAdmin/assets/logos/TVONE_LOGO.png" ,TVONE
 http://www.fireshow.xyz/megacym.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" epg-id="Sigma" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
 http://81.21.47.74/hls/live.m3u8
@@ -369,8 +369,6 @@ http://87.229.71.54:8081/1/E-skai/playlist.m3u8
 #EXTINF:-1 group-title="Greece2" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
 http://87.229.71.54:8081/1/E-star/playlist.m3u8
 
-#EXTINF:-1 group-title="Greece2" tvg-logo="https://vignette.wikia.nocookie.net/the-mysterious-mr-enter/images/6/62/NICKELODEON_Logo.png",Nickelodeon
-http://sw.fannan.se:8000/live/zizo18040/54544452/11034.m3u8
 
 
 
