@@ -1,4 +1,4 @@
-#EXTM3U  url-tvg="http://epg.in.ua/epg/tvprogram_ua_ru.gz"
+﻿#EXTM3U  url-tvg="http://epg.in.ua/epg/tvprogram_ua_ru.gz"
 
 
 #EXTINF:1 group-title="UPDATED",
@@ -4142,174 +4142,174 @@ https://www.youtube.com/watch?v=7sIsiHbDi_0
 #EXTINF:-1 group-title="Russian/Acestream" tvg-logo="https://goo.gl/eimzf3" ,
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
-#EXTINF:0 group-title=“Russian/Acestream”,24 ДОК 
+#EXTINF:0 group-title="Russian/Acestream",24 ДОК 
 acestream://ca70de97d2be38521bcf6e5a6ce88aa16b266a9b
-#EXTINF:0 group-title=“Russian/Acestream”,2x2 
+#EXTINF:0 group-title="Russian/Acestream",2x2 
 acestream://2ae5d36f88a15346883c764941c644fcfa401838
-#EXTINF:0 group-title=“Russian/Acestream”,5 канал 
+#EXTINF:0 group-title="Russian/Acestream",5 канал 
 acestream://c8c86f33ce968170e11476be608de1f3685597b3
-#EXTINF:0 group-title=“Russian/Acestream”,A1 
+#EXTINF:0 group-title="Russian/Acestream",A1 
 acestream://6dd0f4d90c566404e7526afa3dd41a2a1fea59af
-#EXTINF:0 group-title=“Russian/Acestream”,A2 
+#EXTINF:0 group-title="Russian/Acestream",A2 
 acestream://f349fb9d4978bd6a381320e2c5160ecee20eff5a
-#EXTINF:0 group-title=“Russian/Acestream”,Ani 
+#EXTINF:0 group-title="Russian/Acestream",Ani 
 acestream://a061b8b659e43a10622d355906d798a8d578f5f5
-#EXTINF:0 group-title=“Russian/Acestream”,Da Vinci 
+#EXTINF:0 group-title="Russian/Acestream",Da Vinci 
 acestream://7604a457d19b3e77c5447c044ed11078dbca0fa3
-#EXTINF:0 group-title=“Russian/Acestream”,National Geographic 
+#EXTINF:0 group-title="Russian/Acestream",National Geographic 
 acestream://1acfde0bc553640e55072b8eac872476390cacac
-#EXTINF:0 group-title=“Russian/Acestream”,Nickelodeon 
+#EXTINF:0 group-title="Russian/Acestream",Nickelodeon 
 acestream://fb2958b6a8da210b218a816645ee6baaaebf5ecc
-#EXTINF:0 group-title=“Russian/Acestream”,Paramount Comedy 
+#EXTINF:0 group-title="Russian/Acestream",Paramount Comedy 
 acestream://9d4e1cb6affa3dbd7782cac4a96dc6f779aaeed2
-#EXTINF:0 group-title=“Russian/Acestream”,Russia Today 
+#EXTINF:0 group-title="Russian/Acestream",Russia Today 
 acestream://46aebad2e35a3abd31142a6ebbf0a6b69f57161d
-#EXTINF:0 group-title=“Russian/Acestream”,Russian Travel Guide 
+#EXTINF:0 group-title="Russian/Acestream",Russian Travel Guide 
 acestream://c1db27bf1cae16d405d680e0950a7130e0bc4be7
-#EXTINF:0 group-title=“Russian/Acestream”,TiJi 
+#EXTINF:0 group-title="Russian/Acestream",TiJi 
 acestream://62a1339a7ea483c9434606d62fe04367222edc4a
-#EXTINF:0 group-title=“Russian/Acestream”,TLC 
+#EXTINF:0 group-title="Russian/Acestream",TLC 
 acestream://6bab3efe75c1d0ae434b31f212f66e69e8d9080f
-#EXTINF:0 group-title=“Russian/Acestream”,Travel+Adventure 
+#EXTINF:0 group-title="Russian/Acestream",Travel+Adventure 
 acestream://b5f94b3aa4ce28163e995fce85a671b1e82b1014
-#EXTINF:0 group-title=“Russian/Acestream”,TV XXI 
+#EXTINF:0 group-title="Russian/Acestream",TV XXI 
 acestream://d97d1d2bab99f28ce1915452f289e3f8fa5480c7
-#EXTINF:0 group-title=“Russian/Acestream”,TV1000 Русское кино 
+#EXTINF:0 group-title="Russian/Acestream",TV1000 Русское кино 
 acestream://4ad717eb274169e2f539fbe32ee104ca227bd476
-#EXTINF:0 group-title=“Russian/Acestream”,Viasat Explore 
+#EXTINF:0 group-title="Russian/Acestream",Viasat Explore 
 acestream://d4176571edf6aba64b72082dbadbee69cade1a7a
-#EXTINF:0 group-title=“Russian/Acestream”,Авто Плюс 
+#EXTINF:0 group-title="Russian/Acestream",Авто Плюс 
 acestream://2ee2631c36efdecea78db6e2b6824682fb8c1b6d
-#EXTINF:0 group-title=“Russian/Acestream”,Бобёр 
+#EXTINF:0 group-title="Russian/Acestream",Бобёр 
 acestream://03e8264916a65d1adcf3b29aa0e874edbd1d6b72
-#EXTINF:0 group-title=“Russian/Acestream”,Вопросы и ответы 
+#EXTINF:0 group-title="Russian/Acestream",Вопросы и ответы 
 acestream://2663cb556f381d01545616868cf8cd1e4d4f08be
-#EXTINF:0 group-title=“Russian/Acestream”,Время 
+#EXTINF:0 group-title="Russian/Acestream",Время 
 acestream://d53f77c885efa11bef3216d12794108b04446e0a
-#EXTINF:0 group-title=“Russian/Acestream”,Детский мир 
+#EXTINF:0 group-title="Russian/Acestream",Детский мир 
 acestream://93e08fb557e8402561368f25430d5cb294ba2c5b
-#EXTINF:0 group-title=“Russian/Acestream”,Дом кино 
+#EXTINF:0 group-title="Russian/Acestream",Дом кино 
 acestream://bb4593ae57dd4392e594038d9fa8e8500e017b06
-#EXTINF:0 group-title=“Russian/Acestream”,Домашний 
+#EXTINF:0 group-title="Russian/Acestream",Домашний 
 acestream://a53e54f283b982556bfc04eea55ddd798aa3055a
-#EXTINF:0 group-title=“Russian/Acestream”,Драйв 
+#EXTINF:0 group-title="Russian/Acestream",Драйв 
 acestream://be25e538669ad10f3d716cb73fd8bb011dc24605
-#EXTINF:0 group-title=“Russian/Acestream”,Еврокино 
+#EXTINF:0 group-title="Russian/Acestream",Еврокино 
 acestream://e8e8b2c1d1f2303810a3f1693d9b2cb5cba7e4c5
-#EXTINF:0 group-title=“Russian/Acestream”,Живая планета 
+#EXTINF:0 group-title="Russian/Acestream",Живая планета 
 acestream://9592babbb8c439907d19d3bdd5da9622d1780d33
-#EXTINF:0 group-title=“Russian/Acestream”,Звезда 
+#EXTINF:0 group-title="Russian/Acestream",Звезда 
 acestream://8342619045da25c14e32dedf11aea4785b798b5a
-#EXTINF:0 group-title=“Russian/Acestream”,Иллюзион + 
+#EXTINF:0 group-title="Russian/Acestream",Иллюзион + 
 acestream://c10727e37c7924bd4db4530c3789b0d4406e44de
-#EXTINF:0 group-title=“Russian/Acestream”,История 
+#EXTINF:0 group-title="Russian/Acestream",История 
 acestream://814a48217ef49428b52b7f5b1e3a86b29fda7a82
-#EXTINF:0 group-title=“Russian/Acestream”,Калейдоскоп ТВ 
+#EXTINF:0 group-title="Russian/Acestream",Калейдоскоп ТВ 
 acestream://dd8663f997982dba8daf89dfa6c1133d5a31326d
-#EXTINF:0 group-title=“Russian/Acestream”,Канал Disney 
+#EXTINF:0 group-title="Russian/Acestream",Канал Disney 
 acestream://5c8860cdfd0fa72dce3f6c782cafd9d406501e36
-#EXTINF:0 group-title=“Russian/Acestream”,Кино ТВ 
+#EXTINF:0 group-title="Russian/Acestream",Кино ТВ 
 acestream://f1e3e5cc703127283735d2031097f6100b3de9f7
-#EXTINF:0 group-title=“Russian/Acestream”,Кинокомедия 
+#EXTINF:0 group-title="Russian/Acestream",Кинокомедия 
 acestream://826b7ac2b3a7934ea6325c71d976205edd0194b8
-#EXTINF:0 group-title=“Russian/Acestream”,Киномикс 
+#EXTINF:0 group-title="Russian/Acestream",Киномикс 
 acestream://a6c45d2497dca8d61e912d18ff365417d9313ae8
-#EXTINF:0 group-title=“Russian/Acestream”,Киносерия 
+#EXTINF:0 group-title="Russian/Acestream",Киносерия 
 acestream://0dbaebb573810dc17b45076bee174021c0c24125
-#EXTINF:0 group-title=“Russian/Acestream”,КХЛ 
+#EXTINF:0 group-title="Russian/Acestream",КХЛ 
 acestream://02116adcc7295f35c72e644f63dade95b4ec24b2
-#EXTINF:0 group-title=“Russian/Acestream”,Матч Премьер 
+#EXTINF:0 group-title="Russian/Acestream",Матч Премьер 
 acestream://7ce5430ae00506c687fe3a40ded6c2789b2e01a9
-#EXTINF:0 group-title=“Russian/Acestream”,Матч ТВ 
+#EXTINF:0 group-title="Russian/Acestream",Матч ТВ 
 acestream://b791aa4a61d8f06c1629ae3a7b54a00711c2b359
-#EXTINF:0 group-title=“Russian/Acestream”,Матч! Арена 
+#EXTINF:0 group-title="Russian/Acestream",Матч! Арена 
 acestream://18c4cfad374504e05dbba90e91ccc3e9089838c7
-#EXTINF:0 group-title=“Russian/Acestream”,Матч! Боец 
+#EXTINF:0 group-title="Russian/Acestream",Матч! Боец 
 acestream://fe16090097306ae5864d49587603c425d4a89b9b
-#EXTINF:0 group-title=“Russian/Acestream”,Матч! Игра 
+#EXTINF:0 group-title="Russian/Acestream",Матч! Игра 
 acestream://75ecd54892c0c20d551e0219f96ba3121c2f151d
-#EXTINF:0 group-title=“Russian/Acestream”,Матч! Наш Спорт 
+#EXTINF:0 group-title="Russian/Acestream",Матч! Наш Спорт 
 acestream://87b104c8ef40393b472ccd3c9091f8bfe0750d56
-#EXTINF:0 group-title=“Russian/Acestream”,МАТЧ! Футбол 1 
+#EXTINF:0 group-title="Russian/Acestream",МАТЧ! Футбол 1 
 acestream://84868421a97ad35c635daffecbcbafb85739e979
-#EXTINF:0 group-title=“Russian/Acestream”,МАТЧ! Футбол 2 
+#EXTINF:0 group-title="Russian/Acestream",МАТЧ! Футбол 2 
 acestream://55cd1ff5bfe761bd44d01d6b734397c20065a5b7
-#EXTINF:0 group-title=“Russian/Acestream”,МАТЧ! Футбол 3 
+#EXTINF:0 group-title="Russian/Acestream",МАТЧ! Футбол 3 
 acestream://31c6d290ae3c84a4d2c90931458da1f5a6ddd358
-#EXTINF:0 group-title=“Russian/Acestream”,Мир Сериала 
+#EXTINF:0 group-title="Russian/Acestream",Мир Сериала 
 acestream://9d2bf63e40a920344782cc7d7a0c9abf73f8bf40
-#EXTINF:0 group-title=“Russian/Acestream”,Моя Планета 
+#EXTINF:0 group-title="Russian/Acestream",Моя Планета 
 acestream://f4eb6feefe35bd686bff0eabacbbec15a86743d2
-#EXTINF:0 group-title=“Russian/Acestream”,Мужское Кино 
+#EXTINF:0 group-title="Russian/Acestream",Мужское Кино 
 acestream://752020296e488e31bc15d4bf898bfc00f2d0ba72
-#EXTINF:0 group-title=“Russian/Acestream”,МУЛЬТ 
+#EXTINF:0 group-title="Russian/Acestream",МУЛЬТ 
 acestream://2b99f38f5cc4669312c57f091c7e310c3f004b9b
-#EXTINF:0 group-title=“Russian/Acestream”,Наука 
+#EXTINF:0 group-title="Russian/Acestream",Наука 
 acestream://1e87bc6054c49f2bffc3346ac792dd77cec1ac67
-#EXTINF:0 group-title=“Russian/Acestream”,Наше Новое Кино 
+#EXTINF:0 group-title="Russian/Acestream",Наше Новое Кино 
 acestream://cdb6137b3b1813d37389a7b3c0f1b2335493dc90
-#EXTINF:0 group-title=“Russian/Acestream”,Ностальгия 
+#EXTINF:0 group-title="Russian/Acestream",Ностальгия 
 acestream://a3affa8ccf5b6ef9f7a664a7d45280c41d7f7e76
-#EXTINF:0 group-title=“Russian/Acestream”,НСТ 
+#EXTINF:0 group-title="Russian/Acestream",НСТ 
 acestream://a7a2defce7666c8f6db411c070a361fcd6deec28
-#EXTINF:0 group-title=“Russian/Acestream”,НТВ 
+#EXTINF:0 group-title="Russian/Acestream",НТВ 
 acestream://2a196574ea5b1b4a831ad717f26d1fe730f72f60
-#EXTINF:0 group-title=“Russian/Acestream”,Охота и рыбалка 
+#EXTINF:0 group-title="Russian/Acestream",Охота и рыбалка 
 acestream://3f97d399b9a2057d17bda6fb83de7a974c4620b5
-#EXTINF:0 group-title=“Russian/Acestream”,Парк развлечений 
+#EXTINF:0 group-title="Russian/Acestream",Парк развлечений 
 acestream://44abdd9e36d9e261f8e138ecef1433bf39ce03cf
-#EXTINF:0 group-title=“Russian/Acestream”,Первый 
+#EXTINF:0 group-title="Russian/Acestream",Первый 
 acestream://0e670be9dace4c9f7f6b8e6fc0e317e4f7e9c013
-#EXTINF:0 group-title=“Russian/Acestream”,Планета HD 
+#EXTINF:0 group-title="Russian/Acestream",Планета HD 
 acestream://ffd13361b5f14f41bec2692211a049e0796fc85b
-#EXTINF:0 group-title=“Russian/Acestream”,Психология 21 
+#EXTINF:0 group-title="Russian/Acestream",Психология 21 
 acestream://c7df8d2434f89b8ca93d61afec03d77ba1513a90
-#EXTINF:0 group-title=“Russian/Acestream”,Пятница 
+#EXTINF:0 group-title="Russian/Acestream",Пятница 
 acestream://3246c6b160ecc66a2ca656ff7cd024dabdd53e53
-#EXTINF:0 group-title=“Russian/Acestream”,РЕН ТВ 
+#EXTINF:0 group-title="Russian/Acestream",РЕН ТВ 
 acestream://e058bcecfa99ed8d80d7011e52a78f6896e817c3
-#EXTINF:0 group-title=“Russian/Acestream”,Ретро ТВ 
+#EXTINF:0 group-title="Russian/Acestream",Ретро ТВ 
 acestream://73ccd8a4202b1224e7b3011cb4e9419429e6098a
-#EXTINF:0 group-title=“Russian/Acestream”,Родное кино 
+#EXTINF:0 group-title="Russian/Acestream",Родное кино 
 acestream://906f06f2d9d1175f70692d9acbf39042a10c4629
-#EXTINF:0 group-title=“Russian/Acestream”,Россия 1 
+#EXTINF:0 group-title="Russian/Acestream",Россия 1 
 acestream://f8e1afd37a2f009d6b5e1c294a3698e976fa491a
-#EXTINF:0 group-title=“Russian/Acestream”,Россия 24 
+#EXTINF:0 group-title="Russian/Acestream",Россия 24 
 acestream://2982cf46c6cd4135c788ad770f81174133c015df
-#EXTINF:0 group-title=“Russian/Acestream”,РТВ - Любимое кино 
+#EXTINF:0 group-title="Russian/Acestream",РТВ - Любимое кино 
 acestream://e7e2fe9608bbdcc45de56565a55ba3a9861653c9
-#EXTINF:0 group-title=“Russian/Acestream”,Русский бестселлер 
+#EXTINF:0 group-title="Russian/Acestream",Русский бестселлер 
 acestream://a289f3d18ccec0fcd839c0d8e536ae5f8a7e6718
-#EXTINF:0 group-title=“Russian/Acestream”,Русский детектив 
+#EXTINF:0 group-title="Russian/Acestream",Русский детектив 
 acestream://a59b0ed63ecbf59a2beeba748f8dae4728f9d26f
-#EXTINF:0 group-title=“Russian/Acestream”,Русский Иллюзион 
+#EXTINF:0 group-title="Russian/Acestream",Русский Иллюзион 
 acestream://a4f324033696b9e3c912e49a29c10774b6307abc
-#EXTINF:0 group-title=“Russian/Acestream”,Русский роман 
+#EXTINF:0 group-title="Russian/Acestream",Русский роман 
 acestream://b65b1b126f8f4d6929c4527e0de868a1af639a5d
-#EXTINF:0 group-title=“Russian/Acestream”,Русский Экстрим 
+#EXTINF:0 group-title="Russian/Acestream",Русский Экстрим 
 acestream://85ba7150c992d27f1bcac7399545fa2112c872c6
-#EXTINF:0 group-title=“Russian/Acestream”,Санкт-Петербург 
+#EXTINF:0 group-title="Russian/Acestream",Санкт-Петербург 
 acestream://8f177f71adb5ba60111ff3c1a1e44b7050e34be9
-#EXTINF:0 group-title=“Russian/Acestream”,СТС 
+#EXTINF:0 group-title="Russian/Acestream",СТС 
 acestream://cf3100b26bbd35c3d9a1c5df37f8f0d5f58dd048
-#EXTINF:0 group-title=“Russian/Acestream”,СТС Love 
+#EXTINF:0 group-title="Russian/Acestream",СТС Love 
 acestream://ded68681975be53774fb257b3ed62e65cc5d3612
-#EXTINF:0 group-title=“Russian/Acestream”,ТВ Центр 
+#EXTINF:0 group-title="Russian/Acestream",ТВ Центр 
 acestream://8074c6bd7df4c9e96d721a90320f14a828f55c95
-#EXTINF:0 group-title=“Russian/Acestream”,ТВ3 
+#EXTINF:0 group-title="Russian/Acestream",ТВ3 
 acestream://b88ff41ca8d602e965e52c7cc2fbecbaae2c4f35
-#EXTINF:0 group-title=“Russian/Acestream”,Техно 24 
+#EXTINF:0 group-title="Russian/Acestream",Техно 24 
 acestream://e0befeea1be867142a9ab824628d634010e9a673
-#EXTINF:0 group-title=“Russian/Acestream”,ТНТ 
+#EXTINF:0 group-title="Russian/Acestream",ТНТ 
 acestream://f3656363a89ec46e2e799045c84b7f8b61982e0b
-#EXTINF:0 group-title=“Russian/Acestream”,ТНТ4 
+#EXTINF:0 group-title="Russian/Acestream",ТНТ4 
 acestream://f87e0919ef95a71fdb2a6d873fcae7350049910e
-#EXTINF:0 group-title=“Russian/Acestream”,Точка ТВ 
+#EXTINF:0 group-title="Russian/Acestream",Точка ТВ 
 acestream://54f92ba3d82429b95d6220a096ae42c471d47eca
-#EXTINF:0 group-title=“Russian/Acestream”,Феникс+ Кино 
+#EXTINF:0 group-title="Russian/Acestream",Феникс+ Кино 
 acestream://8059f3852008fa28b687da4af233f479a6628428
-#EXTINF:0 group-title=“Russian/Acestream”,Че 
+#EXTINF:0 group-title="Russian/Acestream",Че 
 acestream://3c516abc42f343a21111b93c7ceb96dbe02bf097
-#EXTINF:0 group-title=“Russian/Acestream”,Ю 
+#EXTINF:0 group-title="Russian/Acestream",Ю 
 acestream://2d5bee108852ac365d2f550197e56d2013685503
 
