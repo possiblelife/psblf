@@ -120,7 +120,7 @@ http://master.cystreams.com:25461/live/faros/farostv/154.ts
 
 #EXTINF:-1 group-title="Greece" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/manaellada.png" ,==GREECE==
 http://..........
-#EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============PANELLADIKA ============
+#EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,============ PANELLADIKA ============
 http://.....
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" epg-id="EPT1.gr" tvg-logo="https://goo.gl/hD0NSD" ,ERT1 WorldWide WebTV (Youtube)
 https://www.youtube.com/watch?v=Zx98moCvkpU
@@ -238,7 +238,7 @@ rtmp://stream2.svbllc.com:1935/4e/4e.stream
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/Gjqw3Z" ,AGIOS NIKOLAOS MICHIGAN WEB TV
 http://greekhls-lh.akamaihd.net/i/stnicholas_mi@98986/master.m3u8
 
-#EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,================TAINIES===============
+#EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   TAINIES   ============
 http://.....
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/ofVjvQ" ,NETV TORONTO
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
@@ -249,7 +249,7 @@ http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/cF6mgTb.png" ,MPAXALO TV
 https://5ad08030b284e.streamlock.net/mpaxalotv/mpaxalotv/playlist.m3u8
 
-#EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,================MOUSIKI===============
+#EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   MOUSIKI   ============
 http://.....
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/7tKqOl" ,THLE MOUSIKH
 http://wpso.com:1936/hls/music1.m3u8
@@ -268,7 +268,7 @@ http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/7TFlXBi.png" ,CANNALI
 rtmp://live.streams.ovh/cannali/cannali
 
-#EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,================PAIDIKA===============
+#EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   PAIDIKA   ============
 http://.....
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/ablVkW" ,WZRA KID'S GR 
 http://wpso.com:1936/hls/kidshd.m3u8
@@ -283,7 +283,7 @@ http://176.9.126.181:1006
 #EXTINF:-1 group-title="Greece" ,Cartoon World 3
 http://176.9.126.181:1024 
 
-#EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,================Diethni================
+#EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   Diethni    ============
 http://.....
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/hlH9Uc" ,EBS
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS.m3u8
