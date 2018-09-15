@@ -267,6 +267,9 @@ http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/7TFlXBi.png" ,CANNALI
 rtmp://live.streams.ovh/cannali/cannali
+#EXTINF:-1 group-title="Greece" tvg-logo=" http://4.bp.blogspot.com/-o5PO61prqLw/TseaskPFynI/AAAAAAAAA84/9bLKY-CQeIg/s1600/energy-mediaset-canal-masculino-tv.PNG"  ,Energy 
+rtmp://live.streams.ovh:1935/LIFEHD/LIFEHD
+
 
 #EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   PAIDIKA   ============
 http://.....
@@ -274,10 +277,6 @@ http://.....
 http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1 group-title="Greece" ,Cartoon World 
 http://bit.ly/2rvaV7Q
-#EXTINF:-1 group-title="Greece" ,Life Kids Network
-rtmp://live.streams.ovh:1935/LIFEHD/LIFEHD
-#EXTINF:-1 group-title="Greece",SQUEL TV
-http://portal2.iptv4younow.com:8000/live/greektv/FZlHCCdBHL/23279.ts
 #EXTINF:-1 group-title="Greece" ,Cartoon World 2
 http://176.9.126.181:1006
 #EXTINF:-1 group-title="Greece" ,Cartoon World 3
