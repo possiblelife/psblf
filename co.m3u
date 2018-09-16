@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,15/09/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,16/09/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -267,7 +267,7 @@ http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/7TFlXBi.png" ,CANNALI
 rtmp://live.streams.ovh/cannali/cannali
-#EXTINF:-1 group-title="Greece" tvg-logo=" http://4.bp.blogspot.com/-o5PO61prqLw/TseaskPFynI/AAAAAAAAA84/9bLKY-CQeIg/s1600/energy-mediaset-canal-masculino-tv.PNG"  ,Energy 
+#EXTINF:-1 group-title="Greece" tvg-logo="http://4.bp.blogspot.com/-o5PO61prqLw/TseaskPFynI/AAAAAAAAA84/9bLKY-CQeIg/s1600/energy-mediaset-canal-masculino-tv.PNG"  ,Energy 
 rtmp://live.streams.ovh:1935/LIFEHD/LIFEHD
 
 
@@ -3046,791 +3046,222 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/811.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER2",
 
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Rai1.it" tvg-name="IT: Rai 1 FHD"  ,IT: Rai 1 FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/28831.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Rai1.it" tvg-name="IT: Rai 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rai_1.jpg" ,IT: Rai 1 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2760.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Rai2.it" tvg-name="IT: Rai 2 FHD"  ,IT: Rai 2 FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/28832.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Rai2.it" tvg-name="IT: Rai 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rai_2.jpg" ,IT: Rai 2 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2761.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Rai3.it" tvg-name="IT: Rai 3 FHD"  ,IT: Rai 3 FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/28833.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Rai3.it" tvg-name="IT: Rai 3 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rai_3.jpg" ,IT: Rai 3 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2762.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Rai4.it" tvg-name="IT: Rai 4 FHD"  ,IT: Rai 4 FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/28834.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Rai4.it" tvg-name="IT: Rai 4 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rai_4.jpg" ,IT: Rai 4 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2763.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Rai5.it" tvg-name="IT: Rai 5 FHD"  ,IT: Rai 5 FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/28835.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Rai5.it" tvg-name="IT: Rai 5 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rai_5.jpg" ,IT: Rai 5 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2776.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Italia1.it" tvg-name="IT: Italia Uno HD"  ,IT: Italia Uno HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2758.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Italia2.it" tvg-name="IT: Mediaset Italia 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mediaset_italia.jpg" ,IT: Mediaset Italia 2
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3905.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Rete4.it" tvg-name="IT: Rete 4 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mediaset_rete4.jpg" ,IT: Rete 4 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2764.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Canale5.it" tvg-name="IT: Canale 5 FHD"  ,IT: Canale 5 FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/28830.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Canale5.it" tvg-name="IT: Canale 5 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mediaset_canale5.jpg" ,IT: Canale 5 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2759.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="LA5.it" tvg-name="IT: Mediaset La 5" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mediaset_la_5.jpg" ,IT: Mediaset La 5
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3904.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="MediasetExtra.it" tvg-name="IT: Mediaset Extra" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mediaset_extra.jpg" ,IT: Mediaset Extra
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3906.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Iris.it" tvg-name="IT: Mediaset Iris"  ,IT: Mediaset Iris
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2765.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="20Mediaset.it" tvg-name="IT: Mediaset 20 HD"  ,IT: Mediaset 20 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/7671.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="TopCrime.it" tvg-name="IT: Top Crime" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/top_tv_crime.jpg" ,IT: Top Crime
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2767.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="La7.it" tvg-name="IT: La 7 HD"  ,IT: La 7 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2769.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="La7d.it" tvg-name="IT: La 7d HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/la_7d_it.jpg" ,IT: La 7d HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5040.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Tv8.it" tvg-name="IT: TV8 HD"  ,IT: TV8 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5041.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SKYUno.it" tvg-name="IT: Sky Uno HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_uno.jpg" ,IT: Sky Uno HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3273.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SKYUnoPlus1.it" tvg-name="IT: Sky Uno +1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_uno_plus1.jpg" ,IT: Sky Uno +1 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5868.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyAtlantic.it" tvg-name="IT: Sky Atlantic HD"  ,IT: Sky Atlantic HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3274.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyAtlanticPlus1.it" tvg-name="IT: Sky Atlantic +1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Atlantic-HD-Plus1-Italia_o.jpg" ,IT: Sky Atlantic +1 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5876.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyArte.it" tvg-name="IT: Sky Arte HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_arte_hd.jpg" ,IT: Sky Arte HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3275.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Classica.it" tvg-name="IT: Sky Classica HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_cinema_classics_hd.jpg" ,IT: Sky Classica HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/7670.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Rai Premium FHD"  ,IT: Rai Premium FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/70287.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="RaiPremium.it" tvg-name="IT: Rai Premium HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rai_premium.jpg" ,IT: Rai Premium HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2772.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Rai Gulp FHD"  ,IT: Rai Gulp FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/70286.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="RaiGulp.it" tvg-name="IT: Rai Gulp" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rai_gulp.jpg" ,IT: Rai Gulp
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2773.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Rai Movie FHD"  ,IT: Rai Movie FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/70281.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="RaiMovie.it" tvg-name="IT: Rai Movie HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rai_movie.jpg" ,IT: Rai Movie HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2756.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Rai Storia FHD"  ,IT: Rai Storia FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/70283.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="RaiStoria.it" tvg-name="IT: Rai Storia HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rai_storia.jpg" ,IT: Rai Storia HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5940.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Rai Scuola FHD"  ,IT: Rai Scuola FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/70282.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="RaiScuola.it" tvg-name="IT: Rai Scuola HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rai_scuola.jpg" ,IT: Rai Scuola HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5042.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="---------- IT Bambini -----------"  ,---------- IT Bambini -----------
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3686.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Rai Yoyo FHD"  ,IT: Rai Yoyo FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/70284.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="RaiYoyo.it" tvg-name="IT: Rai Yoyo HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rai_yoyo.jpg" ,IT: Rai Yoyo HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3057.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="BabyTV.it" tvg-name="IT: Baby TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/easy_baby.jpg" ,IT: Baby TV
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5937.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Boomerang.it" tvg-name="IT: Boomerang" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boomerang_it.jpg" ,IT: Boomerang
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3900.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Cartoonito.it" tvg-name="IT: Cartoonito" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cartoonito_it.jpg" ,IT: Cartoonito
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3513.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Cartoon Network IT" tvg-name="IT: Cartoon Network" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_it.jpg" ,IT: Cartoon Network
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3902.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Super!.it" tvg-name="IT: Super !" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dea_super.jpg" ,IT: Super !
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3515.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Boing.it" tvg-name="IT: Boing" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boing_it.jpg" ,IT: Boing
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3514.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="K2.it" tvg-name="IT: K2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/seratissima_k2.jpg" ,IT: K2
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3907.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Frisbee.it" tvg-name="IT: Frisbee" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/frisbee.jpg" ,IT: Frisbee
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3903.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="DisneyJunior.it" tvg-name="IT: Disney Junior" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_junior_it.jpg" ,IT: Disney Junior
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3901.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="DisneyChannel.it" tvg-name="IT: Disney Channel HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_channel_it_hd.jpg" ,IT: Disney Channel HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3512.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="DisneyXD.it" tvg-name="IT: Disney XD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_xd_it.jpg" ,IT: Disney XD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5869.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Nick Jr. IT" tvg-name="IT: Nick Jr" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nick_jr_it.jpg" ,IT: Nick Jr
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5877.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="DeAKids.it" tvg-name="IT: Dea Kids"  ,IT: Dea Kids
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5874.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="DEAjr.it" tvg-name="IT: Dea Junior" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dea_junior.jpg" ,IT: Dea Junior
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5873.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="ManGa.it" tvg-name="IT: Manga" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/man_ga_it.jpg" ,IT: Manga
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5954.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="--------- IT Docu ----------"  ,--------- IT Docu ----------
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3685.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Discovery.it" tvg-name="IT: Discovery Channel HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_it.jpg" ,IT: Discovery Channel HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3292.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="DiscoverySci.it" tvg-name="IT: Discovery Science HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_science.jpg" ,IT: Discovery Science HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3291.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Focus.it" tvg-name="IT: Discovery Focus HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/focus_it.jpg" ,IT: Discovery Focus HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4503.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="DiscoveryTravel.it" tvg-name="IT: Discovery Travel & Living HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_travel_living_it.jpg" ,IT: Discovery Travel & Living HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4784.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Giallo.it" tvg-name="IT: Discovery Giallo" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/giallo_it.jpg" ,IT: Discovery Giallo
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4785.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="DMAX.it" tvg-name="IT: Dmax HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dmax_it.jpg" ,IT: Dmax HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2861.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="NationalGeo.it" tvg-name="IT: National Geographic HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_it_hd.jpg" ,IT: National Geographic HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3293.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="NatGeoWild.it" tvg-name="IT: Nat Geo Wild HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_emea_hd.jpg" ,IT: Nat Geo Wild HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3295.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="NatGeoPeople.it" tvg-name="IT: Nat Geo People HD"  ,IT: Nat Geo People HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3294.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="CrimeInvestigation.it" tvg-name="IT: Crime Investigation HD"  ,IT: Crime Investigation HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3283.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="InvestigationDiscovery.it" tvg-name="IT: Investigation Discovery"  ,IT: Investigation Discovery
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9160.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Blaze.it" tvg-name="IT: Blaze FHD"  ,IT: Blaze FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5875.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="RealTime.it" tvg-name="IT: Real Time HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/real_time_it.jpg" ,IT: Real Time HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3282.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="GamberoRosso.it" tvg-name="IT: Gambero Rosso HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/gambero_rosso.jpg" ,IT: Gambero Rosso HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4501.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="LEI.it" tvg-name="IT: Lei HD"  ,IT: Lei HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4504.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Cielo.it" tvg-name="IT: Cielo HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cielo.jpg" ,IT: Cielo HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2775.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Spike.it" tvg-name="IT: Spike HD"  ,IT: Spike HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9580.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="AnimalPlanet.it" tvg-name="IT: Animal Planet"  ,IT: Animal Planet
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3510.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Marcopolo.it" tvg-name="IT: Marcopolo" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/marcopolo.jpg" ,IT: Marcopolo
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5046.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="FineLiving.it" tvg-name="IT: Fine Living"  ,IT: Fine Living
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5047.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="DeejayTV.it" tvg-name="IT: Nove Deejay"  ,IT: Nove Deejay
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/1451.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Alice.it" tvg-name="IT: Alice" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/alice.jpg" ,IT: Alice
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5045.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="LaEffe.it" tvg-name="IT: La Effe HD"  ,IT: La Effe HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5952.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="History.it" tvg-name="IT: History HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/history_hd.jpg" ,IT: History HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3511.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="DoveTv.it" tvg-name="IT: Dove TV HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/la_sposa_it.jpg" ,IT: Dove TV HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3507.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Italian Fishing TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/italian_fishing_tv.jpg" ,IT: Italian Fishing TV
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/7659.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="CACCIAePesca.it" tvg-name="IT: Pesca HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/caccia_pesca.jpg" ,IT: Pesca HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4502.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="CacciaePESCA.it" tvg-name="IT: Caccia HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/caccia_pesca.jpg" ,IT: Caccia HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5870.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="----------- IT Cinema ----------"  ,----------- IT Cinema ----------
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2729.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyCinemaUno.it" tvg-name="IT: Sky Cinema 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_cinema_plus1_hd.jpg" ,IT: Sky Cinema 1 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3284.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyCinemaPlus1.it" tvg-name="IT: Sky Cinema +1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_cinema_plus1_hd.jpg" ,IT: Sky Cinema +1 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5871.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyCinemaMax.it" tvg-name="IT: Sky Cinema Max HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_cinema_max_hd.jpg" ,IT: Sky Cinema Max HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3285.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyCinemaMaxPlus1.it" tvg-name="IT: Sky Cinema Max +1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_cinema_max_plus1_hd.jpg" ,IT: Sky Cinema Max +1 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/6257.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyCinemaHits.it" tvg-name="IT: Sky Cinema Hits HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_cinema_hits_hd.jpg" ,IT: Sky Cinema Hits HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3286.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyCinemaPlus24.it" tvg-name="IT: Sky Cinema +24 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_cinema_plus24_hd.jpg" ,IT: Sky Cinema +24 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3289.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyCinemaFamily.it" tvg-name="IT: Sky Cinema Family HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_cinema_family_hd.jpg" ,IT: Sky Cinema Family HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3287.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyCinemaComedyHD.it" tvg-name="IT: Sky Cinema Comedy HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_cinema_comedy_hd.jpg" ,IT: Sky Cinema Comedy HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3288.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyCinemaPassionHD.it" tvg-name="IT: Sky Cinema Passion HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_cinema_passion_hd.jpg" ,IT: Sky Cinema Passion HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3504.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Sky Cinema Cult IT" tvg-name="IT: Sky Cinema Cult HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_cinema_cult_hd.jpg" ,IT: Sky Cinema Cult HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3508.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyCinemaClassic.it" tvg-name="IT: Sky Cinema Classics HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_cinema_classics_hd.jpg" ,IT: Sky Cinema Classics HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3296.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Sky3D.it" tvg-name="IT: Sky Cinema 3D"  ,IT: Sky Cinema 3D
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3509.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumCinema.it" tvg-name="IT: Premium Cinema HD"  ,IT: Premium Cinema HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3299.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumCrimePlus24.it" tvg-name="IT: Premium Cinema +24" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_cinema_plus24.jpg" ,IT: Premium Cinema +24
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3303.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumCinema2.it" tvg-name="IT: Premium Cinema 2 HD"  ,IT: Premium Cinema 2 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3300.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumCinema2Plus24.it" tvg-name="IT: Premium Cinema 2 +24"  ,IT: Premium Cinema 2 +24
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/12424.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumAction.it" tvg-name="IT: Premium Action HD"  ,IT: Premium Action HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3301.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumActionPlus24.it" tvg-name="IT: Premium Action +24" tvg-logo="https://www.lyngsat-logo.com/hires/mm/mediaset_premium_action_plus24.png" ,IT: Premium Action +24
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5161.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumCrime.it" tvg-name="IT: Premium Crime HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mediaset_premium_crime.jpg" ,IT: Premium Crime HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3297.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumCrimePlus24.it" tvg-name="IT: Premium Crime +24" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mediaset_premium_crime.jpg" ,IT: Premium Crime +24
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5163.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumCinemaEnergy.it" tvg-name="IT: Premium Cinema Energy HD"  ,IT: Premium Cinema Energy HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3298.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumCinemaEmotion.it" tvg-name="IT: Premium Cinema Emotion" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mediaset_premium_cinema_emotion.jpg" ,IT: Premium Cinema Emotion
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3304.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumCinemaComedy.it" tvg-name="IT: Premium Cinema Comedy" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_cinema_comedy.jpg" ,IT: Premium Cinema Comedy
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3302.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Stories.it" tvg-name="IT: Premium Stories"  ,IT: Premium Stories
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3306.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="StoriesPlus24.it" tvg-name="IT: Premium Stories +24"  ,IT: Premium Stories +24
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5162.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Joi.it" tvg-name="IT: Premium Joi"  ,IT: Premium Joi
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3305.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="JoiPlus24.it" tvg-name="IT: Premium Joi +24" tvg-logo="http://www.sat-address.com/f/pics/Stations/Joi-Plus1-Mediaset_o.jpg" ,IT: Premium Joi +24
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5164.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Fox.it" tvg-name="IT: Fox HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_it.jpg" ,IT: Fox HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3277.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="FoxLife.it" tvg-name="IT: Fox Life HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_it.jpg" ,IT: Fox Life HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3276.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="FoxCrime.it" tvg-name="IT: Fox Crime HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_crime_it.jpg" ,IT: Fox Crime HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3278.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="FoxComedy.it" tvg-name="IT: Fox Comedy HD"  ,IT: Fox Comedy HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3280.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="FoxAnimation.it" tvg-name="IT: Fox Animation HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_animation_it.jpg" ,IT: Fox Animation HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3279.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="ComedyCentral.it" tvg-name="IT: Comedy Central" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/comedy_central_it.jpg" ,IT: Comedy Central
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/7660.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="StudioUniversal.it" tvg-name="IT: Studio Universal" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/studio_universal_it.jpg" ,IT: Studio Universal
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3908.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="ParamountChannel.it" tvg-name="IT: Paramount Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/paramount_channel_fr.jpg" ,IT: Paramount Channel
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5044.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="---------- IT Notizie ----------"  ,---------- IT Notizie ----------
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3687.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="RaiNews.it" tvg-name="IT: Rai News 24 FHD"  ,IT: Rai News 24 FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/69773.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="RaiNews.it" tvg-name="IT: Rai News"  ,IT: Rai News
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2757.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyTG24.it" tvg-name="IT: Sky TG24 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_tg24.jpg" ,IT: Sky TG24 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2741.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Tgcom24.it" tvg-name="IT: TG COM 24"  ,IT: TG COM 24
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2766.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="TG24Norba.it" tvg-name="IT: TG Norba 24" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tg_norba24.jpg" ,IT: TG Norba 24
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2857.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="--------- IT Musica ----------"  ,--------- IT Musica ----------
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5605.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: RTL 102.5"  ,IT: RTL 102.5
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2853.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Radio 105 TV"  ,IT: Radio 105 TV
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/1450.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="RadioItalia.it" tvg-name="IT: Radio Italia TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/radio_radio_tv.jpg" ,IT: Radio Italia TV
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5774.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Radio Monte Carlo TV"  ,IT: Radio Monte Carlo TV
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3641.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="RadioItaliaTV.it" tvg-name="IT: Radio Capital TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/radio_capital_tivu.jpg" ,IT: Radio Capital TV
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5958.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: M2o TV"  ,IT: M2o TV
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5953.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Virgin TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/virgin_radio_tv.jpg" ,IT: Virgin TV
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5945.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: 7 Gold" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/antichita_chiossone_tv_it.jpg" ,IT: 7 Gold
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9578.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Videolina" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/videolina_it.jpg" ,IT: Videolina
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5942.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="---------- IT Regionali --------"  ,---------- IT Regionali --------
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5039.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="TeleTicino.ch" tvg-name="IT: Teleticino HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/teletirreno.jpg" ,IT: Teleticino HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/7665.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: TeleNorba"  ,IT: TeleNorba
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/7666.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Tele Galatina"  ,IT: Tele Galatina
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3913.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="La7.it" tvg-name="IT: Canale 7" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/la_7_it.jpg" ,IT: Canale 7
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4534.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: RTV San Marino"  ,IT: RTV San Marino
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2859.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="TV2000.it" tvg-name="IT: TV 2000" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_2000_it.jpg" ,IT: TV 2000
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5516.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Video Calabria"  ,IT: Video Calabria
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5944.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Napoli 24"  ,IT: Napoli 24
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/7667.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="StudioUniversal.it" tvg-name="IT: Studio 100" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/studio100_sat.jpg" ,IT: Studio 100
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/7668.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Tele Studio Modena"  ,IT: Tele Studio Modena
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5939.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Telerama" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_parma.jpg" ,IT: Telerama
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5955.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Teleradioerre"  ,IT: Teleradioerre
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5948.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: CTS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sct_it.jpg" ,IT: CTS
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5941.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Canale 10"  ,IT: Canale 10
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5946.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Sicilia Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rai_3_sicilia.jpg" ,IT: Sicilia Channel
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5947.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: TV Luna"  ,IT: TV Luna
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5943.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="-------- IT Prima Fila -------"  ,-------- IT Prima Fila -------
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5048.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Primafila 1 HD - Avengers: Infinity War" tvg-logo="http://anonymouswebtv.live/webtv/loghi/primafila1.png" ,IT: Primafila 1 HD - Avengers: Infinity War
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/87155.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Primafila 2 HD - Game Night Indovina Chi Muore Stasera" tvg-logo="http://anonymouswebtv.live/webtv/loghi/primafila2.png" ,IT: Primafila 2 HD - Game Night Indovina Chi Muore Stasera
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/87154.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Primafila 3 HD - I Segreti Di Wind River" tvg-logo="http://anonymouswebtv.live/webtv/loghi/primafila3.png" ,IT: Primafila 3 HD - I Segreti Di Wind River
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/87153.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Primafila 4 HD - Made In Italy" tvg-logo="http://anonymouswebtv.live/webtv/loghi/primafila4.png" ,IT: Primafila 4 HD - Made In Italy
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/87152.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Primafila 5 HD - I Primitivi" tvg-logo="http://anonymouswebtv.live/webtv/loghi/primafila5.png" ,IT: Primafila 5 HD - I Primitivi
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/87151.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Primafila 6 HD - L Ultima Discesa" tvg-logo="http://anonymouswebtv.live/webtv/loghi/primafila6.png" ,IT: Primafila 6 HD - L Ultima Discesa
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/87150.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Primafila 7 HD - Deadpool 2" tvg-logo="http://anonymouswebtv.live/webtv/loghi/primafila7.png" ,IT: Primafila 7 HD - Deadpool 2
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/87149.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Primafila 8 HD - Show Dogs - Entriamo In Scena" tvg-logo="http://anonymouswebtv.live/webtv/loghi/primafila8.png" ,IT: Primafila 8 HD - Show Dogs - Entriamo In Scena
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/87148.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Primafila 9 HD - Rampage: Furia Animale" tvg-logo="http://anonymouswebtv.live/webtv/loghi/primafila9.png" ,IT: Primafila 9 HD - Rampage: Furia Animale
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/87147.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Primafila 10 HD - Bob & Marys - Criminali A Domicilio" tvg-logo="http://anonymouswebtv.live/webtv/loghi/primafila10.png" ,IT: Primafila 10 HD - Bob & Marys - Criminali A Domicilio
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/87156.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Primafila 11 HD - Tomb Raider" tvg-logo="http://anonymouswebtv.live/webtv/loghi/primafila11.png" ,IT: Primafila 11 HD - Tomb Raider
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/87157.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Primafila 12 HD - Ready Player One" tvg-logo="http://anonymouswebtv.live/webtv/loghi/primafila12.png" ,IT: Primafila 12 HD - Ready Player One
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/87448.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Film In Sala 1: Sniper Ultimate Kill"  ,IT: Film In Sala 1: Sniper Ultimate Kill
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5949.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Film In Sala 2: Wonder Woman"  ,IT: Film In Sala 2: Wonder Woman
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5950.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Film In Sala 3: Transformers The Last Knight"  ,IT: Film In Sala 3: Transformers The Last Knight
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5951.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Film In Sala 4: Security" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cubovision_it.jpg" ,IT: Film In Sala 4: Security
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5957.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="---------- IT Sports ----------"  ,---------- IT Sports ----------
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2525.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SKYSport24.it" tvg-name="IT: Sky Sport 24 FHD"  ,IT: Sky Sport 24 FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/20998.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SKYSport24.it" tvg-name="IT: Sky Sport 24 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport24.jpg" ,IT: Sky Sport 24 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2895.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkySportUno.it" tvg-name="IT: Sky Sport Uno FHD"  ,IT: Sky Sport Uno FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/44700.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkySportUno.it" tvg-name="IT: Sky Sport Uno HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport1_hd.jpg" ,IT: Sky Sport Uno HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/1572.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkySportArena.it" tvg-name="IT: Sky Sport Arena HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport2_hd.jpg" ,IT: Sky Sport Arena HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2739.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkySportFootball.it" tvg-name="IT: Sky Sport Football HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport3_hd.jpg" ,IT: Sky Sport Football HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3102.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkySportNBA.it" tvg-name="IT: Sky Sport NBA FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_it_plus_hd.jpg" ,IT: Sky Sport NBA FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5872.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkySportMix.it" tvg-name="IT: Sky Sport Mix HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport_extra_hd.jpg" ,IT: Sky Sport Mix HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/7662.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkySportNBA.it" tvg-name="IT: Sky Sport NBA HD"  ,IT: Sky Sport NBA HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/1571.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkySportF1.it" tvg-name="IT: Sky Sport F1 FHD"  ,IT: Sky Sport F1 FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/42686.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkySportF1.it" tvg-name="IT: Sky Sport F1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport_f1_hd.jpg" ,IT: Sky Sport F1 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3131.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkySportMotoGP.it" tvg-name="IT: Sky Sport Moto GP HD"  ,IT: Sky Sport Moto GP HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3253.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkySportSerieA.it" tvg-name="IT: Sky Sport Serie A FHD"  ,IT: Sky Sport Serie A FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/37607.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkySportSerieA.it" tvg-name="IT: Sky Sport Serie A HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_super_calcio_hd.jpg" ,IT: Sky Sport Serie A HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3125.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumSport.it" tvg-name="IT: Premium Sport FHD"  ,IT: Premium Sport FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/21013.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumSport.it" tvg-name="IT: Premium Sport HD"  ,IT: Premium Sport HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3254.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumSport.it" tvg-name="IT: Premium Sport"  ,IT: Premium Sport
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3844.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumSport2.it" tvg-name="IT: Premium Sport 2 HD"  ,IT: Premium Sport 2 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3255.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumSport2.it" tvg-name="IT: Premium Sport 2"  ,IT: Premium Sport 2
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3845.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Eurosport1.it" tvg-name="IT: Eurosport 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport_hd.jpg" ,IT: Eurosport 1 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3256.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Eurosport2.it" tvg-name="IT: Eurosport 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport2_hd.jpg" ,IT: Eurosport 2 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3257.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Rai Sport FHD"  ,IT: Rai Sport FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/70288.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="RaiSport.it" tvg-name="IT: Rai Sport 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rai_sport_1.jpg" ,IT: Rai Sport 1 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2771.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="RaiSport2.it" tvg-name="IT: Rai Sport 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rai_sport_2.jpg" ,IT: Rai Sport 2
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2770.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="Sportitalia.it" tvg-name="IT: Sport Italia"  ,IT: Sport Italia
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2774.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Top Calcio" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/top_calcio24.jpg" ,IT: Top Calcio
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/7663.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SuperTennis.it" tvg-name="IT: Super Tennis HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/super_tennis.jpg" ,IT: Super Tennis HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2855.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="AutoMotoTV.it" tvg-name="IT: Automoto" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/auto_moto_tv_it.jpg" ,IT: Automoto
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2822.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="BikeChannel.it" tvg-name="IT: Bike HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bike_channel_it.jpg" ,IT: Bike HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5938.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Nautical HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nautical_channel.jpg" ,IT: Nautical HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9172.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="ClassHorse.it" tvg-name="IT: Class Horse" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/class_horse_tv.jpg" ,IT: Class Horse
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/7661.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Uniresat HD"  ,IT: Uniresat HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/7644.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="RomaChannel.it" tvg-name="IT: Roma Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/romachannel_it.jpg" ,IT: Roma Channel
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3269.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="MilanTV.it" tvg-name="IT: Milan Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/milan_channel.jpg" ,IT: Milan Channel
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3272.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="JuventusChannel.it" tvg-name="IT: Juventus Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/juventus_channel.jpg" ,IT: Juventus Channel
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3270.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="InterChannel.it" tvg-name="IT: Inter Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/inter_channel.jpg" ,IT: Inter Channel
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3271.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="LazioStyleChannel.it" tvg-name="IT: Lazio Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/lazio_style_tv.jpg" ,IT: Lazio Channel
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/7664.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="TorinoChannel.it" tvg-name="IT: Torino Channel"  ,IT: Torino Channel
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5956.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: WM TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/la_8_it.jpg" ,IT: WM TV
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9579.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyCalcio1.it" tvg-name="IT: Sky Calcio 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_calcio1_hd.jpg" ,IT: Sky Calcio 1 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3130.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyCalcio2.it" tvg-name="IT: Sky Calcio 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_calcio2_hd.jpg" ,IT: Sky Calcio 2 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3161.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyCalcio3.it" tvg-name="IT: Sky Calcio 3 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_calcio3_hd.jpg" ,IT: Sky Calcio 3 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3259.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyCalcio4.it" tvg-name="IT: Sky Calcio 4 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_calcio4_hd.jpg" ,IT: Sky Calcio 4 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3260.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyCalcio5.it" tvg-name="IT: Sky Calcio 5 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_calcio5_hd.jpg" ,IT: Sky Calcio 5 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3261.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyCalcio6.it" tvg-name="IT: Sky Calcio 6 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_calcio6_hd.jpg" ,IT: Sky Calcio 6 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3262.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyCalcio7.it" tvg-name="IT: Sky Calcio 7 HD"  ,IT: Sky Calcio 7 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3263.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyCalcio8.it" tvg-name="IT: Sky Calcio 8 HD"  ,IT: Sky Calcio 8 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3264.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyCalcio9.it" tvg-name="IT: Sky Calcio 9 HD"  ,IT: Sky Calcio 9 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3265.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyCalcio10.it" tvg-name="IT: Sky Calcio 10 HD"  ,IT: Sky Calcio 10 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3266.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyCalcio11.it" tvg-name="IT: Sky Calcio 11 HD"  ,IT: Sky Calcio 11 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5866.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="SkyCalcio12.it" tvg-name="IT: Sky Calcio 12 HD"  ,IT: Sky Calcio 12 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5867.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Vetrina Dazn Sport HD"  ,IT: Vetrina Dazn Sport HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/91449.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Dazn Sport 1 FHD"  ,IT: Dazn Sport 1 FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/91448.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Dazn Sport 2 FHD"  ,IT: Dazn Sport 2 FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/91447.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Dazn Sport 3 FHD"  ,IT: Dazn Sport 3 FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/91446.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Dazn Sport 4 FHD"  ,IT: Dazn Sport 4 FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/91445.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Dazn Sport 5 FHD"  ,IT: Dazn Sport 5 FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/91444.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Dazn Sport 6 FHD"  ,IT: Dazn Sport 6 FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/91443.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Dazn Sport 7 FHD"  ,IT: Dazn Sport 7 FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/91442.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Dazn Sport 8 FHD"  ,IT: Dazn Sport 8 FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/91441.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Dazn Sport 9 FHD"  ,IT: Dazn Sport 9 FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/91440.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Dazn Sport 10 FHD"  ,IT: Dazn Sport 10 FHD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/91439.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumCalcio1.it" tvg-name="IT: Premium Calcio 1 HD"  ,IT: Premium Calcio 1 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3267.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumCalcio2.it" tvg-name="IT: Premium Calcio 2"  ,IT: Premium Calcio 2
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3268.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumCalcio3.it" tvg-name="IT: Premium Calcio 3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_calcio3_hd.jpg" ,IT: Premium Calcio 3
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3894.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumCalcio4.it" tvg-name="IT: Premium Calcio 4" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_calcio4.jpg" ,IT: Premium Calcio 4
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3895.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumCalcio5.it" tvg-name="IT: Premium Calcio 5" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_calcio5.jpg" ,IT: Premium Calcio 5
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3896.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumCalcio6.it" tvg-name="IT: Premium Calcio 6" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_calcio6.jpg" ,IT: Premium Calcio 6
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3897.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-ID="PremiumCalcio7.it" tvg-name="IT: Premium Calcio 7"  ,IT: Premium Calcio 7
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3898.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="===== Backup ======"  ,===== Backup ======
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/8005.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Sport 24 HD"  ,(IT) Sky Sport 24 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9120.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Alice"  ,(IT) Alice
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9155.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Animal Planet"  ,(IT) Animal Planet
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9154.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Automoto TV"  ,(IT) Automoto TV
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9135.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Baby TV"  ,(IT) Baby TV
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9178.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Boing"  ,(IT) Boing
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9182.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Caccia e Pesca"  ,(IT) Caccia e Pesca
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9173.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Canale 5 HD"  ,(IT) Canale 5 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9066.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Cartoon Network"  ,(IT) Cartoon Network
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9181.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Cartoonito"  ,(IT) Cartoonito
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9180.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Cielo HD"  ,(IT) Cielo HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9153.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Class Horse TV"  ,(IT) Class Horse TV
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9136.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Nove Deejay"  ,(IT) Nove Deejay
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9169.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Discovery HD"  ,(IT) Discovery HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9158.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Discovery Science HD"  ,(IT) Discovery Science HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9157.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Discovery Travel & Living HD"  ,(IT) Discovery Travel & Living HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9156.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Disney Junior HD"  ,(IT) Disney Junior HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9184.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Disney XD"  ,(IT) Disney XD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9179.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Dmax"  ,(IT) Dmax
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9151.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) E!"  ,(IT) E!
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9163.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Eurosport 1"  ,(IT) Eurosport 1
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9133.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Eurosport 2"  ,(IT) Eurosport 2
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9132.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Expansione TV"  ,(IT) Expansione TV
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9175.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Fine living"  ,(IT) Fine living
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9162.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Focus"  ,(IT) Focus
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9161.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Fox Animation HD"  ,(IT) Fox Animation HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9096.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Fox Comedy HD"  ,(IT) Fox Comedy HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9095.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Fox HD"  ,(IT) Fox HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9093.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Fox Life HD"  ,(IT) Fox Life HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9094.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Fox Sports HD"  ,(IT) Fox Sports HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9124.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) GAMBERRO ROSSO HD"  ,(IT) GAMBERRO ROSSO HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9170.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Giallo"  ,(IT) Giallo
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9159.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) History"  ,(IT) History
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9164.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Inter Channel"  ,(IT) Inter Channel
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9138.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Iris"  ,(IT) Iris
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9072.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Italia 1 HD"  ,(IT) Italia 1 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9063.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Italia 2"  ,(IT) Italia 2
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9064.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Italian Fishing TV"  ,(IT) Italian Fishing TV
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9174.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) K2"  ,(IT) K2
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9185.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) La 5"  ,(IT) La 5
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9068.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) LA 7d HD"  ,(IT) LA 7d HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9071.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) M2O TV"  ,(IT) M2O TV
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9208.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) MANGA"  ,(IT) MANGA
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9186.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) MarcoPolo"  ,(IT) MarcoPolo
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9171.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Mediaset Extra"  ,(IT) Mediaset Extra
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9067.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Nat Geo HD"  ,(IT) Nat Geo HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9167.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Nat Geo People HD"  ,(IT) Nat Geo People HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9166.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Nat Geo Wild HD"  ,(IT) Nat Geo Wild HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9165.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Nuvolari"  ,(IT) Nuvolari
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9176.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Paramount Channel HD"  ,(IT) Paramount Channel HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9097.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Milan Channel"  ,(IT) Milan Channel
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9137.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Action  24"  ,(IT) Premium Action  24
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9192.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Action HD"  ,(IT) Premium Action HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9191.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Calcio 1 HD"  ,(IT) Premium Calcio 1 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9150.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Calcio 2"  ,(IT) Premium Calcio 2
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9149.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Calcio 3"  ,(IT) Premium Calcio 3
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9148.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Calcio 4"  ,(IT) Premium Calcio 4
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9147.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Calcio 5"  ,(IT) Premium Calcio 5
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9146.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Calcio 6"  ,(IT) Premium Calcio 6
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9145.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Cinema  24"  ,(IT) Premium Cinema  24
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9190.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Cinema 2  24"  ,(IT) Premium Cinema 2  24
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9189.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Cinema 2 HD"  ,(IT) Premium Cinema 2 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9188.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Cinema HD"  ,(IT) Premium Cinema HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9194.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Comedy"  ,(IT) Premium Comedy
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9193.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Crime  24"  ,(IT) Premium Crime  24
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9206.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Crime HD"  ,(IT) Premium Crime HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9205.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Emotion"  ,(IT) Premium Emotion
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9203.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Energy"  ,(IT) Premium Energy
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9202.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Joi  24"  ,(IT) Premium Joi  24
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9201.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Joi HD"  ,(IT) Premium Joi HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9200.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Sport 2"  ,(IT) Premium Sport 2
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9199.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Sport 2 HD"  ,(IT) Premium Sport 2 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9198.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Sport HD"  ,(IT) Premium Sport HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9197.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Stories"  ,(IT) Premium Stories
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9196.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Premium Studio Universal"  ,(IT) Premium Studio Universal
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9204.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) RAI 1 HD"  ,(IT) RAI 1 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9061.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) RAI 2 HD"  ,(IT) RAI 2 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9060.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) RAI 3 HD"  ,(IT) RAI 3 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9059.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) RAI 4 HD"  ,(IT) RAI 4 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9058.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) RAI 5 HD"  ,(IT) RAI 5 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9062.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) RAI GULP"  ,(IT) RAI GULP
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9079.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Rai Movie"  ,(IT) Rai Movie
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9078.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Rai News 24" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rai_news_24.jpg" ,(IT) Rai News 24
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9210.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Rai Premium"  ,(IT) Rai Premium
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9077.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Rai Sport 1 HD"  ,(IT) Rai Sport 1 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9130.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Rai Sport 2"  ,(IT) Rai Sport 2
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9129.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Rai Storia"  ,(IT) Rai Storia
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9076.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Rai Yoyo"  ,(IT) Rai Yoyo
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9187.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Real Time HD"  ,(IT) Real Time HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9168.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Rete 4 HD"  ,(IT) Rete 4 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9065.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) RSI La1 HD"  ,(IT) RSI La1 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9075.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) RSI La2 HD"  ,(IT) RSI La2 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9074.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Atlantic HD"  ,(IT) Sky Atlantic HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9091.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Calcio 1 HD"  ,(IT) Sky Calcio 1 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9139.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Calcio 2 HD"  ,(IT) Sky Calcio 2 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9140.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Calcio 3 HD"  ,(IT) Sky Calcio 3 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9141.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Calcio 4 HD"  ,(IT) Sky Calcio 4 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9142.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Calcio 5 HD"  ,(IT) Sky Calcio 5 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9143.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Calcio 6 HD"  ,(IT) Sky Calcio 6 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9144.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Cinema 1 HD"  ,(IT) Sky Cinema 1 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9082.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Cinema  24 HD"  ,(IT) Sky Cinema  24 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9090.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Cinema +1 HD"  ,(IT) Sky Cinema +1 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9081.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Cinema Classic"  ,(IT) Sky Cinema Classic
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9089.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Cinema Comedy HD"  ,(IT) Sky Cinema Comedy HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9092.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Cinema Cult HD"  ,(IT) Sky Cinema Cult HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9084.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Cinema Family HD"  ,(IT) Sky Cinema Family HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9085.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Cinema Hits HD"  ,(IT) Sky Cinema Hits HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9083.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Cinema Max  1"  ,(IT) Sky Cinema Max  1
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9088.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Cinema Max HD"  ,(IT) Sky Cinema Max HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9087.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Cinema Passion HD"  ,(IT) Sky Cinema Passion HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9086.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Primafila 1 HD"  ,(IT) Sky Primafila 1 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9109.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Primafila 10 HD"  ,(IT) Sky Primafila 10 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9108.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Primafila 11 HD"  ,(IT) Sky Primafila 11 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9107.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky PrimaFila 12 HD"  ,(IT) Sky PrimaFila 12 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9106.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Primafila 13 HD"  ,(IT) Sky Primafila 13 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9110.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Primafila 14 HD"  ,(IT) Sky Primafila 14 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9111.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Primafila 15 HD"  ,(IT) Sky Primafila 15 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9112.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Primafila 16 HD"  ,(IT) Sky Primafila 16 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9113.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Primafila 17 HD"  ,(IT) Sky Primafila 17 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9114.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Primafila 18 HD"  ,(IT) Sky Primafila 18 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9115.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Primafila 19 HD"  ,(IT) Sky Primafila 19 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9116.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Primafila 2 HD"  ,(IT) Sky Primafila 2 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9105.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Primafila 20 HD"  ,(IT) Sky Primafila 20 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9117.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Primafila 21 HD"  ,(IT) Sky Primafila 21 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9118.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Primafila 22 HD"  ,(IT) Sky Primafila 22 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9119.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Primafila 3 HD"  ,(IT) Sky Primafila 3 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9104.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Primafila 4 HD"  ,(IT) Sky Primafila 4 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9103.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Primafila 5 HD"  ,(IT) Sky Primafila 5 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9102.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Primafila 6 HD"  ,(IT) Sky Primafila 6 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9101.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Primafila 7 HD"  ,(IT) Sky Primafila 7 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9100.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Primafila 8 HD"  ,(IT) Sky Primafila 8 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9099.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Primafila 9 HD"  ,(IT) Sky Primafila 9 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9098.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Sport 1 HD"  ,(IT) Sky Sport 1 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9121.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Sport 2 HD"  ,(IT) Sky Sport 2 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9122.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Sport 3 HD"  ,(IT) Sky Sport 3 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9123.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Sport F1 HD"  ,(IT) Sky Sport F1 HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9127.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Sport MotoGP HD"  ,(IT) Sky Sport MotoGP HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9128.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Sport Plus HD"  ,(IT) Sky Sport Plus HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9125.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Super Calcio HD"  ,(IT) Sky Super Calcio HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9126.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky TG 24" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_tg24.jpg" ,(IT) Sky TG 24
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9209.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sky Uno HD"  ,(IT) Sky Uno HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9080.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Sport italia"  ,(IT) Sport italia
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9134.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Super"  ,(IT) Super
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9183.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Supertennis HD"  ,(IT) Supertennis HD
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9131.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) TeleTicino"  ,(IT) TeleTicino
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9177.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) TGCOM 24"  ,(IT) TGCOM 24
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9211.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) Top Crime"  ,(IT) Top Crime
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9207.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) TV Sat 2000"  ,(IT) TV Sat 2000
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9073.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="(IT) TV8"  ,(IT) TV8
-http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/9070.m3u8
-
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RAI  4 HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11813.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RAI  1 HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11816.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 2 HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11815.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 3 HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11814.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2", Premium Cinema Emotion
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11784.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Espansione TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14257.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Movie
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13073.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Movie HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11783.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RAI NEWS 24
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14239.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RAI PREMIUM
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15600.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Premium HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11782.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Scuola
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11781.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Sport 1 HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11780.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky TG24 TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11777.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",CANALE 8
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11778.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TMN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22738.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TeleAmbiente
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14258.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Tevere  tv
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11776.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",VH1 Italia TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22333.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SENATO TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14255.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Radio 105
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11788.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Sport 2
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19058.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Azzura TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19101.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Video Calabria
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19103.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TeleArena
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19099.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SuperTV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19098.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Vera TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22186.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Canale 8 Teleficarazzi
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22739.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TVRS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22184.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Nettuno TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19097.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rete 4 HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19063.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Canale 85
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19102.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox crime
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11807.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SKT TG 24
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14256.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Super Tenis
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11775.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Virgin Radio TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11774.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Telearte
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11802.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Carina tv
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19094.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Antenna Sud TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14253.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Radio Italia TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11787.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Radio Monte Carlo TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11786.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Topcrime
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11772.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Company TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19095.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SKY TG24
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18389.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",90 numeri sat TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22154.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Antenna Sicilia TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22149.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Automoto TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22173.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Canale 7 Puglia
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22174.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Canale 8 Campania
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22175.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Class CNBC TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11756.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Eden 86 TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22153.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Esperia TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22139.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",ETV Rete 7
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22157.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Euronews
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22189.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fano TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11758.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HSE 24 Italia TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22170.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Italia 2 TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22171.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",La C TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22178.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",La Nuova TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11754.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",LaC News 24 TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14259.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Lucania TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22145.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",M2o TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22150.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Monza Race TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22187.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",OK Italia TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22161.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Onda TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22162.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TV 2000
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11771.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Prima Tivvú
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22141.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PromoVideo TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22138.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Radio 105 TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22176.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Radio 51 News TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22147.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Radio Number One TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22172.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Radio Studio 7 TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22146.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RadioNorba TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22163.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RETE 55
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19053.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rete Biella
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22177.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Reteconomy TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22155.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cartoonito
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19059.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Extra tv
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22740.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sardegna 1 Sat TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22152.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Siena TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22167.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",MILAN TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19100.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Standby TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22151.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Studio 100 Sat
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22169.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Super TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22179.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Tele Arena
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22182.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Tele Foggia
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22142.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Tele Jonio
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11759.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Telefriuli
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22148.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TeleMantova
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11763.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TeleMia +1
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22185.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Telequattro
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22160.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Telesud Trapani
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22159.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TeleTruria
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22165.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Teletruria 2
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22156.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TG Norba 24 TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22180.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TGR tv
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11762.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TSN Livigno TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22168.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",CANALE 7
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22825.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TSN TeleSondrio News
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22183.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Radio Taormina
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22828.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Radio Azzurra
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22826.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TV Parma
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22166.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Video Brescia
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22829.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TV Qui
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22143.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TVA Vicenza
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22181.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Video Calabria TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22158.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Video Mediterraneo TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22144.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Video Star
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22140.m3u8
 
 
 
@@ -11437,9 +10868,35 @@ httphost://$http-raw=http://www.p3g.tv/hembedplayer/tencricketraaa/2/600/420$htt
 
 #EXTINF:-1 group-title="India PREMIUM-SERVER4",
 
+#EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png" ,==India==
+http://..........
 
+#EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Star_Bharat_Official_Logo.jpg/220px-Star_Bharat_Official_Logo.jpg" ,Star Bharat HD
+http://54.39.144.139:8080/StarBharatHD/index.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://images.adgully.com/img/800/2011-09-Star-Gold-New-logo.jpg" ,Star Gold HD
+http://54.39.144.139:8080/StarGoldHD/index.m3u8	
+#EXTINF:-1 group-title="India PREMIUM-SERVER4",Star Plus
+http://103.205.133.43/hls/starplus.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2016/07/starplus001.jpg" ,Star Plus HD
+http://54.39.144.139:8080/StarPlusHD/index.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png/revision/latest?cb=20170728071015" ,Star Sports 1 HD
+http://54.39.144.139:8080/StarSports1HD/index.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://kccl.tv/sites/default/files/star%20sports%202%20hd.png" ,Star Sports 2 HD
+http://54.39.144.139:8080/StarSports2HD/index.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://kccl.tv/sites/default/files/star%20sports%202%20hd.png" ,Star Sports 3 HD
+http://54.39.144.139:8080/StarSports3HD/index.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://i.pinimg.com/originals/0f/6f/b6/0f6fb6fc6548281c875d7b9cd2f861f5.png" ,Star Vijay
+http://54.39.144.139:8080/StarVijayHD/index.m3u8
 
+#EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://pbs.twimg.com/profile_images/587586043626393600/rXsu0Mb6_400x400.png" ,& TV
+http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://4.bp.blogspot.com/-ht81qA7Zbac/V-jrIZa3GOI/AAAAAAAAJws/m96aT2EAbE8AdGRCps5XRh2sphbUKU7LQCLcB/s1600/AndTV_HD-mt-wiki.png",& TV HD
+http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png/revision/latest?cb=20171104165600" ,& Pictures HD
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://myshowtime.net/webtv/channels/COLORS-HD.png" ,Colors HD
+http://54.39.144.139:8080/ColorsHD/index.m3u8
 
 
 
@@ -13380,37 +12837,139 @@ http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2704.m3u8
 
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",
+
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png" ,==U.A.E==
 http://..........
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: beIN SPorts
-http://54.36.61.6:8000/live/Bein/Zee18/486.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: beIN Sports 1 HD
-http://54.36.61.6:8000/live/Bein/Zee18/485.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: beIN Sports 2 HD
-http://54.36.61.6:8000/live/Bein/Zee18/476.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: beIN Sports 3 HD
-http://54.36.61.6:8000/live/Bein/Zee18/475.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: beIN Sports 4 HD
-http://54.36.61.6:8000/live/Bein/Zee18/474.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: beIN Sports 5 HD
-http://54.36.61.6:8000/live/Bein/Zee18/473.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: beIN Sports 6 HD
-http://54.36.61.6:8000/live/Bein/Zee18/472.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: beIN Sports 7 HD
-http://54.36.61.6:8000/live/Bein/Zee18/471.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: beIN Sports 8 HD
-http://54.36.61.6:8000/live/Bein/Zee18/470.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: beIN Sports 9 HD
-http://54.36.61.6:8000/live/Bein/Zee18/469.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: beIN Sports 10 HD
-http://54.36.61.6:8000/live/Bein/Zee18/484.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: beIN Sports 11 HD
-http://54.36.61.6:8000/live/Bein/Zee18/483.ts
 
-
-
-
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="beIN SPORTS NEWS"  ,beIN SPORTS NEWS
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/171.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="beIN SPORTS HD"  ,beIN SPORTS HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/172.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="beIN SPORTS 1HD 1080"  ,beIN SPORTS 1HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/173.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="beIN SPORTS 2HD 1080"  ,beIN SPORTS 2HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/174.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="beIN SPORTS 3HD 1080"  ,beIN SPORTS 3HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/175.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="beIN SPORTS 4HD 1080"  ,beIN SPORTS 4HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/176.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="beIN SPORTS 5HD 1080"  ,beIN SPORTS 5HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/177.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="beIN SPORTS 6HD 1080"  ,beIN SPORTS 6HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/178.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="beIN SPORTS 7HD 1080"  ,beIN SPORTS 7HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/179.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="beIN SPORTS 8HD 1080"  ,beIN SPORTS 8HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/180.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="beIN SPORTS 9HD 1080"  ,beIN SPORTS 9HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/181.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="beIN SPORTS 10HD 1080"  ,beIN SPORTS 10HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/182.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="beIN SPORTS 11 HD 1080"  ,beIN SPORTS 11 HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/183.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="beIN SPORTS 12 HD 1080"  ,beIN SPORTS 12 HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/184.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="MBC 1 HD"  ,MBC 1 HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/16.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="MBC 2 HD"  ,MBC 2 HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/25.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="MBC 3 & FIX FOXI"  ,MBC 3 & FIX FOXI
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/29.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="MBC 4 HD"  ,MBC 4 HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/17.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="MBC DRAMA HD"  ,MBC DRAMA HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/18.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="MBC DRAMA PLUS HD"  ,MBC DRAMA PLUS HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/19.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="MBC ACTION HD"  ,MBC ACTION HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/27.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="MBC MAX HD"  ,MBC MAX HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/26.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="MBC VARIETY HD"  ,MBC VARIETY HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/28.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="MBC BOLLYWOOD HD"  ,MBC BOLLYWOOD HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/30.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="OSN Ya Hala! HD"  ,OSN Ya Hala! HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/38.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="OSN Ya Hala! Al-Oula HD"  ,OSN Ya Hala! Al-Oula HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/39.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="OSN Ya Hala! Al-Oula+2h"  ,OSN Ya Hala! Al-Oula+2h
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/40.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="OSN Ya Hala! Cinema HD"  ,OSN Ya Hala! Cinema HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/41.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="OSN MOVIES HD"  ,OSN MOVIES HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/35.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="OSN MOVIES ACTION HD"  ,OSN MOVIES ACTION HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/37.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="OSN MOVIES ACTION +2h HD"  ,OSN MOVIES ACTION +2h HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/36.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="OSN First HBO HD"  ,OSN First HBO HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/74.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="OSN MOVIES HD FIRST +2h"  ,OSN MOVIES HD FIRST +2h
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/77.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="OSN MOVIES COMEDY HD"  ,OSN MOVIES COMEDY HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/76.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="OSN MOVIES FESTIVAL HD"  ,OSN MOVIES FESTIVAL HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/75.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="OSN MOVIES THRILLER HD"  ,OSN MOVIES THRILLER HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/79.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="OSN Syfy HD"  ,OSN Syfy HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/78.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="OSN SERIES COMEDY HD"  ,OSN SERIES COMEDY HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/80.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="OSN SERIES FIRST HD"  ,OSN SERIES FIRST HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/81.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="OSN SERIES HD"  ,OSN SERIES HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/82.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="OSN Movies HD Disney"  ,OSN Movies HD Disney
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/191.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="OSN DTX HD"  ,OSN DTX HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/196.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="OSN DISNEP CH"  ,OSN DISNEP CH
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/192.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="OSN DISNEP JUNIOR"  ,OSN DISNEP JUNIOR
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/193.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="OSN DISNEP XD"  ,OSN DISNEP XD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/194.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="WWE HD"  ,WWE HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/142.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="DISCOVERY ID HD"  ,DISCOVERY ID HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/209.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AL YAWM HD"  ,AL YAWM HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/214.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="FOX MOVIES"  ,FOX MOVIES
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/204.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="FOX Movies Action"  ,FOX Movies Action
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/206.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="FOX Movies Family"  ,FOX Movies Family
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/205.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="Boomerang HD"  ,Boomerang HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/202.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="FX HD"  ,FX HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/203.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="STAR MOVIES HD"  ,STAR MOVIES HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/207.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="STAR World"  ,STAR World
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/208.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="Cinemachi Movies HD"  ,Cinemachi Movies HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/211.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="Cinemachi kids HD"  ,Cinemachi kids HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/210.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="Animal Planet HD"  ,Animal Planet HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/137.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="Discovery Science HD"  ,Discovery Science HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/139.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="Planet Earth HD"  ,Planet Earth HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/138.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="OSN NAT GEO WILD HD"  ,OSN NAT GEO WILD HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/197.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="NAT GEO WILD HD"  ,NAT GEO WILD HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/140.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="Nat Geo People HD"  ,Nat Geo People HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/141.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="DOCU BOX HD"  ,DOCU BOX HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/195.ts
 
 
 
