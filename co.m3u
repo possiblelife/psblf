@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,16/09/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,18/09/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -394,20 +394,6 @@ https://cdn.tzampa.tv/live/ALPHA.m3u8|referer=https://tzampa.tv/home
 
 
 #EXTINF:-1 group-title="Greece-SERVER4",
-#EXTINF:-1 group-title="Greece-SERVER4" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/manaellada.png" ,==GREECE==
-http://..........
-
-#EXTINF:-1 group-title="Greece-SERVER4" tvg-name="ΕΡΤ1" epg-id="EPT1.gr" tvg-logo="https://goo.gl/hD0NSD" ,ERT1
-http://87.229.71.54:8081/1/E-ert1/playlist.m3u8
-#EXTINF:-1 group-title="Greece-SERVER4" tvg-name="ΕΡΤ2" epg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2
-http://87.229.71.54:8081/1/E-ert2/playlist.m3u8
-#EXTINF:-1 group-title="Greece-SERVER4" tvg-name="ΕΡΤ3" epg-id="EPT3.gr" tvg-logo="https://goo.gl/FOIiN8" ,ERT3 
-http://87.229.71.54:8081/1/E-ert3/playlist.m3u8
-#EXTINF:-1 group-title="Greece-SERVER4" tvg-logo="https://goo.gl/np3siv" ,SKAI
-http://87.229.71.54:8081/1/E-skai/playlist.m3u8
-#EXTINF:-1 group-title="Greece-SERVER4" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
-http://87.229.71.54:8081/1/E-star/playlist.m3u8
-
 
 
 
@@ -1256,353 +1242,353 @@ https://www.youtube.com/watch?v=7sIsiHbDi_0
 http://.....
 
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BBC North West-BBC One" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC1 HD"  ,BBC1 HD 
-http://62.210.93.115:80/live?channelId=1&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=1&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BBC North West-BBC One" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC One"  ,BBC1
-http://62.210.93.115:80/live?channelId=2&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=2&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BBC East-BBC Two" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC2 HD"  ,BBC2 HD 
-http://62.210.93.115:80/live?channelId=3&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=3&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BBC East-BBC Two" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC TWO"  ,BBC2
-http://62.210.93.115:80/live?channelId=4&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=4&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="ITV Central-ITV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV HD"  ,ITV HD 
-http://62.210.93.115:80/live?channelId=5&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=5&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="ITV Central-ITV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV"  ,ITV 
-http://62.210.93.115:80/live?channelId=6&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=6&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="ITV Central +1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV plus1"  ,ITV plus1 
-http://62.210.93.115:80/live?channelId=7&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=7&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Channel 4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 4 HD"  ,Channel 4 HD
-http://62.210.93.115:80/live?channelId=8&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=8&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Channel 4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 4"  ,Channel 4 
-http://62.210.93.115:80/live?channelId=9&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=9&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Channel 4 + 1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 4 plus1"  ,Channel 4 plus1 
-http://62.210.93.115:80/live?channelId=10&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=10&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Channel 5" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 5 HD"  ,Channel 5 HD
-http://62.210.93.115:80/live?channelId=11&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=11&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Channel 5" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 5"  ,Channel 5
-http://62.210.93.115:80/live?channelId=12&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=12&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Channel 5 +1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 5 plus1"  ,Channel 5 plus1 
-http://62.210.93.115:80/live?channelId=13&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=13&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="ITV2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV2"  ,ITV2
-http://62.210.93.115:80/live?channelId=14&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=14&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="ITV3" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV3"  ,ITV3
-http://62.210.93.115:80/live?channelId=15&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=15&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="ITV4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV4"  ,ITV4
-http://62.210.93.115:80/live?channelId=16&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=16&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="ITVBe" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITVBe"  ,ITVBe 
-http://62.210.93.115:80/live?channelId=17&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=17&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="4seven" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="4seven"  ,4seven 
-http://62.210.93.115:80/live?channelId=18&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=18&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="E4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="E4"  ,E4 
-http://62.210.93.115:80/live?channelId=19&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=19&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="More4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="More4"  ,More4 
-http://62.210.93.115:80/live?channelId=20&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=20&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="5USA" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="5 USA"  ,5 USA
-http://62.210.93.115:80/live?channelId=21&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=21&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="5STAR" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="5STAR"  ,5STAR 
-http://62.210.93.115:80/live?channelId=22&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=22&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="My5"  tvg-name="My5"  ,My5 
-http://62.210.93.115:80/live?channelId=23&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=23&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="AMC HD from BT" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="AMC from BT"  ,AMC from BT 
-http://62.210.93.115:80/live?channelId=24&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=24&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky 1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky1 HD"  ,Sky1 HD
-http://62.210.93.115:80/live?channelId=25&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=25&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky 1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky1"  ,Sky1 
-http://62.210.93.115:80/live?channelId=26&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=26&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky 2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky2"  ,Sky2
-http://62.210.93.115:80/live?channelId=27&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=27&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Living" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Living"  ,Sky Living
-http://62.210.93.115:80/live?channelId=28&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=28&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Atlantic" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Atlantic HD"  ,Sky Atlantic HD 
-http://62.210.93.115:80/live?channelId=29&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=29&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Atlantic" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Atlantic"  ,Sky Atlantic 
-http://62.210.93.115:80/live?channelId=30&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=30&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Arts HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Arts"  ,Sky Arts 
-http://62.210.93.115:80/live?channelId=31&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=31&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Discovery Channel" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Discovery"  ,Discovery
-http://62.210.93.115:80/live?channelId=32&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=32&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Discovery History" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disc.History"  ,Disc.History 
-http://62.210.93.115:80/live?channelId=33&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=33&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Discovery Science" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disc.Science"  ,Disc.Science 
-http://62.210.93.115:80/live?channelId=34&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=34&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Discovery Turbo" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disc.Turbo"  ,Disc.Turbo 
-http://62.210.93.115:80/live?channelId=35&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=35&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Discovery Shed" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Discovery Shed"  ,Discovery Shed
-http://62.210.93.115:80/live?channelId=36&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=36&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="DMAX" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="DMAX"  ,DMAX
-http://62.210.93.115:80/live?channelId=37&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=37&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Blaze" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Blaze"  ,Blaze 
-http://62.210.93.115:80/live?channelId=38&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=38&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Comedy Central" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ComedyCentral"  ,ComedyCentral
-http://62.210.93.115:80/live?channelId=39&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=39&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Comedy Central Extra" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ComedyXtra"  ,ComedyXtra
-http://62.210.93.115:80/live?channelId=40&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=40&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="CI HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Crime and Investigation"  ,Crime and Investigation 
-http://62.210.93.115:80/live?channelId=41&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=41&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Animal Planet" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Animal Planet"  ,Animal Planet 
-http://62.210.93.115:80/live?channelId=42&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=42&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="History" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="HISTORY"  ,HISTORY
-http://62.210.93.115:80/live?channelId=43&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=43&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="H2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="H2"  ,H2
-http://62.210.93.115:80/live?channelId=44&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=44&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Nat Geo Wild" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="National Geo Wild"  ,National Geo Wild 
-http://62.210.93.115:80/live?channelId=45&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=45&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="National Geographic Channel" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="National Geographic"  ,National Geographic
-http://62.210.93.115:80/live?channelId=46&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=46&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="TLC" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="TLC"  ,TLC 
-http://62.210.93.115:80/live?channelId=47&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=47&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Syfy" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Syfy"  ,Syfy 
-http://62.210.93.115:80/live?channelId=48&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=48&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Lifetime" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Lifetime"  ,Lifetime 
-http://62.210.93.115:80/live?channelId=49&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=49&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="MTV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="MTV"  ,MTV 
-http://62.210.93.115:80/live?channelId=50&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=50&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Dave" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Dave"  ,Dave 
-http://62.210.93.115:80/live?channelId=51&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=51&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Dave ja vu" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Dave ja vu"  ,Dave ja vu
-http://62.210.93.115:80/live?channelId=52&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=52&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="FOX" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="FOX"  ,FOX 
-http://62.210.93.115:80/live?channelId=53&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=53&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Horror Channel" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="horror channel"  ,horror channel 
-http://62.210.93.115:80/live?channelId=54&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=54&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Investigation Discovery" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ID"  ,ID
-http://62.210.93.115:80/live?channelId=55&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=55&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Good Food" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Good Food"  ,Good Food 
-http://62.210.93.115:80/live?channelId=56&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=56&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Home" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Home"  ,Home 
-http://62.210.93.115:80/live?channelId=57&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=57&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Food Network" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Food Network"  ,Food Network
-http://62.210.93.115:80/live?channelId=58&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=58&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Alibi" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="alibi"  ,alibi 
-http://62.210.93.115:80/live?channelId=59&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=59&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Drama" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Drama"  ,Drama 
-http://62.210.93.115:80/live?channelId=60&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=60&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="E! Entertainment" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="E!"  ,E! 
-http://62.210.93.115:80/live?channelId=61&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=61&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Eden" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Eden"  ,Eden
-http://62.210.93.115:80/live?channelId=62&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=62&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="GOLD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="GOLD"  ,GOLD
-http://62.210.93.115:80/live?channelId=63&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=63&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Pick" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Pick"  ,Pick
-http://62.210.93.115:80/live?channelId=64&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=64&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Really" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Really"  ,Really 
-http://62.210.93.115:80/live?channelId=65&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=65&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Yesterday" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Yesterday"  ,Yesterday
-http://62.210.93.115:80/live?channelId=66&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=66&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="W" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="W"  ,W 
-http://62.210.93.115:80/live?channelId=67&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=67&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Universal Channel" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Universal"  ,Universal 
-http://62.210.93.115:80/live?channelId=68&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=68&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Quest" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="QUEST"  ,QUEST 
-http://62.210.93.115:80/live?channelId=69&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=69&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Cinema Action & Adventure" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA ACTION & ADVENTURE HD"  ,CINEMA ACTION & ADVENTURE HD 
-http://62.210.93.115:801/live?channelId=70&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:801/live?channelId=70&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Cinema Disney" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA DISNEY HD"  ,CINEMA DISNEY HD
-http://62.210.93.115:801/live?channelId=71&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:801/live?channelId=71&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Cinema Drama & Romance" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA DRAMA AND ROMANCE HD"  ,CINEMA DRAMA AND ROMANCE HD -
-http://62.210.93.115:801/live?channelId=72&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:801/live?channelId=72&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Family HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA FAMILY HD"  ,CINEMA FAMILY HD 
-http://62.210.93.115:801/live?channelId=73&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:801/live?channelId=73&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Cinema Hits" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA HITS HD"  ,CINEMA HITS HD
-http://62.210.93.115:801/live?channelId=74&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:801/live?channelId=74&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Cinema Greats" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA GREATS HD"  ,CINEMA GREATS HD
-http://62.210.93.115:801/live?channelId=75&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:801/live?channelId=75&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Cinema Premiere" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA PREMIERE HD"  ,CINEMA PREMIERE HD
-http://62.210.93.115:801/live?channelId=76&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:801/live?channelId=76&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Cinema Sky-Fi" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA SCI-FI & HORROR HD"  ,CINEMA SCI-FI & HORROR HD 
-http://62.210.93.115:801/live?channelId=77&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:801/live?channelId=77&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Cinema Select" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA SELECT HD"  ,CINEMA SELECT HD
-http://62.210.93.115:801/live?channelId=78&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:801/live?channelId=78&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Cinema Crime & Thriller" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA THRILLER HD"  ,CINEMA THRILLER HD 
-http://62.210.93.115:801/live?channelId=79&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:801/live?channelId=79&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Action HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Action & Adventure"  ,Sky Movies Action & Adventure 
-http://62.210.93.115:801/live?channelId=80&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:801/live?channelId=80&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Movies Comedy HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Comedy"  ,Sky Movies Comedy 
-http://62.210.93.115:801/live?channelId=81&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:801/live?channelId=81&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Disney HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Disney"  ,Sky Movies Disney 
-http://62.210.93.115:801/live?channelId=82&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:801/live?channelId=82&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky DraRomHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Drama & Romance"  ,Sky Movies Drama & Romance 
-http://62.210.93.115:801/live?channelId=83&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:801/live?channelId=83&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Family HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Family"  ,Sky Movies Family 
-http://62.210.93.115:801/live?channelId=84&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:801/live?channelId=84&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Greats HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Greats"  ,Sky Movies Greats 
-http://62.210.93.115:801/live?channelId=85&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:801/live?channelId=85&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="SkyPremiereHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Premiere"  ,Sky Movies Premiere 
-http://62.210.93.115:801/live?channelId=86&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:801/live?channelId=86&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Movies Sci-Fi & Horror" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Sci-Fi & Horror"  ,Sky Movies Sci-Fi & Horror
-http://62.210.93.115:801/live?channelId=87&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:801/live?channelId=87&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Movies Select HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Select"  ,Sky Movies Select 
-http://62.210.93.115:801/live?channelId=88&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:801/live?channelId=88&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Movies Crime & Thriller HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Thriller"  ,Sky Movies Thriller 
-http://62.210.93.115:801/live?channelId=89&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:801/live?channelId=89&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Baby TV"  tvg-name="Baby TV"  ,Baby TV
-http://62.210.93.115:80/live?channelId=90&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=90&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="CBBC"  tvg-name="CBBC"  ,CBBC
-http://62.210.93.115:80/live?channelId=91&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=91&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Cartoon network"  tvg-name="Cartoon network"  ,Cartoon network 
-http://62.210.93.115:80/live?channelId=92&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=92&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Cbeeies"  tvg-name="Cbeeies"  ,Cbeeies 
-http://62.210.93.115:80/live?channelId=93&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=93&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Disney Channel"  tvg-name="Disney Channel"  ,Disney Channel
-http://62.210.93.115:80/live?channelId=94&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=94&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Disney Jr"  tvg-name="Disney Jr"  ,Disney Jr 
-http://62.210.93.115:80/live?channelId=95&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=95&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Disney XD"  tvg-name="Disney XD"  ,Disney XD 
-http://62.210.93.115:80/live?channelId=96&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=96&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Nick Jr"  tvg-name="Nick Jr"  ,Nick Jr 
-http://62.210.93.115:80/live?channelId=97&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=97&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Nick Toons"  tvg-name="Nick Toons"  ,Nick Toons
-http://62.210.93.115:80/live?channelId=98&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=98&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Nickelodeon"  tvg-name="Nickelodeon"  ,Nickelodeon 
-http://62.210.93.115:80/live?channelId=99&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=99&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="MTV Base"  tvg-name="MTV Base"  ,MTV Base 
-http://62.210.93.115:80/live?channelId=100&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=100&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="MTV Classic"  tvg-name="MTV Classic"  ,MTV Classic 
-http://62.210.93.115:80/live?channelId=101&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=101&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="MTV Dance"  tvg-name="MTV Dance"  ,MTV Dance 
-http://62.210.93.115:80/live?channelId=102&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=102&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="MTV Hits"  tvg-name="MTV Hits"  ,MTV Hits
-http://62.210.93.115:80/live?channelId=103&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=103&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="MTV Music"  tvg-name="MTV Music"  ,MTV Music
-http://62.210.93.115:80/live?channelId=104&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=104&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="MTV Rocks"  tvg-name="MTV Rocks"  ,MTV Rocks 
-http://62.210.93.115:80/live?channelId=105&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=105&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BBC One Northern Ireland"  tvg-name="BBC One Northern Ireland"  ,BBC One Northern Ireland 
-http://62.210.93.115:80/live?channelId=106&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=106&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BBC One Scotland"  tvg-name="BBC One Scotland"  ,BBC One Scotland 
-http://62.210.93.115:80/live?channelId=107&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=107&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BBC Two Scotland"  tvg-name="BBC Two Scotland"  ,BBC Two Scotland
-http://62.210.93.115:80/live?channelId=108&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=108&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BBC Two Wales"  tvg-name="BBC Two Wales"  ,BBC Two Wales 
-http://62.210.93.115:80/live?channelId=109&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=109&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="3e"  tvg-name="3e"  ,3e
-http://62.210.93.115:80/live?channelId=110&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=110&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="RTE one"  tvg-name="RTE one"  ,RTE one
-http://62.210.93.115:80/live?channelId=111&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=111&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="RTE two"  tvg-name="RTE two"  ,RTE two
-http://62.210.93.115:80/live?channelId=112&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=112&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="S4C"  tvg-name="S4C"  ,S4C
-http://62.210.93.115:80/live?channelId=113&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=113&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="STV"  tvg-name="STV"  ,STV 
-http://62.210.93.115:80/live?channelId=114&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=114&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="STV2"  tvg-name="STV2"  ,STV2 
-http://62.210.93.115:80/live?channelId=115&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=115&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="TG4"  tvg-name="TG4"  ,TG4 
-http://62.210.93.115:80/live?channelId=116&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=116&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Sports Action" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Action"  ,Sly Sports Action 
-http://62.210.214.33:80/live?channelId=117&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.214.33:80/live?channelId=117&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Sports Arena" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Action HD"  ,Sly Sports Action HD
-http://62.210.93.115:80/live?channelId=118&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=118&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Sports Arena" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Arena"  ,Sly Sports Arena
-http://62.210.93.115:80/live?channelId=119&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=119&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="SkySp Arena" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Arena HD"  ,Sly Sports Arena HD
-http://62.210.93.115:80/live?channelId=120&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=120&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Sports Cricket" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Cricket"  ,Sly Sports Cricket 
-http://62.210.93.115:80/live?channelId=121&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=121&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Sports Cricket" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Cricket HD"  ,Sly Sports Cricket HD 
-http://62.210.93.115:80/live?channelId=122&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=122&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Sports Football" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Football"  ,Sly Sports Football 
-http://62.210.93.115:80/live?channelId=123&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=123&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Sports Football" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Football HD"  ,Sly Sports Football HD
-http://62.210.93.115:80/live?channelId=124&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=124&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Sports Golf" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Golf"  ,Sly Sports Golf
-http://62.210.93.115:80/live?channelId=125&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=125&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Sports Golf" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Golf HD"  ,Sly Sports Golf HD 
-http://62.210.93.115:80/live?channelId=126&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=126&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Sports Main Event" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Main"  ,Sly Sports Main 
-http://62.210.93.115:80/live?channelId=127&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=127&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Sports Main Event" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Main HD"  ,Sly Sports Main HD
-http://62.210.93.115:80/live?channelId=128&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=128&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Sports Mix" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Mix"  ,Sly Sports Mix 
-http://62.210.93.115:80/live?channelId=129&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=129&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Sports Mix" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Mix HD"  ,Sly Sports Mix HD 
-http://62.210.93.115:80/live?channelId=130&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=130&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Sports Premier League" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports PL"  ,Sly Sports PL 
-http://62.210.93.115:80/live?channelId=131&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=131&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Sports Premier League" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports PL HD"  ,Sly Sports PL HD 
-http://62.210.93.115:80/live?channelId=132&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=132&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Sports F1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports F1"  ,Sly Sports F1 
-http://62.210.93.115:80/live?channelId=133&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=133&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Sports F1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Spts F1 HD"  ,Sly Spts F1 HD 
-http://62.210.93.115:80/live?channelId=134&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=134&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Sports News" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports News"  ,Sly Sports News 
-http://62.210.93.115:80/live?channelId=135&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=135&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Sky Sports News" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports News HD"  ,Sly Sports News HD 
-http://62.210.93.115:80/live?channelId=136&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=136&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BT Sport 1HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 1"  ,BT Sport 1 
-http://62.210.93.115:80/live?channelId=138&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=138&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BT Sport 1HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 1 HD"  ,BT Sport 1 HD 
-http://62.210.93.115:80/live?channelId=139&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=139&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BT Sport 2 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 2"  ,BT Sport 2 
-http://62.210.93.115:80/live?channelId=140&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=140&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BT Sport 2 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 2 HD"  ,BT Sport 2 HD 
-http://62.210.93.115:80/live?channelId=141&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=141&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BT Sport 3 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 3"  ,BT Sport 3 
-http://62.210.93.115:80/live?channelId=142&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=142&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BT Sport 3 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 3 HD"  ,BT Sport 3 HD 
-http://62.210.93.115:80/live?channelId=143&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=143&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BTSpt//ESPNHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport ESPN"  ,BT Sport ESPN 
-http://62.210.93.115:80/live?channelId=144&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=144&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BT Sport ESPN HD"  tvg-name="BT Sport ESPN HD"  ,BT Sport ESPN HD 
-http://62.210.93.115:80/live?channelId=145&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=145&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BT Sport X1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 1"  ,BT Sport Extra 1 
-http://62.210.93.115:80/live?channelId=146&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=146&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BT Sport X2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 2"  ,BT Sport Extra 2
-http://62.210.93.115:80/live?channelId=147&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=147&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BT Sport X3" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 3"  ,BT Sport Extra 3 
-http://62.210.93.115:80/live?channelId=148&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=148&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BT Sport X4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 4"  ,BT Sport Extra 4 
-http://62.210.93.115:80/live?channelId=149&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=149&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BT Sport X5" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 5"  ,BT Sport Extra 5 
-http://62.210.93.115:80/live?channelId=150&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=150&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BT Sport X6" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 6"  ,BT Sport Extra 6 
-http://62.210.93.115:80/live?channelId=151&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=151&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="eir Sport 1"  tvg-name="eir Sport 1"  ,eir Sport 1 
-http://62.210.93.115:80/live?channelId=152&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=152&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="eir Sport 2"  tvg-name="eir Sport 2"  ,eir Sport 2 
-http://62.210.93.115:80/live?channelId=153&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=153&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Eurosport 1"  tvg-name="Eurosport 1"  ,Eurosport 1 
-http://62.210.93.115:80/live?channelId=154&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=154&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Eurosport 2"  tvg-name="Eurosport 2"  ,Eurosport 2
-http://62.210.93.115:80/live?channelId=155&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=155&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="FreeSports"  tvg-name="FreeSports"  ,FreeSports 
-http://62.210.93.115:80/live?channelId=156&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=156&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="FrontRunner"  tvg-name="FrontRunner"  ,FrontRunner
-http://62.210.93.115:80/live?channelId=157&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=157&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="MUTV"  tvg-name="MUTV"  ,MUTV 
-http://62.210.93.115:80/live?channelId=160&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=160&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="LFC tv"  tvg-name="LFC tv"  ,LFC tv 
-http://62.210.93.115:80/live?channelId=161&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=161&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Chelsea Tv"  tvg-name="Chelsea Tv"  ,Chelsea Tv 
-http://62.210.93.115:80/live?channelId=162&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=162&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="MOTOGP LIVE 1"  tvg-name="MOTOGP LIVE 1"  ,MOTOGP LIVE 1 
-http://62.210.93.115:80/live?channelId=163&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=163&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="MOTOGP LIVE 2"  tvg-name="MOTOGP LIVE 2"  ,MOTOGP LIVE 2 
-http://62.210.93.115:80/live?channelId=164&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=164&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="MOTOGP LIVE 3"  tvg-name="MOTOGP LIVE 3"  ,MOTOGP LIVE 3 
-http://62.210.93.115:80/live?channelId=165&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=165&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Motorsport TV"  tvg-name="Motorsport TV"  ,Motorsport TV 
-http://62.210.93.115:80/live?channelId=166&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=166&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Premier Sports"  tvg-name="Premier Sports"  ,Premier Sports 
-http://62.210.93.115:80/live?channelId=167&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=167&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Premier Sports HD"  tvg-name="Premier Sports HD"  ,Premier Sports HD 
-http://62.210.93.115:80/live?channelId=168&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=168&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Racing UK"  tvg-name="Racing UK"  ,Racing UK 
-http://62.210.93.115:80/live?channelId=169&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=169&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Racing UK HD"  tvg-name="Racing UK HD"  ,Racing UK HD
-http://62.210.93.115:80/live?channelId=170&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=170&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="At The Races"  tvg-name="At The Races"  ,At The Races
-http://62.210.93.115:80/live?channelId=171&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=171&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BoxNation"  tvg-name="BoxNation"  ,BoxNation 
-http://62.210.93.115:80/live?channelId=172&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=172&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="WWE Network"  tvg-name="WWE Network"  ,WWE Network
-http://62.210.93.115:80/live?channelId=254&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=254&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="Boomerang"  tvg-name="Boomerang"  ,Boomerang
-http://62.210.93.115:80/live?channelId=255&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=255&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="BBC NEWS"  tvg-name="BBC NEWS"  ,BBC NEWS
-http://62.210.93.115:80/live?channelId=256&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=256&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="CNN NEWS"  tvg-name="CNN NEWS"  ,CNN NEWS
-http://62.210.93.115:80/live?channelId=257&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=257&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 group-title="UK-SERVER2" tvg-id="SKY NEWS"  tvg-name="SKY NEWS"  ,SKY NEWS
-http://62.210.93.115:80/live?channelId=258&uid=1917&deviceMac=00:1A:79:15:34:33
+http://62.210.93.115:80/live?channelId=258&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 
 
 
@@ -1691,6 +1677,8 @@ http://123tv.live/watch/freesports/|webview zoom=200 scroll=200,200
 
 
 #EXTINF:-1 group-title="UK-SERVER4", 
+#EXTINF:-1 group-title="UK-SERVER4" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
+http://..........
 
 #EXTINF:-1 group-title="UK-SERVER4",Sky sp 2
 http://vietcago.net/vstv/skysp2.m3u8
@@ -1704,6 +1692,50 @@ http://vietcago.net/vstv/skysp4.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="UK-SERVER5", 
+
+#EXTINF:-1 group-title="UK-SERVER5" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
+http://..........
+
+#EXTINF:-1 group-title="UK-SERVER5", BT Sport 1 
+http://185.53.163.205:2700 
+#EXTINF:-1 group-title="UK-SERVER5", BT Sport 2 
+http://185.53.163.205:2506 
+#EXTINF:-1 group-title="UK-SERVER5", BT Sport 3 
+http://185.53.163.205:2701 
+#EXTINF:-1 group-title="UK-SERVER5", BT Sport ESPN 
+http://185.53.163.205:2507 
+#EXTINF:-1 group-title="UK-SERVER5", BT Sport Extra 1 
+http://185.53.163.205:2707 
+#EXTINF:-1 group-title="UK-SERVER5", BT Sport Extra 2 
+http://185.53.163.205:2500 
+#EXTINF:-1 group-title="UK-SERVER5", BT Sport Extra 3 
+http://185.53.163.205:2501 
+#EXTINF:-1 group-title="UK-SERVER5", BT Sport Extra 4 
+http://185.53.163.205:2502 
+#EXTINF:-1 group-title="UK-SERVER5", BT Sport Extra 5 
+http://185.53.163.205:2503 
+#EXTINF:-1 group-title="UK-SERVER5", BT Sport Extra 6 
+http://185.53.163.205:2504 
 
 
 
@@ -2216,8 +2248,526 @@ http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/467.ts?.coms|user-agent
 
 #EXTINF:-1 group-title="UK PREMIUM-SERVER3",
 
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
+http://..........
 
-
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="Star Media Top Gear" ,Star Media Top Gear
+http://188.93.238.184:8000/live/ryan/ryan/37969.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="BBC1NorthWest.uk" tvg-name="UK@ BBC One North West" ,UK@ BBC One North West
+http://188.93.238.184:8000/live/ryan/ryan/37861.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="BBC2.uk" tvg-name="UK@ BBC Two HD" ,UK@ BBC Two HD
+http://188.93.238.184:8000/live/ryan/ryan/31971.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="BBC2.uk" tvg-name="UK@ BBC Two (Backup)" ,UK@ BBC Two (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/27023.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="ITV1London.uk" tvg-name="UK@ ITV HD" ,UK@ ITV HD
+http://188.93.238.184:8000/live/ryan/ryan/26573.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="ITV1Central.uk" tvg-name="UK@ ITV Central HD" ,UK@ ITV Central HD
+http://188.93.238.184:8000/live/ryan/ryan/35123.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="ITV1Granada.uk" tvg-name="UK@ ITV Granada HD" ,UK@ ITV Granada HD
+http://188.93.238.184:8000/live/ryan/ryan/36958.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Channel4.uk" tvg-name="UK@ Channel 4 HD" ,UK@ Channel 4 HD
+http://188.93.238.184:8000/live/ryan/ryan/33270.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Channel4.uk" tvg-name="UK@ Channel 4 (Backup)" ,UK@ Channel 4 (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/37413.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Channel5.uk" tvg-name="UK@ Channel 5 HD" ,UK@ Channel 5 HD
+http://188.93.238.184:8000/live/ryan/ryan/31973.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Channel5.uk" tvg-name="UK@ Channel 5 (Backup)" ,UK@ Channel 5 (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/29192.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Sky1.uk" tvg-name="UK@ Sky One HD" ,UK@ Sky One HD
+http://188.93.238.184:8000/live/ryan/ryan/11349.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Sky1.uk" tvg-name="UK@ Sky 1 (Backup)" ,UK@ Sky 1 (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/27675.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkyLiving.uk" tvg-name="UK@ Sky Witness HD" ,UK@ Sky Witness HD
+http://188.93.238.184:8000/live/ryan/ryan/8143.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkyLiving.uk" tvg-name="UK@ Sky Living (Backup)" ,UK@ Sky Living (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/37337.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="FineLiving.eu" tvg-name="UK@ Fine Living" ,UK@ Fine Living
+http://188.93.238.184:8000/live/ryan/ryan/37338.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkyAtlantic.uk" tvg-name="UK@ Sky Atlantic HD" ,UK@ Sky Atlantic HD
+http://188.93.238.184:8000/live/ryan/ryan/8144.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkyAtlantic.uk" tvg-name="UK@ Sky Atlantic (Backup)" ,UK@ Sky Atlantic (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/27098.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="W.uk" tvg-name="UK@ W HD." ,UK@ W HD.
+http://188.93.238.184:8000/live/ryan/ryan/8145.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="GOLD.uk" tvg-name="UK@ Gold" ,UK@ Gold
+http://188.93.238.184:8000/live/ryan/ryan/36517.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="GOLD.uk" tvg-name="UK@ Gold (Backup)" ,UK@ Gold (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/27674.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Dave.uk" tvg-name="UK@ Dave HD" ,UK@ Dave HD
+http://188.93.238.184:8000/live/ryan/ryan/31974.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Dave.uk" tvg-name="UK@ Dave  HD" ,UK@ Dave  HD
+http://188.93.238.184:8000/live/ryan/ryan/37383.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="ComedyCentral.uk" tvg-name="UK@ Comedy Central HD" ,UK@ Comedy Central HD
+http://188.93.238.184:8000/live/ryan/ryan/8148.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="MTV.uk" tvg-name="UK@ MTV HD" ,UK@ MTV HD
+http://188.93.238.184:8000/live/ryan/ryan/8161.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="MTV.uk" tvg-name="UK@ MTV  (Backup)" ,UK@ MTV  (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/27679.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="ComedyCentral.uk" tvg-name="UK@ Comedy Central (Backup)" ,UK@ Comedy Central (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/29483.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Universal.uk" tvg-name="UK@ Universal HD" ,UK@ Universal HD
+http://188.93.238.184:8000/live/ryan/ryan/37160.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Universal.uk" tvg-name="UK@ Universal (Backup)" ,UK@ Universal (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/29476.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Alibi.uk" tvg-name="UK@ Alibi HD" ,UK@ Alibi HD
+http://188.93.238.184:8000/live/ryan/ryan/37167.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SCIFI.uk" tvg-name="UK@ Syfy HD" ,UK@ Syfy HD
+http://188.93.238.184:8000/live/ryan/ryan/8150.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SCIFI.uk" tvg-name="UK@ Syfy (Backup)" ,UK@ Syfy (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/37390.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="ITV2.uk" tvg-name="UK@ ITV2 HD" ,UK@ ITV2 HD
+http://188.93.238.184:8000/live/ryan/ryan/8153.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="ITV2.uk" tvg-name="UK@ ITV 2 (Backup)" ,UK@ ITV 2 (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/37340.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="ITV3.uk" tvg-name="UK@ ITV3 HD" ,UK@ ITV3 HD
+http://188.93.238.184:8000/live/ryan/ryan/8154.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="ITV3.uk" tvg-name="UK@ ITV 3 HD" ,UK@ ITV 3 HD
+http://188.93.238.184:8000/live/ryan/ryan/37345.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="ITV3.uk" tvg-name="UK@ ITV 3 (backup)" ,UK@ ITV 3 (backup)
+http://188.93.238.184:8000/live/ryan/ryan/37341.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="ITV4.uk" tvg-name="UK@ ITV 4 HD" ,UK@ ITV 4 HD
+http://188.93.238.184:8000/live/ryan/ryan/8155.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="ITV4.uk" tvg-name="UK@ ITV 4" ,UK@ ITV 4
+http://188.93.238.184:8000/live/ryan/ryan/11346.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="ITV4.uk" tvg-name="UK@ ITV 4 (Backup)" ,UK@ ITV 4 (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/37342.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkyArts1.uk" tvg-name="UK@ Sky Arts HD" ,UK@ Sky Arts HD
+http://188.93.238.184:8000/live/ryan/ryan/8156.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="ITVBe.uk" tvg-name="UK@ ITV Be HD" ,UK@ ITV Be HD
+http://188.93.238.184:8000/live/ryan/ryan/37412.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="FX.uk" tvg-name="UK@ FOX HD" ,UK@ FOX HD
+http://188.93.238.184:8000/live/ryan/ryan/19632.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="TLC.uk" tvg-name="UK@ TLC HD" ,UK@ TLC HD
+http://188.93.238.184:8000/live/ryan/ryan/8160.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="GoodFood.uk" tvg-name="UK@ Good Food." ,UK@ Good Food.
+http://188.93.238.184:8000/live/ryan/ryan/8168.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="E4.uk" tvg-name="UK@ E4 HD." ,UK@ E4 HD.
+http://188.93.238.184:8000/live/ryan/ryan/8170.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="E4.uk" tvg-name="UK@ E4 HD" ,UK@ E4 HD
+http://188.93.238.184:8000/live/ryan/ryan/27704.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="BBC4.uk" tvg-name="UK@ BBC Four HD" ,UK@ BBC Four HD
+http://188.93.238.184:8000/live/ryan/ryan/8152.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Challenge.uk" tvg-name="UK@ Challenge" ,UK@ Challenge
+http://188.93.238.184:8000/live/ryan/ryan/21112.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="CBSReality.uk" tvg-name="UK@ CBS Reality" ,UK@ CBS Reality
+http://188.93.238.184:8000/live/ryan/ryan/9004.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="CBSReality.uk" tvg-name="UK@ CBS Reality (Backup)" ,UK@ CBS Reality (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/29512.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="CBSAction.uk" tvg-name="UK@ CBS Action" ,UK@ CBS Action
+http://188.93.238.184:8000/live/ryan/ryan/9225.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="CBSAction.uk" tvg-name="UK@ CBS Action (Backup)" ,UK@ CBS Action (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/29513.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="CBSDrama.uk" tvg-name="UK@ CBS Drama" ,UK@ CBS Drama
+http://188.93.238.184:8000/live/ryan/ryan/9226.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="CBSDrama.uk" tvg-name="UK@ CBS Drama (Backup)" ,UK@ CBS Drama (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/29511.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="4Seven.uk" tvg-name="UK@ 4 SEVEN HD" ,UK@ 4 SEVEN HD
+http://188.93.238.184:8000/live/ryan/ryan/37163.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="E.uk" tvg-name="UK@ EI HD" ,UK@ EI HD
+http://188.93.238.184:8000/live/ryan/ryan/9228.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="DiscoveryDMAX.uk" tvg-name="UK@ DMAX" ,UK@ DMAX
+http://188.93.238.184:8000/live/ryan/ryan/33890.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="PickTV.uk" tvg-name="UK@ PicK tv" ,UK@ PicK tv
+http://188.93.238.184:8000/live/ryan/ryan/9229.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="PickTV.uk" tvg-name="UK@ PicK tv (Backup)" ,UK@ PicK tv (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/29514.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="BBC Entertainment" tvg-name="UK@ BBC Entertainment" ,UK@ BBC Entertainment
+http://188.93.238.184:8000/live/ryan/ryan/32935.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Really.uk" tvg-name="UK@ Really" tvg-logo="http://ksportiptv.com:1557/live/mp1skypeexchange23465/exchangert435/1935.m3u8" ,UK@ Really
+http://188.93.238.184:8000/live/ryan/ryan/9232.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Lifetime.uk" tvg-name="UK@ Lifetime HD" ,UK@ Lifetime HD
+http://188.93.238.184:8000/live/ryan/ryan/9233.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Really.uk" tvg-name="UK@ Really (Backup)" ,UK@ Really (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/37422.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SonyEntertainmentTV.uk" tvg-name="UK@ Sony Channel" ,UK@ Sony Channel
+http://188.93.238.184:8000/live/ryan/ryan/9234.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Drama.uk" tvg-name="UK@ Drama" ,UK@ Drama
+http://188.93.238.184:8000/live/ryan/ryan/9235.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="5star.uk" tvg-name="UK@ 5 USA" ,UK@ 5 USA
+http://188.93.238.184:8000/live/ryan/ryan/37156.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Spike.uk" tvg-name="UK@ 5Spike" ,UK@ 5Spike
+http://188.93.238.184:8000/live/ryan/ryan/9237.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Spike.uk" tvg-name="UK@ 5 Spike (Backup)" ,UK@ 5 Spike (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/37420.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="HomeandHealth.uk" tvg-name="UK@ Home & Health" ,UK@ Home & Health
+http://188.93.238.184:8000/live/ryan/ryan/9470.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="RealLives.uk" tvg-name="UK@ Real Lives" ,UK@ Real Lives
+http://188.93.238.184:8000/live/ryan/ryan/11342.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="5star.uk" tvg-name="UK@  5 Star" ,UK@  5 Star
+http://188.93.238.184:8000/live/ryan/ryan/26961.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="AMC.uk" tvg-name="UK@ AMC" ,UK@ AMC
+http://188.93.238.184:8000/live/ryan/ryan/11339.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Home.uk" tvg-name="UK@ Home" ,UK@ Home
+http://188.93.238.184:8000/live/ryan/ryan/11338.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Property.uk" tvg-name="UK@ Property Show" ,UK@ Property Show
+http://188.93.238.184:8000/live/ryan/ryan/11753.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="MyChannel.uk" tvg-name="UK@ My Channel" ,UK@ My Channel
+http://188.93.238.184:8000/live/ryan/ryan/11735.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Showcase.uk" tvg-name="UK@ Showcase" ,UK@ Showcase
+http://188.93.238.184:8000/live/ryan/ryan/11855.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="VoxAfrica.uk" tvg-name="UK@ VOX Africa" tvg-logo="x" ,UK@ VOX Africa
+http://188.93.238.184:8000/live/ryan/ryan/11793.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="ABNTV.uk" tvg-name="UK@ ABN TV" ,UK@ ABN TV
+http://188.93.238.184:8000/live/ryan/ryan/11337.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="FoodNetwork.uk" tvg-name="UK@ Food Network" ,UK@ Food Network
+http://188.93.238.184:8000/live/ryan/ryan/11335.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="RTE2.ie" tvg-name="UK@ RTE 2 HD" ,UK@ RTE 2 HD
+http://188.93.238.184:8000/live/ryan/ryan/11334.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="TG4.ie" tvg-name="UK@ TG4" ,UK@ TG4
+http://188.93.238.184:8000/live/ryan/ryan/11331.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="AhlebaitTV.uk" tvg-name="UK@ Ahlebait TV" ,UK@ Ahlebait TV
+http://188.93.238.184:8000/live/ryan/ryan/11364.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="AhlulbaytTV.uk" tvg-name="UK@ Ahlulbayt TV" ,UK@ Ahlulbayt TV
+http://188.93.238.184:8000/live/ryan/ryan/11373.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="AIT.uk" tvg-name="UK@ Ait International" ,UK@ Ait International
+http://188.93.238.184:8000/live/ryan/ryan/11884.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="UK@ Al Arabiya News" ,UK@ Al Arabiya News
+http://188.93.238.184:8000/live/ryan/ryan/11368.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="AryFamily.uk" tvg-name="UK@ Al Arabiya." ,UK@ Al Arabiya.
+http://188.93.238.184:8000/live/ryan/ryan/12594.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="UK@ ATN Bangla UK",UK@ ATN Bangla UK
+http://188.93.238.184:8000/live/ryan/ryan/11363.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="BBC World" tvg-name="UK@ BBC World News" ,UK@ BBC World News
+http://188.93.238.184:8000/live/ryan/ryan/11327.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="BEN.uk" tvg-name="UK@ BEN TV" ,UK@ BEN TV
+http://188.93.238.184:8000/live/ryan/ryan/11341.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="BLAZE.uk" tvg-name="UK@ Blaze" ,UK@ Blaze
+http://188.93.238.184:8000/live/ryan/ryan/11877.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="TalkingPictures.uk" tvg-name="UK@ Talking Pictures" ,UK@ Talking Pictures
+http://188.93.238.184:8000/live/ryan/ryan/11747.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="RecordTV.uk" tvg-name="UK@ Record TV" ,UK@ Record TV
+http://188.93.238.184:8000/live/ryan/ryan/11738.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="ForcesTV.uk" tvg-name="UK@ Forces TV" ,UK@ Forces TV
+http://188.93.238.184:8000/live/ryan/ryan/11898.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="LondonLive.uk" tvg-name="UK@ London Live" ,UK@ London Live
+http://188.93.238.184:8000/live/ryan/ryan/11344.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="ITV2.uk" tvg-name="UK@ ITV 2" ,UK@ ITV 2
+http://188.93.238.184:8000/live/ryan/ryan/10749.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="3e.ie" tvg-name="UK@ 3E" ,UK@ 3E
+http://188.93.238.184:8000/live/ryan/ryan/26572.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Sky1.uk" tvg-name="UK@ Sky 1" ,UK@ Sky 1
+http://188.93.238.184:8000/live/ryan/ryan/14193.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Sky2.uk" tvg-name="UK@ Sky 2" ,UK@ Sky 2
+http://188.93.238.184:8000/live/ryan/ryan/14195.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="More4.uk" tvg-name="UK@ More 4" ,UK@ More 4
+http://188.93.238.184:8000/live/ryan/ryan/22411.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="E.uk" tvg-name="UK@ E" ,UK@ E
+http://188.93.238.184:8000/live/ryan/ryan/26942.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="ThaneDirect.uk" tvg-name="UK@ Thane" ,UK@ Thane
+http://188.93.238.184:8000/live/ryan/ryan/30019.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Discovery.uk" tvg-name="UK@ Discovery HD" ,UK@ Discovery HD
+http://188.93.238.184:8000/live/ryan/ryan/9879.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="DiscoveryShed.uk" tvg-name="UK@ Discovery Shed HD" ,UK@ Discovery Shed HD
+http://188.93.238.184:8000/live/ryan/ryan/9238.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="DiscoveryTurbo.uk" tvg-name="UK@ Discovery Turbo HD" ,UK@ Discovery Turbo HD
+http://188.93.238.184:8000/live/ryan/ryan/9883.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="DiscoveryScience.uk" tvg-name="UK@ Discovery Science HD" ,UK@ Discovery Science HD
+http://188.93.238.184:8000/live/ryan/ryan/9884.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="AnimalPlanet.uk" tvg-name="UK@ Animal Planet HD" ,UK@ Animal Planet HD
+http://188.93.238.184:8000/live/ryan/ryan/9882.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="NationalGeographic.uk" tvg-name="UK@ National Geographic HD" ,UK@ National Geographic HD
+http://188.93.238.184:8000/live/ryan/ryan/9885.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="NatGeoWild.uk" tvg-name="UK@ National Geographic Wild HD" ,UK@ National Geographic Wild HD
+http://188.93.238.184:8000/live/ryan/ryan/29508.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="History.uk" tvg-name="UK@ History HD" ,UK@ History HD
+http://188.93.238.184:8000/live/ryan/ryan/10738.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="H2.uk" tvg-name="UK@ H2 HD" ,UK@ H2 HD
+http://188.93.238.184:8000/live/ryan/ryan/9952.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Investigation.uk" tvg-name="UK@ ID HD" ,UK@ ID HD
+http://188.93.238.184:8000/live/ryan/ryan/11352.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="CrimeAndInvestigationNetwork.uk" tvg-name="UK@ Crime + Investigation" ,UK@ Crime + Investigation
+http://188.93.238.184:8000/live/ryan/ryan/10743.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkyMoviesPremiere.uk" tvg-name="UK@ Sky Cinema Premiere HD" ,UK@ Sky Cinema Premiere HD
+http://188.93.238.184:8000/live/ryan/ryan/32855.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkyMoviesPremiere.uk" tvg-name="UK@ Sky Cinema Premier  (Backup)" ,UK@ Sky Cinema Premier  (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/27090.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkyMoviesDrama.uk" tvg-name="UK@ Sky Cinema Drama HD" ,UK@ Sky Cinema Drama HD
+http://188.93.238.184:8000/live/ryan/ryan/21865.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkyMoviesDisney.uk" tvg-name="UK@ Sky Cinema Disney HD" ,UK@ Sky Cinema Disney HD
+http://188.93.238.184:8000/live/ryan/ryan/11378.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkyMoviesDisney.uk" tvg-name="UK@ Sky Cinema Disney  (Backup)" ,UK@ Sky Cinema Disney  (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/27092.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkyMoviesFamily.uk" tvg-name="UK@ Sky Cinema Family HD" ,UK@ Sky Cinema Family HD
+http://188.93.238.184:8000/live/ryan/ryan/11377.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkyMoviesFamily.uk" tvg-name="UK@ Sky Cinema Family  (Backup)" ,UK@ Sky Cinema Family  (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/27093.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkyMoviesActionThriller.uk" tvg-name="UK@ Sky Cinema Action HD" ,UK@ Sky Cinema Action HD
+http://188.93.238.184:8000/live/ryan/ryan/32784.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkyMoviesActionThriller.uk" tvg-name="UK@ Sky Cinema Action  (Backup)" ,UK@ Sky Cinema Action  (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/27094.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkyMoviesComedy.uk" tvg-name="UK@ Sky Cinema Comedy HD" ,UK@ Sky Cinema Comedy HD
+http://188.93.238.184:8000/live/ryan/ryan/11376.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkyMoviesComedy.uk" tvg-name="UK@ Sky Cinema Comedy (Backup)" ,UK@ Sky Cinema Comedy (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/27095.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkyCinemaThriller.uk" tvg-name="UK@ Sky Cinema Thriller HD" ,UK@ Sky Cinema Thriller HD
+http://188.93.238.184:8000/live/ryan/ryan/23804.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkyCinemaThriller.uk" tvg-name="UK@ Sky Cinema Thriller (Backup)" ,UK@ Sky Cinema Thriller (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/27096.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkyMoviesIndie.uk" tvg-name="UK@ Sky Cinema Select HD" ,UK@ Sky Cinema Select HD
+http://188.93.238.184:8000/live/ryan/ryan/32667.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkyMoviesIndie.uk" tvg-name="UK@ Sky Cinema Select (Backup)" ,UK@ Sky Cinema Select (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/27097.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySciFiHorror.uk" tvg-name="UK@ Sky Cinema Sci-Fi / Horror HD" ,UK@ Sky Cinema Sci-Fi / Horror HD
+http://188.93.238.184:8000/live/ryan/ryan/13626.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkyCinemaHits.uk" tvg-name="UK@ Sky Cinema Hits HD" ,UK@ Sky Cinema Hits HD
+http://188.93.238.184:8000/live/ryan/ryan/37157.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Sky Movies Showcase UK" tvg-name="UK@ Sky Cinema Showcase HD" ,UK@ Sky Cinema Showcase HD
+http://188.93.238.184:8000/live/ryan/ryan/37274.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySciFiHorror.uk" tvg-name="UK@ Sky Cinema ScFi / Horror HD" ,UK@ Sky Cinema ScFi / Horror HD
+http://188.93.238.184:8000/live/ryan/ryan/11878.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Film4.uk" tvg-name="UK@ Film 4" ,UK@ Film 4
+http://188.93.238.184:8000/live/ryan/ryan/21369.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="TCM.uk" tvg-name="UK@ TCM HD" ,UK@ TCM HD
+http://188.93.238.184:8000/live/ryan/ryan/14207.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="HorrorChannel.uk" tvg-name="UK@ Horror Channel" ,UK@ Horror Channel
+http://188.93.238.184:8000/live/ryan/ryan/11872.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Movies4Men.uk" tvg-name="UK@ Movies 4 Men" ,UK@ Movies 4 Men
+http://188.93.238.184:8000/live/ryan/ryan/11869.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Movies4MenPlus1.uk" tvg-name="UK@ Movies 4 men + 1" ,UK@ Movies 4 men + 1
+http://188.93.238.184:8000/live/ryan/ryan/31321.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="MoviesTwentyFour.uk" tvg-name="UK@ Movies 24" ,UK@ Movies 24
+http://188.93.238.184:8000/live/ryan/ryan/26571.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="TrueMovies.uk" tvg-name="UK@ True Movies" ,UK@ True Movies
+http://188.93.238.184:8000/live/ryan/ryan/26494.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Nollywood.uk" tvg-name="UK@ Nollywood" ,UK@ Nollywood
+http://188.93.238.184:8000/live/ryan/ryan/11885.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="ROK.uk" tvg-name="UK@ ROK" ,UK@ ROK
+http://188.93.238.184:8000/live/ryan/ryan/11867.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySpMainEv.uk" tvg-name="UK@ Sky Sports Main Event HD",UK@ Sky Sports Main Event HD
+http://188.93.238.184:8000/live/ryan/ryan/37981.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySpMainEv.uk" tvg-name="UK@ Sky Sports Main Event SD",UK@ Sky Sports Main Event SD
+http://188.93.238.184:8000/live/ryan/ryan/37982.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySpMainEv.uk" tvg-name="UK@ Sky Sports Main Event (Backup-1)",UK@ Sky Sports Main Event (Backup-1)
+http://188.93.238.184:8000/live/ryan/ryan/36513.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySpPL.uk" tvg-name="UK@ Sky Sports Prem Lge HD",UK@ Sky Sports Prem Lge HD
+http://188.93.238.184:8000/live/ryan/ryan/36514.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySpPL.uk" tvg-name="UK@ Sky Sports Prem Lge (Backup-1)",UK@ Sky Sports Prem Lge (Backup-1)
+http://188.93.238.184:8000/live/ryan/ryan/13633.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySpFball.uk" tvg-name="UK@ Sky Sports Football HD",UK@ Sky Sports Football HD
+http://188.93.238.184:8000/live/ryan/ryan/12451.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySpFball.uk" tvg-name="UK@ Sky Sports Football (Backup-1)",UK@ Sky Sports Football (Backup-1)
+http://188.93.238.184:8000/live/ryan/ryan/37400.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySpCricket.uk" tvg-name="UK@ Sky Sports Cricket HD",UK@ Sky Sports Cricket HD
+http://188.93.238.184:8000/live/ryan/ryan/37955.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySpCricket.uk" tvg-name="UK@ Sky Sports Cricket (Backup-1)",UK@ Sky Sports Cricket (Backup-1)
+http://188.93.238.184:8000/live/ryan/ryan/37988.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySpF1.uk" tvg-name="UK@ Sky Sports F1 HD",UK@ Sky Sports F1 HD
+http://188.93.238.184:8000/live/ryan/ryan/9721.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySpF1.uk" tvg-name="UK@ Sky Sports F1(Backup-1)",UK@ Sky Sports F1(Backup-1)
+http://188.93.238.184:8000/live/ryan/ryan/9722.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySpArena.uk" tvg-name="UK@ Sky Sports Arena HD",UK@ Sky Sports Arena HD
+http://188.93.238.184:8000/live/ryan/ryan/11911.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySpArena.uk" tvg-name="UK@ Sky Sports Arena (Backup-1)",UK@ Sky Sports Arena (Backup-1)
+http://188.93.238.184:8000/live/ryan/ryan/37294.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySpNews.uk" tvg-name="UK@ Sky Sports News HQ",UK@ Sky Sports News HQ
+http://188.93.238.184:8000/live/ryan/ryan/9725.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySpNews.uk" tvg-name="UK@ Sky Sports News (Backup-1)",UK@ Sky Sports News (Backup-1)
+http://188.93.238.184:8000/live/ryan/ryan/37299.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySpTheOpen.uk" tvg-name="UK@Sky Sports Golf HD",UK@Sky Sports Golf HD
+http://188.93.238.184:8000/live/ryan/ryan/37569.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySpTheOpen.uk" tvg-name="UK@ Sky Sports Golf (Backup-1)",UK@ Sky Sports Golf (Backup-1)
+http://188.93.238.184:8000/live/ryan/ryan/32594.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySpAction.uk" tvg-name="UK@ Sky Sports Action HD",UK@ Sky Sports Action HD
+http://188.93.238.184:8000/live/ryan/ryan/36509.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySpAction.uk" tvg-name="UK@ Sky Sports Action (Backup-1)",UK@ Sky Sports Action (Backup-1)
+http://188.93.238.184:8000/live/ryan/ryan/36510.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySpMix.uk" tvg-name="UK@ Sky Sports Mix HD",UK@ Sky Sports Mix HD
+http://188.93.238.184:8000/live/ryan/ryan/9723.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SkySpMix.uk" tvg-name="UK@ Sky Sports Mix (Backup-1)",UK@ Sky Sports Mix (Backup-1)
+http://188.93.238.184:8000/live/ryan/ryan/29507.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Eurosport1.uk" tvg-name="UK@ Eurosport 1 HD",UK@ Eurosport 1 HD
+http://188.93.238.184:8000/live/ryan/ryan/29815.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Eurosport2.uk" tvg-name="UK@ Eurosport 2 HD",UK@ Eurosport 2 HD
+http://188.93.238.184:8000/live/ryan/ryan/10763.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="BTSport1.uk" tvg-name="UK@ BT Sport 1 HD",UK@ BT Sport 1 HD
+http://188.93.238.184:8000/live/ryan/ryan/36515.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="BTSport1.uk" tvg-name="UK@ BT Sport 1 (Backup-1)",UK@ BT Sport 1 (Backup-1)
+http://188.93.238.184:8000/live/ryan/ryan/32859.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="BTSport2.uk" tvg-name="UK@ BT Sport 2 HD",UK@ BT Sport 2 HD
+http://188.93.238.184:8000/live/ryan/ryan/37956.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="BTSport2.uk" tvg-name="UK@ BT Sport 2 (Backup-1)",UK@ BT Sport 2 (Backup-1)
+http://188.93.238.184:8000/live/ryan/ryan/37153.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="BTSport3.uk" tvg-name="UK@ BT Sport 3 HD",UK@ BT Sport 3 HD
+http://188.93.238.184:8000/live/ryan/ryan/32931.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="BTSport3.uk" tvg-name="UK@ BT Sport 3 (Backup-1)",UK@ BT Sport 3 (Backup-1)
+http://188.93.238.184:8000/live/ryan/ryan/32223.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="BTSportESPN.uk" tvg-name="UK@ BT Sport Espn HD",UK@ BT Sport Espn HD
+http://188.93.238.184:8000/live/ryan/ryan/10759.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="BTSportESPN.uk" tvg-name="UK@ BT Sport Espn (Backup-1)",UK@ BT Sport Espn (Backup-1)
+http://188.93.238.184:8000/live/ryan/ryan/10760.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="MY@ .Astro Sports",MY@ .Astro Sports
+http://188.93.238.184:8000/live/ryan/ryan/36505.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="MY@ .SkyNet Sports 1",MY@ .SkyNet Sports 1
+http://188.93.238.184:8000/live/ryan/ryan/36504.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="MY@ .SkyNet Sports 2",MY@ .SkyNet Sports 2
+http://188.93.238.184:8000/live/ryan/ryan/36503.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="MY@ .SkyNet Sports 3",MY@ .SkyNet Sports 3
+http://188.93.238.184:8000/live/ryan/ryan/36502.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="MY@ .SkyNet Sports 4",MY@ .SkyNet Sports 4
+http://188.93.238.184:8000/live/ryan/ryan/36501.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="MY@ .SkyNet Sports 5",MY@ .SkyNet Sports 5
+http://188.93.238.184:8000/live/ryan/ryan/36500.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="MY@ .SkyNet Sports 6",MY@ .SkyNet Sports 6
+http://188.93.238.184:8000/live/ryan/ryan/36499.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="LiverpoolFCTV.uk" tvg-name="UK@ LFC TV",UK@ LFC TV
+http://188.93.238.184:8000/live/ryan/ryan/33271.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="LiverpoolFCTV.uk" tvg-name="UK@ LFC TV Backup",UK@ LFC TV Backup
+http://188.93.238.184:8000/live/ryan/ryan/31950.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="MUTV.uk" tvg-name="UK@ MUTV HD",UK@ MUTV HD
+http://188.93.238.184:8000/live/ryan/ryan/26034.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="MUTV.uk" tvg-name="UK@ MUTV (Backup)",UK@ MUTV (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/29480.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="ChelseaTV.uk" tvg-name="UK@ Chelsea TV",UK@ Chelsea TV
+http://188.93.238.184:8000/live/ryan/ryan/10770.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="AtTheRaces.uk" tvg-name="UK@ At The Races",UK@ At The Races
+http://188.93.238.184:8000/live/ryan/ryan/37909.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="AtTheRaces.uk" tvg-name="UK@ At The Races (Backup)",UK@ At The Races (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/29479.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="RacingUK.uk" tvg-name="UK@ Racing UK HD",UK@ Racing UK HD
+http://188.93.238.184:8000/live/ryan/ryan/11160.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="RacingUK.uk" tvg-name="UK@ Racing UK (Backup-1)",UK@ Racing UK (Backup-1)
+http://188.93.238.184:8000/live/ryan/ryan/37381.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="BoxNation.uk" tvg-name="UK@ Boxnation HD",UK@ Boxnation HD
+http://188.93.238.184:8000/live/ryan/ryan/36506.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="BoxNation.uk" tvg-name="UK@ Boxnation (Backup)",UK@ Boxnation (Backup)
+http://188.93.238.184:8000/live/ryan/ryan/37382.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="PremierSports.uk" tvg-name="UK@ Premier Sports HD",UK@ Premier Sports HD
+http://188.93.238.184:8000/live/ryan/ryan/10767.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="eirSport1.ie" tvg-name="UK@ Eir Sports 1 HD",UK@ Eir Sports 1 HD
+http://188.93.238.184:8000/live/ryan/ryan/10765.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="eirSport2.ie" tvg-name="UK@ eir Sports 2 HD",UK@ eir Sports 2 HD
+http://188.93.238.184:8000/live/ryan/ryan/37425.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="MotorsTV.uk" tvg-name="UK@ Motorsports TV",UK@ Motorsports TV
+http://188.93.238.184:8000/live/ryan/ryan/10772.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="FrontRunner.uk" tvg-name="UK@ Front Runner",UK@ Front Runner
+http://188.93.238.184:8000/live/ryan/ryan/11859.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="FrontRunner2.uk" tvg-name="UK@ Front Runner 2",UK@ Front Runner 2
+http://188.93.238.184:8000/live/ryan/ryan/11372.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="HorseAndCountry.uk" tvg-name="UK@ Horse & Country",UK@ Horse & Country
+http://188.93.238.184:8000/live/ryan/ryan/11365.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Sky News UK" tvg-name="UK@ Sky News HD" ,UK@ Sky News HD
+http://188.93.238.184:8000/live/ryan/ryan/10899.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="UK@ Bloomberg News" ,UK@ Bloomberg News
+http://188.93.238.184:8000/live/ryan/ryan/10925.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="BBC1NorthWest.uk" tvg-name="UK@ BBC News HD" ,UK@ BBC News HD
+http://188.93.238.184:8000/live/ryan/ryan/10964.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="UK@ CNBC News" ,UK@ CNBC News
+http://188.93.238.184:8000/live/ryan/ryan/11016.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="UK@ NHK World News HD" ,UK@ NHK World News HD
+http://188.93.238.184:8000/live/ryan/ryan/11075.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="UK@ Euronews" ,UK@ Euronews
+http://188.93.238.184:8000/live/ryan/ryan/11076.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="UK@ RT HD" ,UK@ RT HD
+http://188.93.238.184:8000/live/ryan/ryan/11748.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Al Jazeera" tvg-name="UK@ Al Jazeera Eng HD" ,UK@ Al Jazeera Eng HD
+http://188.93.238.184:8000/live/ryan/ryan/11078.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="UK@ CNC World" ,UK@ CNC World
+http://188.93.238.184:8000/live/ryan/ryan/11853.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="UK@ Channels 24" ,UK@ Channels 24
+http://188.93.238.184:8000/live/ryan/ryan/11356.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="UK@ CNN HD" ,UK@ CNN HD
+http://188.93.238.184:8000/live/ryan/ryan/11074.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="Star Media Peppa Pig" ,Star Media Peppa Pig
+http://188.93.238.184:8000/live/ryan/ryan/37748.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Disney.uk" tvg-name="UK@ Disney Channel HD." ,UK@ Disney Channel HD.
+http://188.93.238.184:8000/live/ryan/ryan/12652.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="DisneyXD.uk" tvg-name="UK@ Disney XD HD" ,UK@ Disney XD HD
+http://188.93.238.184:8000/live/ryan/ryan/11381.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="DisneyJunior.uk" tvg-name="UK@ Disney Jnr HD" ,UK@ Disney Jnr HD
+http://188.93.238.184:8000/live/ryan/ryan/12651.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="NickJunior.uk" tvg-name="UK@ Nick Jr" ,UK@ Nick Jr
+http://188.93.238.184:8000/live/ryan/ryan/11379.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Nicktoons.uk" tvg-name="UK@ Nicktoons" ,UK@ Nicktoons
+http://188.93.238.184:8000/live/ryan/ryan/11391.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="NickJunior.uk" tvg-name="UK@ Nick Jr too" ,UK@ Nick Jr too
+http://188.93.238.184:8000/live/ryan/ryan/36599.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Cartoonito UK" tvg-name="UK@ Cartoonito" ,UK@ Cartoonito
+http://188.93.238.184:8000/live/ryan/ryan/37290.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Boomerang.uk" tvg-name="UK@ Boomerang HD" ,UK@ Boomerang HD
+http://188.93.238.184:8000/live/ryan/ryan/32934.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="Nickelodeon.uk" tvg-name="UK@ Nickelodeon HD" ,UK@ Nickelodeon HD
+http://188.93.238.184:8000/live/ryan/ryan/12654.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="CartoonNetwork.uk" tvg-name="UK@ Cartoon Network HD." ,UK@ Cartoon Network HD.
+http://188.93.238.184:8000/live/ryan/ryan/32933.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="CITV.uk" tvg-name="UK@ Citv" ,UK@ Citv
+http://188.93.238.184:8000/live/ryan/ryan/37158.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="CBBC.uk" tvg-name="UK@ CBBC" ,UK@ CBBC
+http://188.93.238.184:8000/live/ryan/ryan/11385.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="CBeebies.uk" tvg-name="UK@ Cbeebies HD" ,UK@ Cbeebies HD
+http://188.93.238.184:8000/live/ryan/ryan/11387.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="BabyTV.uk" tvg-name="UK@ Baby TV" ,UK@ Baby TV
+http://188.93.238.184:8000/live/ryan/ryan/11383.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="MTV.uk" tvg-name="UK@ MTV Live HD" ,UK@ MTV Live HD
+http://188.93.238.184:8000/live/ryan/ryan/34608.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="MTV.uk" tvg-name="UK@ MTV Music HD" ,UK@ MTV Music HD
+http://188.93.238.184:8000/live/ryan/ryan/37343.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="MTVDance.uk" tvg-name="UK@ MTV Dance HD" ,UK@ MTV Dance HD
+http://188.93.238.184:8000/live/ryan/ryan/37427.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="MTVHits.uk" tvg-name="UK@ MTV Hits HD" ,UK@ MTV Hits HD
+http://188.93.238.184:8000/live/ryan/ryan/11268.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="MTVBase.uk" tvg-name="UK@ MTV Base HD" ,UK@ MTV Base HD
+http://188.93.238.184:8000/live/ryan/ryan/29485.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="MTVRocks.uk" tvg-name="UK@ MTV Rocks HD" ,UK@ MTV Rocks HD
+http://188.93.238.184:8000/live/ryan/ryan/11271.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="MTVClassic.uk" tvg-name="UK@ MTV Classic HD" ,UK@ MTV Classic HD
+http://188.93.238.184:8000/live/ryan/ryan/11264.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="VH1UK.uk" tvg-name="UK@ VH1" ,UK@ VH1
+http://188.93.238.184:8000/live/ryan/ryan/36957.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="VH1UK.uk" tvg-name="UK@ VH1 Classic" ,UK@ VH1 Classic
+http://188.93.238.184:8000/live/ryan/ryan/37401.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="HeartTV.uk" tvg-name="UK@ Heart TV" ,UK@ Heart TV
+http://188.93.238.184:8000/live/ryan/ryan/11274.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="4Music.uk" tvg-name="UK@ 4 Music" ,UK@ 4 Music
+http://188.93.238.184:8000/live/ryan/ryan/37280.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="CapitalTV.uk" tvg-name="UK@ Capital TV" ,UK@ Capital TV
+http://188.93.238.184:8000/live/ryan/ryan/11742.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="ChannelAka.uk" tvg-name="UK@ Channel AKA" ,UK@ Channel AKA
+http://188.93.238.184:8000/live/ryan/ryan/11282.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="ClublandTV.uk" tvg-name="UK@ Clubland TV" ,UK@ Clubland TV
+http://188.93.238.184:8000/live/ryan/ryan/11736.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="UK@ M2O Music" ,UK@ M2O Music
+http://188.93.238.184:8000/live/ryan/ryan/37461.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="NOWMusic.uk" tvg-name="UK@ NOW 80s.." ,UK@ NOW 80s..
+http://188.93.238.184:8000/live/ryan/ryan/11752.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="VintageTV.uk" tvg-name="UK@ Vintage TV" ,UK@ Vintage TV
+http://188.93.238.184:8000/live/ryan/ryan/11283.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="UK@ Country Network" ,UK@ Country Network
+http://188.93.238.184:8000/live/ryan/ryan/37292.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="KeepItCountry.uk" tvg-name="UK@ Keep It Country" ,UK@ Keep It Country
+http://188.93.238.184:8000/live/ryan/ryan/11861.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="iONTV.uk" tvg-name="UK@ iON TV",UK@ iON TV
+http://188.93.238.184:8000/live/ryan/ryan/23005.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="UK@ PCNE Chinese" ,UK@ PCNE Chinese
+http://188.93.238.184:8000/live/ryan/ryan/11901.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="AbuDhabiTV.uk" tvg-name="UK@ Abu Dhabi TV" ,UK@ Abu Dhabi TV
+http://188.93.238.184:8000/live/ryan/ryan/11881.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="UK@ CHSTV",UK@ CHSTV
+http://188.93.238.184:8000/live/ryan/ryan/11858.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="AAJTAK.uk" tvg-name="UK@ AAJ Tak" ,UK@ AAJ Tak
+http://188.93.238.184:8000/live/ryan/ryan/11303.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="GloryTV.uk" tvg-name="UK@ Glory TV" ,UK@ Glory TV
+http://188.93.238.184:8000/live/ryan/ryan/11367.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="UK@ IQRA BANGLA",UK@ IQRA BANGLA
+http://188.93.238.184:8000/live/ryan/ryan/11759.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="KanshiTV.uk" tvg-name="UK@ Kanshi TV" ,UK@ Kanshi TV
+http://188.93.238.184:8000/live/ryan/ryan/11354.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="KTV.uk" tvg-name="UK@ KTV" ,UK@ KTV
+http://188.93.238.184:8000/live/ryan/ryan/12593.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="UK@ NTV",UK@ NTV
+http://188.93.238.184:8000/live/ryan/ryan/11886.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="RussiaToday.uk" tvg-name="UK@ Russia Today" ,UK@ Russia Today
+http://188.93.238.184:8000/live/ryan/ryan/11326.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="SafeerTV.uk" tvg-name="UK@ Safeer TV" ,UK@ Safeer TV
+http://188.93.238.184:8000/live/ryan/ryan/12598.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="TakbeerTV.uk" tvg-name="UK@ Takbeer.." ,UK@ Takbeer..
+http://188.93.238.184:8000/live/ryan/ryan/11750.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="TravelChannel.uk" tvg-name="UK@ Travel Channel" ,UK@ Travel Channel
+http://188.93.238.184:8000/live/ryan/ryan/11370.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="UK@ TV 99" ,UK@ TV 99
+http://188.93.238.184:8000/live/ryan/ryan/11909.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="UK@ TV ONE",UK@ TV ONE
+http://188.93.238.184:8000/live/ryan/ryan/12597.m3u8
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-ID="TV99.uk" tvg-name="UK@ TV99" ,UK@ TV99
 
 
 
@@ -2239,9 +2789,683 @@ http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/467.ts?.coms|user-agent
 
 
 #EXTINF:-1 group-title="UK PREMIUM-SERVER4",
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
+http://..........
+
+
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5004" tvg-name=":BBC ONE W Mid" ,:BBC ONE W Mid
+http://176.31.100.180:8000/live/sports/sports/5004.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5132" tvg-name=":BBC TWO"  ,:BBC TWO
+http://176.31.100.180:8000/live/sports/sports/5132.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5131" tvg-name=":ITV"  ,:ITV
+http://176.31.100.180:8000/live/sports/sports/5131.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5130" tvg-name=":Channel 4"  ,:Channel 4
+http://176.31.100.180:8000/live/sports/sports/5130.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5129" tvg-name=":Channel 5"  ,:Channel 5
+http://176.31.100.180:8000/live/sports/sports/5129.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5128" tvg-name=":Sky1"  ,:Sky1
+http://176.31.100.180:8000/live/sports/sports/5128.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5127" tvg-name=":Sky2"  ,:Sky2
+http://176.31.100.180:8000/live/sports/sports/5127.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5126" tvg-name=":Sky Living"  ,:Sky Living
+http://176.31.100.180:8000/live/sports/sports/5126.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5125" tvg-name=":Sky Living 1"  ,:Sky Living 1
+http://176.31.100.180:8000/live/sports/sports/5125.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5124" tvg-name=":W"  ,:W
+http://176.31.100.180:8000/live/sports/sports/5124.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5123" tvg-name=":W  1"  ,:W  1
+http://176.31.100.180:8000/live/sports/sports/5123.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5122" tvg-name=":GOLD"  ,:GOLD
+http://176.31.100.180:8000/live/sports/sports/5122.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5121" tvg-name=":GOLD  1"  ,:GOLD  1
+http://176.31.100.180:8000/live/sports/sports/5121.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5120" tvg-name=":Dave"  ,:Dave
+http://176.31.100.180:8000/live/sports/sports/5120.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5119" tvg-name=":Dave ja vu"  ,:Dave ja vu
+http://176.31.100.180:8000/live/sports/sports/5119.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5118" tvg-name=":Pick"  ,:Pick
+http://176.31.100.180:8000/live/sports/sports/5118.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5116" tvg-name=":ComedyCent 1"  ,:ComedyCent 1
+http://176.31.100.180:8000/live/sports/sports/5116.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5117" tvg-name=":ComedyCentral"  ,:ComedyCentral
+http://176.31.100.180:8000/live/sports/sports/5117.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5115" tvg-name=":ComedyXtra"  ,:ComedyXtra
+http://176.31.100.180:8000/live/sports/sports/5115.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5114" tvg-name=":ComedyXtra 1"  ,:ComedyXtra 1
+http://176.31.100.180:8000/live/sports/sports/5114.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5113" tvg-name=":Universal"  ,:Universal
+http://176.31.100.180:8000/live/sports/sports/5113.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5112" tvg-name=":Universal   1"  ,:Universal   1
+http://176.31.100.180:8000/live/sports/sports/5112.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4846" tvg-name=":MTV" ,:MTV
+http://176.31.100.180:8000/live/sports/sports/4846.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4845" tvg-name=":MTV 1" ,:MTV 1
+http://176.31.100.180:8000/live/sports/sports/4845.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5111" tvg-name=":Syfy"  ,:Syfy
+http://176.31.100.180:8000/live/sports/sports/5111.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5110" tvg-name=":Syfy 1"  ,:Syfy 1
+http://176.31.100.180:8000/live/sports/sports/5110.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5109" tvg-name=":e4"  ,:e4
+http://176.31.100.180:8000/live/sports/sports/5109.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5108" tvg-name=":E4   1"  ,:E4   1
+http://176.31.100.180:8000/live/sports/sports/5108.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5107" tvg-name=":ITV    1"  ,:ITV    1
+http://176.31.100.180:8000/live/sports/sports/5107.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5106" tvg-name=":ITVBe"  ,:ITVBe
+http://176.31.100.180:8000/live/sports/sports/5106.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5093" tvg-name=":ITVBe 1"  ,:ITVBe 1
+http://176.31.100.180:8000/live/sports/sports/5093.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5105" tvg-name=":ITV2"  ,:ITV2
+http://176.31.100.180:8000/live/sports/sports/5105.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5104" tvg-name=":ITV2  1"  ,:ITV2  1
+http://176.31.100.180:8000/live/sports/sports/5104.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5103" tvg-name=":ITV3"  ,:ITV3
+http://176.31.100.180:8000/live/sports/sports/5103.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5095" tvg-name=":ITV3 1"  ,:ITV3 1
+http://176.31.100.180:8000/live/sports/sports/5095.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5065" tvg-name=":truTV"  ,:truTV
+http://176.31.100.180:8000/live/sports/sports/5065.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5064" tvg-name=":truTV  1"  ,:truTV  1
+http://176.31.100.180:8000/live/sports/sports/5064.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5097" tvg-name=":5spike"  ,:5spike
+http://176.31.100.180:8000/live/sports/sports/5097.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5092" tvg-name=":5spike 1"  ,:5spike 1
+http://176.31.100.180:8000/live/sports/sports/5092.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5091" tvg-name=":FOX"  ,:FOX
+http://176.31.100.180:8000/live/sports/sports/5091.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5090" tvg-name=":FOX 1"  ,:FOX 1
+http://176.31.100.180:8000/live/sports/sports/5090.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5089" tvg-name=":TLC"  ,:TLC
+http://176.31.100.180:8000/live/sports/sports/5089.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5088" tvg-name=":TLC 1"  ,:TLC 1
+http://176.31.100.180:8000/live/sports/sports/5088.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5087" tvg-name=":TLC 2"  ,:TLC 2
+http://176.31.100.180:8000/live/sports/sports/5087.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4950" tvg-name=":Yesterday" ,:Yesterday
+http://176.31.100.180:8000/live/sports/sports/4950.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4949" tvg-name=":YESTERDAY 1" ,:YESTERDAY 1
+http://176.31.100.180:8000/live/sports/sports/4949.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5086" tvg-name=":alibi"  ,:alibi
+http://176.31.100.180:8000/live/sports/sports/5086.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5410" tvg-name=":alibi hd" ,:alibi hd
+http://176.31.100.180:8000/live/sports/sports/5410.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5085" tvg-name=":alibi  1"  ,:alibi  1
+http://176.31.100.180:8000/live/sports/sports/5085.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5084" tvg-name=":S4C"  ,:S4C
+http://176.31.100.180:8000/live/sports/sports/5084.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5083" tvg-name=":Channel 4    1"  ,:Channel 4    1
+http://176.31.100.180:8000/live/sports/sports/5083.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5082" tvg-name=":More4"  ,:More4
+http://176.31.100.180:8000/live/sports/sports/5082.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5081" tvg-name=":More4    1"  ,:More4    1
+http://176.31.100.180:8000/live/sports/sports/5081.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5080" tvg-name=":4seven"  ,:4seven
+http://176.31.100.180:8000/live/sports/sports/5080.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5079" tvg-name=":Challenge"  ,:Challenge
+http://176.31.100.180:8000/live/sports/sports/5079.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5078" tvg-name=":CBS Action"  ,:CBS Action
+http://176.31.100.180:8000/live/sports/sports/5078.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5077" tvg-name=":CBS Drama"  ,:CBS Drama
+http://176.31.100.180:8000/live/sports/sports/5077.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5076" tvg-name=":CBS Reality"  ,:CBS Reality
+http://176.31.100.180:8000/live/sports/sports/5076.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5075" tvg-name=":CBS Reality 1"  ,:CBS Reality 1
+http://176.31.100.180:8000/live/sports/sports/5075.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5074" tvg-name=":E!"  ,:E!
+http://176.31.100.180:8000/live/sports/sports/5074.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5073" tvg-name=":E!  1"  ,:E!  1
+http://176.31.100.180:8000/live/sports/sports/5073.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5072" tvg-name=":Channel 5   1"  ,:Channel 5   1
+http://176.31.100.180:8000/live/sports/sports/5072.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5071" tvg-name=":5 USA"  ,:5 USA
+http://176.31.100.180:8000/live/sports/sports/5071.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5070" tvg-name=":5 USA  1"  ,:5 USA  1
+http://176.31.100.180:8000/live/sports/sports/5070.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5069" tvg-name=":5STAR"  ,:5STAR
+http://176.31.100.180:8000/live/sports/sports/5069.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5068" tvg-name=":5STAR  1"  ,:5STAR  1
+http://176.31.100.180:8000/live/sports/sports/5068.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5067" tvg-name=":Really"  ,:Really
+http://176.31.100.180:8000/live/sports/sports/5067.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5066" tvg-name=":Made In Birmingham"  ,:Made In Birmingham
+http://176.31.100.180:8000/live/sports/sports/5066.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5094" tvg-name=":tru TV"  ,:tru TV
+http://176.31.100.180:8000/live/sports/sports/5094.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5061" tvg-name=":True Crime"  ,:True Crime
+http://176.31.100.180:8000/live/sports/sports/5061.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5063" tvg-name=":True Ent"  ,:True Ent
+http://176.31.100.180:8000/live/sports/sports/5063.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5062" tvg-name=":True Ent  1"  ,:True Ent  1
+http://176.31.100.180:8000/live/sports/sports/5062.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5057" tvg-name=":TJC"  ,:TJC
+http://176.31.100.180:8000/live/sports/sports/5057.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5060" tvg-name=":TJC Choice"  ,:TJC Choice
+http://176.31.100.180:8000/live/sports/sports/5060.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5056" tvg-name=":Lifetime"  ,:Lifetime
+http://176.31.100.180:8000/live/sports/sports/5056.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5055" tvg-name=":Drama"  ,:Drama
+http://176.31.100.180:8000/live/sports/sports/5055.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5053" tvg-name=":QUEST"  ,:QUEST
+http://176.31.100.180:8000/live/sports/sports/5053.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5052" tvg-name=":QUEST 1"  ,:QUEST 1
+http://176.31.100.180:8000/live/sports/sports/5052.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5051" tvg-name=":Quest Red"  ,:Quest Red
+http://176.31.100.180:8000/live/sports/sports/5051.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5050" tvg-name=":Quest Red 1"  ,:Quest Red 1
+http://176.31.100.180:8000/live/sports/sports/5050.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5049" tvg-name=":The Community Channel"  ,:The Community Channel
+http://176.31.100.180:8000/live/sports/sports/5049.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5048" tvg-name=":YourTV"  ,:YourTV
+http://176.31.100.180:8000/live/sports/sports/5048.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5047" tvg-name=":BET:BlackEntTv"  ,:BET:BlackEntTv
+http://176.31.100.180:8000/live/sports/sports/5047.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5046" tvg-name=":BEN"  ,:BEN
+http://176.31.100.180:8000/live/sports/sports/5046.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5045" tvg-name=":ID"  ,:ID
+http://176.31.100.180:8000/live/sports/sports/5045.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5044" tvg-name=":ID 1"  ,:ID 1
+http://176.31.100.180:8000/live/sports/sports/5044.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5043" tvg-name=":Spike"  ,:Spike
+http://176.31.100.180:8000/live/sports/sports/5043.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5042" tvg-name=":Spike   1"  ,:Spike   1
+http://176.31.100.180:8000/live/sports/sports/5042.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5041" tvg-name=":DMAX"  ,:DMAX
+http://176.31.100.180:8000/live/sports/sports/5041.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5040" tvg-name=":DMAX 1"  ,:DMAX 1
+http://176.31.100.180:8000/live/sports/sports/5040.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4656" tvg-name=":Sky Atlantic HD" ,:Sky Atlantic HD
+http://176.31.100.180:8000/live/sports/sports/4656.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5039" tvg-name=":Sky Atlantic"  ,:Sky Atlantic
+http://176.31.100.180:8000/live/sports/sports/5039.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5038" tvg-name=":Blaze"  ,:Blaze
+http://176.31.100.180:8000/live/sports/sports/5038.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5037" tvg-name=":SONY MAX"  ,:SONY MAX
+http://176.31.100.180:8000/live/sports/sports/5037.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5036" tvg-name=":Sony Channel"  ,:Sony Channel
+http://176.31.100.180:8000/live/sports/sports/5036.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5035" tvg-name=":Sony Chnl  1"  ,:Sony Chnl  1
+http://176.31.100.180:8000/live/sports/sports/5035.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5034" tvg-name=":horror ch 1"  ,:horror ch 1
+http://176.31.100.180:8000/live/sports/sports/5034.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5033" tvg-name=":horror channel"  ,:horror channel
+http://176.31.100.180:8000/live/sports/sports/5033.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5032" tvg-name=":Good Food"  ,:Good Food
+http://176.31.100.180:8000/live/sports/sports/5032.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5031" tvg-name=":Good Food  1"  ,:Good Food  1
+http://176.31.100.180:8000/live/sports/sports/5031.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4942" tvg-name=":Disc.History" ,:Disc.History
+http://176.31.100.180:8000/live/sports/sports/4942.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4941" tvg-name=":Disc.History 1" ,:Disc.History 1
+http://176.31.100.180:8000/live/sports/sports/4941.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4939" tvg-name=":Disc.Sci 1" ,:Disc.Sci 1
+http://176.31.100.180:8000/live/sports/sports/4939.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4940" tvg-name=":Disc.Science" ,:Disc.Science
+http://176.31.100.180:8000/live/sports/sports/4940.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4937" tvg-name=":Disc.Turbo" ,:Disc.Turbo
+http://176.31.100.180:8000/live/sports/sports/4937.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4944" tvg-name=":Discovery" ,:Discovery
+http://176.31.100.180:8000/live/sports/sports/4944.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4943" tvg-name=":Discovery 1" ,:Discovery 1
+http://176.31.100.180:8000/live/sports/sports/4943.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4938" tvg-name=":Discovery Shed" ,:Discovery Shed
+http://176.31.100.180:8000/live/sports/sports/4938.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4936" tvg-name=":H2" ,:H2
+http://176.31.100.180:8000/live/sports/sports/4936.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4935" tvg-name=":HISTORY" ,:HISTORY
+http://176.31.100.180:8000/live/sports/sports/4935.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4934" tvg-name=":HISTORY  1" ,:HISTORY  1
+http://176.31.100.180:8000/live/sports/sports/4934.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4946" tvg-name=":Animal Planet" ,:Animal Planet
+http://176.31.100.180:8000/live/sports/sports/4946.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4945" tvg-name=":Animal Plnt 1" ,:Animal Plnt 1
+http://176.31.100.180:8000/live/sports/sports/4945.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4931" tvg-name=":National Geo Wild" ,:National Geo Wild
+http://176.31.100.180:8000/live/sports/sports/4931.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4933" tvg-name=":National Geographic" ,:National Geographic
+http://176.31.100.180:8000/live/sports/sports/4933.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4932" tvg-name=":National Geographic 1" ,:National Geographic 1
+http://176.31.100.180:8000/live/sports/sports/4932.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4930" tvg-name=":Crime   Investigation" ,:Crime   Investigation
+http://176.31.100.180:8000/live/sports/sports/4930.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5026" tvg-name=":Food Network"  ,:Food Network
+http://176.31.100.180:8000/live/sports/sports/5026.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5025" tvg-name=":Food Netwrk 1"  ,:Food Netwrk 1
+http://176.31.100.180:8000/live/sports/sports/5025.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4927" tvg-name=":Sky Premiere" ,:Sky Premiere
+http://176.31.100.180:8000/live/sports/sports/4927.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4926" tvg-name=":Sky Premiere 1hr" ,:Sky Premiere 1hr
+http://176.31.100.180:8000/live/sports/sports/4926.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4660" tvg-name=":Sky Premiere hd" ,:Sky Premiere hd
+http://176.31.100.180:8000/live/sports/sports/4660.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4922" tvg-name=":Sky Thriller" ,:Sky Thriller
+http://176.31.100.180:8000/live/sports/sports/4922.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4658" tvg-name=":Sky Select HD" ,:Sky Select HD
+http://176.31.100.180:8000/live/sports/sports/4658.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4916" tvg-name=":Sky Select" ,:Sky Select
+http://176.31.100.180:8000/live/sports/sports/4916.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4668" tvg-name=":Sky Action & Adventure HD" ,:Sky Action & Adventure HD
+http://176.31.100.180:8000/live/sports/sports/4668.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4925" tvg-name=":Sky Action&Adventure" ,:Sky Action&Adventure
+http://176.31.100.180:8000/live/sports/sports/4925.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5098" tvg-name=":Sky Arts"  ,:Sky Arts
+http://176.31.100.180:8000/live/sports/sports/5098.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4924" tvg-name=":Sky Comedy" ,:Sky Comedy
+http://176.31.100.180:8000/live/sports/sports/4924.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4667" tvg-name=":Sky Comedy HD" ,:Sky Comedy HD
+http://176.31.100.180:8000/live/sports/sports/4667.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4666" tvg-name=":Sky Crime & Thriller HD" ,:Sky Crime & Thriller HD
+http://176.31.100.180:8000/live/sports/sports/4666.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4923" tvg-name=":Sky Disney" ,:Sky Disney
+http://176.31.100.180:8000/live/sports/sports/4923.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4665" tvg-name=":Sky Disney HD" ,:Sky Disney HD
+http://176.31.100.180:8000/live/sports/sports/4665.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4921" tvg-name=":Sky Drama & Romance" ,:Sky Drama & Romance
+http://176.31.100.180:8000/live/sports/sports/4921.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4664" tvg-name=":Sky Drama and Romance HD" ,:Sky Drama and Romance HD
+http://176.31.100.180:8000/live/sports/sports/4664.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4920" tvg-name=":Sky Family" ,:Sky Family
+http://176.31.100.180:8000/live/sports/sports/4920.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4663" tvg-name=":Sky Family HD" ,:Sky Family HD
+http://176.31.100.180:8000/live/sports/sports/4663.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4919" tvg-name=":Sky Fi" ,:Sky Fi
+http://176.31.100.180:8000/live/sports/sports/4919.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4918" tvg-name=":Sky Greats" ,:Sky Greats
+http://176.31.100.180:8000/live/sports/sports/4918.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4662" tvg-name=":Sky Greats HD" ,:Sky Greats HD
+http://176.31.100.180:8000/live/sports/sports/4662.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4917" tvg-name=":Sky Hits" ,:Sky Hits
+http://176.31.100.180:8000/live/sports/sports/4917.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4661" tvg-name=":Sky Hits HD" ,:Sky Hits HD
+http://176.31.100.180:8000/live/sports/sports/4661.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4659" tvg-name=":sky sci fi HD" ,:sky sci fi HD
+http://176.31.100.180:8000/live/sports/sports/4659.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4915" tvg-name=":Film4" ,:Film4
+http://176.31.100.180:8000/live/sports/sports/4915.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4914" tvg-name=":Film4   1" ,:Film4   1
+http://176.31.100.180:8000/live/sports/sports/4914.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4913" tvg-name=":Talking Pictures" ,:Talking Pictures
+http://176.31.100.180:8000/live/sports/sports/4913.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4912" tvg-name=":TCM 1" ,:TCM 1
+http://176.31.100.180:8000/live/sports/sports/4912.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4911" tvg-name=":True Movies" ,:True Movies
+http://176.31.100.180:8000/live/sports/sports/4911.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4910" tvg-name=":True Movies 1" ,:True Movies 1
+http://176.31.100.180:8000/live/sports/sports/4910.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4909" tvg-name=":Turner Classic Movies" ,:Turner Classic Movies
+http://176.31.100.180:8000/live/sports/sports/4909.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4908" tvg-name=":mov4men 1" ,:mov4men 1
+http://176.31.100.180:8000/live/sports/sports/4908.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4904" tvg-name=":Movies 24" ,:Movies 24
+http://176.31.100.180:8000/live/sports/sports/4904.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4903" tvg-name=":Movies24" ,:Movies24
+http://176.31.100.180:8000/live/sports/sports/4903.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4907" tvg-name=":movies4men" ,:movies4men
+http://176.31.100.180:8000/live/sports/sports/4907.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4906" tvg-name=":Sony Movies" ,:Sony Movies
+http://176.31.100.180:8000/live/sports/sports/4906.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4905" tvg-name=":Sony Movies 1" ,:Sony Movies 1
+http://176.31.100.180:8000/live/sports/sports/4905.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5018" tvg-name=":Sky News"  ,:Sky News
+http://176.31.100.180:8000/live/sports/sports/5018.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4896" tvg-name=":Sky SpN HQ HD"  ,:Sky SpN HQ HD
+http://176.31.100.180:8000/live/sports/sports/4896.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4894" tvg-name=":Sky Sports Action"  ,:Sky Sports Action
+http://176.31.100.180:8000/live/sports/sports/4894.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4895" tvg-name=":Sky Sports Action HD"  ,:Sky Sports Action HD
+http://176.31.100.180:8000/live/sports/sports/4895.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4892" tvg-name=":Sky Sports Arena"  ,:Sky Sports Arena
+http://176.31.100.180:8000/live/sports/sports/4892.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4893" tvg-name=":Sky Sports Arena HD"  ,:Sky Sports Arena HD
+http://176.31.100.180:8000/live/sports/sports/4893.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4890" tvg-name=":Sky Sports Cricket"  ,:Sky Sports Cricket
+http://176.31.100.180:8000/live/sports/sports/4890.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4891" tvg-name=":Sky Sports Cricket HD"  ,:Sky Sports Cricket HD
+http://176.31.100.180:8000/live/sports/sports/4891.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4888" tvg-name=":Sky Sports F1"  ,:Sky Sports F1
+http://176.31.100.180:8000/live/sports/sports/4888.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4886" tvg-name=":Sky Sports Football"  ,:Sky Sports Football
+http://176.31.100.180:8000/live/sports/sports/4886.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4887" tvg-name=":Sky Sports Football HD"  ,:Sky Sports Football HD
+http://176.31.100.180:8000/live/sports/sports/4887.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4884" tvg-name=":Sky Sports Golf"  ,:Sky Sports Golf
+http://176.31.100.180:8000/live/sports/sports/4884.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4885" tvg-name=":Sky Sports Golf HD"  ,:Sky Sports Golf HD
+http://176.31.100.180:8000/live/sports/sports/4885.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4882" tvg-name=":Sky Sports Main Event"  ,:Sky Sports Main Event
+http://176.31.100.180:8000/live/sports/sports/4882.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4883" tvg-name=":Sky Sports Main Event HD"  ,:Sky Sports Main Event HD
+http://176.31.100.180:8000/live/sports/sports/4883.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4880" tvg-name=":Sky Sports Mix"  ,:Sky Sports Mix
+http://176.31.100.180:8000/live/sports/sports/4880.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4881" tvg-name=":Sky Sports Mix HD"  ,:Sky Sports Mix HD
+http://176.31.100.180:8000/live/sports/sports/4881.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4879" tvg-name=":Sky Sports News"  ,:Sky Sports News
+http://176.31.100.180:8000/live/sports/sports/4879.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4877" tvg-name=":Sky Sports PL"  ,:Sky Sports PL
+http://176.31.100.180:8000/live/sports/sports/4877.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4878" tvg-name=":Sky Sports Premier League HD"  ,:Sky Sports Premier League HD
+http://176.31.100.180:8000/live/sports/sports/4878.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4889" tvg-name=":Sky Spts F1 HD"  ,:Sky Spts F1 HD
+http://176.31.100.180:8000/live/sports/sports/4889.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4875" tvg-name=":BT Sport 1"  ,:BT Sport 1
+http://176.31.100.180:8000/live/sports/sports/4875.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4876" tvg-name=":BT Sport 1 HD"  ,:BT Sport 1 HD
+http://176.31.100.180:8000/live/sports/sports/4876.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4873" tvg-name=":BT Sport 2"  ,:BT Sport 2
+http://176.31.100.180:8000/live/sports/sports/4873.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4874" tvg-name=":BT Sport 2 HD"  ,:BT Sport 2 HD
+http://176.31.100.180:8000/live/sports/sports/4874.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4871" tvg-name=":BT Sport 3"  ,:BT Sport 3
+http://176.31.100.180:8000/live/sports/sports/4871.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4872" tvg-name=":BT Sport 3 HD"  ,:BT Sport 3 HD
+http://176.31.100.180:8000/live/sports/sports/4872.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4868" tvg-name=":BT Sport ESPN"  ,:BT Sport ESPN
+http://176.31.100.180:8000/live/sports/sports/4868.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4869" tvg-name=":BT Sport ESPN HD"  ,:BT Sport ESPN HD
+http://176.31.100.180:8000/live/sports/sports/4869.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4870" tvg-name=":BT Sport Show"  ,:BT Sport Show
+http://176.31.100.180:8000/live/sports/sports/4870.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5013" tvg-name=":Euronews"  ,:Euronews
+http://176.31.100.180:8000/live/sports/sports/5013.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4866" tvg-name=":Eurosport 1"  ,:Eurosport 1
+http://176.31.100.180:8000/live/sports/sports/4866.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4865" tvg-name=":Eurosport 2"  ,:Eurosport 2
+http://176.31.100.180:8000/live/sports/sports/4865.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5452" tvg-name="EFL:  ifollow 1"  ,EFL:  ifollow 1
+http://176.31.100.180:8000/live/sports/sports/5452.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5451" tvg-name="EFL:  ifollow 2"  ,EFL:  ifollow 2
+http://176.31.100.180:8000/live/sports/sports/5451.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5450" tvg-name="EFL:  ifollow 3"  ,EFL:  ifollow 3
+http://176.31.100.180:8000/live/sports/sports/5450.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5447" tvg-name="EFL: ifollow 4"  ,EFL: ifollow 4
+http://176.31.100.180:8000/live/sports/sports/5447.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5446" tvg-name="EFL: ifollow 5"  ,EFL: ifollow 5
+http://176.31.100.180:8000/live/sports/sports/5446.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5445" tvg-name="EFL: ifollow 6"  ,EFL: ifollow 6
+http://176.31.100.180:8000/live/sports/sports/5445.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5444" tvg-name="EFL: ifollow 7"  ,EFL: ifollow 7
+http://176.31.100.180:8000/live/sports/sports/5444.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5443" tvg-name="EFL: ifollow 8"  ,EFL: ifollow 8
+http://176.31.100.180:8000/live/sports/sports/5443.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5442" tvg-name="EFL: ifollow 9"  ,EFL: ifollow 9
+http://176.31.100.180:8000/live/sports/sports/5442.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5449" tvg-name="EFL: ifollow 10"  ,EFL: ifollow 10
+http://176.31.100.180:8000/live/sports/sports/5449.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5448" tvg-name="EFL: ifollow 11"  ,EFL: ifollow 11
+http://176.31.100.180:8000/live/sports/sports/5448.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5441" tvg-name="EFL: ifollow 12"  ,EFL: ifollow 12
+http://176.31.100.180:8000/live/sports/sports/5441.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5440" tvg-name="EFL: ifollow 13"  ,EFL: ifollow 13
+http://176.31.100.180:8000/live/sports/sports/5440.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4863" tvg-name=":eir Sport 1"  ,:eir Sport 1
+http://176.31.100.180:8000/live/sports/sports/4863.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4862" tvg-name=":eir Sport 2"  ,:eir Sport 2
+http://176.31.100.180:8000/live/sports/sports/4862.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4686" tvg-name=":BBC ALBA" ,:BBC ALBA
+http://176.31.100.180:8000/live/sports/sports/4686.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4995" tvg-name=":BBC Four" ,:BBC Four
+http://176.31.100.180:8000/live/sports/sports/4995.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5016" tvg-name=":BBC NEWS"  ,:BBC NEWS
+http://176.31.100.180:8000/live/sports/sports/5016.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4717" tvg-name=":BBC News HD" ,:BBC News HD
+http://176.31.100.180:8000/live/sports/sports/4717.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5006" tvg-name=":BBC One CI" ,:BBC One CI
+http://176.31.100.180:8000/live/sports/sports/5006.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5005" tvg-name=":BBC One East W" ,:BBC One East W
+http://176.31.100.180:8000/live/sports/sports/5005.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5133" tvg-name=":BBC One Lon"  ,:BBC One Lon
+http://176.31.100.180:8000/live/sports/sports/5133.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5003" tvg-name=":BBC One N West" ,:BBC One N West
+http://176.31.100.180:8000/live/sports/sports/5003.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5002" tvg-name=":BBC One NE&C" ,:BBC One NE&C
+http://176.31.100.180:8000/live/sports/sports/5002.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5001" tvg-name=":BBC One NI" ,:BBC One NI
+http://176.31.100.180:8000/live/sports/sports/5001.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5000" tvg-name=":BBC One Oxford" ,:BBC One Oxford
+http://176.31.100.180:8000/live/sports/sports/5000.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4999" tvg-name=":BBC One S East" ,:BBC One S East
+http://176.31.100.180:8000/live/sports/sports/4999.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4998" tvg-name=":BBC One S West" ,:BBC One S West
+http://176.31.100.180:8000/live/sports/sports/4998.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4997" tvg-name=":BBC One Scot" ,:BBC One Scot
+http://176.31.100.180:8000/live/sports/sports/4997.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4996" tvg-name=":BBC One South" ,:BBC One South
+http://176.31.100.180:8000/live/sports/sports/4996.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4952" tvg-name=":BBC One West" ,:BBC One West
+http://176.31.100.180:8000/live/sports/sports/4952.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4994" tvg-name=":BBC One Yorks" ,:BBC One Yorks
+http://176.31.100.180:8000/live/sports/sports/4994.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5017" tvg-name=":BBC Parliament"  ,:BBC Parliament
+http://176.31.100.180:8000/live/sports/sports/5017.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5009" tvg-name=":BBC RB 1" ,:BBC RB 1
+http://176.31.100.180:8000/live/sports/sports/5009.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4993" tvg-name=":BBC Two NI" ,:BBC Two NI
+http://176.31.100.180:8000/live/sports/sports/4993.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4992" tvg-name=":BBC Two Scot" ,:BBC Two Scot
+http://176.31.100.180:8000/live/sports/sports/4992.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4990" tvg-name=":ITV  1 Central West" ,:ITV  1 Central West
+http://176.31.100.180:8000/live/sports/sports/4990.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4989" tvg-name=":ITV  1 Granada" ,:ITV  1 Granada
+http://176.31.100.180:8000/live/sports/sports/4989.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4988" tvg-name=":ITV  1 London" ,:ITV  1 London
+http://176.31.100.180:8000/live/sports/sports/4988.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4987" tvg-name=":ITV  1 Tyne Tees" ,:ITV  1 Tyne Tees
+http://176.31.100.180:8000/live/sports/sports/4987.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4986" tvg-name=":ITV  1 Wales" ,:ITV  1 Wales
+http://176.31.100.180:8000/live/sports/sports/4986.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4985" tvg-name=":ITV  1 Westcountry South" ,:ITV  1 Westcountry South
+http://176.31.100.180:8000/live/sports/sports/4985.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4984" tvg-name=":ITV  1 Yorkshire TV East" ,:ITV  1 Yorkshire TV East
+http://176.31.100.180:8000/live/sports/sports/4984.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4657" tvg-name=":ITV 2 HD" ,:ITV 2 HD
+http://176.31.100.180:8000/live/sports/sports/4657.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4964" tvg-name=":ITV Anglia East" ,:ITV Anglia East
+http://176.31.100.180:8000/live/sports/sports/4964.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4967" tvg-name=":ITV Anglia East  1" ,:ITV Anglia East  1
+http://176.31.100.180:8000/live/sports/sports/4967.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4983" tvg-name=":ITV Anglia TV West" ,:ITV Anglia TV West
+http://176.31.100.180:8000/live/sports/sports/4983.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4982" tvg-name=":ITV Border" ,:ITV Border
+http://176.31.100.180:8000/live/sports/sports/4982.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4981" tvg-name=":ITV Border Scotland" ,:ITV Border Scotland
+http://176.31.100.180:8000/live/sports/sports/4981.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4980" tvg-name=":ITV Central East" ,:ITV Central East
+http://176.31.100.180:8000/live/sports/sports/4980.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4968" tvg-name=":ITV Central West" ,:ITV Central West
+http://176.31.100.180:8000/live/sports/sports/4968.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4979" tvg-name=":ITV Channel TV" ,:ITV Channel TV
+http://176.31.100.180:8000/live/sports/sports/4979.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5100" tvg-name=":ITV Encore"  ,:ITV Encore
+http://176.31.100.180:8000/live/sports/sports/5100.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5099" tvg-name=":ITV Encore  1"  ,:ITV Encore  1
+http://176.31.100.180:8000/live/sports/sports/5099.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4969" tvg-name=":ITV Granada" ,:ITV Granada
+http://176.31.100.180:8000/live/sports/sports/4969.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4970" tvg-name=":ITV London" ,:ITV London
+http://176.31.100.180:8000/live/sports/sports/4970.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4978" tvg-name=":ITV Meridian East" ,:ITV Meridian East
+http://176.31.100.180:8000/live/sports/sports/4978.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4971" tvg-name=":ITV Meridian East  1" ,:ITV Meridian East  1
+http://176.31.100.180:8000/live/sports/sports/4971.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4977" tvg-name=":ITV Meridian TV North" ,:ITV Meridian TV North
+http://176.31.100.180:8000/live/sports/sports/4977.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4976" tvg-name=":ITV Meridian TV South" ,:ITV Meridian TV South
+http://176.31.100.180:8000/live/sports/sports/4976.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4975" tvg-name=":ITV Tyne Tees TV North" ,:ITV Tyne Tees TV North
+http://176.31.100.180:8000/live/sports/sports/4975.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4974" tvg-name=":ITV Wales" ,:ITV Wales
+http://176.31.100.180:8000/live/sports/sports/4974.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4973" tvg-name=":ITV Westcountry South West" ,:ITV Westcountry South West
+http://176.31.100.180:8000/live/sports/sports/4973.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4972" tvg-name=":ITV Westcountry West" ,:ITV Westcountry West
+http://176.31.100.180:8000/live/sports/sports/4972.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4966" tvg-name=":ITV Yorkshire TV East" ,:ITV Yorkshire TV East
+http://176.31.100.180:8000/live/sports/sports/4966.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4965" tvg-name=":ITV Yorkshire West" ,:ITV Yorkshire West
+http://176.31.100.180:8000/live/sports/sports/4965.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5096" tvg-name=":ITV2 1"  ,:ITV2 1
+http://176.31.100.180:8000/live/sports/sports/5096.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5102" tvg-name=":ITV4"  ,:ITV4
+http://176.31.100.180:8000/live/sports/sports/5102.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5101" tvg-name=":ITV4 1"  ,:ITV4 1
+http://176.31.100.180:8000/live/sports/sports/5101.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5058" tvg-name=":ITVi Stream 44"  ,:ITVi Stream 44
+http://176.31.100.180:8000/live/sports/sports/5058.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4716" tvg-name=":Channel 4 HD" ,:Channel 4 HD
+http://176.31.100.180:8000/live/sports/sports/4716.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4955" tvg-name=":Channel 4 London" ,:Channel 4 London
+http://176.31.100.180:8000/live/sports/sports/4955.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4957" tvg-name=":Channel 4 London  1" ,:Channel 4 London  1
+http://176.31.100.180:8000/live/sports/sports/4957.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4956" tvg-name=":Channel 4 Midlands" ,:Channel 4 Midlands
+http://176.31.100.180:8000/live/sports/sports/4956.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4961" tvg-name=":Channel 4 Midlands  1" ,:Channel 4 Midlands  1
+http://176.31.100.180:8000/live/sports/sports/4961.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4953" tvg-name=":Channel 4 North" ,:Channel 4 North
+http://176.31.100.180:8000/live/sports/sports/4953.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4958" tvg-name=":Channel 4 North  1" ,:Channel 4 North  1
+http://176.31.100.180:8000/live/sports/sports/4958.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4960" tvg-name=":Channel 4 Northern Ireland" ,:Channel 4 Northern Ireland
+http://176.31.100.180:8000/live/sports/sports/4960.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4959" tvg-name=":Channel 4 Northern Ireland  1" ,:Channel 4 Northern Ireland  1
+http://176.31.100.180:8000/live/sports/sports/4959.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4954" tvg-name=":Channel 4 Scotland" ,:Channel 4 Scotland
+http://176.31.100.180:8000/live/sports/sports/4954.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4962" tvg-name=":Channel 4 Scotland  1" ,:Channel 4 Scotland  1
+http://176.31.100.180:8000/live/sports/sports/4962.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4963" tvg-name=":Channel 4 South & East" ,:Channel 4 South & East
+http://176.31.100.180:8000/live/sports/sports/4963.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4823" tvg-name=":4Music"  ,:4Music
+http://176.31.100.180:8000/live/sports/sports/4823.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4765" tvg-name=":B4U Music" ,:B4U Music
+http://176.31.100.180:8000/live/sports/sports/4765.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4820" tvg-name=":Box Hits"  ,:Box Hits
+http://176.31.100.180:8000/live/sports/sports/4820.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4819" tvg-name=":Box Upfront"  ,:Box Upfront
+http://176.31.100.180:8000/live/sports/sports/4819.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4836" tvg-name=":Channel AKA"  ,:Channel AKA
+http://176.31.100.180:8000/live/sports/sports/4836.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4842" tvg-name=":MTV BASE"  ,:MTV BASE
+http://176.31.100.180:8000/live/sports/sports/4842.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4841" tvg-name=":MTV Beats"  ,:MTV Beats
+http://176.31.100.180:8000/live/sports/sports/4841.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4844" tvg-name=":MTV CLASSIC"  ,:MTV CLASSIC
+http://176.31.100.180:8000/live/sports/sports/4844.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4840" tvg-name=":MTV DANCE"  ,:MTV DANCE
+http://176.31.100.180:8000/live/sports/sports/4840.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4839" tvg-name=":MTV HITS"  ,:MTV HITS
+http://176.31.100.180:8000/live/sports/sports/4839.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4838" tvg-name=":MTV MUSIC"  ,:MTV MUSIC
+http://176.31.100.180:8000/live/sports/sports/4838.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4843" tvg-name=":MTV Music  1"  ,:MTV Music  1
+http://176.31.100.180:8000/live/sports/sports/4843.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4837" tvg-name=":MTV ROCKS"  ,:MTV ROCKS
+http://176.31.100.180:8000/live/sports/sports/4837.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4833" tvg-name=":Chilled 90s"  ,:Chilled 90s
+http://176.31.100.180:8000/live/sports/sports/4833.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4831" tvg-name=":Clubland TV"  ,:Clubland TV
+http://176.31.100.180:8000/live/sports/sports/4831.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4834" tvg-name=":Chartshow Hits"  ,:Chartshow Hits
+http://176.31.100.180:8000/live/sports/sports/4834.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4817" tvg-name=":The Box"  ,:The Box
+http://176.31.100.180:8000/live/sports/sports/4817.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4830" tvg-name=":The Vault"  ,:The Vault
+http://176.31.100.180:8000/live/sports/sports/4830.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4829" tvg-name=":VH1"  ,:VH1
+http://176.31.100.180:8000/live/sports/sports/4829.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4825" tvg-name=":VIVA"  ,:VIVA
+http://176.31.100.180:8000/live/sports/sports/4825.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4816" tvg-name=":Disney Channel" ,:Disney Channel
+http://176.31.100.180:8000/live/sports/sports/4816.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4815" tvg-name=":Disney Channel 1" ,:Disney Channel 1
+http://176.31.100.180:8000/live/sports/sports/4815.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4814" tvg-name=":Disney Junior" ,:Disney Junior
+http://176.31.100.180:8000/live/sports/sports/4814.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4813" tvg-name=":Disney XD" ,:Disney XD
+http://176.31.100.180:8000/live/sports/sports/4813.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4672" tvg-name=":Disney XD  1" ,:Disney XD  1
+http://176.31.100.180:8000/live/sports/sports/4672.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4809" tvg-name=":Cartoon Network" ,:Cartoon Network
+http://176.31.100.180:8000/live/sports/sports/4809.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4808" tvg-name=":Cartoon Network  1" ,:Cartoon Network  1
+http://176.31.100.180:8000/live/sports/sports/4808.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4807" tvg-name=":Cartoonito" ,:Cartoonito
+http://176.31.100.180:8000/live/sports/sports/4807.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4811" tvg-name=":Nick  1" ,:Nick  1
+http://176.31.100.180:8000/live/sports/sports/4811.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4796" tvg-name=":Nick Jr 1" ,:Nick Jr 1
+http://176.31.100.180:8000/live/sports/sports/4796.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4795" tvg-name=":Nick Jr Too" ,:Nick Jr Too
+http://176.31.100.180:8000/live/sports/sports/4795.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4794" tvg-name=":Nick Jr." ,:Nick Jr.
+http://176.31.100.180:8000/live/sports/sports/4794.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4810" tvg-name=":Nick Junior" ,:Nick Junior
+http://176.31.100.180:8000/live/sports/sports/4810.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4806" tvg-name=":Nickelodeon" ,:Nickelodeon
+http://176.31.100.180:8000/live/sports/sports/4806.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4805" tvg-name=":Nicktoons" ,:Nicktoons
+http://176.31.100.180:8000/live/sports/sports/4805.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4790" tvg-name=":Baby TV" ,:Baby TV
+http://176.31.100.180:8000/live/sports/sports/4790.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4792" tvg-name=":CBeebies" ,:CBeebies
+http://176.31.100.180:8000/live/sports/sports/4792.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4791" tvg-name=":CITV" ,:CITV
+http://176.31.100.180:8000/live/sports/sports/4791.ts
 
 
 
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5015" tvg-name=":Bloomberg"  ,:Bloomberg
+http://176.31.100.180:8000/live/sports/sports/5015.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4799" tvg-name=":Boomerang" ,:Boomerang
+http://176.31.100.180:8000/live/sports/sports/4799.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4798" tvg-name=":Boomerang  1" ,:Boomerang  1
+http://176.31.100.180:8000/live/sports/sports/4798.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4867" tvg-name=":BoxNation"  ,:BoxNation
+http://176.31.100.180:8000/live/sports/sports/4867.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4832" tvg-name=":CAPITAL TV"  ,:CAPITAL TV
+http://176.31.100.180:8000/live/sports/sports/4832.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4793" tvg-name=":CBBC" ,:CBBC
+http://176.31.100.180:8000/live/sports/sports/4793.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4856" tvg-name=":Celtic FC TV  (match only)"  ,:Celtic FC TV  (match only)
+http://176.31.100.180:8000/live/sports/sports/4856.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4928" tvg-name=":Channels 24" ,:Channels 24
+http://176.31.100.180:8000/live/sports/sports/4928.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4835" tvg-name=":Chart Show TV"  ,:Chart Show TV
+http://176.31.100.180:8000/live/sports/sports/4835.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4855" tvg-name=":Chelsea Tv"  ,:Chelsea Tv
+http://176.31.100.180:8000/live/sports/sports/4855.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5014" tvg-name=":CNBC"  ,:CNBC
+http://176.31.100.180:8000/live/sports/sports/5014.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5019" tvg-name=":CNN International"  ,:CNN International
+http://176.31.100.180:8000/live/sports/sports/5019.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5059" tvg-name=":ETV1"  ,:ETV1
+http://176.31.100.180:8000/live/sports/sports/5059.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5028" tvg-name=":Home"  ,:Home
+http://176.31.100.180:8000/live/sports/sports/5028.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5030" tvg-name=":Home & Health"  ,:Home & Health
+http://176.31.100.180:8000/live/sports/sports/5030.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5027" tvg-name=":Home 1"  ,:Home 1
+http://176.31.100.180:8000/live/sports/sports/5027.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="5029" tvg-name=":HomeHealth 1"  ,:HomeHealth 1
+http://176.31.100.180:8000/live/sports/sports/5029.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4850" tvg-name=":PPV One"  ,:PPV One
+http://176.31.100.180:8000/live/sports/sports/4850.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4848" tvg-name=":PPV Two HD"  ,:PPV Two HD
+http://176.31.100.180:8000/live/sports/sports/4848.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4849" tvg-name=":PPV Two SD"  ,:PPV Two SD
+http://176.31.100.180:8000/live/sports/sports/4849.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4859" tvg-name=":Premier Sports"  ,:Premier Sports
+http://176.31.100.180:8000/live/sports/sports/4859.ts
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-ID="4860" tvg-name=":Premier Sports HD"  ,:Premier Sports HD
+http://176.31.100.180:8000/live/sports/sports/4860.ts
 
 
 
@@ -3045,15 +4269,17 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/811.m3u8$http-refferer=
 
 
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER2",
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg" ,==Italy==
+http://..........
 
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RAI  4 HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11813.m3u8
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RAI  1 HD
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11816.m3u8
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 2 HD
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11815.m3u8
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 3 HD
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11814.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RAI  4 HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11813.m3u8
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER2", Premium Cinema Emotion
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11784.m3u8
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Espansione TV
@@ -10875,7 +12101,7 @@ http://..........
 http://54.39.144.139:8080/StarBharatHD/index.m3u8
 #EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://images.adgully.com/img/800/2011-09-Star-Gold-New-logo.jpg" ,Star Gold HD
 http://54.39.144.139:8080/StarGoldHD/index.m3u8	
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Star Plus
+#EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2016/07/starplus001.jpg",Star Plus
 http://103.205.133.43/hls/starplus.m3u8
 #EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2016/07/starplus001.jpg" ,Star Plus HD
 http://54.39.144.139:8080/StarPlusHD/index.m3u8
@@ -12970,6 +14196,264 @@ http://osniptv.homeip.net:25461/live/dokpal/cisco2006/140.ts
 http://osniptv.homeip.net:25461/live/dokpal/cisco2006/141.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="DOCU BOX HD"  ,DOCU BOX HD
 http://osniptv.homeip.net:25461/live/dokpal/cisco2006/195.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",
+
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png" ,==U.A.E==
+http://..........
+
+
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-1=LOW" tvg-logo="http://e1.365dm.com/17/08/800x600/skysports-premier-league-football-mohamed-salah-liverpool_4071859.jpg?20170812142748" ,BEIN-SPORT-1=LOW
+http://egyman.net:1978/live/22222/22222/4937.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-2=LOW" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg" ,BEIN-SPORT-2=LOW
+http://egyman.net:1978/live/22222/22222/4936.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-3=LOW" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg" ,BEIN-SPORT-3=LOW
+http://egyman.net:1978/live/22222/22222/4935.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-4=LOW" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg" ,BEIN-SPORT-4=LOW
+http://egyman.net:1978/live/22222/22222/4934.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-5=LOW" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg" ,BEIN-SPORT-5=LOW
+http://egyman.net:1978/live/22222/22222/4933.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-6=LOW" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg" ,BEIN-SPORT-6=LOW
+http://egyman.net:1978/live/22222/22222/4932.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-7=LOW" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg" ,BEIN-SPORT-7=LOW
+http://egyman.net:1978/live/22222/22222/4931.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-8=LOW" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg" ,BEIN-SPORT-8=LOW
+http://egyman.net:1978/live/22222/22222/4930.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-9=LOW" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg" ,BEIN-SPORT-9=LOW
+http://egyman.net:1978/live/22222/22222/4929.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-10=LOW" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg" ,BEIN-SPORT-10=LOW
+http://egyman.net:1978/live/22222/22222/4928.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-1=512" tvg-logo="http://e1.365dm.com/17/08/800x600/skysports-premier-league-football-mohamed-salah-liverpool_4071859.jpg?20170812142748",BEIN-SPORT-1=512
+http://egyman.net:1978/live/22222/22222/2.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-2=512" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg",BEIN-SPORT-2=512
+http://egyman.net:1978/live/22222/22222/3.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-3=512" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg",BEIN-SPORT-3=512
+http://egyman.net:1978/live/22222/22222/4.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-4=512" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg",BEIN-SPORT-4=512
+http://egyman.net:1978/live/22222/22222/6.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-5=512" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg",BEIN-SPORT-5=512
+http://egyman.net:1978/live/22222/22222/7.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-6=512" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg",BEIN-SPORT-6=512
+http://egyman.net:1978/live/22222/22222/8.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-7=512" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg",BEIN-SPORT-7=512
+http://egyman.net:1978/live/22222/22222/9.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-8=512" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg",BEIN-SPORT-8=512
+http://egyman.net:1978/live/22222/22222/10.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-9=512" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg",BEIN-SPORT-9=512
+http://egyman.net:1978/live/22222/22222/11.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-10=512" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg",BEIN-SPORT-10=512
+http://egyman.net:1978/live/22222/22222/12.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-1=SD" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg" ,BEIN-SPORT-1=SD
+http://egyman.net:1978/live/22222/22222/22.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-2=SD" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg" ,BEIN-SPORT-2=SD
+http://egyman.net:1978/live/22222/22222/21.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-3=SD" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg" ,BEIN-SPORT-3=SD
+http://egyman.net:1978/live/22222/22222/20.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-4=SD" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg" ,BEIN-SPORT-4=SD
+http://egyman.net:1978/live/22222/22222/19.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-5=SD" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg" ,BEIN-SPORT-5=SD
+http://egyman.net:1978/live/22222/22222/18.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-6=SD" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg" ,BEIN-SPORT-6=SD
+http://egyman.net:1978/live/22222/22222/17.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-7=SD" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg" ,BEIN-SPORT-7=SD
+http://egyman.net:1978/live/22222/22222/16.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-8=SD" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg" ,BEIN-SPORT-8=SD
+http://egyman.net:1978/live/22222/22222/15.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-9=SD" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg" ,BEIN-SPORT-9=SD
+http://egyman.net:1978/live/22222/22222/14.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-10=SD" tvg-logo="http://3.bp.blogspot.com/-9FeO6Q3GYyA/VQLfpYm2Y3I/AAAAAAAABBo/v2ohgeo7x5g/s1600/beinsports-football%5B1%5D.jpg" ,BEIN-SPORT-10=SD
+http://egyman.net:1978/live/22222/22222/13.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-1=HD"  ,BEIN-SPORT-1=HD
+http://egyman.net:1978/live/22222/22222/4555.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-2=HD"  ,BEIN-SPORT-2=HD
+http://egyman.net:1978/live/22222/22222/4554.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-3=HD"  ,BEIN-SPORT-3=HD
+http://egyman.net:1978/live/22222/22222/4553.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-5=HD"  ,BEIN-SPORT-5=HD
+http://egyman.net:1978/live/22222/22222/4551.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-6=HD"  ,BEIN-SPORT-6=HD
+http://egyman.net:1978/live/22222/22222/4550.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-7=HD"  ,BEIN-SPORT-7=HD
+http://egyman.net:1978/live/22222/22222/4549.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-8=HD"  ,BEIN-SPORT-8=HD
+http://egyman.net:1978/live/22222/22222/4548.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-9=HD"  ,BEIN-SPORT-9=HD
+http://egyman.net:1978/live/22222/22222/4547.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-10=HD"  ,BEIN-SPORT-10=HD
+http://egyman.net:1978/live/22222/22222/4546.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-1=FULL-HD"  ,BEIN-SPORT-1=FULL-HD
+http://egyman.net:1978/live/22222/22222/4885.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-2=FULL-HD"  ,BEIN-SPORT-2=FULL-HD
+http://egyman.net:1978/live/22222/22222/4884.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-3=FULL-HD"  ,BEIN-SPORT-3=FULL-HD
+http://egyman.net:1978/live/22222/22222/4883.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-4=FULL-HD"  ,BEIN-SPORT-4=FULL-HD
+http://egyman.net:1978/live/22222/22222/4882.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-4=HD"  ,BEIN-SPORT-4=HD
+http://egyman.net:1978/live/22222/22222/4552.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-5=FULL-HD"  ,BEIN-SPORT-5=FULL-HD
+http://egyman.net:1978/live/22222/22222/4881.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-6=FULL-HD"  ,BEIN-SPORT-6=FULL-HD
+http://egyman.net:1978/live/22222/22222/4880.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-7=FULL-HD"  ,BEIN-SPORT-7=FULL-HD
+http://egyman.net:1978/live/22222/22222/4879.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-8=FULL-HD"  ,BEIN-SPORT-8=FULL-HD
+http://egyman.net:1978/live/22222/22222/4878.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-9=FULL-HD"  ,BEIN-SPORT-9=FULL-HD
+http://egyman.net:1978/live/22222/22222/4877.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-10=FULL-HD"  ,BEIN-SPORT-10=FULL-HD
+http://egyman.net:1978/live/22222/22222/4876.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-1=4K"  ,BEIN-SPORT-1=4K
+http://egyman.net:1978/live/22222/22222/4609.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-2=4K"  ,BEIN-SPORT-2=4K
+http://egyman.net:1978/live/22222/22222/4610.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-3=4K"  ,BEIN-SPORT-3=4K
+http://egyman.net:1978/live/22222/22222/4611.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-4=4K"  ,BEIN-SPORT-4=4K
+http://egyman.net:1978/live/22222/22222/4612.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-5=4K"  ,BEIN-SPORT-5=4K
+http://egyman.net:1978/live/22222/22222/4613.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-6=4K"  ,BEIN-SPORT-6=4K
+http://egyman.net:1978/live/22222/22222/4614.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-7=4K"  ,BEIN-SPORT-7=4K
+http://egyman.net:1978/live/22222/22222/4615.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-8=4K"  ,BEIN-SPORT-8=4K
+http://egyman.net:1978/live/22222/22222/4616.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-9=4K"  ,BEIN-SPORT-9=4K
+http://egyman.net:1978/live/22222/22222/4617.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN-SPORT-10=4K"  ,BEIN-SPORT-10=4K
+http://egyman.net:1978/live/22222/22222/4618.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="AD SPORT HD1"  ,AD SPORT HD1
+http://egyman.net:1978/live/22222/22222/6859.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="AD SPORT HD2"  ,AD SPORT HD2
+http://egyman.net:1978/live/22222/22222/6860.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="AD SPORT HD3"  ,AD SPORT HD3
+http://egyman.net:1978/live/22222/22222/6861.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="AD SPORT HD4"  ,AD SPORT HD4
+http://egyman.net:1978/live/22222/22222/6862.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="NILE:Art_Aflam 1" ,NILE:Art_Aflam 1
+http://egyman.net:1978/live/22222/22222/4629.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="NILE:Art_Aflam 2" ,NILE:Art_Aflam 2
+http://egyman.net:1978/live/22222/22222/4628.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="NILE:Art_Cinema" ,NILE:Art_Cinema
+http://egyman.net:1978/live/22222/22222/4627.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="NILE:Art_Hekayat 1" ,NILE:Art_Hekayat 1
+http://egyman.net:1978/live/22222/22222/4626.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="NILE:Art_Hekayat 2" ,NILE:Art_Hekayat 2
+http://egyman.net:1978/live/22222/22222/4625.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="AR:BEIN-MOVIES-1"  ,AR:BEIN-MOVIES-1
+http://egyman.net:1978/live/22222/22222/4621.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="AR:BEIN-MOVIES-2"  ,AR:BEIN-MOVIES-2
+http://egyman.net:1978/live/22222/22222/4622.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="AR:BEIN-MOVIES-3"  ,AR:BEIN-MOVIES-3
+http://egyman.net:1978/live/22222/22222/4623.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="AR:BEIN-MOVIES-4"  ,AR:BEIN-MOVIES-4
+http://egyman.net:1978/live/22222/22222/4624.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="AR:-OSN-ALYOUM"  ,AR:-OSN-ALYOUM
+http://egyman.net:1978/live/22222/22222/4889.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-Cinema-1"  ,OSN-Cinema-1
+http://egyman.net:1978/live/22222/22222/4608.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-Cinema-2"  ,OSN-Cinema-2
+http://egyman.net:1978/live/22222/22222/4606.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-BoxOffice-1"  ,OSN-BoxOffice-1
+http://egyman.net:1978/live/22222/22222/4605.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-BOXOFFICE-2"  ,OSN-BOXOFFICE-2
+http://egyman.net:1978/live/22222/22222/4604.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-BoxOFFICE-3-HD"  ,OSN-BoxOFFICE-3-HD
+http://egyman.net:1978/live/22222/22222/4603.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="AR:-OSN-WWE"  ,AR:-OSN-WWE
+http://egyman.net:1978/live/22222/22222/4556.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-YAHALLA-CENIMA"  ,OSN-YAHALLA-CENIMA
+http://egyman.net:1978/live/22222/22222/4557.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-Discovery-HD"  ,OSN-Discovery-HD
+http://egyman.net:1978/live/22222/22222/4577.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-Discovery-ID-HD"  ,OSN-Discovery-ID-HD
+http://egyman.net:1978/live/22222/22222/4576.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="VIP AR: OSN Discovery Science HD"  ,VIP AR: OSN Discovery Science HD
+http://egyman.net:1978/live/22222/22222/4575.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="VIP AR: OSN Disney HD"  ,VIP AR: OSN Disney HD
+http://egyman.net:1978/live/22222/22222/4574.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="VIP AR: OSN Disney Junior"  ,VIP AR: OSN Disney Junior
+http://egyman.net:1978/live/22222/22222/4573.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-Disney-XD"  ,OSN-Disney-XD
+http://egyman.net:1978/live/22222/22222/4572.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-Movies-2HD"  ,OSN-Movies-2HD
+http://egyman.net:1978/live/22222/22222/4571.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-Movies-Action-2"  ,OSN-Movies-Action-2
+http://egyman.net:1978/live/22222/22222/4570.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-Movies-Action-HD"  ,OSN-Movies-Action-HD
+http://egyman.net:1978/live/22222/22222/4569.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-Movies-Comedy-HD"  ,OSN-Movies-Comedy-HD
+http://egyman.net:1978/live/22222/22222/4568.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-MOVIES-DRAMA-2"  ,OSN-MOVIES-DRAMA-2
+http://egyman.net:1978/live/22222/22222/4567.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-Movies-Drama-HD"  ,OSN-Movies-Drama-HD
+http://egyman.net:1978/live/22222/22222/4566.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-Movies-Family-HD"  ,OSN-Movies-Family-HD
+http://egyman.net:1978/live/22222/22222/4565.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-Movies-Festival-HD"  ,OSN-Movies-Festival-HD
+http://egyman.net:1978/live/22222/22222/4564.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-Movies-HD"  ,OSN-Movies-HD
+http://egyman.net:1978/live/22222/22222/4563.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-Movies-Kids-HD"  ,OSN-Movies-Kids-HD
+http://egyman.net:1978/live/22222/22222/4562.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-Movies-Prem2"  ,OSN-Movies-Prem2
+http://egyman.net:1978/live/22222/22222/4561.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-National-Geo-HD"  ,OSN-National-Geo-HD
+http://egyman.net:1978/live/22222/22222/4559.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-National-Geo-People-HD"  ,OSN-National-Geo-People-HD
+http://egyman.net:1978/live/22222/22222/4558.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-AlSafwa"  ,OSN-AlSafwa
+http://egyman.net:1978/live/22222/22222/4602.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-Comedy-Central-HD"  ,OSN-Comedy-Central-HD
+http://egyman.net:1978/live/22222/22222/4601.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-Disney-Junior"  ,OSN-Disney-Junior
+http://egyman.net:1978/live/22222/22222/4600.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-Fann"  ,OSN-Fann
+http://egyman.net:1978/live/22222/22222/4599.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-First-Home-Of-HBO"  ,OSN-First-Home-Of-HBO
+http://egyman.net:1978/live/22222/22222/4594.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-Fox-Movies-HD"  ,OSN-Fox-Movies-HD
+http://egyman.net:1978/live/22222/22222/4593.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-MusalSat"  ,OSN-MusalSat
+http://egyman.net:1978/live/22222/22222/4590.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-YaHala"  ,OSN-YaHala
+http://egyman.net:1978/live/22222/22222/4583.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-YaHala-Cinema"  ,OSN-YaHala-Cinema
+http://egyman.net:1978/live/22222/22222/4581.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-YaHala-Drama"  ,OSN-YaHala-Drama
+http://egyman.net:1978/live/22222/22222/4580.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN-YaHala-Shabab"  ,OSN-YaHala-Shabab
+http://egyman.net:1978/live/22222/22222/4579.ts
+
+
+
+
+
 
 
 
