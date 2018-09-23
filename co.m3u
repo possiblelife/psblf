@@ -157,6 +157,8 @@ http://master.cystreams.com:25461/live/greek/minifit/42.ts
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/np3siv" ,SKAI Web
 http://www.lakatamiatv.xyz/app/chans/gr/skai.html|webview zoom=100 scroll=0,100
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/np3siv" ,SKAI Youtube
+https://www.youtube.com/watch?v=sMYwWQHesuc
+#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/np3siv" ,SKAI Youtube 2
 http://www.tvradiogr.com/p/tv/18/skai-live.html|webdown
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/np3siv" ,SKAI official Web
 http://www.skai.gr/mobile/tv-live/|webview zoom=100 scroll=0,100
