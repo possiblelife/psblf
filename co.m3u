@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,22/09/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,23/09/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -4318,14 +4318,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/523.m3u8$http-refferer=
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",
 
 
-#EXTINF:-1 group-title="France PREMIUM-SERVER2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg" ,==France==
-http://..........
-
-
-
-
-
-
 
 
 
@@ -4990,169 +4982,169 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 http://..........
 
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Sport 1 HD DE
-http://cdnp.cli.tn/iptv/ch405?code=170112976706579&key=24424
+http://cdnp.cli.tn/iptv/ch405?code=170112560817532&key=24424
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Sport 2 HD DE
-http://cdnp.cli.tn/iptv/ch406?code=170112976706579&key=15019
+http://cdnp.cli.tn/iptv/ch406?code=170112560817532&key=15019
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sport1 DE
-http://cdnp.cli.tn/iptv/ch1520?code=170112976706579&key=25534
+http://cdnp.cli.tn/iptv/ch1520?code=170112560817532&key=25534
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",EuroSport1 DE
-http://cdnp.cli.tn/iptv/ch420?code=170112976706579&key=24542
+http://cdnp.cli.tn/iptv/ch420?code=170112560817532&key=24542
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Eurosport2 DE
-http://cdnp.cli.tn/iptv/ch1519?code=170112976706579&key=54311
+http://cdnp.cli.tn/iptv/ch1519?code=170112560817532&key=54311
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Atlantic HD DE
-http://cdnp.cli.tn/iptv/ch402?code=170112976706579&key=51354
+http://cdnp.cli.tn/iptv/ch402?code=170112560817532&key=51354
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Cinema HD DE
-http://cdnp.cli.tn/iptv/ch401?code=170112976706579&key=22312
+http://cdnp.cli.tn/iptv/ch401?code=170112560817532&key=22312
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Action DE
-http://cdnp.cli.tn/iptv/ch411?code=170112976706579&key=10904
+http://cdnp.cli.tn/iptv/ch411?code=170112560817532&key=10904
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Hits DE
-http://cdnp.cli.tn/iptv/ch1516?code=170112976706579&key=34407
+http://cdnp.cli.tn/iptv/ch1516?code=170112560817532&key=34407
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",TNT Glitz DE
-http://cdnp.cli.tn/iptv/ch1522?code=170112976706579&key=60279
+http://cdnp.cli.tn/iptv/ch1522?code=170112560817532&key=60279
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",TNT Series DE
-http://cdnp.cli.tn/iptv/ch1518?code=170112976706579&key=31618
+http://cdnp.cli.tn/iptv/ch1518?code=170112560817532&key=31618
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",NAT Geo WILD HD
-http://cdnp.cli.tn/iptv/ch409?code=170112976706579&key=36649
+http://cdnp.cli.tn/iptv/ch409?code=170112560817532&key=36649
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Discovery HD
-http://cdnp.cli.tn/iptv/ch410?code=170112976706579&key=42417
+http://cdnp.cli.tn/iptv/ch410?code=170112560817532&key=42417
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Nat. Geo DE
-http://cdnp.cli.tn/iptv/ch408?code=170112976706579&key=57241
+http://cdnp.cli.tn/iptv/ch408?code=170112560817532&key=57241
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Syfy DE
-http://cdnp.cli.tn/iptv/ch414?code=170112976706579&key=16065
+http://cdnp.cli.tn/iptv/ch414?code=170112560817532&key=16065
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Universal DE
-http://cdnp.cli.tn/iptv/ch1511?code=170112976706579&key=52239
+http://cdnp.cli.tn/iptv/ch1511?code=170112560817532&key=52239
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",History DE
-http://cdnp.cli.tn/iptv/ch1504?code=170112976706579&key=31948
+http://cdnp.cli.tn/iptv/ch1504?code=170112560817532&key=31948
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Disney Cinemagic DE
-http://cdnp.cli.tn/iptv/ch1501?code=170112976706579&key=47536
+http://cdnp.cli.tn/iptv/ch1501?code=170112560817532&key=47536
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Disney Channel DE
-http://cdnp.cli.tn/iptv/ch1500?code=170112976706579&key=54409
+http://cdnp.cli.tn/iptv/ch1500?code=170112560817532&key=54409
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Disney Junior DE
-http://cdnp.cli.tn/iptv/ch404?code=170112976706579&key=13336
+http://cdnp.cli.tn/iptv/ch404?code=170112560817532&key=13336
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Kika DE
-http://cdnp.cli.tn/iptv/ch421?code=170112976706579&key=59253
+http://cdnp.cli.tn/iptv/ch421?code=170112560817532&key=59253
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",13 Street DE
-http://cdnp.cli.tn/iptv/ch1515?code=170112976706579&key=48452
+http://cdnp.cli.tn/iptv/ch1515?code=170112560817532&key=48452
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",E. DE
-http://cdnp.cli.tn/iptv/ch1513?code=170112976706579&key=20439
+http://cdnp.cli.tn/iptv/ch1513?code=170112560817532&key=20439
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",ZDF
-http://cdnp.cli.tn/iptv/ch416?code=170112976706579&key=40700
+http://cdnp.cli.tn/iptv/ch416?code=170112560817532&key=40700
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",ZDF Info
-http://cdnp.cli.tn/iptv/ch417?code=170112976706579&key=63506
+http://cdnp.cli.tn/iptv/ch417?code=170112560817532&key=63506
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",ZDF Kultur
-http://cdnp.cli.tn/iptv/ch1506?code=170112976706579&key=31159
+http://cdnp.cli.tn/iptv/ch1506?code=170112560817532&key=31159
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",ZDF Neo
-http://cdnp.cli.tn/iptv/ch1505?code=170112976706579&key=17618
+http://cdnp.cli.tn/iptv/ch1505?code=170112560817532&key=17618
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",ARTE DE
-http://cdnp.cli.tn/iptv/ch1524?code=170112976706579&key=51150
+http://cdnp.cli.tn/iptv/ch1524?code=170112560817532&key=51150
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Das Erst
-http://cdnp.cli.tn/iptv/ch1525?code=170112976706579&key=10584
+http://cdnp.cli.tn/iptv/ch1525?code=170112560817532&key=10584
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",PRO 7 Maxx
-http://cdnp.cli.tn/iptv/ch1512?code=170112976706579&key=21180
+http://cdnp.cli.tn/iptv/ch1512?code=170112560817532&key=21180
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",RTL DE
-http://cdnp.cli.tn/iptv/ch418?code=170112976706579&key=63795
+http://cdnp.cli.tn/iptv/ch418?code=170112560817532&key=63795
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Super RTL DE
-http://cdnp.cli.tn/iptv/ch1526?code=170112976706579&key=64883
+http://cdnp.cli.tn/iptv/ch1526?code=170112560817532&key=64883
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",RTL 2
-http://cdnp.cli.tn/iptv/ch419?code=170112976706579&key=25709
+http://cdnp.cli.tn/iptv/ch419?code=170112560817532&key=25709
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",RTL Living DE
-http://cdnp.cli.tn/iptv/ch1527?code=170112976706579&key=39181
+http://cdnp.cli.tn/iptv/ch1527?code=170112560817532&key=39181
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",RTL Crime DE
-http://cdnp.cli.tn/iptv/ch1503?code=170112976706579&key=12230
+http://cdnp.cli.tn/iptv/ch1503?code=170112560817532&key=12230
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",RTL Nitro DE
-http://cdnp.cli.tn/iptv/ch1528?code=170112976706579&key=53406
+http://cdnp.cli.tn/iptv/ch1528?code=170112560817532&key=53406
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",SAT 1
-http://cdnp.cli.tn/iptv/ch1507?code=170112976706579&key=26947
+http://cdnp.cli.tn/iptv/ch1507?code=170112560817532&key=26947
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Kabel 1
-http://cdnp.cli.tn/iptv/ch1509?code=170112976706579&key=27033
+http://cdnp.cli.tn/iptv/ch1509?code=170112560817532&key=27033
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sixx
-http://cdnp.cli.tn/iptv/ch1510?code=170112976706579&key=44286
+http://cdnp.cli.tn/iptv/ch1510?code=170112560817532&key=44286
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",PRO 7
-http://cdnp.cli.tn/iptv/ch1508?code=170112976706579&key=62758
+http://cdnp.cli.tn/iptv/ch1508?code=170112560817532&key=62758
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",NTV DE
-http://cdnp.cli.tn/iptv/ch1502?code=170112976706579&key=27861
+http://cdnp.cli.tn/iptv/ch1502?code=170112560817532&key=27861
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",3 Sat
-http://cdnp.cli.tn/iptv/ch425?code=170112976706579&key=39378
+http://cdnp.cli.tn/iptv/ch425?code=170112560817532&key=39378
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",VOX
-http://cdnp.cli.tn/iptv/ch415?code=170112976706579&key=30583
+http://cdnp.cli.tn/iptv/ch415?code=170112560817532&key=30583
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Bundesliga 1 DE
-http://cdnp.cli.tn/iptv/ch1521?code=170112976706579&key=55179
+http://cdnp.cli.tn/iptv/ch1521?code=170112560817532&key=55179
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2" ,ABC
-http://cdnp.cli.tn/iptv/ch3507?code=170112976706579&key=47530
+http://cdnp.cli.tn/iptv/ch3507?code=170112560817532&key=47530
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",SHOWTIME
-http://cdnp.cli.tn/iptv/ch3536?code=170112976706579&key=35719
+http://cdnp.cli.tn/iptv/ch3536?code=170112560817532&key=35719
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",USA Net.
-http://cdnp.cli.tn/iptv/ch3537?code=170112976706579&key=53700
+http://cdnp.cli.tn/iptv/ch3537?code=170112560817532&key=53700
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",MLB Net.
-http://cdnp.cli.tn/iptv/ch3538?code=170112976706579&key=13796
+http://cdnp.cli.tn/iptv/ch3538?code=170112560817532&key=13796
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",TBS HD
-http://cdnp.cli.tn/iptv/ch3509?code=170112976706579&key=37497
+http://cdnp.cli.tn/iptv/ch3509?code=170112560817532&key=37497
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",TNT HD
-http://cdnp.cli.tn/iptv/ch3508?code=170112976706579&key=34167
+http://cdnp.cli.tn/iptv/ch3508?code=170112560817532&key=34167
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",FOX HD
-http://cdnp.cli.tn/iptv/ch3520?code=170112976706579&key=43215
+http://cdnp.cli.tn/iptv/ch3520?code=170112560817532&key=43215
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",AMC HD
-http://cdnp.cli.tn/iptv/ch3528?code=170112976706579&key=39592
+http://cdnp.cli.tn/iptv/ch3528?code=170112560817532&key=39592
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",E. USA
-http://cdnp.cli.tn/iptv/ch3506?code=170112976706579&key=61219
+http://cdnp.cli.tn/iptv/ch3506?code=170112560817532&key=61219
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",CBS HD
-http://cdnp.cli.tn/iptv/ch3519?code=170112976706579&key=25980
+http://cdnp.cli.tn/iptv/ch3519?code=170112560817532&key=25980
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",TLC HD
-http://cdnp.cli.tn/iptv/ch3503?code=170112976706579&key=18162
+http://cdnp.cli.tn/iptv/ch3503?code=170112560817532&key=18162
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",HBO
-http://cdnp.cli.tn/iptv/ch3535?code=170112976706579&key=28275
+http://cdnp.cli.tn/iptv/ch3535?code=170112560817532&key=28275
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",HBO Zone
-http://cdnp.cli.tn/iptv/ch3534?code=170112976706579&key=31619
+http://cdnp.cli.tn/iptv/ch3534?code=170112560817532&key=31619
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",HBO Signature
-http://cdnp.cli.tn/iptv/ch3533?code=170112976706579&key=39685
+http://cdnp.cli.tn/iptv/ch3533?code=170112560817532&key=39685
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",HBO Comedy
-http://cdnp.cli.tn/iptv/ch3532?code=170112976706579&key=43602
+http://cdnp.cli.tn/iptv/ch3532?code=170112560817532&key=43602
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",FXX
-http://cdnp.cli.tn/iptv/ch3531?code=170112976706579&key=36752
+http://cdnp.cli.tn/iptv/ch3531?code=170112560817532&key=36752
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",FX
-http://cdnp.cli.tn/iptv/ch3530?code=170112976706579&key=49324
+http://cdnp.cli.tn/iptv/ch3530?code=170112560817532&key=49324
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Action Max HD
-http://cdnp.cli.tn/iptv/ch3527?code=170112976706579&key=57037
+http://cdnp.cli.tn/iptv/ch3527?code=170112560817532&key=57037
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",ABC news
-http://cdnp.cli.tn/iptv/ch3504?code=170112976706579&key=49215
+http://cdnp.cli.tn/iptv/ch3504?code=170112560817532&key=49215
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",HG TV
-http://cdnp.cli.tn/iptv/ch3501?code=170112976706579&key=43769
+http://cdnp.cli.tn/iptv/ch3501?code=170112560817532&key=43769
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Viceland
-http://cdnp.cli.tn/iptv/ch3502?code=170112976706579&key=49097
+http://cdnp.cli.tn/iptv/ch3502?code=170112560817532&key=49097
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Beinsports
-http://cdnp.cli.tn/iptv/ch3529?code=170112976706579&key=18568
+http://cdnp.cli.tn/iptv/ch3529?code=170112560817532&key=18568
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",TSN 1 HD
-http://cdnp.cli.tn/iptv/ch3522?code=170112976706579&key=60994
+http://cdnp.cli.tn/iptv/ch3522?code=170112560817532&key=60994
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",TSN 4 HD
-http://cdnp.cli.tn/iptv/ch3525?code=170112976706579&key=47337
+http://cdnp.cli.tn/iptv/ch3525?code=170112560817532&key=47337
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",TSN 2 HD
-http://cdnp.cli.tn/iptv/ch3523?code=170112976706579&key=46194
+http://cdnp.cli.tn/iptv/ch3523?code=170112560817532&key=46194
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",TSN 3 HD
-http://cdnp.cli.tn/iptv/ch3524?code=170112976706579&key=11240
+http://cdnp.cli.tn/iptv/ch3524?code=170112560817532&key=11240
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",TSN 5 HD
-http://cdnp.cli.tn/iptv/ch3526?code=170112976706579&key=14798
+http://cdnp.cli.tn/iptv/ch3526?code=170112560817532&key=14798
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",NBC HD
-http://cdnp.cli.tn/iptv/ch3521?code=170112976706579&key=34617
+http://cdnp.cli.tn/iptv/ch3521?code=170112560817532&key=34617
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",WWE net.
-http://cdnp.cli.tn/iptv/ch3518?code=170112976706579&key=10208
+http://cdnp.cli.tn/iptv/ch3518?code=170112560817532&key=10208
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",NHL net. HD
-http://cdnp.cli.tn/iptv/ch3517?code=170112976706579&key=57920
+http://cdnp.cli.tn/iptv/ch3517?code=170112560817532&key=57920
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",NBC Sports net.
-http://cdnp.cli.tn/iptv/ch3516?code=170112976706579&key=50428
+http://cdnp.cli.tn/iptv/ch3516?code=170112560817532&key=50428
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",NBA HD
-http://cdnp.cli.tn/iptv/ch3515?code=170112976706579&key=43734
+http://cdnp.cli.tn/iptv/ch3515?code=170112560817532&key=43734
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Fox Sport 1 HD
-http://cdnp.cli.tn/iptv/ch3513?code=170112976706579&key=63223
+http://cdnp.cli.tn/iptv/ch3513?code=170112560817532&key=63223
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Fox Sport 2 HD
-http://cdnp.cli.tn/iptv/ch3514?code=170112976706579&key=29532
+http://cdnp.cli.tn/iptv/ch3514?code=170112560817532&key=29532
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",ESPN2 HD
-http://cdnp.cli.tn/iptv/ch3512?code=170112976706579&key=35582
+http://cdnp.cli.tn/iptv/ch3512?code=170112560817532&key=35582
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",ESPN HD
-http://cdnp.cli.tn/iptv/ch3511?code=170112976706579&key=62905
+http://cdnp.cli.tn/iptv/ch3511?code=170112560817532&key=62905
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",ESPN News HD
-http://cdnp.cli.tn/iptv/ch3510?code=170112976706579&key=37948
+http://cdnp.cli.tn/iptv/ch3510?code=170112560817532&key=37948
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Willow cricket HD
-http://cdnp.cli.tn/iptv/ch3505?code=170112976706579&key=27234
+http://cdnp.cli.tn/iptv/ch3505?code=170112560817532&key=27234
 
 
 
@@ -5177,7 +5169,390 @@ http://cdnp.cli.tn/iptv/ch3505?code=170112976706579&key=27234
 
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER3",
 
-
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",ARD UHD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/502.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",ARD HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/196.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",ARD SD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/567.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",ZDF UHD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/823.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",ZDF HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/195.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",ZDF
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/570.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",WDR HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/194.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",WDR KOLN
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/568.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",RTL UHD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/498.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",RTL HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/193.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",RTL
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/632.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",PRO 7 UHD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/497.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",PRO7 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/190.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",PRO7
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/630.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",RTL2 UHD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/499.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",RTL2 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/192.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",RTL2
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/857.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VOX UHD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/500.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VOX HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/191.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VOX
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/835.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SAT 1 UHD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/501.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SAT1 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/189.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SAT 1
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/633.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",KABEL 1  UHD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/496.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",KABEL1 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/188.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",KABEL 1
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/628.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",PRO 7 FUN  HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/511.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",PRO7 MAXX HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/187.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",PRO7 MAXX
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/838.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DMAX
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/853.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SIXX
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/104.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",ANEXI SD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/509.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",ZEE ONE
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/185.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",TLC HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/186.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",TELE5
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/848.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",ARTE
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/180.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",3SAT
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/184.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",ZDF INFO
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/179.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",ZDF NEO
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/491.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",ARD-alpha
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/837.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",ONE
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/836.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",PHOENIX
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/634.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",TAGESSCHAU 24
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/182.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",NTV  UHD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/503.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",welt HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/183.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",NTV
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/629.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",WELT
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/492.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Bloomberg
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/639.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",N24 DOKU
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/181.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Kabel 1 Doku
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/507.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",hr-fernsehen
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/569.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SWR BW
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/510.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",RTL  PLUS
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/494.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3", RTL PASSION
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/506.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",RTL Living HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/505.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SAT 1 GOLD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/504.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",KIKA
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/207.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SUPER RTL
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/172.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",TOGGO PLUS
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/493.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Nickelodeon/Nicknight
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/171.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DISNEY channel
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/177.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",BOOMERANG
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/174.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Cartoon Network
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/212.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Nicktoons
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/849.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DISNEY JR
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/103.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DISNEY CINE MAGIC
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/176.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DISNEY XD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/175.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DISNEY SD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/178.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",JUNIOR
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/102.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",BabyTV
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/854.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Nick Jr.
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/850.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Fix&Foxi
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/852.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIVA / COMEDY CENTRAL
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/856.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",MTV
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/855.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE  | VH1
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/834.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",MTV Hits
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/821.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",MTV Dance
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/907.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",MTV Music 24
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/155.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",CLASSICA
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/635.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VH1 Classic
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/820.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Deutsches Musik Fernsehen
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/858.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",BonGusto
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/154.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",RTL LIVING
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/150.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",CNBC
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/844.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DW ENGLISCH
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/210.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky 1 UHD T
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/830.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky 1 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/156.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky 1
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/566.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky CINEMA UHD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/827.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky CINEMA
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/169.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky CINEMA  ACTION UHD T
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/828.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky CINEMA ACTION HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/906.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky CINEMA ACTION
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/170.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky CINEMA HITS UHD T
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/829.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky CINEMA HITS
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/165.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky ATLANTIC HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/627.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky ATLANTIC
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/166.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky CINEMA +1
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/168.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky CINEMA +24
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/167.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky CINEMA COMEDY
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/163.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky CINEMA NOSTALGIE
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/164.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky CINEMA FAMILY
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/101.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",13 THE STREET HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/153.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",13 THE STREET
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/205.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SYFY HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/152.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SYFY
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/563.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",TNT FILM HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/162.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",TNT Film
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/839.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",TNT COMEDY HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/161.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",TNT Comedy
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/905.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",TNT Serie
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/564.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",NITRO
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/141.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky KRIMI
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/565.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",FOX HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/158.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",FOX SERIE
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/157.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",RTL CRIME
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/151.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",HEIMAT KANAL
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/202.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",ROMANCE TV
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/148.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",ROMANCE TV HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/147.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Cinema Arts
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/495.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sat.1 Emotions
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/159.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",RTL EMOTION HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/149.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky CINEMA EMOTION
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/846.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",E! Entertainment
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/847.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Kinowelt TV HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/203.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",kabel eins classics
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/140.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Silverline Movie Channel
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/206.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Universal TV HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/904.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",e o tv
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/903.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",A&E
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/637.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",ANIMAL PLANET HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/143.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",NATGEO WILD HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/142.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DISCOVERY CHANNEL UHD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/832.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DISCOVERY CHANNEL
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/145.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",NAT GEO  HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/144.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",NAT GEO
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/845.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Nat Geo Wild
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/851.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",ANIMAL PLANET
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/901.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",HISTORY UHD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/933.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",HISTORY
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/204.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",PLANET
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/201.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Spiegel TV Wissen
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/213.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SPIEGEL GESCHICHTE
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/200.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",AUTO MOTORSPORT HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/134.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",auto motor sport
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/902.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Motorvision TV
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/160.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",EUROSPORT1 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/136.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",EUROSPORT 2
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/508.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sport1+
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/133.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sport 1 US
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/132.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SPORT1 US
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/841.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky SPORT NEWS HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/139.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky SPORT NEWS T
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/840.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SPORT DIGITAL
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/137.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sportdigital
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/571.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky SPORT AUSTRIA HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/138.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Eurosport 2 HD Xtra
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/135.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",EUROSPORT2 XTRA UHD T
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/833.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky SPORT BUNDESLIGA 1 UHD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/825.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky SPORT BUNDESLIGA1 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/131.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SKY SPORT BUNDESLIGA2 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/130.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SKY SPORT BUNDESLIGA3 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/129.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SKY SPORT BUNDESLIGA4
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/128.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SKY SPORT BUNDESLIGA5 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/127.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SKY SPORT BUNDESLIGA6
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/126.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SKY SPORT BUNDESLIGA7 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/125.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SKY SPORT BUNDESLIGA8 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/124.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SKY SPORT BUNDESLIGA9 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/123.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SKY SPORT BUNDESLIGA10 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/122.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky SPORT 1 UHD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/824.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SKY SPORT1 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/121.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky SPORT 1 T
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/843.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky SPORT 2 UHD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/826.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SKY SPORT2 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/120.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky SPORT 2 T
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/842.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SKY  SPORT 3
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/119.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SKY SPORT 4
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/118.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SKY SPORT5
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/117.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SKY SPORT6
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/116.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SKY SPORT7 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/115.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SKY SPORT8 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/114.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SKY SPORT9 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/113.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SKY SPORT10
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/112.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",sky SPORT 11 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/111.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",°sky SELECT 1 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/2823.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",°sky SELECT 2 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/2824.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",°sky SELECT 3 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/2825.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",°sky SELECT 4 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/2826.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",°sky SELECT 5 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/2827.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",°sky SELECT 6 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/2828.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",°sky SELECT 7 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/2829.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",°sky SELECT 8 HD
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/2830.m3u8
 
 
 
@@ -12203,8 +12578,206 @@ http://www.elahmad.com/tv/m3u8/bahraintv.m3u8?id=bahrain_tv
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",
 
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png" ,==U.A.E==
+http://..........
 
 
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Quran
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/219.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Al Salam TV
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/213.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bayt Sports
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/211.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ajyal Sport
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/218.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Al Fajer
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/220.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Kol Nas TV
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/212.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",==~~BEIN.SPORTS.HD~~==
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/33.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports News
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/90.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 1 HD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/1.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 2 HD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/2.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 3 HD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/3.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 4 HD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/4.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 5 HD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/5.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 6 HD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/6.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 7 HD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/7.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 8 HD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/8.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 9 HD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/70.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 10 HD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/72.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 11 HD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/74.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 12 HD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/75.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",==~~BEIN.SPORTS.SD~~==
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/34.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 1 SD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/25.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 2 SD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/26.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 3 SD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/27.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 4 SD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/28.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 5 SD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/29.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 6 SD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/30.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 7 SD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/31.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 8 SD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/32.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 9 SD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/71.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 10 SD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/73.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",==~~BEIN.SPORTS.LOW~~==
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/35.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 1 Low
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/17.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 2 Low
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/18.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 3 Low
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/19.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 4 Low
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/20.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 5 Low
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/21.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 6 Low
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/22.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 7 Low
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/23.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Sports 8 Low
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/24.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",==~~BEIN.FR~~==
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/101.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein FR 1
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/98.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein FR 2
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/99.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein FR 3
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/100.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",==~~BEIN.MOVIES.HD~~==
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/41.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Movies 1 HD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/37.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Movies 2 HD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/38.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Movies 3 HD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/39.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Movies 4 HD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/40.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",==~~BEIN.MOVIES.LOW~~==
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/103.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Movies 1 Low
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/94.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Movies 2 Low
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/95.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Movies 3 Low
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/96.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Movies 4 Low
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/97.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Drama HD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/86.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Series 1 HD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/87.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Series 2 HD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/88.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",==~~AD.SPORTS~~==
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/63.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AD Sports 1 HD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/64.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AD Sports 2 HD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/67.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AD Sports 1 SD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/65.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AD Sports 2 SD
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/68.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AD Sports 1 Low
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/66.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AD Sports 2 Low
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/69.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",==~~ARENA.SPORTS.HIGH~~==
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/59.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Arena Sports 1 High
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/51.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Arena Sports 2 High
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/52.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Arena Sports 3 High
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/53.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Arena Sports 4 High
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/54.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",==~~ARENA.SPORTS.LOW~~==
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/60.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Arena Sports 1 Low
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/55.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Arena Sports 2 Low
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/56.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Arena Sports 3 Low
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/57.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Arena Sports 4 Low
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/58.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",==~~BT.SPORTS~~==
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/62.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",BT Sport 1
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/42.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",BT Sport 2
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/43.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",BT Sport 3
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/44.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",BT Sport ESPN
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/61.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",==~~EURO.SPORTS~~==
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/102.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Euro Sport 1
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/92.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Euro Sport 2
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/93.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",==~~CLUBS~~==
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/82.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Al Ahly Club
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/78.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Barca TV
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/81.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Chelsea TV
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/80.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Real Madrid TV
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/79.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MUTV
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/89.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",==~~SPORTS~~==
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/83.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",ON Sport
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/76.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Nile Sport
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/77.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",WWE Network
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/91.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",==~~ART~~==
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/50.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",ART Aflam 1
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/45.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",ART Aflam 2
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/46.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",ART Cinema
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/47.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",ART Hekayat 1
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/48.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",ART Hekayat 2
+http://144.76.141.170:8080/live/ppfEnYFhbN/Vn8A2ZSuPM/49.ts
 
 
 
@@ -12913,1009 +13486,1009 @@ http://..........
 
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" ,Samira TV
-http://cdnp.cli.tn/iptv/ch194?code=170112976724953&key=58442
+http://cdnp.cli.tn/iptv/ch194?code=170112560190110&key=58442
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Chourouk TV
-http://cdnp.cli.tn/iptv/ch719?code=170112976724953&key=62904
+http://cdnp.cli.tn/iptv/ch719?code=170112560190110&key=62904
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Chourouk News
-http://cdnp.cli.tn/iptv/ch754?code=170112976724953&key=19870
+http://cdnp.cli.tn/iptv/ch754?code=170112560190110&key=19870
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",El Bilad TV
-http://cdnp.cli.tn/iptv/ch795?code=170112976724953&key=25114
+http://cdnp.cli.tn/iptv/ch795?code=170112560190110&key=25114
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Chourouk Benna
-http://cdnp.cli.tn/iptv/ch726?code=170112976724953&key=38133
+http://cdnp.cli.tn/iptv/ch726?code=170112560190110&key=38133
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Ennahar Algerie
-http://cdnp.cli.tn/iptv/ch724?code=170112976724953&key=54810
+http://cdnp.cli.tn/iptv/ch724?code=170112560190110&key=54810
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Programme National
-http://cdnp.cli.tn/iptv/ch1014?code=170112976724953&key=16654
+http://cdnp.cli.tn/iptv/ch1014?code=170112560190110&key=16654
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Canal ALGERIE 1
-http://cdnp.cli.tn/iptv/ch60?code=170112976724953&key=45835
+http://cdnp.cli.tn/iptv/ch60?code=170112560190110&key=45835
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Canal 3
-http://cdnp.cli.tn/iptv/ch137?code=170112976724953&key=34140
+http://cdnp.cli.tn/iptv/ch137?code=170112560190110&key=34140
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Dzaier News
-http://cdnp.cli.tn/iptv/ch156?code=170112976724953&key=13842
+http://cdnp.cli.tn/iptv/ch156?code=170112560190110&key=13842
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Dzaier TV
-http://cdnp.cli.tn/iptv/ch157?code=170112976724953&key=25421
+http://cdnp.cli.tn/iptv/ch157?code=170112560190110&key=25421
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",TV Tamazight Alger
-http://cdnp.cli.tn/iptv/ch735?code=170112976724953&key=41293
+http://cdnp.cli.tn/iptv/ch735?code=170112560190110&key=41293
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Beur TV
-http://cdnp.cli.tn/iptv/ch161?code=170112976724953&key=37638
+http://cdnp.cli.tn/iptv/ch161?code=170112560190110&key=37638
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Haddef Algerie
-http://cdnp.cli.tn/iptv/ch191?code=170112976724953&key=34933
+http://cdnp.cli.tn/iptv/ch191?code=170112560190110&key=34933
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Jazairya TV
-http://cdnp.cli.tn/iptv/ch496?code=170112976724953&key=49261
+http://cdnp.cli.tn/iptv/ch496?code=170112560190110&key=49261
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Magharibia
-http://cdnp.cli.tn/iptv/ch172?code=170112976724953&key=53784
+http://cdnp.cli.tn/iptv/ch172?code=170112560190110&key=53784
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Magharibia 2
-http://cdnp.cli.tn/iptv/ch780?code=170112976724953&key=32831
+http://cdnp.cli.tn/iptv/ch780?code=170112560190110&key=32831
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Berbere Music
-http://cdnp.cli.tn/iptv/ch1011?code=170112976724953&key=59943
+http://cdnp.cli.tn/iptv/ch1011?code=170112560190110&key=59943
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Berbere TV
-http://cdnp.cli.tn/iptv/ch1012?code=170112976724953&key=62280
+http://cdnp.cli.tn/iptv/ch1012?code=170112560190110&key=62280
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Berbere jeunesse
-http://cdnp.cli.tn/iptv/ch1010?code=170112976724953&key=41606
+http://cdnp.cli.tn/iptv/ch1010?code=170112560190110&key=41606
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Numidia TV
-http://cdnp.cli.tn/iptv/ch474?code=170112976724953&key=53501
+http://cdnp.cli.tn/iptv/ch474?code=170112560190110&key=53501
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Fajr TV
-http://cdnp.cli.tn/iptv/ch847?code=170112976724953&key=32734
+http://cdnp.cli.tn/iptv/ch847?code=170112560190110&key=32734
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Bahia Tv
-http://cdnp.cli.tn/iptv/ch700?code=170112976724953&key=16485
+http://cdnp.cli.tn/iptv/ch700?code=170112560190110&key=16485
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Chams Tv
-http://cdnp.cli.tn/iptv/ch162?code=170112976724953&key=30558
+http://cdnp.cli.tn/iptv/ch162?code=170112560190110&key=30558
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Adjwaa
-http://cdnp.cli.tn/iptv/ch560?code=170112976724953&key=25683
+http://cdnp.cli.tn/iptv/ch560?code=170112560190110&key=25683
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Programme Nat. +4
-http://cdnp.cli.tn/iptv/ch4101?code=170112976724953&key=27568
+http://cdnp.cli.tn/iptv/ch4101?code=170112560190110&key=27568
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Canal ALGERIE 1 +4
-http://cdnp.cli.tn/iptv/ch4060?code=170112976724953&key=58884
+http://cdnp.cli.tn/iptv/ch4060?code=170112560190110&key=58884
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Chourouk TV +4
-http://cdnp.cli.tn/iptv/ch4719?code=170112976724953&key=30145
+http://cdnp.cli.tn/iptv/ch4719?code=170112560190110&key=30145
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Ennahar Algerie +4
-http://cdnp.cli.tn/iptv/ch4724?code=170112976724953&key=16710
+http://cdnp.cli.tn/iptv/ch4724?code=170112560190110&key=16710
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Canal 3 +4
-http://cdnp.cli.tn/iptv/ch4137?code=170112976724953&key=58922
+http://cdnp.cli.tn/iptv/ch4137?code=170112560190110&key=58922
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" ,Ettounsia Tv
-http://cdnp.cli.tn/iptv/ch19?code=170112976724953&key=17693
+http://cdnp.cli.tn/iptv/ch19?code=170112560190110&key=17693
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Tunisia Live Events
-http://cdnp.cli.tn/iptv/ch949?code=170112976724953&key=33787
+http://cdnp.cli.tn/iptv/ch949?code=170112560190110&key=33787
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Sahel Tv
-http://cdnp.cli.tn/iptv/ch1194?code=170112976724953&key=41019
+http://cdnp.cli.tn/iptv/ch1194?code=170112560190110&key=41019
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",National 1
-http://cdnp.cli.tn/iptv/ch1?code=170112976724953&key=25868
+http://cdnp.cli.tn/iptv/ch1?code=170112560190110&key=25868
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",National 2
-http://cdnp.cli.tn/iptv/ch2?code=170112976724953&key=39085
+http://cdnp.cli.tn/iptv/ch2?code=170112560190110&key=39085
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Hiwar Ettounsi
-http://cdnp.cli.tn/iptv/ch3?code=170112976724953&key=47578
+http://cdnp.cli.tn/iptv/ch3?code=170112560190110&key=47578
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Attasia TV
-http://cdnp.cli.tn/iptv/ch4?code=170112976724953&key=27964
+http://cdnp.cli.tn/iptv/ch4?code=170112560190110&key=27964
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nessma TV
-http://cdnp.cli.tn/iptv/ch5?code=170112976724953&key=29215
+http://cdnp.cli.tn/iptv/ch5?code=170112560190110&key=29215
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Hannibal TV
-http://cdnp.cli.tn/iptv/ch6?code=170112976724953&key=32464
+http://cdnp.cli.tn/iptv/ch6?code=170112560190110&key=32464
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Carthage tv
-http://cdnp.cli.tn/iptv/ch801?code=170112976724953&key=54832
+http://cdnp.cli.tn/iptv/ch801?code=170112560190110&key=54832
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Telvza TV
-http://cdnp.cli.tn/iptv/ch12?code=170112976724953&key=39405
+http://cdnp.cli.tn/iptv/ch12?code=170112560190110&key=39405
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Musicana
-http://cdnp.cli.tn/iptv/ch451?code=170112976724953&key=25809
+http://cdnp.cli.tn/iptv/ch451?code=170112560190110&key=25809
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Janoubia
-http://cdnp.cli.tn/iptv/ch7?code=170112976724953&key=18996
+http://cdnp.cli.tn/iptv/ch7?code=170112560190110&key=18996
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",M Tunisia
-http://cdnp.cli.tn/iptv/ch14?code=170112976724953&key=15264
+http://cdnp.cli.tn/iptv/ch14?code=170112560190110&key=15264
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Tounesna
-http://cdnp.cli.tn/iptv/ch8?code=170112976724953&key=21967
+http://cdnp.cli.tn/iptv/ch8?code=170112560190110&key=21967
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Mustakilla
-http://cdnp.cli.tn/iptv/ch77?code=170112976724953&key=58576
+http://cdnp.cli.tn/iptv/ch77?code=170112560190110&key=58576
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Zaytouna TV
-http://cdnp.cli.tn/iptv/ch9?code=170112976724953&key=38972
+http://cdnp.cli.tn/iptv/ch9?code=170112560190110&key=38972
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Zaytouna Hedaya
-http://cdnp.cli.tn/iptv/ch478?code=170112976724953&key=49329
+http://cdnp.cli.tn/iptv/ch478?code=170112560190110&key=49329
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Insen TV
-http://cdnp.cli.tn/iptv/ch745?code=170112976724953&key=33642
+http://cdnp.cli.tn/iptv/ch745?code=170112560190110&key=33642
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",TT 1
-http://cdnp.cli.tn/iptv/ch734?code=170112976724953&key=54712
+http://cdnp.cli.tn/iptv/ch734?code=170112560190110&key=54712
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Jawhara FM
-http://cdnp.cli.tn/iptv/ch800?code=170112976724953&key=60545
+http://cdnp.cli.tn/iptv/ch800?code=170112560190110&key=60545
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Mosaique FM
-http://cdnp.cli.tn/iptv/ch802?code=170112976724953&key=10811
+http://cdnp.cli.tn/iptv/ch802?code=170112560190110&key=10811
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",National 1 TNT
-http://cdnp.cli.tn/iptv/ch10?code=170112976724953&key=59769
+http://cdnp.cli.tn/iptv/ch10?code=170112560190110&key=59769
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",National 2 TNT
-http://cdnp.cli.tn/iptv/ch11?code=170112976724953&key=63265
+http://cdnp.cli.tn/iptv/ch11?code=170112560190110&key=63265
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Hiwar Ettounsi TNT
-http://cdnp.cli.tn/iptv/ch13?code=170112976724953&key=34205
+http://cdnp.cli.tn/iptv/ch13?code=170112560190110&key=34205
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nessma TV TNT
-http://cdnp.cli.tn/iptv/ch17?code=170112976724953&key=16267
+http://cdnp.cli.tn/iptv/ch17?code=170112560190110&key=16267
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Hannibal TV TNT
-http://cdnp.cli.tn/iptv/ch18?code=170112976724953&key=40530
+http://cdnp.cli.tn/iptv/ch18?code=170112560190110&key=40530
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",National 1 +4
-http://cdnp.cli.tn/iptv/ch4001?code=170112976724953&key=27720
+http://cdnp.cli.tn/iptv/ch4001?code=170112560190110&key=27720
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",National 2 +4
-http://cdnp.cli.tn/iptv/ch4002?code=170112976724953&key=50709
+http://cdnp.cli.tn/iptv/ch4002?code=170112560190110&key=50709
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Attasia TV +4
-http://cdnp.cli.tn/iptv/ch4004?code=170112976724953&key=24847
+http://cdnp.cli.tn/iptv/ch4004?code=170112560190110&key=24847
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Hannibal TV +4
-http://cdnp.cli.tn/iptv/ch4006?code=170112976724953&key=10152
+http://cdnp.cli.tn/iptv/ch4006?code=170112560190110&key=10152
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nessma TV +4
-http://cdnp.cli.tn/iptv/ch4005?code=170112976724953&key=56826
+http://cdnp.cli.tn/iptv/ch4005?code=170112560190110&key=56826
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Hiwar Ettounsi +4
-http://cdnp.cli.tn/iptv/ch4003?code=170112976724953&key=59702
+http://cdnp.cli.tn/iptv/ch4003?code=170112560190110&key=59702
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Oula Maroc HD
-http://cdnp.cli.tn/iptv/ch729?code=170112976724953&key=11139
+http://cdnp.cli.tn/iptv/ch729?code=170112560190110&key=11139
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Oula Laayoun
-http://cdnp.cli.tn/iptv/ch611?code=170112976724953&key=23785
+http://cdnp.cli.tn/iptv/ch611?code=170112560190110&key=23785
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Oula Maroc HD TNT
-http://cdnp.cli.tn/iptv/ch350?code=170112976724953&key=51091
+http://cdnp.cli.tn/iptv/ch350?code=170112560190110&key=51091
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",2M Maroc
-http://cdnp.cli.tn/iptv/ch121?code=170112976724953&key=35120
+http://cdnp.cli.tn/iptv/ch121?code=170112560190110&key=35120
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Medi1 HD
-http://cdnp.cli.tn/iptv/ch166?code=170112976724953&key=62918
+http://cdnp.cli.tn/iptv/ch166?code=170112560190110&key=62918
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Arrabiaa
-http://cdnp.cli.tn/iptv/ch761?code=170112976724953&key=22005
+http://cdnp.cli.tn/iptv/ch761?code=170112560190110&key=22005
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Arriadhia
-http://cdnp.cli.tn/iptv/ch733?code=170112976724953&key=52543
+http://cdnp.cli.tn/iptv/ch733?code=170112560190110&key=52543
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Arriadhia TNT
-http://cdnp.cli.tn/iptv/ch351?code=170112976724953&key=44954
+http://cdnp.cli.tn/iptv/ch351?code=170112560190110&key=44954
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Arriadhia Live HD
-http://cdnp.cli.tn/iptv/ch377?code=170112976724953&key=57791
+http://cdnp.cli.tn/iptv/ch377?code=170112560190110&key=57791
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Assadissa
-http://cdnp.cli.tn/iptv/ch147?code=170112976724953&key=30078
+http://cdnp.cli.tn/iptv/ch147?code=170112560190110&key=30078
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Assabiaa TNT
-http://cdnp.cli.tn/iptv/ch352?code=170112976724953&key=55123
+http://cdnp.cli.tn/iptv/ch352?code=170112560190110&key=55123
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Maghribia
-http://cdnp.cli.tn/iptv/ch56?code=170112976724953&key=28386
+http://cdnp.cli.tn/iptv/ch56?code=170112560190110&key=28386
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Tamazight Maroc
-http://cdnp.cli.tn/iptv/ch487?code=170112976724953&key=14269
+http://cdnp.cli.tn/iptv/ch487?code=170112560190110&key=14269
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM Aflam
-http://cdnp.cli.tn/iptv/ch941?code=170112976724953&key=46126
+http://cdnp.cli.tn/iptv/ch941?code=170112560190110&key=46126
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM Afrohits
-http://cdnp.cli.tn/iptv/ch942?code=170112976724953&key=23121
+http://cdnp.cli.tn/iptv/ch942?code=170112560190110&key=23121
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM Chaabi
-http://cdnp.cli.tn/iptv/ch943?code=170112976724953&key=57302
+http://cdnp.cli.tn/iptv/ch943?code=170112560190110&key=57302
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM Comedia
-http://cdnp.cli.tn/iptv/ch944?code=170112976724953&key=52550
+http://cdnp.cli.tn/iptv/ch944?code=170112560190110&key=52550
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM doc.
-http://cdnp.cli.tn/iptv/ch945?code=170112976724953&key=49149
+http://cdnp.cli.tn/iptv/ch945?code=170112560190110&key=49149
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM Drama
-http://cdnp.cli.tn/iptv/ch946?code=170112976724953&key=17973
+http://cdnp.cli.tn/iptv/ch946?code=170112560190110&key=17973
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM Katakit
-http://cdnp.cli.tn/iptv/ch947?code=170112976724953&key=28908
+http://cdnp.cli.tn/iptv/ch947?code=170112560190110&key=28908
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM Music
-http://cdnp.cli.tn/iptv/ch948?code=170112976724953&key=59438
+http://cdnp.cli.tn/iptv/ch948?code=170112560190110&key=59438
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM Rap Arab
-http://cdnp.cli.tn/iptv/ch957?code=170112976724953&key=22429
+http://cdnp.cli.tn/iptv/ch957?code=170112560190110&key=22429
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Sud 24
-http://cdnp.cli.tn/iptv/ch959?code=170112976724953&key=28096
+http://cdnp.cli.tn/iptv/ch959?code=170112560190110&key=28096
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Tele Maroc
-http://cdnp.cli.tn/iptv/ch1142?code=170112976724953&key=64670
+http://cdnp.cli.tn/iptv/ch1142?code=170112560190110&key=64670
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Chada TV
-http://cdnp.cli.tn/iptv/ch666?code=170112976724953&key=24164
+http://cdnp.cli.tn/iptv/ch666?code=170112560190110&key=24164
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Canal Atlas
-http://cdnp.cli.tn/iptv/ch615?code=170112976724953&key=58892
+http://cdnp.cli.tn/iptv/ch615?code=170112560190110&key=58892
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",2M Maroc +4
-http://cdnp.cli.tn/iptv/ch4121?code=170112976724953&key=58402
+http://cdnp.cli.tn/iptv/ch4121?code=170112560190110&key=58402
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Medi1 +4
-http://cdnp.cli.tn/iptv/ch4166?code=170112976724953&key=48634
+http://cdnp.cli.tn/iptv/ch4166?code=170112560190110&key=48634
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Oula Maroc HD +4
-http://cdnp.cli.tn/iptv/ch4729?code=170112976724953&key=41171
+http://cdnp.cli.tn/iptv/ch4729?code=170112560190110&key=41171
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" ,MEIE TV
-http://cdnp.cli.tn/iptv/ch1530?code=170112976724953&key=29872
+http://cdnp.cli.tn/iptv/ch1530?code=170112560190110&key=29872
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",O-Tv
-http://cdnp.cli.tn/iptv/ch186?code=170112976724953&key=10966
+http://cdnp.cli.tn/iptv/ch186?code=170112560190110&key=10966
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MTV Lebanon
-http://cdnp.cli.tn/iptv/ch163?code=170112976724953&key=27740
+http://cdnp.cli.tn/iptv/ch163?code=170112560190110&key=27740
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Future TV
-http://cdnp.cli.tn/iptv/ch705?code=170112976724953&key=13050
+http://cdnp.cli.tn/iptv/ch705?code=170112560190110&key=13050
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Alaan
-http://cdnp.cli.tn/iptv/ch136?code=170112976724953&key=33168
+http://cdnp.cli.tn/iptv/ch136?code=170112560190110&key=33168
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Lebanon TV
-http://cdnp.cli.tn/iptv/ch482?code=170112976724953&key=22381
+http://cdnp.cli.tn/iptv/ch482?code=170112560190110&key=22381
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",LBC
-http://cdnp.cli.tn/iptv/ch28?code=170112976724953&key=22454
+http://cdnp.cli.tn/iptv/ch28?code=170112560190110&key=22454
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",LDC Lebanon
-http://cdnp.cli.tn/iptv/ch170?code=170112976724953&key=28183
+http://cdnp.cli.tn/iptv/ch170?code=170112560190110&key=28183
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Mayadeen
-http://cdnp.cli.tn/iptv/ch132?code=170112976724953&key=58044
+http://cdnp.cli.tn/iptv/ch132?code=170112560190110&key=58044
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Jadeed TV
-http://cdnp.cli.tn/iptv/ch785?code=170112976724953&key=51026
+http://cdnp.cli.tn/iptv/ch785?code=170112560190110&key=51026
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",NBN
-http://cdnp.cli.tn/iptv/ch178?code=170112976724953&key=14212
+http://cdnp.cli.tn/iptv/ch178?code=170112560190110&key=14212
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Manar
-http://cdnp.cli.tn/iptv/ch58?code=170112976724953&key=52016
+http://cdnp.cli.tn/iptv/ch58?code=170112560190110&key=52016
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MTV Lebanon +4
-http://cdnp.cli.tn/iptv/ch4163?code=170112976724953&key=36490
+http://cdnp.cli.tn/iptv/ch4163?code=170112560190110&key=36490
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",LBC +4
-http://cdnp.cli.tn/iptv/ch4028?code=170112976724953&key=10821
+http://cdnp.cli.tn/iptv/ch4028?code=170112560190110&key=10821
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ANB
-http://cdnp.cli.tn/iptv/ch177?code=170112976724953&key=18072
+http://cdnp.cli.tn/iptv/ch177?code=170112560190110&key=18072
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Falloujah
-http://cdnp.cli.tn/iptv/ch378?code=170112976724953&key=40878
+http://cdnp.cli.tn/iptv/ch378?code=170112560190110&key=40878
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" ,Fox Rewayat
-http://cdnp.cli.tn/iptv/ch1191?code=170112976724953&key=58832
+http://cdnp.cli.tn/iptv/ch1191?code=170112560190110&key=58832
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Star World Ar.
-http://cdnp.cli.tn/iptv/ch1192?code=170112976724953&key=44357
+http://cdnp.cli.tn/iptv/ch1192?code=170112560190110&key=44357
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Star Movies Ar.
-http://cdnp.cli.tn/iptv/ch1193?code=170112976724953&key=60289
+http://cdnp.cli.tn/iptv/ch1193?code=170112560190110&key=60289
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC Plus Drama
-http://cdnp.cli.tn/iptv/ch502?code=170112976724953&key=34597
+http://cdnp.cli.tn/iptv/ch502?code=170112560190110&key=34597
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC 1 HD
-http://cdnp.cli.tn/iptv/ch827?code=170112976724953&key=46531
+http://cdnp.cli.tn/iptv/ch827?code=170112560190110&key=46531
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC 2 HD
-http://cdnp.cli.tn/iptv/ch828?code=170112976724953&key=46170
+http://cdnp.cli.tn/iptv/ch828?code=170112560190110&key=46170
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC 3 HD
-http://cdnp.cli.tn/iptv/ch2200?code=170112976724953&key=15518
+http://cdnp.cli.tn/iptv/ch2200?code=170112560190110&key=15518
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC 4 HD
-http://cdnp.cli.tn/iptv/ch829?code=170112976724953&key=18473
+http://cdnp.cli.tn/iptv/ch829?code=170112560190110&key=18473
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC Variety
-http://cdnp.cli.tn/iptv/ch1102?code=170112976724953&key=20184
+http://cdnp.cli.tn/iptv/ch1102?code=170112560190110&key=20184
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC Action HD
-http://cdnp.cli.tn/iptv/ch1109?code=170112976724953&key=35202
+http://cdnp.cli.tn/iptv/ch1109?code=170112560190110&key=35202
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC Max HD
-http://cdnp.cli.tn/iptv/ch2201?code=170112976724953&key=59841
+http://cdnp.cli.tn/iptv/ch2201?code=170112560190110&key=59841
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC Drama HD
-http://cdnp.cli.tn/iptv/ch2202?code=170112976724953&key=54219
+http://cdnp.cli.tn/iptv/ch2202?code=170112560190110&key=54219
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC Bollyood HD
-http://cdnp.cli.tn/iptv/ch347?code=170112976724953&key=15419
+http://cdnp.cli.tn/iptv/ch347?code=170112560190110&key=15419
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",LBC HD
-http://cdnp.cli.tn/iptv/ch2217?code=170112976724953&key=60750
+http://cdnp.cli.tn/iptv/ch2217?code=170112560190110&key=60750
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",FX HD
-http://cdnp.cli.tn/iptv/ch2204?code=170112976724953&key=27969
+http://cdnp.cli.tn/iptv/ch2204?code=170112560190110&key=27969
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Fox Movies Action
-http://cdnp.cli.tn/iptv/ch2205?code=170112976724953&key=27471
+http://cdnp.cli.tn/iptv/ch2205?code=170112560190110&key=27471
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Fox Movies Family
-http://cdnp.cli.tn/iptv/ch2206?code=170112976724953&key=37679
+http://cdnp.cli.tn/iptv/ch2206?code=170112560190110&key=37679
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ART Aflem 1
-http://cdnp.cli.tn/iptv/ch40?code=170112976724953&key=45597
+http://cdnp.cli.tn/iptv/ch40?code=170112560190110&key=45597
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ART Aflem 2
-http://cdnp.cli.tn/iptv/ch41?code=170112976724953&key=13388
+http://cdnp.cli.tn/iptv/ch41?code=170112560190110&key=13388
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ART Cinema
-http://cdnp.cli.tn/iptv/ch602?code=170112976724953&key=20786
+http://cdnp.cli.tn/iptv/ch602?code=170112560190110&key=20786
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ART Hekayat
-http://cdnp.cli.tn/iptv/ch758?code=170112976724953&key=14290
+http://cdnp.cli.tn/iptv/ch758?code=170112560190110&key=14290
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ART Hekayat 2
-http://cdnp.cli.tn/iptv/ch759?code=170112976724953&key=41544
+http://cdnp.cli.tn/iptv/ch759?code=170112560190110&key=41544
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ART Hekayat kamen
-http://cdnp.cli.tn/iptv/ch1153?code=170112976724953&key=25842
+http://cdnp.cli.tn/iptv/ch1153?code=170112560190110&key=25842
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Rotana Cinema HD
-http://cdnp.cli.tn/iptv/ch2216?code=170112976724953&key=20520
+http://cdnp.cli.tn/iptv/ch2216?code=170112560190110&key=20520
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Rotana Masria HD
-http://cdnp.cli.tn/iptv/ch2215?code=170112976724953&key=59109
+http://cdnp.cli.tn/iptv/ch2215?code=170112560190110&key=59109
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Rotana Aflam HD
-http://cdnp.cli.tn/iptv/ch2214?code=170112976724953&key=34235
+http://cdnp.cli.tn/iptv/ch2214?code=170112560190110&key=34235
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Rotana Classic HD
-http://cdnp.cli.tn/iptv/ch2213?code=170112976724953&key=21002
+http://cdnp.cli.tn/iptv/ch2213?code=170112560190110&key=21002
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Rotana Music HD
-http://cdnp.cli.tn/iptv/ch2212?code=170112976724953&key=60125
+http://cdnp.cli.tn/iptv/ch2212?code=170112560190110&key=60125
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Rotana Khalijia HD
-http://cdnp.cli.tn/iptv/ch2211?code=170112976724953&key=53067
+http://cdnp.cli.tn/iptv/ch2211?code=170112560190110&key=53067
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Resala HD
-http://cdnp.cli.tn/iptv/ch2210?code=170112976724953&key=52185
+http://cdnp.cli.tn/iptv/ch2210?code=170112560190110&key=52185
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN ON DEMAND 1
-http://cdnp.cli.tn/iptv/ch900?code=170112976724953&key=59646
+http://cdnp.cli.tn/iptv/ch900?code=170112560190110&key=59646
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN ON DEMAND 2
-http://cdnp.cli.tn/iptv/ch901?code=170112976724953&key=38057
+http://cdnp.cli.tn/iptv/ch901?code=170112560190110&key=38057
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN ON DEMAND 3
-http://cdnp.cli.tn/iptv/ch902?code=170112976724953&key=35985
+http://cdnp.cli.tn/iptv/ch902?code=170112560190110&key=35985
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN ON DEMAND 4
-http://cdnp.cli.tn/iptv/ch903?code=170112976724953&key=45317
+http://cdnp.cli.tn/iptv/ch903?code=170112560190110&key=45317
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nat. Geo. Kids
-http://cdnp.cli.tn/iptv/ch381?code=170112976724953&key=23633
+http://cdnp.cli.tn/iptv/ch381?code=170112560190110&key=23633
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Gulli Arabia
-http://cdnp.cli.tn/iptv/ch348?code=170112976724953&key=64091
+http://cdnp.cli.tn/iptv/ch348?code=170112560190110&key=64091
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Fix and Foxi
-http://cdnp.cli.tn/iptv/ch2209?code=170112976724953&key=41656
+http://cdnp.cli.tn/iptv/ch2209?code=170112560190110&key=41656
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Myme
-http://cdnp.cli.tn/iptv/ch2207?code=170112976724953&key=43428
+http://cdnp.cli.tn/iptv/ch2207?code=170112560190110&key=43428
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nat. Geo. Wild Ar.
-http://cdnp.cli.tn/iptv/ch1190?code=170112976724953&key=51779
+http://cdnp.cli.tn/iptv/ch1190?code=170112560190110&key=51779
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nat. Geo. Ar.
-http://cdnp.cli.tn/iptv/ch1119?code=170112976724953&key=40751
+http://cdnp.cli.tn/iptv/ch1119?code=170112560190110&key=40751
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Animal Planet
-http://cdnp.cli.tn/iptv/ch1104?code=170112976724953&key=19021
+http://cdnp.cli.tn/iptv/ch1104?code=170112560190110&key=19021
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Discovery Science
-http://cdnp.cli.tn/iptv/ch1103?code=170112976724953&key=56500
+http://cdnp.cli.tn/iptv/ch1103?code=170112560190110&key=56500
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",DocuBox
-http://cdnp.cli.tn/iptv/ch1105?code=170112976724953&key=19132
+http://cdnp.cli.tn/iptv/ch1105?code=170112560190110&key=19132
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Planet Earth Tv
-http://cdnp.cli.tn/iptv/ch349?code=170112976724953&key=47373
+http://cdnp.cli.tn/iptv/ch349?code=170112560190110&key=47373
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",H-2
-http://cdnp.cli.tn/iptv/ch1101?code=170112976724953&key=24082
+http://cdnp.cli.tn/iptv/ch1101?code=170112560190110&key=24082
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Fight Box
-http://cdnp.cli.tn/iptv/ch1100?code=170112976724953&key=26892
+http://cdnp.cli.tn/iptv/ch1100?code=170112560190110&key=26892
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC Pro 1
-http://cdnp.cli.tn/iptv/ch823?code=170112976724953&key=41307
+http://cdnp.cli.tn/iptv/ch823?code=170112560190110&key=41307
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC Pro 2
-http://cdnp.cli.tn/iptv/ch824?code=170112976724953&key=36844
+http://cdnp.cli.tn/iptv/ch824?code=170112560190110&key=36844
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC Pro 3
-http://cdnp.cli.tn/iptv/ch825?code=170112976724953&key=59945
+http://cdnp.cli.tn/iptv/ch825?code=170112560190110&key=59945
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC Pro 4
-http://cdnp.cli.tn/iptv/ch826?code=170112976724953&key=58771
+http://cdnp.cli.tn/iptv/ch826?code=170112560190110&key=58771
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AD Sport 1 HD
-http://cdnp.cli.tn/iptv/ch122?code=170112976724953&key=47436
+http://cdnp.cli.tn/iptv/ch122?code=170112560190110&key=47436
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AD Sport 2 HD
-http://cdnp.cli.tn/iptv/ch603?code=170112976724953&key=56608
+http://cdnp.cli.tn/iptv/ch603?code=170112560190110&key=56608
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AD Sport 3 HD
-http://cdnp.cli.tn/iptv/ch5519?code=170112976724953&key=64518
+http://cdnp.cli.tn/iptv/ch5519?code=170112560190110&key=64518
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC 1
-http://cdnp.cli.tn/iptv/ch30?code=170112976724953&key=37303
+http://cdnp.cli.tn/iptv/ch30?code=170112560190110&key=37303
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC 2
-http://cdnp.cli.tn/iptv/ch31?code=170112976724953&key=22233
+http://cdnp.cli.tn/iptv/ch31?code=170112560190110&key=22233
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC 3
-http://cdnp.cli.tn/iptv/ch32?code=170112976724953&key=50197
+http://cdnp.cli.tn/iptv/ch32?code=170112560190110&key=50197
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC 4
-http://cdnp.cli.tn/iptv/ch33?code=170112976724953&key=19120
+http://cdnp.cli.tn/iptv/ch33?code=170112560190110&key=19120
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC Action
-http://cdnp.cli.tn/iptv/ch34?code=170112976724953&key=29190
+http://cdnp.cli.tn/iptv/ch34?code=170112560190110&key=29190
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC Bollywood
-http://cdnp.cli.tn/iptv/ch35?code=170112976724953&key=64172
+http://cdnp.cli.tn/iptv/ch35?code=170112560190110&key=64172
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC Drama
-http://cdnp.cli.tn/iptv/ch36?code=170112976724953&key=14907
+http://cdnp.cli.tn/iptv/ch36?code=170112560190110&key=14907
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC MAX
-http://cdnp.cli.tn/iptv/ch38?code=170112976724953&key=42174
+http://cdnp.cli.tn/iptv/ch38?code=170112560190110&key=42174
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC Masr
-http://cdnp.cli.tn/iptv/ch37?code=170112976724953&key=37682
+http://cdnp.cli.tn/iptv/ch37?code=170112560190110&key=37682
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC Masr 2
-http://cdnp.cli.tn/iptv/ch480?code=170112976724953&key=14086
+http://cdnp.cli.tn/iptv/ch480?code=170112560190110&key=14086
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC 1 +4
-http://cdnp.cli.tn/iptv/ch4030?code=170112976724953&key=62054
+http://cdnp.cli.tn/iptv/ch4030?code=170112560190110&key=62054
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC 4 +4
-http://cdnp.cli.tn/iptv/ch4033?code=170112976724953&key=57350
+http://cdnp.cli.tn/iptv/ch4033?code=170112560190110&key=57350
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC Masr +4
-http://cdnp.cli.tn/iptv/ch4037?code=170112976724953&key=16681
+http://cdnp.cli.tn/iptv/ch4037?code=170112560190110&key=16681
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Rotana Cinema
-http://cdnp.cli.tn/iptv/ch45?code=170112976724953&key=45247
+http://cdnp.cli.tn/iptv/ch45?code=170112560190110&key=45247
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Rotana Masria
-http://cdnp.cli.tn/iptv/ch42?code=170112976724953&key=56873
+http://cdnp.cli.tn/iptv/ch42?code=170112560190110&key=56873
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Rotana Classic
-http://cdnp.cli.tn/iptv/ch44?code=170112976724953&key=35713
+http://cdnp.cli.tn/iptv/ch44?code=170112560190110&key=35713
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Rotana Music
-http://cdnp.cli.tn/iptv/ch43?code=170112976724953&key=34730
+http://cdnp.cli.tn/iptv/ch43?code=170112560190110&key=34730
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Rotana Clip
-http://cdnp.cli.tn/iptv/ch190?code=170112976724953&key=31010
+http://cdnp.cli.tn/iptv/ch190?code=170112560190110&key=31010
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",CBC
-http://cdnp.cli.tn/iptv/ch23?code=170112976724953&key=13617
+http://cdnp.cli.tn/iptv/ch23?code=170112560190110&key=13617
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",CBC Sofra
-http://cdnp.cli.tn/iptv/ch760?code=170112976724953&key=60471
+http://cdnp.cli.tn/iptv/ch760?code=170112560190110&key=60471
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",CBC EXTRA
-http://cdnp.cli.tn/iptv/ch782?code=170112976724953&key=37590
+http://cdnp.cli.tn/iptv/ch782?code=170112560190110&key=37590
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",CBC Drama
-http://cdnp.cli.tn/iptv/ch22?code=170112976724953&key=33705
+http://cdnp.cli.tn/iptv/ch22?code=170112560190110&key=33705
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",CBC +4
-http://cdnp.cli.tn/iptv/ch4023?code=170112976724953&key=36644
+http://cdnp.cli.tn/iptv/ch4023?code=170112560190110&key=36644
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",CBC EXTRA +4
-http://cdnp.cli.tn/iptv/ch4782?code=170112976724953&key=35002
+http://cdnp.cli.tn/iptv/ch4782?code=170112560190110&key=35002
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nile TV
-http://cdnp.cli.tn/iptv/ch181?code=170112976724953&key=45120
+http://cdnp.cli.tn/iptv/ch181?code=170112560190110&key=45120
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nile Cinema
-http://cdnp.cli.tn/iptv/ch180?code=170112976724953&key=45333
+http://cdnp.cli.tn/iptv/ch180?code=170112560190110&key=45333
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nile Drama
-http://cdnp.cli.tn/iptv/ch69?code=170112976724953&key=62405
+http://cdnp.cli.tn/iptv/ch69?code=170112560190110&key=62405
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nile Culture
-http://cdnp.cli.tn/iptv/ch185?code=170112976724953&key=26807
+http://cdnp.cli.tn/iptv/ch185?code=170112560190110&key=26807
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nile Comedy
-http://cdnp.cli.tn/iptv/ch68?code=170112976724953&key=10476
+http://cdnp.cli.tn/iptv/ch68?code=170112560190110&key=10476
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nile Family
-http://cdnp.cli.tn/iptv/ch70?code=170112976724953&key=45968
+http://cdnp.cli.tn/iptv/ch70?code=170112560190110&key=45968
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nile Life
-http://cdnp.cli.tn/iptv/ch781?code=170112976724953&key=20516
+http://cdnp.cli.tn/iptv/ch781?code=170112560190110&key=20516
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Hayat Mousalsalet
-http://cdnp.cli.tn/iptv/ch21?code=170112976724953&key=35863
+http://cdnp.cli.tn/iptv/ch21?code=170112560190110&key=35863
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Dream 2
-http://cdnp.cli.tn/iptv/ch714?code=170112976724953&key=32096
+http://cdnp.cli.tn/iptv/ch714?code=170112560190110&key=32096
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Hayat
-http://cdnp.cli.tn/iptv/ch138?code=170112976724953&key=39259
+http://cdnp.cli.tn/iptv/ch138?code=170112560190110&key=39259
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Hayat 2
-http://cdnp.cli.tn/iptv/ch777?code=170112976724953&key=58421
+http://cdnp.cli.tn/iptv/ch777?code=170112560190110&key=58421
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",B4U Aflem
-http://cdnp.cli.tn/iptv/ch768?code=170112976724953&key=44912
+http://cdnp.cli.tn/iptv/ch768?code=170112560190110&key=44912
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",B4U Plus
-http://cdnp.cli.tn/iptv/ch763?code=170112976724953&key=33827
+http://cdnp.cli.tn/iptv/ch763?code=170112560190110&key=33827
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Zee Alwen
-http://cdnp.cli.tn/iptv/ch48?code=170112976724953&key=12588
+http://cdnp.cli.tn/iptv/ch48?code=170112560190110&key=12588
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Zee Aflem
-http://cdnp.cli.tn/iptv/ch74?code=170112976724953&key=13832
+http://cdnp.cli.tn/iptv/ch74?code=170112560190110&key=13832
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Cairo Cinema
-http://cdnp.cli.tn/iptv/ch63?code=170112976724953&key=35678
+http://cdnp.cli.tn/iptv/ch63?code=170112560190110&key=35678
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Cairo Drama
-http://cdnp.cli.tn/iptv/ch64?code=170112976724953&key=17261
+http://cdnp.cli.tn/iptv/ch64?code=170112560190110&key=17261
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Cimaa
-http://cdnp.cli.tn/iptv/ch66?code=170112976724953&key=26822
+http://cdnp.cli.tn/iptv/ch66?code=170112560190110&key=26822
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",I-film
-http://cdnp.cli.tn/iptv/ch492?code=170112976724953&key=42799
+http://cdnp.cli.tn/iptv/ch492?code=170112560190110&key=42799
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Athania Masr
-http://cdnp.cli.tn/iptv/ch67?code=170112976724953&key=15359
+http://cdnp.cli.tn/iptv/ch67?code=170112560190110&key=15359
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Syria Drama
-http://cdnp.cli.tn/iptv/ch71?code=170112976724953&key=55596
+http://cdnp.cli.tn/iptv/ch71?code=170112560190110&key=55596
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Syria Sat
-http://cdnp.cli.tn/iptv/ch197?code=170112976724953&key=14984
+http://cdnp.cli.tn/iptv/ch197?code=170112560190110&key=14984
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Jordan Tv
-http://cdnp.cli.tn/iptv/ch450?code=170112976724953&key=29338
+http://cdnp.cli.tn/iptv/ch450?code=170112560190110&key=29338
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Annahar TV
-http://cdnp.cli.tn/iptv/ch772?code=170112976724953&key=36429
+http://cdnp.cli.tn/iptv/ch772?code=170112560190110&key=36429
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",JSC Documentaire
-http://cdnp.cli.tn/iptv/ch76?code=170112976724953&key=23971
+http://cdnp.cli.tn/iptv/ch76?code=170112560190110&key=23971
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nahar Nour
-http://cdnp.cli.tn/iptv/ch453?code=170112976724953&key=16027
+http://cdnp.cli.tn/iptv/ch453?code=170112560190110&key=16027
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nahar 2
-http://cdnp.cli.tn/iptv/ch765?code=170112976724953&key=24535
+http://cdnp.cli.tn/iptv/ch765?code=170112560190110&key=24535
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nahar Drama
-http://cdnp.cli.tn/iptv/ch59?code=170112976724953&key=13390
+http://cdnp.cli.tn/iptv/ch59?code=170112560190110&key=13390
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nahar Al Yaoum
-http://cdnp.cli.tn/iptv/ch752?code=170112976724953&key=16895
+http://cdnp.cli.tn/iptv/ch752?code=170112560190110&key=16895
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Bahrain Tv
-http://cdnp.cli.tn/iptv/ch554?code=170112976724953&key=56157
+http://cdnp.cli.tn/iptv/ch554?code=170112560190110&key=56157
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Bahrain Quran
-http://cdnp.cli.tn/iptv/ch558?code=170112976724953&key=13416
+http://cdnp.cli.tn/iptv/ch558?code=170112560190110&key=13416
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Bahrain Sport 1
-http://cdnp.cli.tn/iptv/ch557?code=170112976724953&key=28313
+http://cdnp.cli.tn/iptv/ch557?code=170112560190110&key=28313
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Bahrain Sport 2
-http://cdnp.cli.tn/iptv/ch556?code=170112976724953&key=44857
+http://cdnp.cli.tn/iptv/ch556?code=170112560190110&key=44857
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Bahrain Int.
-http://cdnp.cli.tn/iptv/ch555?code=170112976724953&key=26437
+http://cdnp.cli.tn/iptv/ch555?code=170112560190110&key=26437
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Oman Tv
-http://cdnp.cli.tn/iptv/ch550?code=170112976724953&key=16290
+http://cdnp.cli.tn/iptv/ch550?code=170112560190110&key=16290
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Oman Tv Live
-http://cdnp.cli.tn/iptv/ch551?code=170112976724953&key=39613
+http://cdnp.cli.tn/iptv/ch551?code=170112560190110&key=39613
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Oman Tv Sport
-http://cdnp.cli.tn/iptv/ch552?code=170112976724953&key=23871
+http://cdnp.cli.tn/iptv/ch552?code=170112560190110&key=23871
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Oman Tv Cultur
-http://cdnp.cli.tn/iptv/ch553?code=170112976724953&key=46258
+http://cdnp.cli.tn/iptv/ch553?code=170112560190110&key=46258
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Yemen TV
-http://cdnp.cli.tn/iptv/ch364?code=170112976724953&key=42443
+http://cdnp.cli.tn/iptv/ch364?code=170112560190110&key=42443
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Yemen Shabab
-http://cdnp.cli.tn/iptv/ch562?code=170112976724953&key=52184
+http://cdnp.cli.tn/iptv/ch562?code=170112560190110&key=52184
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Aden TV
-http://cdnp.cli.tn/iptv/ch1130?code=170112976724953&key=15432
+http://cdnp.cli.tn/iptv/ch1130?code=170112560190110&key=15432
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Yemen Today
-http://cdnp.cli.tn/iptv/ch1131?code=170112976724953&key=55832
+http://cdnp.cli.tn/iptv/ch1131?code=170112560190110&key=55832
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Eimen Tv
-http://cdnp.cli.tn/iptv/ch1132?code=170112976724953&key=41079
+http://cdnp.cli.tn/iptv/ch1132?code=170112560190110&key=41079
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Sbaa Tv
-http://cdnp.cli.tn/iptv/ch1133?code=170112976724953&key=63149
+http://cdnp.cli.tn/iptv/ch1133?code=170112560190110&key=63149
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Zarqa Tv
-http://cdnp.cli.tn/iptv/ch1134?code=170112976724953&key=60328
+http://cdnp.cli.tn/iptv/ch1134?code=170112560190110&key=60328
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Sehha wal Jamal
-http://cdnp.cli.tn/iptv/ch1135?code=170112976724953&key=52011
+http://cdnp.cli.tn/iptv/ch1135?code=170112560190110&key=52011
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Heya Tv
-http://cdnp.cli.tn/iptv/ch463?code=170112976724953&key=57880
+http://cdnp.cli.tn/iptv/ch463?code=170112560190110&key=57880
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Eskandaria Tv
-http://cdnp.cli.tn/iptv/ch127?code=170112976724953&key=11901
+http://cdnp.cli.tn/iptv/ch127?code=170112560190110&key=11901
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Soumaria
-http://cdnp.cli.tn/iptv/ch130?code=170112976724953&key=36227
+http://cdnp.cli.tn/iptv/ch130?code=170112560190110&key=36227
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Hurra Tv
-http://cdnp.cli.tn/iptv/ch135?code=170112976724953&key=37814
+http://cdnp.cli.tn/iptv/ch135?code=170112560190110&key=37814
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Assema Tv
-http://cdnp.cli.tn/iptv/ch140?code=170112976724953&key=51022
+http://cdnp.cli.tn/iptv/ch140?code=170112560190110&key=51022
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Assema 2 Tv
-http://cdnp.cli.tn/iptv/ch814?code=170112976724953&key=29166
+http://cdnp.cli.tn/iptv/ch814?code=170112560190110&key=29166
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Mehwar
-http://cdnp.cli.tn/iptv/ch175?code=170112976724953&key=56014
+http://cdnp.cli.tn/iptv/ch175?code=170112560190110&key=56014
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Roya Tv
-http://cdnp.cli.tn/iptv/ch797?code=170112976724953&key=23310
+http://cdnp.cli.tn/iptv/ch797?code=170112560190110&key=23310
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ON-Tv
-http://cdnp.cli.tn/iptv/ch187?code=170112976724953&key=21894
+http://cdnp.cli.tn/iptv/ch187?code=170112560190110&key=21894
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ON-Tv Sport
-http://cdnp.cli.tn/iptv/ch458?code=170112976724953&key=20580
+http://cdnp.cli.tn/iptv/ch458?code=170112560190110&key=20580
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ON-Tv Live
-http://cdnp.cli.tn/iptv/ch746?code=170112976724953&key=64132
+http://cdnp.cli.tn/iptv/ch746?code=170112560190110&key=64132
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ON-Tv Drama
-http://cdnp.cli.tn/iptv/ch1121?code=170112976724953&key=33379
+http://cdnp.cli.tn/iptv/ch1121?code=170112560190110&key=33379
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",DMC Masraheyat
-http://cdnp.cli.tn/iptv/ch509?code=170112976724953&key=64974
+http://cdnp.cli.tn/iptv/ch509?code=170112560190110&key=64974
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",DMC Drama
-http://cdnp.cli.tn/iptv/ch508?code=170112976724953&key=53583
+http://cdnp.cli.tn/iptv/ch508?code=170112560190110&key=53583
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",DMC Kids
-http://cdnp.cli.tn/iptv/ch507?code=170112976724953&key=21300
+http://cdnp.cli.tn/iptv/ch507?code=170112560190110&key=21300
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",DMC News
-http://cdnp.cli.tn/iptv/ch506?code=170112976724953&key=51980
+http://cdnp.cli.tn/iptv/ch506?code=170112560190110&key=51980
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",DMC Sport
-http://cdnp.cli.tn/iptv/ch505?code=170112976724953&key=22022
+http://cdnp.cli.tn/iptv/ch505?code=170112560190110&key=22022
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",DMC HD
-http://cdnp.cli.tn/iptv/ch432?code=170112976724953&key=15243
+http://cdnp.cli.tn/iptv/ch432?code=170112560190110&key=15243
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al hayat we alnas
-http://cdnp.cli.tn/iptv/ch1052?code=170112976724953&key=12565
+http://cdnp.cli.tn/iptv/ch1052?code=170112560190110&key=12565
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Misr El balad
-http://cdnp.cli.tn/iptv/ch1051?code=170112976724953&key=35033
+http://cdnp.cli.tn/iptv/ch1051?code=170112560190110&key=35033
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Mekameleen TV
-http://cdnp.cli.tn/iptv/ch439?code=170112976724953&key=62171
+http://cdnp.cli.tn/iptv/ch439?code=170112560190110&key=62171
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AL Sharq
-http://cdnp.cli.tn/iptv/ch491?code=170112976724953&key=36688
+http://cdnp.cli.tn/iptv/ch491?code=170112560190110&key=36688
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Panorama Film
-http://cdnp.cli.tn/iptv/ch189?code=170112976724953&key=40825
+http://cdnp.cli.tn/iptv/ch189?code=170112560190110&key=40825
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",TV5 Monde
-http://cdnp.cli.tn/iptv/ch192?code=170112976724953&key=51611
+http://cdnp.cli.tn/iptv/ch192?code=170112560190110&key=51611
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Star Cinema 1
-http://cdnp.cli.tn/iptv/ch196?code=170112976724953&key=21104
+http://cdnp.cli.tn/iptv/ch196?code=170112560190110&key=21104
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Faraeen TV
-http://cdnp.cli.tn/iptv/ch133?code=170112976724953&key=17283
+http://cdnp.cli.tn/iptv/ch133?code=170112560190110&key=17283
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Balkis TV
-http://cdnp.cli.tn/iptv/ch443?code=170112976724953&key=60505
+http://cdnp.cli.tn/iptv/ch443?code=170112560190110&key=60505
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Masriya
-http://cdnp.cli.tn/iptv/ch479?code=170112976724953&key=54069
+http://cdnp.cli.tn/iptv/ch479?code=170112560190110&key=54069
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Qatar Today
-http://cdnp.cli.tn/iptv/ch1145?code=170112976724953&key=15269
+http://cdnp.cli.tn/iptv/ch1145?code=170112560190110&key=15269
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Qatar TV
-http://cdnp.cli.tn/iptv/ch195?code=170112976724953&key=58426
+http://cdnp.cli.tn/iptv/ch195?code=170112560190110&key=58426
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Alrayyan 1
-http://cdnp.cli.tn/iptv/ch561?code=170112976724953&key=25784
+http://cdnp.cli.tn/iptv/ch561?code=170112560190110&key=25784
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Alrayyan 2
-http://cdnp.cli.tn/iptv/ch139?code=170112976724953&key=30065
+http://cdnp.cli.tn/iptv/ch139?code=170112560190110&key=30065
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AD Oula
-http://cdnp.cli.tn/iptv/ch55?code=170112976724953&key=25880
+http://cdnp.cli.tn/iptv/ch55?code=170112560190110&key=25880
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Abu Dhabi Drama
-http://cdnp.cli.tn/iptv/ch54?code=170112976724953&key=17060
+http://cdnp.cli.tn/iptv/ch54?code=170112560190110&key=17060
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Abou Dhabi Emarat
-http://cdnp.cli.tn/iptv/ch123?code=170112976724953&key=46801
+http://cdnp.cli.tn/iptv/ch123?code=170112560190110&key=46801
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Dubai One
-http://cdnp.cli.tn/iptv/ch153?code=170112976724953&key=37711
+http://cdnp.cli.tn/iptv/ch153?code=170112560190110&key=37711
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nour Dubai
-http://cdnp.cli.tn/iptv/ch184?code=170112976724953&key=17272
+http://cdnp.cli.tn/iptv/ch184?code=170112560190110&key=17272
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Dubai TV
-http://cdnp.cli.tn/iptv/ch358?code=170112976724953&key=45433
+http://cdnp.cli.tn/iptv/ch358?code=170112560190110&key=45433
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Dubai Oula
-http://cdnp.cli.tn/iptv/ch25?code=170112976724953&key=24179
+http://cdnp.cli.tn/iptv/ch25?code=170112560190110&key=24179
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Sama Dubai
-http://cdnp.cli.tn/iptv/ch193?code=170112976724953&key=53515
+http://cdnp.cli.tn/iptv/ch193?code=170112560190110&key=53515
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Dubai Zaman
-http://cdnp.cli.tn/iptv/ch757?code=170112976724953&key=20607
+http://cdnp.cli.tn/iptv/ch757?code=170112560190110&key=20607
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nat Geo AD
-http://cdnp.cli.tn/iptv/ch75?code=170112976724953&key=20548
+http://cdnp.cli.tn/iptv/ch75?code=170112560190110&key=20548
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Maspero Zaman
-http://cdnp.cli.tn/iptv/ch1125?code=170112976724953&key=22079
+http://cdnp.cli.tn/iptv/ch1125?code=170112560190110&key=22079
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Lana TV
-http://cdnp.cli.tn/iptv/ch820?code=170112976724953&key=22994
+http://cdnp.cli.tn/iptv/ch820?code=170112560190110&key=22994
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Oula Masr
-http://cdnp.cli.tn/iptv/ch483?code=170112976724953&key=41561
+http://cdnp.cli.tn/iptv/ch483?code=170112560190110&key=41561
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AL Naas
-http://cdnp.cli.tn/iptv/ch1147?code=170112976724953&key=16056
+http://cdnp.cli.tn/iptv/ch1147?code=170112560190110&key=16056
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Direct Egy
-http://cdnp.cli.tn/iptv/ch1124?code=170112976724953&key=49414
+http://cdnp.cli.tn/iptv/ch1124?code=170112560190110&key=49414
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Anbar TV
-http://cdnp.cli.tn/iptv/ch488?code=170112976724953&key=51990
+http://cdnp.cli.tn/iptv/ch488?code=170112560190110&key=51990
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al hurra
-http://cdnp.cli.tn/iptv/ch433?code=170112976724953&key=59208
+http://cdnp.cli.tn/iptv/ch433?code=170112560190110&key=59208
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",7C Iraq
-http://cdnp.cli.tn/iptv/ch1122?code=170112976724953&key=20560
+http://cdnp.cli.tn/iptv/ch1122?code=170112560190110&key=20560
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Iraquiya TV
-http://cdnp.cli.tn/iptv/ch494?code=170112976724953&key=25584
+http://cdnp.cli.tn/iptv/ch494?code=170112560190110&key=25584
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Iraq Future Tv
-http://cdnp.cli.tn/iptv/ch1136?code=170112976724953&key=33542
+http://cdnp.cli.tn/iptv/ch1136?code=170112560190110&key=33542
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Iraqi Edu Tv
-http://cdnp.cli.tn/iptv/ch1137?code=170112976724953&key=56107
+http://cdnp.cli.tn/iptv/ch1137?code=170112560190110&key=56107
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Baghdad Tv
-http://cdnp.cli.tn/iptv/ch1138?code=170112976724953&key=32036
+http://cdnp.cli.tn/iptv/ch1138?code=170112560190110&key=32036
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Samarra Tv
-http://cdnp.cli.tn/iptv/ch1139?code=170112976724953&key=12013
+http://cdnp.cli.tn/iptv/ch1139?code=170112560190110&key=12013
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Hona Baghdad
-http://cdnp.cli.tn/iptv/ch1140?code=170112976724953&key=12079
+http://cdnp.cli.tn/iptv/ch1140?code=170112560190110&key=12079
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Dijla Tv
-http://cdnp.cli.tn/iptv/ch1141?code=170112976724953&key=38285
+http://cdnp.cli.tn/iptv/ch1141?code=170112560190110&key=38285
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Huda
-http://cdnp.cli.tn/iptv/ch1123?code=170112976724953&key=50205
+http://cdnp.cli.tn/iptv/ch1123?code=170112560190110&key=50205
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Beladi
-http://cdnp.cli.tn/iptv/ch495?code=170112976724953&key=42546
+http://cdnp.cli.tn/iptv/ch495?code=170112560190110&key=42546
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Fourat TV
-http://cdnp.cli.tn/iptv/ch72?code=170112976724953&key=18723
+http://cdnp.cli.tn/iptv/ch72?code=170112560190110&key=18723
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Moga Comedy
-http://cdnp.cli.tn/iptv/ch725?code=170112976724953&key=48265
+http://cdnp.cli.tn/iptv/ch725?code=170112560190110&key=48265
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Sama
-http://cdnp.cli.tn/iptv/ch198?code=170112976724953&key=53169
+http://cdnp.cli.tn/iptv/ch198?code=170112560190110&key=53169
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Saeed TV
-http://cdnp.cli.tn/iptv/ch769?code=170112976724953&key=64789
+http://cdnp.cli.tn/iptv/ch769?code=170112560190110&key=64789
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Kanal
-http://cdnp.cli.tn/iptv/ch503?code=170112976724953&key=11367
+http://cdnp.cli.tn/iptv/ch503?code=170112560190110&key=11367
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Masriya Aflem
-http://cdnp.cli.tn/iptv/ch701?code=170112976724953&key=23532
+http://cdnp.cli.tn/iptv/ch701?code=170112560190110&key=23532
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Time Cinema
-http://cdnp.cli.tn/iptv/ch702?code=170112976724953&key=28757
+http://cdnp.cli.tn/iptv/ch702?code=170112560190110&key=28757
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Majestic Cinema
-http://cdnp.cli.tn/iptv/ch708?code=170112976724953&key=34826
+http://cdnp.cli.tn/iptv/ch708?code=170112560190110&key=34826
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Kahera
-http://cdnp.cli.tn/iptv/ch709?code=170112976724953&key=13630
+http://cdnp.cli.tn/iptv/ch709?code=170112560190110&key=13630
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Wanasah
-http://cdnp.cli.tn/iptv/ch722?code=170112976724953&key=41436
+http://cdnp.cli.tn/iptv/ch722?code=170112560190110&key=41436
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Saudi Thaquafia
-http://cdnp.cli.tn/iptv/ch810?code=170112976724953&key=62614
+http://cdnp.cli.tn/iptv/ch810?code=170112560190110&key=62614
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Amaken Drama
-http://cdnp.cli.tn/iptv/ch712?code=170112976724953&key=43988
+http://cdnp.cli.tn/iptv/ch712?code=170112560190110&key=43988
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nada Tv
-http://cdnp.cli.tn/iptv/ch818?code=170112976724953&key=16022
+http://cdnp.cli.tn/iptv/ch818?code=170112560190110&key=16022
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Safa Tv 
-http://cdnp.cli.tn/iptv/ch144?code=170112976724953&key=38580
+http://cdnp.cli.tn/iptv/ch144?code=170112560190110&key=38580
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Saudi 24
-http://cdnp.cli.tn/iptv/ch703?code=170112976724953&key=54571
+http://cdnp.cli.tn/iptv/ch703?code=170112560190110&key=54571
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Panorama Food
-http://cdnp.cli.tn/iptv/ch839?code=170112976724953&key=62984
+http://cdnp.cli.tn/iptv/ch839?code=170112560190110&key=62984
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Ghad Al Araby
-http://cdnp.cli.tn/iptv/ch485?code=170112976724953&key=18536
+http://cdnp.cli.tn/iptv/ch485?code=170112560190110&key=18536
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Cima Alibaba
-http://cdnp.cli.tn/iptv/ch706?code=170112976724953&key=57782
+http://cdnp.cli.tn/iptv/ch706?code=170112560190110&key=57782
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Cinema Pro
-http://cdnp.cli.tn/iptv/ch764?code=170112976724953&key=62513
+http://cdnp.cli.tn/iptv/ch764?code=170112560190110&key=62513
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Star Cinema 2
-http://cdnp.cli.tn/iptv/ch742?code=170112976724953&key=25293
+http://cdnp.cli.tn/iptv/ch742?code=170112560190110&key=25293
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Imagine Movies
-http://cdnp.cli.tn/iptv/ch718?code=170112976724953&key=35666
+http://cdnp.cli.tn/iptv/ch718?code=170112560190110&key=35666
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Darbaka Cinema
-http://cdnp.cli.tn/iptv/ch738?code=170112976724953&key=29453
+http://cdnp.cli.tn/iptv/ch738?code=170112560190110&key=29453
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Ten
-http://cdnp.cli.tn/iptv/ch2000?code=170112976724953&key=58548
+http://cdnp.cli.tn/iptv/ch2000?code=170112560190110&key=58548
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Dhafra
-http://cdnp.cli.tn/iptv/ch766?code=170112976724953&key=31528
+http://cdnp.cli.tn/iptv/ch766?code=170112560190110&key=31528
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Melody Classic
-http://cdnp.cli.tn/iptv/ch770?code=170112976724953&key=54027
+http://cdnp.cli.tn/iptv/ch770?code=170112560190110&key=54027
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Sada Al Balad Drama
-http://cdnp.cli.tn/iptv/ch778?code=170112976724953&key=58752
+http://cdnp.cli.tn/iptv/ch778?code=170112560190110&key=58752
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Kahera Wa Ness
-http://cdnp.cli.tn/iptv/ch790?code=170112976724953&key=26809
+http://cdnp.cli.tn/iptv/ch790?code=170112560190110&key=26809
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Kaher Wa Ness 2
-http://cdnp.cli.tn/iptv/ch169?code=170112976724953&key=34534
+http://cdnp.cli.tn/iptv/ch169?code=170112560190110&key=34534
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Time Taxi
-http://cdnp.cli.tn/iptv/ch1023?code=170112976724953&key=29561
+http://cdnp.cli.tn/iptv/ch1023?code=170112560190110&key=29561
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Ahd
-http://cdnp.cli.tn/iptv/ch563?code=170112976724953&key=11939
+http://cdnp.cli.tn/iptv/ch563?code=170112560190110&key=11939
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Panorama Drama 2
-http://cdnp.cli.tn/iptv/ch793?code=170112976724953&key=54377
+http://cdnp.cli.tn/iptv/ch793?code=170112560190110&key=54377
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Panorama Drama
-http://cdnp.cli.tn/iptv/ch164?code=170112976724953&key=18935
+http://cdnp.cli.tn/iptv/ch164?code=170112560190110&key=18935
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Sada El Balad 2
-http://cdnp.cli.tn/iptv/ch1120?code=170112976724953&key=46897
+http://cdnp.cli.tn/iptv/ch1120?code=170112560190110&key=46897
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Sada El Balad
-http://cdnp.cli.tn/iptv/ch794?code=170112976724953&key=39636
+http://cdnp.cli.tn/iptv/ch794?code=170112560190110&key=39636
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Ettijah
-http://cdnp.cli.tn/iptv/ch128?code=170112976724953&key=46032
+http://cdnp.cli.tn/iptv/ch128?code=170112560190110&key=46032
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Massaya TV
-http://cdnp.cli.tn/iptv/ch444?code=170112976724953&key=41542
+http://cdnp.cli.tn/iptv/ch444?code=170112560190110&key=41542
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Sharqyia
-http://cdnp.cli.tn/iptv/ch446?code=170112976724953&key=19902
+http://cdnp.cli.tn/iptv/ch446?code=170112560190110&key=19902
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Missrata 
-http://cdnp.cli.tn/iptv/ch452?code=170112976724953&key=52321
+http://cdnp.cli.tn/iptv/ch452?code=170112560190110&key=52321
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Delta TV
-http://cdnp.cli.tn/iptv/ch457?code=170112976724953&key=37213
+http://cdnp.cli.tn/iptv/ch457?code=170112560190110&key=37213
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Fath
-http://cdnp.cli.tn/iptv/ch461?code=170112976724953&key=34642
+http://cdnp.cli.tn/iptv/ch461?code=170112560190110&key=34642
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Hawacom TV
-http://cdnp.cli.tn/iptv/ch462?code=170112976724953&key=35413
+http://cdnp.cli.tn/iptv/ch462?code=170112560190110&key=35413
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Quest Arabia
-http://cdnp.cli.tn/iptv/ch438?code=170112976724953&key=34033
+http://cdnp.cli.tn/iptv/ch438?code=170112560190110&key=34033
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Josat Tv
-http://cdnp.cli.tn/iptv/ch732?code=170112976724953&key=54417
+http://cdnp.cli.tn/iptv/ch732?code=170112560190110&key=54417
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Saiida TV
-http://cdnp.cli.tn/iptv/ch464?code=170112976724953&key=18039
+http://cdnp.cli.tn/iptv/ch464?code=170112560190110&key=18039
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Baghdada Tv
-http://cdnp.cli.tn/iptv/ch628?code=170112976724953&key=30044
+http://cdnp.cli.tn/iptv/ch628?code=170112560190110&key=30044
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Sahat
-http://cdnp.cli.tn/iptv/ch627?code=170112976724953&key=61790
+http://cdnp.cli.tn/iptv/ch627?code=170112560190110&key=61790
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Hadath
-http://cdnp.cli.tn/iptv/ch355?code=170112976724953&key=10470
+http://cdnp.cli.tn/iptv/ch355?code=170112560190110&key=10470
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Gadir
-http://cdnp.cli.tn/iptv/ch354?code=170112976724953&key=58243
+http://cdnp.cli.tn/iptv/ch354?code=170112560190110&key=58243
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Rafiden
-http://cdnp.cli.tn/iptv/ch361?code=170112976724953&key=32116
+http://cdnp.cli.tn/iptv/ch361?code=170112560190110&key=32116
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Mawsliya
-http://cdnp.cli.tn/iptv/ch626?code=170112976724953&key=43060
+http://cdnp.cli.tn/iptv/ch626?code=170112560190110&key=43060
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Majan Tv
-http://cdnp.cli.tn/iptv/ch1144?code=170112976724953&key=31746
+http://cdnp.cli.tn/iptv/ch1144?code=170112560190110&key=31746
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Kuwait TV 1
-http://cdnp.cli.tn/iptv/ch430?code=170112976724953&key=14137
+http://cdnp.cli.tn/iptv/ch430?code=170112560190110&key=14137
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Kuwait TV 2
-http://cdnp.cli.tn/iptv/ch431?code=170112976724953&key=40426
+http://cdnp.cli.tn/iptv/ch431?code=170112560190110&key=40426
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",KTV Arabic
-http://cdnp.cli.tn/iptv/ch436?code=170112976724953&key=64797
+http://cdnp.cli.tn/iptv/ch436?code=170112560190110&key=64797
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",KTV Plus
-http://cdnp.cli.tn/iptv/ch356?code=170112976724953&key=14718
+http://cdnp.cli.tn/iptv/ch356?code=170112560190110&key=14718
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",KTV Ethraa
-http://cdnp.cli.tn/iptv/ch359?code=170112976724953&key=29493
+http://cdnp.cli.tn/iptv/ch359?code=170112560190110&key=29493
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",LTC TV
-http://cdnp.cli.tn/iptv/ch468?code=170112976724953&key=39190
+http://cdnp.cli.tn/iptv/ch468?code=170112560190110&key=39190
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Seraj
-http://cdnp.cli.tn/iptv/ch1751?code=170112976724953&key=24870
+http://cdnp.cli.tn/iptv/ch1751?code=170112560190110&key=24870
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Palestine
-http://cdnp.cli.tn/iptv/ch188?code=170112976724953&key=45157
+http://cdnp.cli.tn/iptv/ch188?code=170112560190110&key=45157
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Palastinian Tv
-http://cdnp.cli.tn/iptv/ch435?code=170112976724953&key=20626
+http://cdnp.cli.tn/iptv/ch435?code=170112560190110&key=20626
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Palastine Today
-http://cdnp.cli.tn/iptv/ch484?code=170112976724953&key=30042
+http://cdnp.cli.tn/iptv/ch484?code=170112560190110&key=30042
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Palastine Sport
-http://cdnp.cli.tn/iptv/ch434?code=170112976724953&key=24741
+http://cdnp.cli.tn/iptv/ch434?code=170112560190110&key=24741
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Palastine News
-http://cdnp.cli.tn/iptv/ch449?code=170112976724953&key=37903
+http://cdnp.cli.tn/iptv/ch449?code=170112560190110&key=37903
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al falastiniah Tv
-http://cdnp.cli.tn/iptv/ch448?code=170112976724953&key=15355
+http://cdnp.cli.tn/iptv/ch448?code=170112560190110&key=15355
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Annajah Tv
-http://cdnp.cli.tn/iptv/ch447?code=170112976724953&key=29734
+http://cdnp.cli.tn/iptv/ch447?code=170112560190110&key=29734
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Musawa Tv
-http://cdnp.cli.tn/iptv/ch454?code=170112976724953&key=58711
+http://cdnp.cli.tn/iptv/ch454?code=170112560190110&key=58711
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Awdah Tv
-http://cdnp.cli.tn/iptv/ch455?code=170112976724953&key=14329
+http://cdnp.cli.tn/iptv/ch455?code=170112560190110&key=14329
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Palastine Live
-http://cdnp.cli.tn/iptv/ch460?code=170112976724953&key=50260
+http://cdnp.cli.tn/iptv/ch460?code=170112560190110&key=50260
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Libya errasmia
-http://cdnp.cli.tn/iptv/ch467?code=170112976724953&key=26907
+http://cdnp.cli.tn/iptv/ch467?code=170112560190110&key=26907
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Libya Al Ahrar
-http://cdnp.cli.tn/iptv/ch476?code=170112976724953&key=13179
+http://cdnp.cli.tn/iptv/ch476?code=170112560190110&key=13179
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Akhbar Lybia 24
-http://cdnp.cli.tn/iptv/ch477?code=170112976724953&key=45226
+http://cdnp.cli.tn/iptv/ch477?code=170112560190110&key=45226
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Libya panorama
-http://cdnp.cli.tn/iptv/ch1127?code=170112976724953&key=27374
+http://cdnp.cli.tn/iptv/ch1127?code=170112560190110&key=27374
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Libya today
-http://cdnp.cli.tn/iptv/ch1128?code=170112976724953&key=13988
+http://cdnp.cli.tn/iptv/ch1128?code=170112560190110&key=13988
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Libya TV
-http://cdnp.cli.tn/iptv/ch1050?code=170112976724953&key=57628
+http://cdnp.cli.tn/iptv/ch1050?code=170112560190110&key=57628
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Libya el watan
-http://cdnp.cli.tn/iptv/ch499?code=170112976724953&key=17568
+http://cdnp.cli.tn/iptv/ch499?code=170112560190110&key=17568
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" ,France 24
-http://cdnp.cli.tn/iptv/ch159?code=170112976724953&key=64877
+http://cdnp.cli.tn/iptv/ch159?code=170112560190110&key=64877
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",France 24 FR
-http://cdnp.cli.tn/iptv/ch498?code=170112976724953&key=39441
+http://cdnp.cli.tn/iptv/ch498?code=170112560190110&key=39441
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",France 24 EN
-http://cdnp.cli.tn/iptv/ch786?code=170112976724953&key=42270
+http://cdnp.cli.tn/iptv/ch786?code=170112560190110&key=42270
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Masdar TV
-http://cdnp.cli.tn/iptv/ch486?code=170112976724953&key=11958
+http://cdnp.cli.tn/iptv/ch486?code=170112560190110&key=11958
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Russia Al Yaoum
-http://cdnp.cli.tn/iptv/ch15?code=170112976724953&key=27435
+http://cdnp.cli.tn/iptv/ch15?code=170112560190110&key=27435
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AL Arabiya
-http://cdnp.cli.tn/iptv/ch53?code=170112976724953&key=54727
+http://cdnp.cli.tn/iptv/ch53?code=170112560190110&key=54727
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Araby TV
-http://cdnp.cli.tn/iptv/ch855?code=170112976724953&key=32004
+http://cdnp.cli.tn/iptv/ch855?code=170112560190110&key=32004
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al HIWAR
-http://cdnp.cli.tn/iptv/ch1605?code=170112976724953&key=34644
+http://cdnp.cli.tn/iptv/ch1605?code=170112560190110&key=34644
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Euro News
-http://cdnp.cli.tn/iptv/ch146?code=170112976724953&key=34649
+http://cdnp.cli.tn/iptv/ch146?code=170112560190110&key=34649
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Orient News
-http://cdnp.cli.tn/iptv/ch437?code=170112976724953&key=41882
+http://cdnp.cli.tn/iptv/ch437?code=170112560190110&key=41882
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Aljazeera
-http://cdnp.cli.tn/iptv/ch142?code=170112976724953&key=16258
+http://cdnp.cli.tn/iptv/ch142?code=170112560190110&key=16258
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Sky News Arabia
-http://cdnp.cli.tn/iptv/ch150?code=170112976724953&key=30379
+http://cdnp.cli.tn/iptv/ch150?code=170112560190110&key=30379
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",CNBC Arabia
-http://cdnp.cli.tn/iptv/ch151?code=170112976724953&key=60757
+http://cdnp.cli.tn/iptv/ch151?code=170112560190110&key=60757
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Aljazeera Moubasher
-http://cdnp.cli.tn/iptv/ch755?code=170112976724953&key=58137
+http://cdnp.cli.tn/iptv/ch755?code=170112560190110&key=58137
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",JSC English
-http://cdnp.cli.tn/iptv/ch779?code=170112976724953&key=38078
+http://cdnp.cli.tn/iptv/ch779?code=170112560190110&key=38078
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",DW-TV
-http://cdnp.cli.tn/iptv/ch789?code=170112976724953&key=18206
+http://cdnp.cli.tn/iptv/ch789?code=170112560190110&key=18206
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Ekhbarya essouria
-http://cdnp.cli.tn/iptv/ch441?code=170112976724953&key=18987
+http://cdnp.cli.tn/iptv/ch441?code=170112560190110&key=18987
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Shahed Tv
-http://cdnp.cli.tn/iptv/ch489?code=170112976724953&key=30104
+http://cdnp.cli.tn/iptv/ch489?code=170112560190110&key=30104
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Arabya Hadath
-http://cdnp.cli.tn/iptv/ch784?code=170112976724953&key=54299
+http://cdnp.cli.tn/iptv/ch784?code=170112560190110&key=54299
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Alam TV
-http://cdnp.cli.tn/iptv/ch504?code=170112976724953&key=24550
+http://cdnp.cli.tn/iptv/ch504?code=170112560190110&key=24550
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ANN
-http://cdnp.cli.tn/iptv/ch52?code=170112976724953&key=17675
+http://cdnp.cli.tn/iptv/ch52?code=170112560190110&key=17675
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BBC World Arabic
-http://cdnp.cli.tn/iptv/ch148?code=170112976724953&key=36202
+http://cdnp.cli.tn/iptv/ch148?code=170112560190110&key=36202
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Asia Tv
-http://cdnp.cli.tn/iptv/ch1149?code=170112976724953&key=24880
+http://cdnp.cli.tn/iptv/ch1149?code=170112560190110&key=24880
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nile news
-http://cdnp.cli.tn/iptv/ch182?code=170112976724953&key=58512
+http://cdnp.cli.tn/iptv/ch182?code=170112560190110&key=58512
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Sharquia News
-http://cdnp.cli.tn/iptv/ch559?code=170112976724953&key=42311
+http://cdnp.cli.tn/iptv/ch559?code=170112560190110&key=42311
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Iraqiya News
-http://cdnp.cli.tn/iptv/ch141?code=170112976724953&key=31479
+http://cdnp.cli.tn/iptv/ch141?code=170112560190110&key=31479
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Saoudi  Ekhbarya
-http://cdnp.cli.tn/iptv/ch493?code=170112976724953&key=19877
+http://cdnp.cli.tn/iptv/ch493?code=170112560190110&key=19877
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" ,Gear One
-http://cdnp.cli.tn/iptv/ch753?code=170112976724953&key=28558
+http://cdnp.cli.tn/iptv/ch753?code=170112560190110&key=28558
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nile Sport
-http://cdnp.cli.tn/iptv/ch183?code=170112976724953&key=56701
+http://cdnp.cli.tn/iptv/ch183?code=170112560190110&key=56701
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Kuwait Sport
-http://cdnp.cli.tn/iptv/ch792?code=170112976724953&key=61342
+http://cdnp.cli.tn/iptv/ch792?code=170112560190110&key=61342
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Jordan Sport
-http://cdnp.cli.tn/iptv/ch773?code=170112976724953&key=19571
+http://cdnp.cli.tn/iptv/ch773?code=170112560190110&key=19571
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Kaas 
-http://cdnp.cli.tn/iptv/ch497?code=170112976724953&key=36596
+http://cdnp.cli.tn/iptv/ch497?code=170112560190110&key=36596
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Kaas 2
-http://cdnp.cli.tn/iptv/ch442?code=170112976724953&key=17043
+http://cdnp.cli.tn/iptv/ch442?code=170112560190110&key=17043
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Kaas 4
-http://cdnp.cli.tn/iptv/ch545?code=170112976724953&key=60021
+http://cdnp.cli.tn/iptv/ch545?code=170112560190110&key=60021
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Yas Sports
-http://cdnp.cli.tn/iptv/ch629?code=170112976724953&key=28921
+http://cdnp.cli.tn/iptv/ch629?code=170112560190110&key=28921
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Ahly Channel
-http://cdnp.cli.tn/iptv/ch783?code=170112976724953&key=45841
+http://cdnp.cli.tn/iptv/ch783?code=170112560190110&key=45841
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nahar Sport
-http://cdnp.cli.tn/iptv/ch179?code=170112976724953&key=45140
+http://cdnp.cli.tn/iptv/ch179?code=170112560190110&key=45140
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Dubai Sport 1
-http://cdnp.cli.tn/iptv/ch154?code=170112976724953&key=35409
+http://cdnp.cli.tn/iptv/ch154?code=170112560190110&key=35409
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Dubai Racing 2
-http://cdnp.cli.tn/iptv/ch1031?code=170112976724953&key=13529
+http://cdnp.cli.tn/iptv/ch1031?code=170112560190110&key=13529
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Dubai Sport 4
-http://cdnp.cli.tn/iptv/ch155?code=170112976724953&key=23661
+http://cdnp.cli.tn/iptv/ch155?code=170112560190110&key=23661
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Saudie Sport
-http://cdnp.cli.tn/iptv/ch747?code=170112976724953&key=25532
+http://cdnp.cli.tn/iptv/ch747?code=170112560190110&key=25532
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Iraqya Sport
-http://cdnp.cli.tn/iptv/ch841?code=170112976724953&key=12390
+http://cdnp.cli.tn/iptv/ch841?code=170112560190110&key=12390
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" ,Al Rahma
-http://cdnp.cli.tn/iptv/ch1015?code=170112976724953&key=49337
+http://cdnp.cli.tn/iptv/ch1015?code=170112560190110&key=49337
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Afasy
-http://cdnp.cli.tn/iptv/ch1148?code=170112976724953&key=28564
+http://cdnp.cli.tn/iptv/ch1148?code=170112560190110&key=28564
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Mecca
-http://cdnp.cli.tn/iptv/ch796?code=170112976724953&key=59828
+http://cdnp.cli.tn/iptv/ch796?code=170112560190110&key=59828
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Saudi 1
-http://cdnp.cli.tn/iptv/ch167?code=170112976724953&key=30416
+http://cdnp.cli.tn/iptv/ch167?code=170112560190110&key=30416
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Saudi 2
-http://cdnp.cli.tn/iptv/ch774?code=170112976724953&key=47723
+http://cdnp.cli.tn/iptv/ch774?code=170112560190110&key=47723
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Saudi Haj
-http://cdnp.cli.tn/iptv/ch363?code=170112976724953&key=24687
+http://cdnp.cli.tn/iptv/ch363?code=170112560190110&key=24687
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Saudi Family
-http://cdnp.cli.tn/iptv/ch357?code=170112976724953&key=60007
+http://cdnp.cli.tn/iptv/ch357?code=170112560190110&key=60007
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Saudie Quran
-http://cdnp.cli.tn/iptv/ch749?code=170112976724953&key=44193
+http://cdnp.cli.tn/iptv/ch749?code=170112560190110&key=44193
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Saudie Sunnah
-http://cdnp.cli.tn/iptv/ch750?code=170112976724953&key=11025
+http://cdnp.cli.tn/iptv/ch750?code=170112560190110&key=11025
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Iqra
-http://cdnp.cli.tn/iptv/ch165?code=170112976724953&key=44475
+http://cdnp.cli.tn/iptv/ch165?code=170112560190110&key=44475
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Iqraa Khaier
-http://cdnp.cli.tn/iptv/ch771?code=170112976724953&key=41803
+http://cdnp.cli.tn/iptv/ch771?code=170112560190110&key=41803
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Bin Outhaimin Tv
-http://cdnp.cli.tn/iptv/ch730?code=170112976724953&key=11149
+http://cdnp.cli.tn/iptv/ch730?code=170112560190110&key=11149
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Time Quran TV
-http://cdnp.cli.tn/iptv/ch715?code=170112976724953&key=15033
+http://cdnp.cli.tn/iptv/ch715?code=170112560190110&key=15033
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Azhari TV
-http://cdnp.cli.tn/iptv/ch756?code=170112976724953&key=64534
+http://cdnp.cli.tn/iptv/ch756?code=170112560190110&key=64534
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Resalat Al Islem
-http://cdnp.cli.tn/iptv/ch134?code=170112976724953&key=64192
+http://cdnp.cli.tn/iptv/ch134?code=170112560190110&key=64192
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Ressala
-http://cdnp.cli.tn/iptv/ch727?code=170112976724953&key=52599
+http://cdnp.cli.tn/iptv/ch727?code=170112560190110&key=52599
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Menhag Ennouboua
-http://cdnp.cli.tn/iptv/ch473?code=170112976724953&key=19806
+http://cdnp.cli.tn/iptv/ch473?code=170112560190110&key=19806
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Alanis TV
-http://cdnp.cli.tn/iptv/ch624?code=170112976724953&key=42187
+http://cdnp.cli.tn/iptv/ch624?code=170112560190110&key=42187
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Quran TV
-http://cdnp.cli.tn/iptv/ch707?code=170112976724953&key=27954
+http://cdnp.cli.tn/iptv/ch707?code=170112560190110&key=27954
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Saudi Eqtisadia
-http://cdnp.cli.tn/iptv/ch469?code=170112976724953&key=50158
+http://cdnp.cli.tn/iptv/ch469?code=170112560190110&key=50158
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Quds
-http://cdnp.cli.tn/iptv/ch143?code=170112976724953&key=10304
+http://cdnp.cli.tn/iptv/ch143?code=170112560190110&key=10304
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",CORAN TV
-http://cdnp.cli.tn/iptv/ch152?code=170112976724953&key=21695
+http://cdnp.cli.tn/iptv/ch152?code=170112560190110&key=21695
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Ahl El Coran
-http://cdnp.cli.tn/iptv/ch776?code=170112976724953&key=29778
+http://cdnp.cli.tn/iptv/ch776?code=170112560190110&key=29778
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Shareia TV
-http://cdnp.cli.tn/iptv/ch1143?code=170112976724953&key=14548
+http://cdnp.cli.tn/iptv/ch1143?code=170112560190110&key=14548
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" ,Almajd Sciences
-http://cdnp.cli.tn/iptv/ch704?code=170112976724953&key=19851
+http://cdnp.cli.tn/iptv/ch704?code=170112560190110&key=19851
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Majd Quran
-http://cdnp.cli.tn/iptv/ch710?code=170112976724953&key=26757
+http://cdnp.cli.tn/iptv/ch710?code=170112560190110&key=26757
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Majd Kids
-http://cdnp.cli.tn/iptv/ch176?code=170112976724953&key=21936
+http://cdnp.cli.tn/iptv/ch176?code=170112560190110&key=21936
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Majd Hadeeth
-http://cdnp.cli.tn/iptv/ch125?code=170112976724953&key=26553
+http://cdnp.cli.tn/iptv/ch125?code=170112560190110&key=26553
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Majd TV
-http://cdnp.cli.tn/iptv/ch720?code=170112976724953&key=62466
+http://cdnp.cli.tn/iptv/ch720?code=170112560190110&key=62466
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" ,Mouritania
-http://cdnp.cli.tn/iptv/ch171?code=170112976724953&key=60300
+http://cdnp.cli.tn/iptv/ch171?code=170112560190110&key=60300
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Mouritania 2
-http://cdnp.cli.tn/iptv/ch633?code=170112976724953&key=20057
+http://cdnp.cli.tn/iptv/ch633?code=170112560190110&key=20057
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Watania Mouritania
-http://cdnp.cli.tn/iptv/ch632?code=170112976724953&key=58718
+http://cdnp.cli.tn/iptv/ch632?code=170112560190110&key=58718
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Tawazon Tv
-http://cdnp.cli.tn/iptv/ch631?code=170112976724953&key=38638
+http://cdnp.cli.tn/iptv/ch631?code=170112560190110&key=38638
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Mourabitoune
-http://cdnp.cli.tn/iptv/ch630?code=170112976724953&key=57938
+http://cdnp.cli.tn/iptv/ch630?code=170112560190110&key=57938
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Chinguit TV Mouritan
-http://cdnp.cli.tn/iptv/ch838?code=170112976724953&key=47887
+http://cdnp.cli.tn/iptv/ch838?code=170112560190110&key=47887
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Dava TV Mouritanie
-http://cdnp.cli.tn/iptv/ch1032?code=170112976724953&key=27017
+http://cdnp.cli.tn/iptv/ch1032?code=170112560190110&key=27017
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",El Mahadra Mouritani
-http://cdnp.cli.tn/iptv/ch711?code=170112976724953&key=48960
+http://cdnp.cli.tn/iptv/ch711?code=170112560190110&key=48960
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Sahel TV
-http://cdnp.cli.tn/iptv/ch158?code=170112976724953&key=54937
+http://cdnp.cli.tn/iptv/ch158?code=170112560190110&key=54937
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Sudan TV
-http://cdnp.cli.tn/iptv/ch713?code=170112976724953&key=41602
+http://cdnp.cli.tn/iptv/ch713?code=170112560190110&key=41602
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Chourouk Sudan
-http://cdnp.cli.tn/iptv/ch471?code=170112976724953&key=49893
+http://cdnp.cli.tn/iptv/ch471?code=170112560190110&key=49893
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Blue Nile tv
-http://cdnp.cli.tn/iptv/ch149?code=170112976724953&key=18248
+http://cdnp.cli.tn/iptv/ch149?code=170112560190110&key=18248
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Tanasuh TV
-http://cdnp.cli.tn/iptv/ch1029?code=170112976724953&key=31545
+http://cdnp.cli.tn/iptv/ch1029?code=170112560190110&key=31545
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Neelain TV
-http://cdnp.cli.tn/iptv/ch1028?code=170112976724953&key=56176
+http://cdnp.cli.tn/iptv/ch1028?code=170112560190110&key=56176
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Soudan drama
-http://cdnp.cli.tn/iptv/ch1035?code=170112976724953&key=44611
+http://cdnp.cli.tn/iptv/ch1035?code=170112560190110&key=44611
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Soudan Monawaat
-http://cdnp.cli.tn/iptv/ch360?code=170112976724953&key=38607
+http://cdnp.cli.tn/iptv/ch360?code=170112560190110&key=38607
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Khaer Soudan
-http://cdnp.cli.tn/iptv/ch1037?code=170112976724953&key=18288
+http://cdnp.cli.tn/iptv/ch1037?code=170112560190110&key=18288
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Africa 1
-http://cdnp.cli.tn/iptv/ch1024?code=170112976724953&key=27593
+http://cdnp.cli.tn/iptv/ch1024?code=170112560190110&key=27593
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Africa 2
-http://cdnp.cli.tn/iptv/ch1025?code=170112976724953&key=54648
+http://cdnp.cli.tn/iptv/ch1025?code=170112560190110&key=54648
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Africa 3
-http://cdnp.cli.tn/iptv/ch1026?code=170112976724953&key=28352
+http://cdnp.cli.tn/iptv/ch1026?code=170112560190110&key=28352
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Africa 4
-http://cdnp.cli.tn/iptv/ch1027?code=170112976724953&key=21999
+http://cdnp.cli.tn/iptv/ch1027?code=170112560190110&key=21999
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Soudan roqia
-http://cdnp.cli.tn/iptv/ch1110?code=170112976724953&key=23178
+http://cdnp.cli.tn/iptv/ch1110?code=170112560190110&key=23178
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Dabanga Soudan
-http://cdnp.cli.tn/iptv/ch1154?code=170112976724953&key=17955
+http://cdnp.cli.tn/iptv/ch1154?code=170112560190110&key=17955
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" ,Arabica
-http://cdnp.cli.tn/iptv/ch124?code=170112976724953&key=36802
+http://cdnp.cli.tn/iptv/ch124?code=170112560190110&key=36802
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Aghani
-http://cdnp.cli.tn/iptv/ch751?code=170112976724953&key=39674
+http://cdnp.cli.tn/iptv/ch751?code=170112560190110&key=39674
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Music Haneen
-http://cdnp.cli.tn/iptv/ch126?code=170112976724953&key=32411
+http://cdnp.cli.tn/iptv/ch126?code=170112560190110&key=32411
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Sham FM
-http://cdnp.cli.tn/iptv/ch787?code=170112976724953&key=36497
+http://cdnp.cli.tn/iptv/ch787?code=170112560190110&key=36497
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Mazzikh
-http://cdnp.cli.tn/iptv/ch1150?code=170112976724953&key=27978
+http://cdnp.cli.tn/iptv/ch1150?code=170112560190110&key=27978
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Funoon
-http://cdnp.cli.tn/iptv/ch160?code=170112976724953&key=12633
+http://cdnp.cli.tn/iptv/ch160?code=170112560190110&key=12633
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Free Tv
-http://cdnp.cli.tn/iptv/ch61?code=170112976724953&key=31949
+http://cdnp.cli.tn/iptv/ch61?code=170112560190110&key=31949
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Maestro
-http://cdnp.cli.tn/iptv/ch1152?code=170112976724953&key=64420
+http://cdnp.cli.tn/iptv/ch1152?code=170112560190110&key=64420
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Noughoum FM
-http://cdnp.cli.tn/iptv/ch1151?code=170112976724953&key=20933
+http://cdnp.cli.tn/iptv/ch1151?code=170112560190110&key=20933
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Mazzika
-http://cdnp.cli.tn/iptv/ch29?code=170112976724953&key=35607
+http://cdnp.cli.tn/iptv/ch29?code=170112560190110&key=35607
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Rotana Khaligia
-http://cdnp.cli.tn/iptv/ch46?code=170112976724953&key=54849
+http://cdnp.cli.tn/iptv/ch46?code=170112560190110&key=54849
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" ,Majed Kids TV
-http://cdnp.cli.tn/iptv/ch1752?code=170112976724953&key=57898
+http://cdnp.cli.tn/iptv/ch1752?code=170112560190110&key=57898
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Baynouna TV
-http://cdnp.cli.tn/iptv/ch799?code=170112976724953&key=28553
+http://cdnp.cli.tn/iptv/ch799?code=170112560190110&key=28553
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Toyour Baby 
-http://cdnp.cli.tn/iptv/ch472?code=170112976724953&key=49947
+http://cdnp.cli.tn/iptv/ch472?code=170112560190110&key=49947
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Toyour Al Jannah
-http://cdnp.cli.tn/iptv/ch73?code=170112976724953&key=54280
+http://cdnp.cli.tn/iptv/ch73?code=170112560190110&key=54280
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",SpaceToon
-http://cdnp.cli.tn/iptv/ch49?code=170112976724953&key=33082
+http://cdnp.cli.tn/iptv/ch49?code=170112560190110&key=33082
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Cartoon Network Arab
-http://cdnp.cli.tn/iptv/ch65?code=170112976724953&key=22356
+http://cdnp.cli.tn/iptv/ch65?code=170112560190110&key=22356
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Mickey Channel
-http://cdnp.cli.tn/iptv/ch788?code=170112976724953&key=30575
+http://cdnp.cli.tn/iptv/ch788?code=170112560190110&key=30575
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Koky Kids
-http://cdnp.cli.tn/iptv/ch736?code=170112976724953&key=61438
+http://cdnp.cli.tn/iptv/ch736?code=170112560190110&key=61438
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Mody Kids
-http://cdnp.cli.tn/iptv/ch717?code=170112976724953&key=52355
+http://cdnp.cli.tn/iptv/ch717?code=170112560190110&key=52355
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Kidzania TV
-http://cdnp.cli.tn/iptv/ch731?code=170112976724953&key=10702
+http://cdnp.cli.tn/iptv/ch731?code=170112560190110&key=10702
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Semsem TV 
-http://cdnp.cli.tn/iptv/ch445?code=170112976724953&key=60472
+http://cdnp.cli.tn/iptv/ch445?code=170112560190110&key=60472
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Karameesh
-http://cdnp.cli.tn/iptv/ch199?code=170112976724953&key=34614
+http://cdnp.cli.tn/iptv/ch199?code=170112560190110&key=34614
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Taha
-http://cdnp.cli.tn/iptv/ch748?code=170112976724953&key=62652
+http://cdnp.cli.tn/iptv/ch748?code=170112560190110&key=62652
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" ,Bein Sports News
-http://cdnp.cli.tn/iptv/ch110?code=170112976724953&key=45926
+http://cdnp.cli.tn/iptv/ch110?code=170112560190110&key=45926
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Bein Sport
-http://cdnp.cli.tn/iptv/ch400?code=170112976724953&key=14874
+http://cdnp.cli.tn/iptv/ch400?code=170112560190110&key=14874
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BeInSport 1 HD
-http://cdnp.cli.tn/iptv/ch111?code=170112976724953&key=22144
+http://cdnp.cli.tn/iptv/ch111?code=170112560190110&key=22144
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BeInSport 2 HD
-http://cdnp.cli.tn/iptv/ch112?code=170112976724953&key=48485
+http://cdnp.cli.tn/iptv/ch112?code=170112560190110&key=48485
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BeInSport 3 HD
-http://cdnp.cli.tn/iptv/ch113?code=170112976724953&key=46756
+http://cdnp.cli.tn/iptv/ch113?code=170112560190110&key=46756
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BeInSport 4 HD
-http://cdnp.cli.tn/iptv/ch114?code=170112976724953&key=27678
+http://cdnp.cli.tn/iptv/ch114?code=170112560190110&key=27678
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BeInSport 5 HD
-http://cdnp.cli.tn/iptv/ch115?code=170112976724953&key=24689
+http://cdnp.cli.tn/iptv/ch115?code=170112560190110&key=24689
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BeInSport 6 HD
-http://cdnp.cli.tn/iptv/ch116?code=170112976724953&key=17556
+http://cdnp.cli.tn/iptv/ch116?code=170112560190110&key=17556
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BeInSport 7 HD
-http://cdnp.cli.tn/iptv/ch117?code=170112976724953&key=38651
+http://cdnp.cli.tn/iptv/ch117?code=170112560190110&key=38651
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BeInSport 8 HD
-http://cdnp.cli.tn/iptv/ch118?code=170112976724953&key=61612
+http://cdnp.cli.tn/iptv/ch118?code=170112560190110&key=61612
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BeInSport 9 HD
-http://cdnp.cli.tn/iptv/ch510?code=170112976724953&key=26629
+http://cdnp.cli.tn/iptv/ch510?code=170112560190110&key=26629
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BeInSport 10 HD
-http://cdnp.cli.tn/iptv/ch511?code=170112976724953&key=21769
+http://cdnp.cli.tn/iptv/ch511?code=170112560190110&key=21769
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BeInSport 11 HD
-http://cdnp.cli.tn/iptv/ch512?code=170112976724953&key=14516
+http://cdnp.cli.tn/iptv/ch512?code=170112560190110&key=14516
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BeInSport 12 HD
-http://cdnp.cli.tn/iptv/ch513?code=170112976724953&key=59664
+http://cdnp.cli.tn/iptv/ch513?code=170112560190110&key=59664
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BeInSport 13 HD
-http://cdnp.cli.tn/iptv/ch514?code=170112976724953&key=63047
+http://cdnp.cli.tn/iptv/ch514?code=170112560190110&key=63047
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BeInSport 14 HD
-http://cdnp.cli.tn/iptv/ch515?code=170112976724953&key=11348
+http://cdnp.cli.tn/iptv/ch515?code=170112560190110&key=11348
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BeInSport 15 HD
-http://cdnp.cli.tn/iptv/ch516?code=170112976724953&key=64115
+http://cdnp.cli.tn/iptv/ch516?code=170112560190110&key=64115
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BeInSport 16 HD 
-http://cdnp.cli.tn/iptv/ch517?code=170112976724953&key=42456
+http://cdnp.cli.tn/iptv/ch517?code=170112560190110&key=42456
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BeInSport 17 HD 
-http://cdnp.cli.tn/iptv/ch522?code=170112976724953&key=59254
+http://cdnp.cli.tn/iptv/ch522?code=170112560190110&key=59254
 
 
 
