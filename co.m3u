@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,29/09/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,30/09/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -152,15 +152,15 @@ https://www.youtube.com/watch?v=CoohQWgDWVs
 http://master.cystreams.com:25461/live/greek/minifit/43.ts
 #EXTINF:-1 group-title="Greece" tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/satellite-tv-logos/mega-cosmos.png" ,MEGA COSMOS
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/np3siv" ,SKAI
-http://master.cystreams.com:25461/live/greek/minifit/42.ts
-#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/np3siv" ,SKAI Web
-http://www.lakatamiatv.xyz/app/chans/gr/skai.html|webview zoom=100 scroll=0,100
-#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/np3siv" ,SKAI Youtube
+#EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI Youtube
 https://www.youtube.com/watch?v=sMYwWQHesuc
-#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/np3siv" ,SKAI Youtube 2
+#EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI Youtube 2
 http://www.tvradiogr.com/p/tv/18/skai-live.html|webdown
-#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/np3siv" ,SKAI official Web
+#EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI
+http://master.cystreams.com:25461/live/greek/minifit/42.ts
+#EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI Web
+http://www.lakatamiatv.xyz/app/chans/gr/skai.html|webview zoom=100 scroll=0,100
+#EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI official Web
 http://www.skai.gr/mobile/tv-live/|webview zoom=100 scroll=0,100
 #EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
 http://master.cystreams.com:25461/live/greek/minifit/40.ts
@@ -356,7 +356,7 @@ http://..........
 http://5.135.92.138:31783/out/u/552_1.m3u8
 #EXTINF:-1 group-title="Greece-SERVER2" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg" ,Alpha
 http://5.135.92.138:31783/out/u/554_1.m3u8
-#EXTINF:-1 group-title="Greece-SERVER2" tvg-logo="https://goo.gl/np3siv" ,SKAI
+#EXTINF:-1 group-title="Greece-SERVER2" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI
 http://5.135.92.138:31783/out/u/573_1.m3u8
 #EXTINF:-1 group-title="Greece-SERVER2" tvg-logo="https://www.greektvlive.info/wp-content/uploads/2015/06/ert-hd-150x150.png" ,ERT HD
 http://5.135.92.138:31783/out/u/583_1.m3u8
@@ -1183,39 +1183,39 @@ http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34b
 http://..........
 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc1.jpg",BBC 1 
-https://easyview.eu/script.php?stream=bbc-1|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=bbc-1|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg",BBC 2
-https://easyview.eu/script.php?stream=bbc-two|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=bbc-two|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc4-logo-400x284.jpg",BBC 4
-https://easyview.eu/script.php?stream=bbc-four|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=bbc-four|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/CBBC.jpg",Cbbc 
-https://easyview.eu/script.php?stream=cbbc|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=cbbc|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/cbeebies.jpg",cbeebies
-https://easyview.eu/script.php?stream=cbeebies|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=cbeebies|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg",BBC 1 Wales
-https://easyview.eu/script.php?stream=bbc-one-wales|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=bbc-one-wales|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg",BBC 1 Scotland
-https://easyview.eu/script.php?stream=bbc-one-scotland|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=bbc-one-scotland|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg",BBC 1 Northern Ireland
-https://easyview.eu/script.php?stream=bbc-one-northern-ireland|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=bbc-one-northern-ireland|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-parliament.jpg",BBC Parliament
-https://easyview.eu/script.php?stream=bbc-parliament|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=bbc-parliament|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc_news.jpg",BBC News
-https://easyview.eu/script.php?stream=bbc-news|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=bbc-news|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Alba.jpg",BBC alba
-https://easyview.eu/script.php?stream=bbc-alba|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=bbc-alba|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg",ITV
-https://easyview.eu/script.php?stream=itv|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=itv|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg",ITV 2
-https://easyview.eu/script.php?stream=itv2|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=itv2|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv3-400x284.jpg",ITV 3
-https://easyview.eu/script.php?stream=itv3|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=itv3|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv4-400x284.jpg",ITV 4
-https://easyview.eu/script.php?stream=itv4|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=itv4|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/citv_logo_2015-400x284.jpg",CITV
-https://easyview.eu/script.php?stream=citv|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=citv|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg",ITV Be.
-https://easyview.eu/script.php?stream=itvbe|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=itvbe|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 
 
 
@@ -4847,862 +4847,166 @@ http://2.primatv.club:8080/live/RMD4655FHHBJ/25XDI3iQpRG/103.ts|user-agent=VLC/3
 
 #EXTINF:-1 group-title="France PREMIUM-SERVER3",
 
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="TF1.fr" tvg-name="FR: TF1 HD" tvg-logo="https://i62.servimg.com/u/f62/18/72/18/38/tf1_6510.png",FR: TF1 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15781.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="TFX.fr" tvg-name="FR: TFX HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/tfx_fr10.png",FR: TFX HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28640.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="TF1SeriesFilms.fr" tvg-name="FR: TF1 SERIES FILMS HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/tf1_se10.png",FR: TF1 SERIES FILMS HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28646.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="France2.fr" tvg-name="FR: FRANCE 2 HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/france2.png",FR: FRANCE 2 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15852.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="France3.fr" tvg-name="FR: FRANCE 3 HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/france3.png",FR: FRANCE 3 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15853.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="France4.fr" tvg-name="FR: FRANCE 4 HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/france4.png",FR: FRANCE 4 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15794.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="France5.fr" tvg-name="FR: FRANCE 5 HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/france5.png",FR: FRANCE 5 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15817.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="FranceO.fr" tvg-name="FR: FRANCE 0 HD" tvg-logo="https://i62.servimg.com/u/f62/18/72/18/38/france14.png",FR: FRANCE 0 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15850.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="M6.fr" tvg-name="FR: M6 HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/m6_fr10.png",FR: M6 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15809.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="ARTE.fr" tvg-name="FR: ARTE HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/artehd.png",FR: ARTE HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15859.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="C8.fr" tvg-name="FR: C8 HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/c8_fr10.png",FR: C8 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15760.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="W9.fr" tvg-name="FR: W9 HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/w9_fr10.png",FR: W9 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15774.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="TMC.fr" tvg-name="FR: TMC HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/tmc_fr10.png",FR: TMC HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15792.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="NRJ12.fr" tvg-name="FR: NRJ 12 HD",FR: NRJ 12 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14459.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="13RUE.fr" tvg-name="FR: 13 EME RUE HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/13rue_10.png",FR: 13 EME RUE HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15855.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="6ter.fr" tvg-name="FR: 6TER HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/6ter_f10.png",FR: 6TER HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14624.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="CStar.fr" tvg-name="FR: CSTAR HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/cstar.png",FR: CSTAR HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14563.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="RTL9.fr" tvg-name="FR: RTL9 HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/rtl9_f10.png",FR: RTL9 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/20880.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Numero23.fr" tvg-name="FR: RMC Story HD",FR: RMC Story HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14561.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Cherie25.fr" tvg-name="FR: CHERIE 25 HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/cherie25.png",FR: CHERIE 25 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15834.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="BFMTV.fr" tvg-name="FR: BFM TV HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/bfmtv_10.png",FR: BFM TV HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15861.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="BFMSport.fr" tvg-name="FR: BFM PARIS" tvg-logo="http://euroiptv.org/picon/bfmparis.png",FR: BFM PARIS
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28631.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: FRANCE 24 HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/france24.png",FR: FRANCE 24 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15826.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: EURONEWS" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/eurone10.png",FR: EURONEWS
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15832.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: C NEWS HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/cnews_10.png",FR: C NEWS HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14406.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="LCI.fr" tvg-name="FR: LCI" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/lci.png",FR: LCI
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14412.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: TV5 MONDE" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/tv5mon11.png",FR: TV5 MONDE
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15791.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: I24 NEWS HD" tvg-logo="http://euroiptv.org/picon/i24news.png",FR: I24 NEWS HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28604.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: FRANCE INFO HD" tvg-logo="http://euroiptv.org/picon/franceinfo.png",FR: FRANCE INFO HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28654.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="LCP.fr" tvg-name="FR: LCP 100%",FR: LCP 100%
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28633.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="RFMTV.fr" tvg-name="FR: RFM TV HD",FR: RFM TV HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28623.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="TVBreizh.fr" tvg-name="FR: TV BREIZH HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/tvbrei10.png",FR: TV BREIZH HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15785.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: AB1 HD" tvg-logo="http://euroiptv.org/picon/ab1.png",FR: AB1 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14576.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="AB3.be" tvg-name="FR: AB3 HD" tvg-logo="http://euroiptv.org/picon/ab3.png",FR: AB3 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/20879.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Syfy.fr" tvg-name="FR: SYFY HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/syfy_f10.png",FR: SYFY HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15790.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Teva.fr" tvg-name="FR: TEVA HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/teva_f10.png",FR: TEVA HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14569.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="BET.fr" tvg-name="FR: BET HD",FR: BET HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/20884.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Comedie.fr" tvg-name="FR: COMEDIE+ HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/comedi10.png",FR: COMEDIE+ HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15823.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="M6Boutique.fr" tvg-name="FR: M6 BOUTIQUE" tvg-logo="http://euroiptv.org/picon/m6boutique.png",FR: M6 BOUTIQUE
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28614.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: WEO" tvg-logo="http://euroiptv.org/picon/weotv.png",FR: WEO
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28632.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: TRACE TROPICAL HD" tvg-logo="http://euroiptv.org/picon/tracetropical.png",FR: TRACE TROPICAL HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28651.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="TraceUrban.fr" tvg-name="FR: TRACE AFRICA HD",FR: TRACE AFRICA HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28622.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: BBLACK AFRICA",FR: BBLACK AFRICA
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31234.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: BBLACK CARIBBEAN",FR: BBLACK CARIBBEAN
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31233.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: BBLACK CLASSIC",FR: BBLACK CLASSIC
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31235.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: ALTICE STUDIO HD" tvg-logo="http://euroiptv.org/picon/alticestudio.png",FR: ALTICE STUDIO HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28625.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Vivolta.fr" tvg-name="FR: VIVOLTA" tvg-logo="http://euroiptv.org/picon/vivolta.png",FR: VIVOLTA
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28643.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="ELLEGirl.fr" tvg-name="FR: ELLE GIRL HD",FR: ELLE GIRL HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15827.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Eentertainment.fr" tvg-name="FR: E! ENTERTAINMENT HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/eentertainmenthd.png",FR: E! ENTERTAINMENT HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15838.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: TCM CINEMA HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/tcm_fr10.png",FR: TCM CINEMA HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15779.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="CANALplus.fr" tvg-name="FR: CANAL+ HD" tvg-logo="https://i62.servimg.com/u/f62/18/72/18/38/canal_10.png",FR: CANAL+ HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15822.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="CANALplusCINEMA.fr" tvg-name="FR: CANAL+ CINEMA HD" tvg-logo="https://i62.servimg.com/u/f62/18/72/18/38/1_0_1919.png",FR: CANAL+ CINEMA HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15820.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="CANALplusDECALE.fr" tvg-name="FR: CANAL+ DECALE HD" tvg-logo="https://i62.servimg.com/u/f62/18/72/18/38/canal_12.png",FR: CANAL+ DECALE HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15831.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="CANALplusFamily.fr" tvg-name="FR: CANAL+ FAMILY HD" tvg-logo="https://i62.servimg.com/u/f62/18/72/18/38/1_0_1920.png",FR: CANAL+ FAMILY HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15821.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="CanalplusSeries.fr" tvg-name="FR: CANAL+ SERIES HD" tvg-logo="https://i62.servimg.com/u/f62/18/72/18/38/canal_11.png",FR: CANAL+ SERIES HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15843.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="SerieClub.fr" tvg-name="FR: SERIE CLUB HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/seriec10.png",FR: SERIE CLUB HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/20881.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="CinecinemaEmotion.fr" tvg-name="FR: CINE+ EMOTION HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/cineplusemotion.png",FR: CINE+ EMOTION HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15824.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="CinecinemaFamiz.fr" tvg-name="FR: CINE+ FAMIZ HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/cineplusfamiz.png",FR: CINE+ FAMIZ HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15846.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="CinecinemaFrisson.fr" tvg-name="FR: CINE+ FRISSON HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/cineplusfrisson.png",FR: CINE+ FRISSON HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15825.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="CinecinemaPremier.fr" tvg-name="FR: CINE+ PREMIER HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/cinepluspremier.png",FR: CINE+ PREMIER HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15844.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="OrangeCinechoc.fr" tvg-name="FR: OCS CHOC HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/ocscho10.png",FR: OCS CHOC HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15807.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="OrangeCineHappy.fr" tvg-name="FR: OCS CITY HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/ocscit10.png",FR: OCS CITY HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15806.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="OrangeCineGeants.fr" tvg-name="FR: OCS GEANTS HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/ocsgea10.png",FR: OCS GEANTS HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15805.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="OrangeCinemax.fr" tvg-name="FR: OCS MAX HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/ocsmax10.png",FR: OCS MAX HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15804.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="CinecinemaClub.fr" tvg-name="FR: CINE+ CLUB HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/cinepl10.png",FR: CINE+ CLUB HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15829.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="CinecinemaClassic.fr" tvg-name="FR: CINE+ CLASSIC HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/cineplusclassic.png",FR: CINE+ CLASSIC HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15845.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="CineFX.fr" tvg-name="FR: CINE+ FX HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/cinefx.png",FR: CINE+ FX HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15835.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="CinePolar.fr" tvg-name="FR: CINE+ POLAR HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/cinepolar.png",FR: CINE+ POLAR HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15854.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: POLAR+ HD",FR: POLAR+ HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28627.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Action.fr" tvg-name="FR: ACTION HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/action.png",FR: ACTION HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15866.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="ParamountChannel.fr" tvg-name="FR: PARAMOUNT CHANNEL HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/paramo11.png",FR: PARAMOUNT CHANNEL HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15801.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="ParisPremiere.fr" tvg-name="FR: PARIS PREMIERE HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/parisp10.png",FR: PARIS PREMIERE HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/20891.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="RMCdecouverte.fr" tvg-name="FR: RMC DECOUVERTE 24 HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/rmcdec10.png",FR: RMC DECOUVERTE 24 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14474.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="CrimeDistrict.fr" tvg-name="FR: CRIME DISTRICT HD",FR: CRIME DISTRICT HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/20894.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="PLANETEJustice.fr" tvg-name="FR: PLANETE HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/planet11.png",FR: PLANETE HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15788.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="PLANETE.fr" tvg-name="FR: PLANETE C&I HD",FR: PLANETE C&I HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15783.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="PLANETEnoLIMIT.fr" tvg-name="FR: PLANETE A&E HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/planet12.png",FR: PLANETE A&E HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15776.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="NatGeoWildHD.fr" tvg-name="FR: NAT GEO WILD HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/natgeo11.png",FR: NAT GEO WILD HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15803.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="NationalGeographic.fr" tvg-name="FR: NATIONAL GEOGRAPHIC HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/natgeo10.png",FR: NATIONAL GEOGRAPHIC HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15811.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="ScienceVie.fr" tvg-name="FR: SCIENCE & VIE HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/scienc10.png",FR: SCIENCE & VIE HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15782.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="UshuaiaTV.fr" tvg-name="FR: USHUAIA TV HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/ushuai10.png",FR: USHUAIA TV HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15787.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Voyage.fr" tvg-name="FR: VOYAGE HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/voyage10.png",FR: VOYAGE HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14471.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: DISCOVERY FAMILY HD",FR: DISCOVERY FAMILY HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28653.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Discovery.fr" tvg-name="FR: DISCOVERY CHANNEL HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/discoverychannelhd.png",FR: DISCOVERY CHANNEL HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15836.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="DiscoveryScience.fr" tvg-name="FR: DISCOVERY SCIENCE HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/discoverysciencehd-clivebesle.png",FR: DISCOVERY SCIENCE HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15847.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: DISCOVERY INVESTIGATION HD",FR: DISCOVERY INVESTIGATION HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28652.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Animaux.fr" tvg-name="FR: ANIMAUX HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/animau10.png",FR: ANIMAUX HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15862.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Trek.fr" tvg-name="FR: TREK HD",FR: TREK HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14363.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Histoire.fr" tvg-name="FR: HISTOIRE HD",FR: HISTOIRE HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15813.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="TouteHistoire.fr" tvg-name="FR: TOUTE HISTOIRE" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/touteh10.png",FR: TOUTE HISTOIRE
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14485.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="ChassePeche.fr" tvg-name="FR: CHASSE & PECHE" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/chasseetpeche.png",FR: CHASSE & PECHE
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15833.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Seasons.fr" tvg-name="FR: SEASONS HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/season10.png",FR: SEASONS HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15780.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: L'EQUIPE 21 HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/lequip10.png",FR: L'EQUIPE 21 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15795.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Infosport.fr" tvg-name="FR: INFOSPORT+ HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/infosports.jpg",FR: INFOSPORT+ HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15796.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="CANALplusSPORT.fr" tvg-name="FR: CANAL+ SPORT HD" tvg-logo="https://i62.servimg.com/u/f62/18/72/18/38/1_0_1918.png",FR: CANAL+ SPORT HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15793.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="beINSport1.fr" tvg-name="FR: beIN SPORTS 1HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/beinsp10.png",FR: beIN SPORTS 1HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15773.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="beINSport2.fr" tvg-name="FR: beIN SPORTS 2HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/beinsp12.png",FR: beIN SPORTS 2HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15772.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="beINSport3.fr" tvg-name="FR: beIN SPORTS 3HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/beinsp14.png",FR: beIN SPORTS 3HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15771.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="BeInSportMax4.fr" tvg-name="FR: beIN SPORTS MAX 4HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/beinsportsmax4.png",FR: beIN SPORTS MAX 4HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15770.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="BeInSportMax5.fr" tvg-name="FR: beIN SPORTS MAX 5HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/beinsportsmax5.png",FR: beIN SPORTS MAX 5HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15769.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="BeInSportMax6.fr" tvg-name="FR: beIN SPORTS MAX 6HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/beinsportsmax6.png",FR: beIN SPORTS MAX 6HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15768.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="BeInSportMax7.fr" tvg-name="FR: beIN SPORTS MAX 7HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/beinsportsmax7.png",FR: beIN SPORTS MAX 7HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15767.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="BeInSportMax8.fr" tvg-name="FR: beIN SPORTS MAX 8HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/beinsportsmax8.png",FR: beIN SPORTS MAX 8HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15766.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="BeInSportMax9.fr" tvg-name="FR: beIN SPORTS MAX 9HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/beinsportsmax9.png",FR: beIN SPORTS MAX 9HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15765.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="BeInSportMax10.fr" tvg-name="FR: beIN SPORTS MAX 10HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/beinsportsmax10.png",FR: beIN SPORTS MAX 10HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15764.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="SFRSport5.fr" tvg-name="FR: RMC SPORT NEWS HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/sfrspo13.png",FR: RMC SPORT NEWS HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14505.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="SFRSport1.fr" tvg-name="FR: RMC SPORT 1 HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/sfrspo17.png",FR: RMC SPORT 1 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14510.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="SFRSport2.fr" tvg-name="FR: RMC SPORT 2 HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/sfrspo18.png",FR: RMC SPORT 2 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14508.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="RMCSport3.fr" tvg-name="FR: RMC SPORT 3 HD",FR: RMC SPORT 3 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28655.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="SFRSport3.fr" tvg-name="FR: RMC SPORT 4 HD",FR: RMC SPORT 4 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14506.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RMC SPORT ACCESS 1 HD",FR: RMC SPORT ACCESS 1 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31231.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RMC SPORT ACCESS 2 HD",FR: RMC SPORT ACCESS 2 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31230.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RMC SPORT ACCESS 3 HD",FR: RMC SPORT ACCESS 3 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31229.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RMC SPORT LIVE 5 HD",FR: RMC SPORT LIVE 5 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31228.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RMC SPORT LIVE 6 HD",FR: RMC SPORT LIVE 6 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31227.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RMC SPORT LIVE 7 HD",FR: RMC SPORT LIVE 7 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31226.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RMC SPORT LIVE 8 HD",FR: RMC SPORT LIVE 8 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31225.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RMC SPORT LIVE 9 HD",FR: RMC SPORT LIVE 9 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31224.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RMC SPORT LIVE 10 HD",FR: RMC SPORT LIVE 10 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31223.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RMC SPORT LIVE 11 HD",FR: RMC SPORT LIVE 11 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31222.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RMC SPORT LIVE 12 HD",FR: RMC SPORT LIVE 12 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31221.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RMC SPORT LIVE 13 HD",FR: RMC SPORT LIVE 13 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31220.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RMC SPORT LIVE 14 HD",FR: RMC SPORT LIVE 14 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31219.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RMC SPORT LIVE 15 HD",FR: RMC SPORT LIVE 15 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31218.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RMC SPORT LIVE 16 HD",FR: RMC SPORT LIVE 16 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31217.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: ANIMAUX FHD",FR: ANIMAUX FHD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32280.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: ABXplore HD",FR: ABXplore HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28629.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: OL TV",FR: OL TV
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14399.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: OM TV" tvg-logo="http://euroiptv.org/picon/omtv.png",FR: OM TV
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14397.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Eurosport1.fr" tvg-name="FR: EUROSPORT 1 HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/eurosport1hd.png",FR: EUROSPORT 1 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15849.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Eurosport2.fr" tvg-name="FR: EUROSPORT 2 HD",FR: EUROSPORT 2 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15841.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Foot24.fr" tvg-name="FR: FOOT 24 HD",FR: FOOT 24 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15830.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Golfplus.fr" tvg-name="FR: GOLF+ HD" tvg-logo="http://euroiptv.org/picon/golfplus.png",FR: GOLF+ HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/20890.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Golf.fr" tvg-name="FR: GOLF CHANNEL HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/golf_c10.png",FR: GOLF CHANNEL HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15815.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="EquidiaLife.fr" tvg-name="FR: EQUIDIA HD",FR: EQUIDIA HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15839.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="EquidiaLive.fr" tvg-name="FR: EQUIDIA LIVE HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/equidialive.png",FR: EQUIDIA LIVE HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15840.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="ABMoteurs.fr" tvg-name="FR: AB MOTEURS HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/abmoteurs.png",FR: AB MOTEURS HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15865.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: MOTORSPORT TV" tvg-logo="http://euroiptv.org/picon/motorsporttv.png",FR: MOTORSPORT TV
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/20885.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: EXTREME SPORTS HD",FR: EXTREME SPORTS HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28636.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: AEROSTAR",FR: AEROSTAR
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28609.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: Trace Sport Star HD",FR: Trace Sport Star HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31216.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: BABY TV",FR: BABY TV
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28605.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="GameOne.fr" tvg-name="FR: GAME ONE HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/gameone.png",FR: GAME ONE HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15816.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Boomerang.fr" tvg-name="FR: BOOMERANG +1 HD" tvg-logo="http://euroiptv.org/picon/boomerang.png",FR: BOOMERANG +1 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28619.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: DISNEY CHANNEL +1 HD" tvg-logo="http://euroiptv.org/picon/disneychannelplus1.png",FR: DISNEY CHANNEL +1 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28650.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="JOne.fr" tvg-name="FR: J-ONE HD" tvg-logo="http://euroiptv.org/picon/jone.png",FR: J-ONE HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28642.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Nick4teens.fr" tvg-name="FR: NICKELODEON TEEN HD",FR: NICKELODEON TEEN HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28624.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: NICKELODEON +1 HD",FR: NICKELODEON +1 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28649.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: PIWI  HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/piwi_f10.png",FR: PIWI  HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15800.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: TIJI HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/tiji_f10.png",FR: TIJI HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15784.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: GULLI HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/gulli_10.png",FR: GULLI HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15802.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Boing.fr" tvg-name="FR: BOING HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/boing_10.png",FR: BOING HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15858.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: BOOMERANG HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/boomeranghd.png",FR: BOOMERANG HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15775.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="CartoonNetwork.fr" tvg-name="FR: CARTOON NETWORK HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/cartoonnetworkhd.png",FR: CARTOON NETWORK HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15851.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: TELETOON+ HD",FR: TELETOON+ HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15789.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: NICKELODEON HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/nickel11.png",FR: NICKELODEON HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15797.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: NICKELODEON JUNIOR HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/nickjr10.png",FR: NICKELODEON JUNIOR HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15798.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: DISNEY CINEMA HD",FR: DISNEY CINEMA HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32282.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="DisneyChannel.fr" tvg-name="FR: DISNEY CHANNEL HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/disney11.png",FR: DISNEY CHANNEL HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15848.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="DisneyMagic.fr" tvg-name="FR: DISNEY CINEMAGIC HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/disney10.png",FR: DISNEY CINEMAGIC HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15828.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="DisneyJunior.fr" tvg-name="FR: DISNEY JUNIOR HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/disney12.png",FR: DISNEY JUNIOR HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15842.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="DisneyXD.fr" tvg-name="FR: DISNEY XD HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/disneyxdhd.png",FR: DISNEY XD HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15837.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="CanalJ.fr" tvg-name="FR: CANAL J HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/canalj10.png",FR: CANAL J HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15857.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: MANGAS HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/mangas10.png",FR: MANGAS HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15799.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: GinX" tvg-logo="http://euroiptv.org/picon/ginx.png",FR: GinX
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/20886.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: GONG MAX",FR: GONG MAX
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/20889.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Gong.fr" tvg-name="FR: GONG" tvg-logo="http://euroiptv.org/picon/gong.png",FR: GONG
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/20888.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="Toonami.fr" tvg-name="FR: TOONAMI" tvg-logo="http://euroiptv.org/picon/toonami.png",FR: TOONAMI
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/20887.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: TELETOON+1 HD",FR: TELETOON+1 HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28637.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: M6 MUSIC HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/m6music.png",FR: M6 MUSIC HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14463.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: MCM HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/mcm.png",FR: MCM HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14461.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="MCM.fr" tvg-name="FR: MCM TOP HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/mcmtop10.png",FR: MCM TOP HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/21224.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: NRJ HITS HD" tvg-logo="http://euroiptv.org/picon/nrjhits.png",FR: NRJ HITS HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15808.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: TRACE URBAN HD",FR: TRACE URBAN HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15778.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="MTV.fr" tvg-name="FR: MTV HD" tvg-logo="http://euroiptv.org/picon/mtv.png",FR: MTV HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15814.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="MTV.fr" tvg-name="FR: MTV ROCK HD",FR: MTV ROCK HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28621.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: MTV HITS HD",FR: MTV HITS HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28647.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: MTV DANCE",FR: MTV DANCE
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28603.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: VH1",FR: VH1
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28617.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: VH1 CLASSIC",FR: VH1 CLASSIC
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28616.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: MEZZO HD",FR: MEZZO HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28635.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="GameOnePlus1.fr" tvg-name="FR: MEZZO LIVE HD",FR: MEZZO LIVE HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28644.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: BRAVA HD" tvg-logo="http://euroiptv.org/picon/brava.png",FR: BRAVA HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/20883.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RFM",FR: RFM
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31209.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: CHERIE FM",FR: CHERIE FM
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31211.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: FUN RADIO",FR: FUN RADIO
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31206.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: SKYROCK",FR: SKYROCK
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31208.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: SKYROCK LILLE 94.3 FM",FR: SKYROCK LILLE 94.3 FM
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31213.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: SKYROCK PARIS 87.7 FM",FR: SKYROCK PARIS 87.7 FM
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31212.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: VIRGIN RADIO",FR: VIRGIN RADIO
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31207.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: KOMBAT SPORT" tvg-logo="http://euroiptv.org/picon/virginradiotv.png",FR: KOMBAT SPORT
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/15777.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"tvg-id="BESTOFSHOPPING.fr" tvg-name="FR: CLUBBING TV" tvg-logo="http://euroiptv.org/picon/Clubbingtv.png",FR: CLUBBING TV
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28613.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: PITCHOUN TV",FR: PITCHOUN TV
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28606.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: OUATCH TV" tvg-logo="http://euroiptv.org/picon/ouatchtv.png",FR: OUATCH TV
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28611.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RT FRANCE" tvg-logo="http://euroiptv.org/picon/rt.png",FR: RT FRANCE
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28612.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: ROUGE TV HD",FR: ROUGE TV HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28628.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: France 3 Nord Pas de Calais",FR: France 3 Nord Pas de Calais
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/28608.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: TMC CINEMA HD",FR: TMC CINEMA HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32278.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: AB MOTEURS_HD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/abmoteurs.png",FR: AB MOTEURS_HD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32281.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: PUB_STAR",FR: PUB_STAR
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32283.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: CINE+_PREMIER_FHD",FR: CINE+_PREMIER_FHD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32279.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: 13EME RUE FHD" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/13emerue.png",FR: 13EME RUE FHD
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31215.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: beIN OFFICE 1 HD VIP",FR: beIN OFFICE 1 HD VIP
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14340.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: beIN OFFICE 2 HD VIP",FR: beIN OFFICE 2 HD VIP
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14339.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: beIN OFFICE 3 HD VIP",FR: beIN OFFICE 3 HD VIP
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14338.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: beIN OFFICE 4 HD VIP",FR: beIN OFFICE 4 HD VIP
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14337.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: BEIN OFFICE5 HD VIP",FR: BEIN OFFICE5 HD VIP
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/21641.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: A LA CARTE 1",FR: A LA CARTE 1
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14359.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: A LA CARTE 2",FR: A LA CARTE 2
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14358.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: A LA CARTE 3",FR: A LA CARTE 3
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14357.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: A LA CARTE 4",FR: A LA CARTE 4
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14356.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: A LA CARTE 5",FR: A LA CARTE 5
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14355.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: A LA CARTE 6",FR: A LA CARTE 6
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14354.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: A LA CARTE 7",FR: A LA CARTE 7
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14353.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: A LA CARTE 8",FR: A LA CARTE 8
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14352.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: A LA CARTE 9",FR: A LA CARTE 9
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14351.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: A LA CARTE 10",FR: A LA CARTE 10
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14350.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: A LA CARTE 11",FR: A LA CARTE 11
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14349.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: A LA CARTE 12",FR: A LA CARTE 12
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14348.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: A LA CARTE 13",FR: A LA CARTE 13
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14347.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: A LA CARTE 14",FR: A LA CARTE 14
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14346.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: A LA CARTE 15",FR: A LA CARTE 15
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14345.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: A LA CARTE 16",FR: A LA CARTE 16
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14344.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: A LA CARTE 17",FR: A LA CARTE 17
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14343.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: A LA CARTE 18",FR: A LA CARTE 18
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14342.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: A LA CARTE 19",FR: A LA CARTE 19
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/14341.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: TF1 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/tf1hd.png",FR: TF1 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31672.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: TF1 SERIES FILMS 4K",FR: TF1 SERIES FILMS 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32407.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: France 2 4K",FR: France 2 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31685.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: France 3 4K",FR: France 3 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31684.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: FRANCE 4 4K",FR: FRANCE 4 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32406.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: FRANCE 5 4K",FR: FRANCE 5 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32405.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: FRANCE O 4K",FR: FRANCE O 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32403.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: M6 4K",FR: M6 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31681.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: W9 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/w9hd.png",FR: W9 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31670.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: C8 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/c8.png",FR: C8 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31691.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: TMC 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/tmc.png",FR: TMC 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31671.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: NT1 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/nt1.jpg",FR: NT1 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31679.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: HD1 4K",FR: HD1 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31682.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RTL 9 4K",FR: RTL 9 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32349.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: 13EME RUE 4K",FR: 13EME RUE 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32387.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: SYFY 4K",FR: SYFY 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31673.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: 6TER 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/6ter.png",FR: 6TER 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31699.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: TREK 4K",FR: TREK 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32317.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: TV BREIZH 4K",FR: TV BREIZH 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32316.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: AB3 4K",FR: AB3 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32348.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: BET 4K",FR: BET 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32346.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: TCM CINEMA 4K",FR: TCM CINEMA 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32386.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: Action 4K",FR: Action 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31697.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: CHERIE 25 4K",FR: CHERIE 25 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32342.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: ELLE GIRL 4K",FR: ELLE GIRL 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32339.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: Numero 23 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/numero23.png",FR: Numero 23 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31678.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: COMEDIE 4K",FR: COMEDIE 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32388.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: E! ENTERTAINMENT 4K",FR: E! ENTERTAINMENT 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32340.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: PARAMOUNT CHANNEL 4K",FR: PARAMOUNT CHANNEL 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32324.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: TEVA 4K",FR: TEVA 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32319.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: TV5 MONDE 4K",FR: TV5 MONDE 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32315.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: FRANCE INFO 4K",FR: FRANCE INFO 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32404.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: NRJ 12 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/nrj12.png",FR: NRJ 12 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31680.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: BFM 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/bfm.png",FR: BFM 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31692.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: AB1 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/ab1.png",FR: AB1 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31698.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: OCS Max 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/ocsmax.png",FR: OCS Max 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31675.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: OCS Choc 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/ocschoc.png",FR: OCS Choc 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31677.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: OCS Geants 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/ocsgeants.png",FR: OCS Geants 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31676.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: OCS CITY 4K",FR: OCS CITY 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32397.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: Orange Cinema 1 4K",FR: Orange Cinema 1 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31669.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: Orange Cinema 2 4K",FR: Orange Cinema 2 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31668.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: Orange Cinema 4 4K",FR: Orange Cinema 4 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31667.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: ALTICE STUDIO 4K",FR: ALTICE STUDIO 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32347.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: BFM BUSINESS 4K",FR: BFM BUSINESS 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32345.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: BFM SPORT 4K",FR: BFM SPORT 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32364.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: I24 NEWS 4K",FR: I24 NEWS 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32336.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: LCI 4K",FR: LCI 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32335.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: LFM TV 4K",FR: LFM TV 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32334.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: ONE TV 4K",FR: ONE TV 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32325.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: ROUGE TV 4K",FR: ROUGE TV 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32322.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: SERIE CLUB 4K",FR: SERIE CLUB 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32385.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: MY CUISINE TV 4K",FR: MY CUISINE TV 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32328.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: MY ZEN TV 4K",FR: MY ZEN TV 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32327.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: CANAL 4K",FR: CANAL 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32402.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: CANAL 8 4K",FR: CANAL 8 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32344.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: CANAL CINEMA 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/canalpluscinema.png",FR: CANAL CINEMA 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32401.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: CANAL DECALE 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/canalplusdecale.png",FR: CANAL DECALE 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32400.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: CANAL FAMILY 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/canalplusfamily.png",FR: CANAL FAMILY 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32399.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: CANAL J 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/canalj.png",FR: CANAL J 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32352.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: CANAL NEWS 4K",FR: CANAL NEWS 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32343.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: CANAL SÉRIE 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/canalplusseries.png",FR: CANAL SÉRIE 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32398.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: CINE CLASSIC 4K",FR: CINE CLASSIC 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32396.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: CINE CLUB 4K",FR: CINE CLUB 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32395.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: CINE EMOTION 4K",FR: CINE EMOTION 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32394.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: CINE FAMIZ 4K",FR: CINE FAMIZ 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32393.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: CINE FRISSON 4K",FR: CINE FRISSON 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32392.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: CINE FX 4K",FR: CINE FX 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32391.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: CINE POLAR 4K",FR: CINE POLAR 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32390.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: CINE PREMIER 4K",FR: CINE PREMIER 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32389.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: CRIME DISTRICT 4K",FR: CRIME DISTRICT 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32341.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: PLANETE 4K",FR: PLANETE 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32375.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: PLANÈTE A&E 4K",FR: PLANÈTE A&E 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32376.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: PLANETE CI 4K",FR: PLANETE CI 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32374.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: DISCOVERY 4K",FR: DISCOVERY 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32381.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: DISCOVERY INVESTIGATION 4K",FR: DISCOVERY INVESTIGATION 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32380.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: DISCOVERY SCIENCE 4K",FR: DISCOVERY SCIENCE 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32379.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: NATIONAL GEO WILD 4K",FR: NATIONAL GEO WILD 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32378.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: NATIONAL GEOGRAPHIC 4K",FR: NATIONAL GEOGRAPHIC 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32377.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: USHUAIA TV 4K",FR: USHUAIA TV 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32384.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: Animaux 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/animaux.png",FR: Animaux 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31696.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: CHASSE ET PECHE 4K",FR: CHASSE ET PECHE 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32382.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: Seasons 4K",FR: Seasons 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31674.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RMC DECOUVERTE 4K",FR: RMC DECOUVERTE 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32323.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: SCIENCES & VIE 4K",FR: SCIENCES & VIE 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32373.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: VOYAGE 4K",FR: VOYAGE 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32383.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: HISTOIRE 4K",FR: HISTOIRE 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32337.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: Canal Sport 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/canalplussport.png",FR: Canal Sport 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31690.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: Bein Sports 1 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/beinsportshd1.png",FR: Bein Sports 1 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31695.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: Bein Sports 2 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/beinsportshd2.png",FR: Bein Sports 2 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31694.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: Bein Sports 3 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/beinsportshd3.png",FR: Bein Sports 3 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31693.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: EQUIDIA LIFE 4K",FR: EQUIDIA LIFE 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32363.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: EQUIDIA LIVE 4K",FR: EQUIDIA LIVE 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32362.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: EUROSPORT 1 4K",FR: EUROSPORT 1 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32367.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: Eurosport 2 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/eurosport2hd.png",FR: Eurosport 2 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31686.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: GOLF 4K",FR: GOLF 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32361.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: GOLF CHANNEL 4K",FR: GOLF CHANNEL 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32360.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: L'EQUIPE 21 4K",FR: L'EQUIPE 21 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32368.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: MOTORSPORT TV 4K",FR: MOTORSPORT TV 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32365.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: NFOSPORT 4K",FR: NFOSPORT 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32366.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RMC SPORT 1 4K",FR: RMC SPORT 1 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32372.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RMC SPORT 2 4K",FR: RMC SPORT 2 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32371.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RMC SPORT 3 4K",FR: RMC SPORT 3 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32370.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: RMC SPORT 4 4K",FR: RMC SPORT 4 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32369.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: M6 MUSIC 4K",FR: M6 MUSIC 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32333.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: MCM 4K",FR: MCM 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32332.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: MCM TOP 4K",FR: MCM TOP 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32331.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: MTV FRANCE 4K",FR: MTV FRANCE 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32330.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: MTV HITS 4K",FR: MTV HITS 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32329.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: OL TV 4K",FR: OL TV 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32326.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: WARNER TV 4K",FR: WARNER TV 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32312.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: TRACE URBAN 4K",FR: TRACE URBAN 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32318.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: VH1 CLASSIC 4K",FR: VH1 CLASSIC 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32314.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: VICELAND 4K",FR: VICELAND 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32313.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: Gulli 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/gulli.png",FR: Gulli 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31683.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: Disney Channel 4K",FR: Disney Channel 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31689.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: Disney Cinema 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/disneycinema.png",FR: Disney Cinema 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31688.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: Disney Junior 4K" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/disneyjunior.png",FR: Disney Junior 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/31687.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: CARTOON NETWORK 4K",FR: CARTOON NETWORK 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32359.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: GAME ONE 4K",FR: GAME ONE 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32338.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: MANGAS 4K",FR: MANGAS 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32358.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: BOOMERANG 4K",FR: BOOMERANG 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32356.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: BOING 4K",FR: BOING 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32357.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: NICKELODEON 4K",FR: NICKELODEON 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32351.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: PIWI 4K",FR: PIWI 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32354.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: TIJI 4K",FR: TIJI 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32353.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: TELETOON 4K",FR: TELETOON 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32355.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR: TOONAMI 4K",FR: TOONAMI 4K
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32350.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: TF1_H265" ,FR1: TF1_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32699.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: FRANCE2_H265" ,FR1: FRANCE2_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32698.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: FRANCE3_H265" ,FR1: FRANCE3_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32697.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: FRANCE4_H265" ,FR1: FRANCE4_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32696.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: FRANCE5_H265" ,FR1: FRANCE5_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32695.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: ARTE_H265" ,FR1: ARTE_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32694.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: M6_H265" ,FR1: M6_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32693.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: W9_H265" ,FR1: W9_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32692.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: C8_H265" ,FR1: C8_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32691.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: CNEWS_H265" ,FR1: CNEWS_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32690.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: CSTAR_H265" ,FR1: CSTAR_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32689.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: LCI_H265" ,FR1: LCI_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32688.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: BFMTV_H265" ,FR1: BFMTV_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32687.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: FRANCEO_H265" ,FR1: FRANCEO_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32686.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: GULLI_H265" ,FR1: GULLI_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32685.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: L'EQUIPE_H265" ,FR1: L'EQUIPE_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32684.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: NUMERO23_H265" ,FR1: NUMERO23_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32683.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: NRJ12_H265" ,FR1: NRJ12_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32682.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: TFX_H265" ,FR1: TFX_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32681.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: TMC_H265" ,FR1: TMC_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32680.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: 6TER_H265" ,FR1: 6TER_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32679.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: FRANCEINFO_H265" ,FR1: FRANCEINFO_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32678.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: BEIN1_H265" ,FR1: BEIN1_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32677.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: BEIN2_H265" ,FR1: BEIN2_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32676.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: BEIN3_h265" ,FR1: BEIN3_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32675.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: CANAL_CINEMA_H265" ,FR1: CANAL_CINEMA_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32674.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: CANAL_H265" ,FR1: CANAL_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32673.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: CANAL_SERIES_H265" ,FR1: CANAL_SERIES_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32672.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: CANAL_SPORT_H265" ,FR1: CANAL_SPORT_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32671.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: ANIMAUX_H265" ,FR1: ANIMAUX_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32670.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: NAT_GEO_WILD_H265" ,FR1: NAT_GEO_WILD_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32669.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: M6_MUSIC_H265" ,FR1: M6_MUSIC_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32668.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: CARTOON_N_H265" ,FR1: CARTOON_N_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32667.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: CANAL_FAMILY_h265" ,FR1: CANAL_FAMILY_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32666.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: CANAL_DECALE_h265" ,FR1: CANAL_DECALE_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32665.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: CINE_FRISSON_h265" ,FR1: CINE_FRISSON_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32664.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: ULTRA_NATURE_h265" ,FR1: ULTRA_NATURE_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32663.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: RMC_SPORT1_h265" ,FR1: RMC_SPORT1_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32662.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: RMC_SPORT2_h265" ,FR1: RMC_SPORT2_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32661.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: BOOMERANG_h265" ,FR1: BOOMERANG_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32660.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: ACTION_h265" ,FR1: ACTION_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32659.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: CSTAR_HITS_h265" ,FR1: CSTAR_HITS_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32658.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: CINE_EMOTION_h265" ,FR1: CINE_EMOTION_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32657.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: CINE_PREMIER_h265" ,FR1: CINE_PREMIER_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32656.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: TEVA_h265" ,FR1: TEVA_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32655.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: MY_CUISINE_h265" ,FR1: MY_CUISINE_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32654.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: NATIONAL_GEO_CHANNEL_h265" ,FR1: NATIONAL_GEO_CHANNEL_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32653.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: DISNEY_CHANNEL_h265" ,FR1: DISNEY_CHANNEL_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32652.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: DISNEY_JUNIOR_h265" ,FR1: DISNEY_JUNIOR_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32651.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: MCM_TOP_h265" ,FR1: MCM_TOP_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32650.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: equidia_h265" ,FR1: equidia_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32649.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: OCS_MAX_h265" ,FR1: OCS_MAX_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32648.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: OCS_CITY_h265" ,FR1: OCS_CITY_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32647.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: OCS_GEANTS_h265" ,FR1: OCS_GEANTS_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32646.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: OCS_CHOC_h265" ,FR1: OCS_CHOC_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32645.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: CINE_FAMIZ_h265" ,FR1: CINE_FAMIZ_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32644.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: CINE_CLASSIC_h265" ,FR1: CINE_CLASSIC_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32643.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: PLANETE_h265" ,FR1: PLANETE_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32642.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: dis-h265" ,FR1: dis-h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32641.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: dis-fam_h265" ,FR1: dis-fam_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32640.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: dis-sc_h265" ,FR1: dis-sc_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32639.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: dis-iv_h265" ,FR1: dis-iv_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32638.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: RMC_SPORT3_H265" ,FR1: RMC_SPORT3_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32637.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: RMC_SPORT4_H265" ,FR1: RMC_SPORT4_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32636.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: RMC_SPORT5_H265" ,FR1: RMC_SPORT5_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32635.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: rmc_sport6_h265" ,FR1: rmc_sport6_h265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32634.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: RMC_SPORT7_H265" ,FR1: RMC_SPORT7_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32633.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: RMC_SPORT8_H265" ,FR1: RMC_SPORT8_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32632.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: RMC_SPORT9_H265" ,FR1: RMC_SPORT9_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32631.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: RMC.SPORT_NEWS_H265" ,FR1: RMC.SPORT_NEWS_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32630.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: RMC_SPORT11_H265" ,FR1: RMC_SPORT11_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32629.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: RMC_SPORT12_H265" ,FR1: RMC_SPORT12_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32628.ts
-#EXTINF:-1 group-title="France PREMIUM-SERVER3" tvg-name="FR1: RMC_SPORT13_H265" ,FR1: RMC_SPORT13_H265
-http://iptv.goldysat.com:9966/live/TRnAaHG01U/rj0ydMrM2C/32627.ts
-
-
-
-
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | TF1 HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11410.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | FRANCE O HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11404.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | FRANCE 2 HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11403.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | FRANCE 3 HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11402.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | FRANCE 4 HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11401.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | FRANCE 5
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11400.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | FRANCE 24
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11362.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | GULLI HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11363.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | I TELE
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11364.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | L'EQUIPE 21
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11377.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | M6 HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11406.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | M6 MUSIC
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11365.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | MANGAS
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11366.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | NRJ 12 HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11391.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | NT 1
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11389.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | OCS CHOC HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11382.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | PIWI
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11368.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | PLANETE  CI HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11369.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | PLANETE HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11370.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | RMC DECOUVERTE
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11371.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | RTL9
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11385.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | SYFY HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11372.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | Teva HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11379.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | TMC
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11397.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | TV BREITZ
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11374.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | W9
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11375.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | 13 EME RUE
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11348.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | 6TER HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11349.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | AB1 HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11378.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | AB3
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11351.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | AB MOTEURS HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11350.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | ARTE HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11384.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | C8
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11360.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | CANAL CINEMA HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11347.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | CANAL DECALE HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11352.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | CANAL HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11353.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | CANAL J HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11405.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | CANAL PLAY 1
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11354.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | CANAL PLAY 2
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11355.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | CANAL PLAY 3
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11356.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | CANAL PLAY 4
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11357.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | A LA CARTE 1
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11399.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | A LA CARTE 2
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11398.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | A LA CARTE 3
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11395.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | A LA CARTE 4
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11394.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | A LA CARTE 5
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11393.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | A LA CARTE 6
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11376.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | A LA CARTE 7
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11408.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | A LA CARTE 8
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11381.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | A LA CARTE 9
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11409.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | CANAL SERIES HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11346.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | CANAL SPORT HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11358.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | Cartoon NetWork
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11380.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | CHASSE ET PECHE
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11359.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | CHERIE 25 HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11383.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | CINE  FAMILY HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11392.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | CINE  FRISSON HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11396.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | CINE  PREMIER HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11386.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | CINE CLASSIC
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11412.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | CINE  POLAR
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11411.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | COMEDIE   HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11345.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | DISNEY Channel
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11361.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | DISNEY XD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11387.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | Foot  24 HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11390.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | InfoSport
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11407.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | NAT GEO WILD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11367.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | TELETOON HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11373.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | DISCOVERY SCIENCE HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11388.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | Eurosport 1
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/10903.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | Eurosport 2
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/10902.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | SFR SPORT 1 HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11344.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | SFR SPORT 2 HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11343.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | SFR SPORT 3 HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11342.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | beIN SPORT 1 FR
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/10906.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | beIN SPORT 2 FR
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/10905.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | beIN SPORT 3 FR
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/10904.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | BEINSPORT 4 MAX
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11341.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | BEINSPORT 5 MAX
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11340.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | BEINSPORT 6 MAX
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11339.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR | BEINSPORT 7 MAX
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11338.m3u8
 
 
 
@@ -6124,7 +5428,158 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",
 
-
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="13th_Street",13th_Street
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/88.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="3sat",3sat
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/87.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="A&E_HD",A&E_HD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/86.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Animal_Planet_HD",Animal_Planet_HD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/85.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="arte_HD",arte_HD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/84.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Das_Erste",Das_Erste
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/83.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Discovery_ch",Discovery_ch
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/82.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Disney_Channel_HD",Disney_Channel_HD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/81.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Disney_Cinemagic",Disney_Cinemagic
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/80.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Disney_Junior",Disney_Junior
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/79.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Disney_XD",Disney_XD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/78.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="EOTV",EOTV
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/77.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Eurosport1_HD",Eurosport1_HD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/76.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Eurosport2_HD",Eurosport2_HD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/75.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Eurosport2_Xtra_HD",Eurosport2_Xtra_HD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/74.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Family_TV",Family_TV
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/73.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="FOX_HD",FOX_HD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/72.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Fox_Serie",Fox_Serie
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/71.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Goldstar_TV",Goldstar_TV
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/70.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Heimatkanal",Heimatkanal
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/69.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="History_HD",History_HD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/68.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="HR_HD",HR_HD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/67.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Junior",Junior
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/66.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Kabel_1",Kabel_1
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/65.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Kabel_1_Doku",Kabel_1_Doku
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/64.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="kabel_eins_HD",kabel_eins_HD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/63.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="KiKA",KiKA
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/62.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="MTV_HD",MTV_HD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/61.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="N-TV",N-TV
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/60.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="N24",N24
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/59.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Nat_Geo_Wild",Nat_Geo_Wild
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/58.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="National_Geo",National_Geo
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/57.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Nickelodeon_HD",Nickelodeon_HD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/56.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="PRO7",PRO7
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/55.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="ProSieben",ProSieben
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/54.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="ProSieben_MAXX",ProSieben_MAXX
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/53.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="RTL",RTL
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/52.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="RTL_Crime",RTL_Crime
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/51.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="RTL_Nitro",RTL_Nitro
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/50.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="RTL_Passion",RTL_Passion
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/49.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="RTL2",RTL2
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/48.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Sat_1",Sat_1
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/47.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="SAT_1_Gold",SAT_1_Gold
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/46.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="SIXX_HD",SIXX_HD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/45.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Sky_Action",Sky_Action
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/44.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Sky_ARTS_HD",Sky_ARTS_HD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/43.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Sky_Atlantic",Sky_Atlantic
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/42.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Sky_Bundesliga_1",Sky_Bundesliga_1
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/41.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Sky_Cinama",Sky_Cinama
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/40.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Sky_Cinema_1",Sky_Cinema_1
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/39.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Sky_Cinema_24",Sky_Cinema_24
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/38.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Sky_Cinema_Family",Sky_Cinema_Family
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/37.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Sky_Cinema_Hits",Sky_Cinema_Hits
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/36.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Sky_Cinema_Nostalgie",Sky_Cinema_Nostalgie
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/35.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Sky_Comedy",Sky_Comedy
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/34.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Sky_Emotion",Sky_Emotion
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/33.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Sky_Krimi",Sky_Krimi
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/32.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Sky_Sport_1_HD",Sky_Sport_1_HD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/31.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Sky_SPort_1_SD",Sky_SPort_1_SD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/30.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Sky_Sport_2_HD",Sky_Sport_2_HD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/29.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="SKY_SPORT_2_SD",SKY_SPORT_2_SD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/28.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Sky_Sport_News",Sky_Sport_News
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/27.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Spiegel_Geschichte",Spiegel_Geschichte
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/26.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Sport_digital_HD",Sport_digital_HD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/25.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Sport1_HD",Sport1_HD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/24.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="SUPER_RTL",SUPER_RTL
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/23.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="SYFY",SYFY
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/22.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="TNT_Comedy_HD",TNT_Comedy_HD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/21.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="TNT_Film_HD",TNT_Film_HD
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/20.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="TNT_Serie",TNT_Serie
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/19.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="TOGGO_plus",TOGGO_plus
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/18.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="VOX",VOX
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/17.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="ZDF",ZDF
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/16.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="ZDF_Infokanal",ZDF_Infokanal
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/15.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="zdf_neo",zdf_neo
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/14.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="Zee_One",Zee_One
+http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/13.m3u8
 
 
 
@@ -6148,7 +5603,208 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER3",
 
-
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Sport Hd 1
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/185.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Sport Hd 2
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1345.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Bundesliga 1
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/102.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Sport Austria Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/186.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Sport News Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/101.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Eurosport 1 Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/100.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Sport 1 Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/152.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sport1 Us Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/149.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sport1+ Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/150.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Eurosport 2 Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1326.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Rtl Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1530.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Rtl Hd 2
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1580.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Rtl Crime Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1551.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",RTL Nitro
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1568.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",RTL Living
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1552.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Rtl Television
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/2096.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Rtl Plus
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/2095.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Cinema HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1844.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Rtl Ii Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1847.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Super RTL
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1553.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sat HD 1
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1554.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sat 1 Nrw
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/2092.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sat 1 Gold
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/2093.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Wdr
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1505.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Wdr Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/2402.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",MDR HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/17567.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Zdf Neo
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/2089.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Zdf Info
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/2090.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",ProSieben
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/2097.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",N24
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/2098.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Kabel 1 clasik
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/9101.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Kabel 1 doku
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/9100.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Kabel 1 hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/9099.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Disney Cinemagic HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/2087.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Arte / Ard
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/2088.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Pro 7 Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1536.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Pro7 Maxx
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1550.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Orf Hd 1
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1322.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Orf 2
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/286.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Ndr Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1548.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Vox Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1572.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Fox Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/205.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Fox Serie
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/2076.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Servus TV
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/7098.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Discovery Channel Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/2365.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Vox
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/239.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",D Max
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/284.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Cinema+24
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1309.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Zdf Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/227.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Ard HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1577.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",TLC
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1555.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Axn Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1547.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sixx
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1571.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Action HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1579.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Syfy HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1583.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Srf 1
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/188.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Romance Tv
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/288.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",13th Street HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1569.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",N24.
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1845.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Tnt Serie Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1846.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Disney Channel.
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/189.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Nostalgie
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/289.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Atlantic Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1557.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Cinema Action HD.
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1558.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Emotion
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1513.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Hits
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1565.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Cinema Comedy
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1560.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Cinema+1
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1563.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Cinema HD.
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1559.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Krimi
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1566.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",TNT Serie HD.
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1842.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Tnt Film Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1843.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Natgeo Wild Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1851.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",History Channel Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1582.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",National Geographic
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1578.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Select Hd 1
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/155.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Select Hd 2
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/287.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Select Hd 3
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/154.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Select Hd 4
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/226.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Select HD 5
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1701.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Select HD 6
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1702.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Select HD 7
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1703.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Select HD 8
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1704.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Rtl Passion
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1848.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Heimat Kanal
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1849.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Disney XD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1575.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Nick Jr
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1573.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Disney Junior
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1576.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Kika
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/1546.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",3 Sat Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/7533.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Animal Planet Hd
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/7534.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Discovery Channel
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/7535.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Eurosport 2 Xtra
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/7536.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Bundesliga HD 1
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/2077.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Bundesliga HD 2
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/2078.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SKY BUNDESLIGA 2 HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11418.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SKY BUNDESLIGA 3 HD !!! weekend only !!!
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11419.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",SKY BUNDESLIGA 4 HD !!! weekend only !!!
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11420.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",Sky Bundesliga 5 Hd !!! Weekend Only !!!
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/11421.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DAZN 1 HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/19562.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DAZN 2 HD
+http://redo101.com:8080/live/udatelJSrH/claweVT4mK/19563.m3u8
 
 
 
@@ -6162,159 +5818,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 
 
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER4",
-
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="13th_Street"  ,13th_Street
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/88.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="3sat"  ,3sat
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/87.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="A&E_HD"  ,A&E_HD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/86.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Animal_Planet_HD"  ,Animal_Planet_HD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/85.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="arte_HD"  ,arte_HD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/84.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Das_Erste"  ,Das_Erste
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/83.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Discovery_ch"  ,Discovery_ch
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/82.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Disney_Channel_HD"  ,Disney_Channel_HD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/81.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Disney_Cinemagic"  ,Disney_Cinemagic
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/80.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Disney_Junior"  ,Disney_Junior
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/79.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Disney_XD"  ,Disney_XD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/78.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="EOTV"  ,EOTV
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/77.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Eurosport1_HD"  ,Eurosport1_HD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/76.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Eurosport2_HD"  ,Eurosport2_HD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/75.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Eurosport2_Xtra_HD"  ,Eurosport2_Xtra_HD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/74.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Family_TV"  ,Family_TV
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/73.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="FOX_HD"  ,FOX_HD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/72.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Fox_Serie"  ,Fox_Serie
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/71.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Goldstar_TV"  ,Goldstar_TV
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/70.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Heimatkanal"  ,Heimatkanal
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/69.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="History_HD"  ,History_HD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/68.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="HR_HD"  ,HR_HD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/67.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Junior"  ,Junior
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/66.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Kabel_1"  ,Kabel_1
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/65.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Kabel_1_Doku"  ,Kabel_1_Doku
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/64.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="kabel_eins_HD"  ,kabel_eins_HD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/63.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="KiKA"  ,KiKA
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/62.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="MTV_HD"  ,MTV_HD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/61.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="N-TV"  ,N-TV
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/60.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="N24"  ,N24
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/59.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Nat_Geo_Wild"  ,Nat_Geo_Wild
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/58.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="National_Geo"  ,National_Geo
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/57.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Nickelodeon_HD"  ,Nickelodeon_HD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/56.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="PRO7"  ,PRO7
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/55.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="ProSieben"  ,ProSieben
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/54.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="ProSieben_MAXX"  ,ProSieben_MAXX
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/53.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="RTL"  ,RTL
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/52.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="RTL_Crime"  ,RTL_Crime
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/51.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="RTL_Nitro"  ,RTL_Nitro
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/50.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="RTL_Passion"  ,RTL_Passion
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/49.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="RTL2"  ,RTL2
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/48.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Sat_1"  ,Sat_1
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/47.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="SAT_1_Gold"  ,SAT_1_Gold
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/46.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="SIXX_HD"  ,SIXX_HD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/45.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Sky_Action"  ,Sky_Action
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/44.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Sky_ARTS_HD"  ,Sky_ARTS_HD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/43.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Sky_Atlantic"  ,Sky_Atlantic
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/42.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Sky_Bundesliga_1"  ,Sky_Bundesliga_1
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/41.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Sky_Cinama"  ,Sky_Cinama
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/40.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Sky_Cinema_1"  ,Sky_Cinema_1
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/39.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Sky_Cinema_24"  ,Sky_Cinema_24
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/38.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Sky_Cinema_Family"  ,Sky_Cinema_Family
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/37.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Sky_Cinema_Hits"  ,Sky_Cinema_Hits
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/36.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Sky_Cinema_Nostalgie"  ,Sky_Cinema_Nostalgie
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/35.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Sky_Comedy"  ,Sky_Comedy
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/34.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Sky_Emotion"  ,Sky_Emotion
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/33.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Sky_Krimi"  ,Sky_Krimi
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/32.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Sky_Sport_1_HD"  ,Sky_Sport_1_HD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/31.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Sky_SPort_1_SD"  ,Sky_SPort_1_SD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/30.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Sky_Sport_2_HD"  ,Sky_Sport_2_HD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/29.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="SKY_SPORT_2_SD"  ,SKY_SPORT_2_SD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/28.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Sky_Sport_News"  ,Sky_Sport_News
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/27.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Spiegel_Geschichte"  ,Spiegel_Geschichte
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/26.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Sport_digital_HD"  ,Sport_digital_HD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/25.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Sport1_HD"  ,Sport1_HD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/24.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="SUPER_RTL"  ,SUPER_RTL
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/23.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="SYFY"  ,SYFY
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/22.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="TNT_Comedy_HD"  ,TNT_Comedy_HD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/21.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="TNT_Film_HD"  ,TNT_Film_HD
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/20.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="TNT_Serie"  ,TNT_Serie
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/19.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="TOGGO_plus"  ,TOGGO_plus
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/18.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="VOX"  ,VOX
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/17.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="ZDF"  ,ZDF
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/16.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="ZDF_Infokanal"  ,ZDF_Infokanal
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/15.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="zdf_neo"  ,zdf_neo
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/14.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER4"  tvg-name="Zee_One"  ,Zee_One
-http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/13.m3u8
 
 
 
@@ -7092,10 +6595,6 @@ http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/2453.m3u8
 http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/2452.m3u8
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER2"  tvg-name="|SP|TBN_Espana" ,|SP|TBN_Espana
 http://109.236.82.41:25461/live/Etronics_TJkBKp/VqirdVDd/2451.m3u8
-
-
-
-
 
 
 
@@ -8250,110 +7749,80 @@ http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/191.m3u8
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",
 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png" ,==Portugal==
-http://..........
-
-
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" ,RTP 1 PT
-http://cdnp.cli.tn/iptv/ch2100?code=170112560484494&key=32873
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",RTP 2 PT
-http://cdnp.cli.tn/iptv/ch2101?code=170112560484494&key=52952
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",RTP 3 PT
-http://cdnp.cli.tn/iptv/ch2102?code=170112560484494&key=58272
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",RTP Memoria PT
-http://cdnp.cli.tn/iptv/ch2103?code=170112560484494&key=64495
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",SIC PT
-http://cdnp.cli.tn/iptv/ch2105?code=170112560484494&key=53117
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",SIC Noticias PT
-http://cdnp.cli.tn/iptv/ch2106?code=170112560484494&key=63108
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",SIC Mulher PT
-http://cdnp.cli.tn/iptv/ch2107?code=170112560484494&key=17329
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",SIC Kids PT
-http://cdnp.cli.tn/iptv/ch2108?code=170112560484494&key=49806
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",SIC Radical PT
-http://cdnp.cli.tn/iptv/ch2109?code=170112560484494&key=43625
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",SIC Caras PT
-http://cdnp.cli.tn/iptv/ch2110?code=170112560484494&key=21891
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVI PT
-http://cdnp.cli.tn/iptv/ch2111?code=170112560484494&key=32780
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVI Reality PT
-http://cdnp.cli.tn/iptv/ch2112?code=170112560484494&key=16180
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVI Ficcao PT
-http://cdnp.cli.tn/iptv/ch2113?code=170112560484494&key=13270
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVI 24 PT
-http://cdnp.cli.tn/iptv/ch2114?code=170112560484494&key=53022
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Canal Hollywood PT
-http://cdnp.cli.tn/iptv/ch2116?code=170112560484494&key=34222
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Canal Cinemondo PT
-http://cdnp.cli.tn/iptv/ch2117?code=170112560484494&key=25798
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Cine 1 PT
-http://cdnp.cli.tn/iptv/ch2118?code=170112560484494&key=58722
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Cine 2 PT
-http://cdnp.cli.tn/iptv/ch2119?code=170112560484494&key=30660
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Cine 3 PT
-http://cdnp.cli.tn/iptv/ch2120?code=170112560484494&key=37387
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Cine 4 PT
-http://cdnp.cli.tn/iptv/ch2121?code=170112560484494&key=44558
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Series PT
-http://cdnp.cli.tn/iptv/ch2122?code=170112560484494&key=27180
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sport TV 1 PT
-http://cdnp.cli.tn/iptv/ch2123?code=170112560484494&key=28293
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sport TV 2 PT
-http://cdnp.cli.tn/iptv/ch2124?code=170112560484494&key=23323
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sport TV 3 PT
-http://cdnp.cli.tn/iptv/ch2125?code=170112560484494&key=59381
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sport TV 4 PT
-http://cdnp.cli.tn/iptv/ch2126?code=170112560484494&key=39312
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sport TV 5 PT
-http://cdnp.cli.tn/iptv/ch2127?code=170112560484494&key=64805
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Eurosport 1 PT
-http://cdnp.cli.tn/iptv/ch2128?code=170112560484494&key=33842
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Eurosport 2 PT
-http://cdnp.cli.tn/iptv/ch2129?code=170112560484494&key=61580
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Toros TV PT
-http://cdnp.cli.tn/iptv/ch2130?code=170112560484494&key=50474
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Globo PT
-http://cdnp.cli.tn/iptv/ch2131?code=170112560484494&key=53524
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Record PT
-http://cdnp.cli.tn/iptv/ch2133?code=170112560484494&key=11732
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",MOV TV PT
-http://cdnp.cli.tn/iptv/ch2134?code=170112560484494&key=33378
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Record News PT
-http://cdnp.cli.tn/iptv/ch2135?code=170112560484494&key=64836
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PFC PT
-http://cdnp.cli.tn/iptv/ch2136?code=170112560484494&key=60164
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Odisseia PT
-http://cdnp.cli.tn/iptv/ch2138?code=170112560484494&key=57165
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fox Movies PT
-http://cdnp.cli.tn/iptv/ch2141?code=170112560484494&key=13310
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fox Comedy PT
-http://cdnp.cli.tn/iptv/ch2143?code=170112560484494&key=29482
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",CM TV PT
-http://cdnp.cli.tn/iptv/ch2144?code=170112560484494&key=60439
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Cacapesca PT
-http://cdnp.cli.tn/iptv/ch2145?code=170112560484494&key=27026
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Discovery PT
-http://cdnp.cli.tn/iptv/ch2146?code=170112560484494&key=37445
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Nat. Geo. PT
-http://cdnp.cli.tn/iptv/ch2148?code=170112560484494&key=18620
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Cazavision PT
-http://cdnp.cli.tn/iptv/ch2149?code=170112560484494&key=44759
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Cancao Nova PT
-http://cdnp.cli.tn/iptv/ch2150?code=170112560484494&key=46959
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Abola TV PT
-http://cdnp.cli.tn/iptv/ch2157?code=170112560484494&key=52472
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Cartoon Network PT
-http://cdnp.cli.tn/iptv/ch2160?code=170112560484494&key=59300
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Disney Ch. PT
-http://cdnp.cli.tn/iptv/ch2161?code=170112560484494&key=13561
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Disney Junior PT
-http://cdnp.cli.tn/iptv/ch2162?code=170112560484494&key=53412
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Nickelodeon PT
-http://cdnp.cli.tn/iptv/ch2139?code=170112560484494&key=24164
-
-
-
-
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | Sport TV 1
+http://delux-iptv.com:8000/live/123/123/2178.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | Sport TV 2
+http://delux-iptv.com:8000/live/123/123/2179.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | Sport TV 3
+http://delux-iptv.com:8000/live/123/123/2180.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | Sport TV+
+http://delux-iptv.com:8000/live/123/123/2181.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | Eurosport
+http://delux-iptv.com:8000/live/123/123/2147.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | Eurosport 1
+http://delux-iptv.com:8000/live/123/123/2151.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | Eurosport 2
+http://delux-iptv.com:8000/live/123/123/2152.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | Real Madrid
+http://delux-iptv.com:8000/live/123/123/2155.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | Benfica TV
+http://delux-iptv.com:8000/live/123/123/2153.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | A Bola
+http://delux-iptv.com:8000/live/123/123/2172.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | FOX
+http://delux-iptv.com:8000/live/123/123/2174.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | FOX Movie
+http://delux-iptv.com:8000/live/123/123/2175.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | FOX Comedy
+http://delux-iptv.com:8000/live/123/123/2177.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | FOX Crime
+http://delux-iptv.com:8000/live/123/123/2176.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | FIX Life HD
+http://delux-iptv.com:8000/live/123/123/2148.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | AXN
+http://delux-iptv.com:8000/live/123/123/2170.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | AXN Black
+http://delux-iptv.com:8000/live/123/123/2171.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | AXN White
+http://delux-iptv.com:8000/live/123/123/2169.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | Cine Mundo
+http://delux-iptv.com:8000/live/123/123/2154.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | Discovery Channel
+http://delux-iptv.com:8000/live/123/123/2150.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | Nat Geo Wild
+http://delux-iptv.com:8000/live/123/123/2149.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | Nat Geographic
+http://delux-iptv.com:8000/live/123/123/2146.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | Diseny JR
+http://delux-iptv.com:8000/live/123/123/2145.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | Hollywood
+http://delux-iptv.com:8000/live/123/123/2173.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | RTP 1
+http://delux-iptv.com:8000/live/123/123/2162.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | RTP 2
+http://delux-iptv.com:8000/live/123/123/2161.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | RTP 3
+http://delux-iptv.com:8000/live/123/123/2168.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | RTP Acores
+http://delux-iptv.com:8000/live/123/123/2167.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | RTP Africa
+http://delux-iptv.com:8000/live/123/123/2166.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | RTP Internacional
+http://delux-iptv.com:8000/live/123/123/2165.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | RTP Madiera
+http://delux-iptv.com:8000/live/123/123/2164.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | RTP Memoria
+http://delux-iptv.com:8000/live/123/123/2163.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | SIC
+http://delux-iptv.com:8000/live/123/123/2160.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | SIC Caras
+http://delux-iptv.com:8000/live/123/123/2159.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | SIC Kids
+http://delux-iptv.com:8000/live/123/123/2158.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | SIC Mulher
+http://delux-iptv.com:8000/live/123/123/2157.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PT | SIC Noticias
+http://delux-iptv.com:8000/live/123/123/2156.m3u8
 
 
 
