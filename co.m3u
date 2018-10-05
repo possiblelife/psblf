@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,04/10/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,05/10/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -4104,7 +4104,166 @@ http://ats1.net:8000/live/8LYOpXZr3i/O31uU5luoJ/3160.m3u8
 
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER3",
 
-
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport 24 HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17642.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport 24 SD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20888.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport 1 Full-HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20892.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport Uno HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17364.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport 1 SD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20891.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport 24 Full-HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20889.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport Arena HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17365.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport 2 SD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20890.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport Football HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17366.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport 3 SD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20887.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport F1 HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17367.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport Golf Full HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20886.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport Golf SD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20885.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Moto GP HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4379.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport Moto GP SD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20884.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport NBA HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17641.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport Mix HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17640.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport Plus SD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20883.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Fox Sports HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17636.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Inter Channel
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17370.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Lazio Channel
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17627.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Milan Channel
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17629.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Roma Channel
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17628.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Torino Channel
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17626.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Rai Sport 1 HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4351.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Rai Sport 2
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4424.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sport Italia
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4350.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Eurosport 1 HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4368.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",EUROSPORT 2 HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4367.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Super Tennis HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4399.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Caccia e Pesca
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17612.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Pesca e Caccia
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17611.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Pescare e Cacciare
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/15787.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",Italian Fishing
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/8725.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: UNIRESAT HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17870.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Bike Channel HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17638.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",=======   CALCIO   =======
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/642.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio Info
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20912.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Supercalcio Full HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20882.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport Serie A HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17635.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport Serie A SD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20881.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 1 HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17368.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 1 SD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20914.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 2 HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17369.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 2 SD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20913.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 3 HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17634.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 4 HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17633.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 5 HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17632.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 6 HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17631.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 7
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17899.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 9
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17896.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 8 HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4320.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 10
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17897.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 11
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17898.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Diretta Premium Sport/Calcio HD (per eventi napoli/juve/roma/milan/inter: cronaca tifoso)
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17871.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Premium Sport HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4431.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Premium Sport 2 HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/5419.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Premium Calcio 1 HD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4453.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Premium Calcio 1
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4454.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Premium Calcio 2
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4452.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Premium Calcio 3
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4451.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Premium Calcio 4
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4450.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Premium Calcio 5
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4449.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Premium Calcio 6
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4448.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Vetrina DAZN
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21064.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: DAZN SPORT 1 FHD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21016.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Dazn 1 Backup
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21160.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: DAZN SPORT 2 FHD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21014.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Dazn 2 Backup
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21161.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: DAZN SPORT 3 FHD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21013.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Dazn 3 Backup
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21162.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: DAZN SPORT 4 FHD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21012.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Dazn 4 Backup
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21163.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: DAZN SPORT 5 FHD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21011.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Dazn 5 Backup
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21164.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: DAZN SPORT 6 FHD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21010.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: DAZN SPORT 7 FHD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21009.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: DAZN SPORT 8 FHD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21008.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: DAZN SPORT 9 FHD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21007.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: DAZN SPORT 10 FHD
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21015.m3u8
 
 
 
@@ -4824,7 +4983,296 @@ http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1096.m3u8
 
 #EXTINF:-1 group-title="France PREMIUM-SERVER4",
 
-
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_TF1" ,FR_TF1
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/595.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_M6" ,FR_M6
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/152.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_FRANCE2" ,FR_FRANCE2
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/596.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_FRANCE3" ,FR_FRANCE3
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/597.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_FRANCE4" ,FR_FRANCE4
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/598.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_FRANCE5" ,FR_FRANCE5
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/599.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_FRANCE_O" ,FR_FRANCE_O
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/600.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_TFX" ,FR_TFX
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/601.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_6TER_HD" ,FR_6TER_HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/593.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_TF1_SERIES_FILMS" ,FR_TF1_SERIES_FILMS
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1309.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_D8" ,FR_D8
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1307.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_D17" ,FR_D17
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1308.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_W9" ,FR_W9
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/153.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_RTL9_HD" ,FR_RTL9_HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/589.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_AB1_HD" ,FR_AB1_HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1715.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_ARTE" ,FR_ARTE
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/154.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_C8_SD" ,FR_C8_SD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/3322.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_L'EQUIPE21_SD" ,FR_L'EQUIPE21_SD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/3321.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_RMC_SPORT1" ,FR_RMC_SPORT1
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2075.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_RMC_SPORT2" ,FR_RMC_SPORT2
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2076.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_RMC_SPORT3" ,FR_RMC_SPORT3
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2077.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_RMC_SPORT_5" ,FR_RMC_SPORT_5
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2283.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Bein_Sport_1HD" ,FR_Bein_Sport_1HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/538.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Bein_Sport_2HD" ,FR_Bein_Sport_2HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/539.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Bein_Sport_3HD" ,FR_Bein_Sport_3HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/540.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_BeIN_Sports_MAX_4" ,FR_BeIN_Sports_MAX_4
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1616.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_BeINSPORTS_MAX_5" ,FR_BeINSPORTS_MAX_5
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2800.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_BeINSPORTS_MAX_6" ,FR_BeINSPORTS_MAX_6
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2799.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_BeINSPORTS_MAX_7" ,FR_BeINSPORTS_MAX_7
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2798.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_BEINSPORT_MAX_8" ,FR_BEINSPORT_MAX_8
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2797.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_BEINSPORTS MAX_9" ,FR_BEINSPORTS MAX_9
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2796.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_BEINSPORTS MAX_10" ,FR_BEINSPORTS MAX_10
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2795.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_INFOSPORT" ,FR_INFOSPORT
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2318.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_BFM_SPORT" ,FR_BFM_SPORT
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2857.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Foot_24" ,FR_Foot_24
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/371.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Equidia_live" ,FR_Equidia_live
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2074.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_EUROSPORT_1_HD" ,FR_EUROSPORT_1_HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1712.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_EUROSPORT_2_HD" ,FR_EUROSPORT_2_HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1713.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_GOLF_" ,FR_GOLF_
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1714.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CANAL_HD" ,FR_CANAL_HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/569.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CANAL_SPORT_HD" ,FR_CANAL_SPORT_HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/568.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CANAL_FAMILY_HD" ,FR_CANAL_FAMILY_HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/570.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CANAL_DECALE_HD" ,FR_CANAL_DECALE_HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/571.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CANAL_CINEMA_HD" ,FR_CANAL_CINEMA_HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/572.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CANAL_SERIE_HD" ,FR_CANAL_SERIE_HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/573.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CINE_PREMIER" ,FR_CINE_PREMIER
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/576.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CINE_FRISSON" ,FR_CINE_FRISSON
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/578.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CINE_FAMIZ" ,FR_CINE_FAMIZ
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/579.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CINE_EMOTION" ,FR_CINE_EMOTION
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/580.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CINE_CLASSIC" ,FR_CINE_CLASSIC
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/582.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Cine _Club" ,FR_Cine _Club
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1680.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CINE_POLAR_HD" ,FR_CINE_POLAR_HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/577.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CINEFX" ,FR_CINEFX
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/581.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Action_HD" ,FR_Action_HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/590.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_OCS_MAX" ,FR_OCS_MAX
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/585.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_OCS_Geants_HD" ,FR_OCS_Geants_HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/584.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_OCS_City" ,FR_OCS_City
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/586.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_OCS_CHOC_HD" ,FR_OCS_CHOC_HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/583.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_OCS_GO_ACTION" ,FR_OCS_GO_ACTION
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1693.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_OCS_GO_HORREUR" ,FR_OCS_GO_HORREUR
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1695.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_OCS_GO_COMEDIE" ,FR_OCS_GO_COMEDIE
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1696.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_USHUAIA" ,FR_USHUAIA
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/608.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_NAT_GEO" ,FR_NAT_GEO
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/609.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_NAT_GEO_WILD" ,FR_NAT_GEO_WILD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/610.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_PLANET" ,FR_PLANET
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/613.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_PLANETE_CI" ,FR_PLANETE_CI
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/614.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_PLANETE_A&E" ,FR_PLANETE_A&E
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/615.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_SCIENCES&VIE" ,FR_SCIENCES&VIE
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/617.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_DISCOVERY_SD" ,FR_DISCOVERY_SD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/3323.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_DISCOVERY" ,FR_DISCOVERY
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/611.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_DISCOVERY_SCIENCE" ,FR_DISCOVERY_SCIENCE
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/612.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_ANIMAUX" ,FR_ANIMAUX
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/616.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Chasse_et_Peche" ,FR_Chasse_et_Peche
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/618.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Seasons" ,FR_Seasons
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2877.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_HISTOIRE" ,FR_HISTOIRE
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2801.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Tout LHistoire" ,FR_Tout LHistoire
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2802.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_VOYAGE" ,FR_VOYAGE
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2803.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Canal_J" ,FR_Canal_J
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1681.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_J-One" ,FR_J-One
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1678.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_E!_Entertainement" ,FR_E!_Entertainement
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1679.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_AB_Moteur" ,FR_AB_Moteur
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1682.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_SERIE_CLUB" ,FR_SERIE_CLUB
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/605.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_COMEDIE_HD" ,FR_COMEDIE_HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/587.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Teva_HD" ,FR_Teva_HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/594.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Syfy_HD" ,FR_Syfy_HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/588.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_PARIS_PREMIERE_HD" ,FR_PARIS_PREMIERE_HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/574.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_PARAMOUNT_CHANNEL_HD" ,FR_PARAMOUNT_CHANNEL_HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/575.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_13eme_Rue" ,FR_13eme_Rue
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/604.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_TMC" ,FR_TMC
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1716.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_TCM_CINEMA" ,FR_TCM_CINEMA
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1711.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_NRJ12" ,FR_NRJ12
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/602.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Cherie25HD" ,FR_Cherie25HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/592.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Game_One" ,FR_Game_One
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1650.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_GAMEONE_SD" ,FR_GAMEONE_SD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/3326.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_NICKELEDON" ,FR_NICKELEDON
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1651.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Nickelodeon_JR_SD" ,FR_Nickelodeon_JR_SD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/3320.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_TIJI" ,FR_TIJI
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/377.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Piwi" ,FR_Piwi
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/373.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_MANGAS" ,FR_MANGAS
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/375.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_GULLI" ,FR_GULLI
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/376.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_GULLI_SD" ,FR_GULLI_SD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/3324.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_DISNEY_SD" ,FR_DISNEY_SD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/3325.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Disney_Channel" ,FR_Disney_Channel
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/379.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_DISNEY_XD" ,FR_DISNEY_XD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/381.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_DisneyJunior_HD" ,FR_DisneyJunior_HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/372.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_DISNEY_CINEMA" ,FR_DISNEY_CINEMA
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/380.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Cartoon_NetWork" ,FR_Cartoon_NetWork
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/378.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_BOOMERANG-HD" ,FR_BOOMERANG-HD
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/374.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_TV_BREIZH" ,FR_TV_BREIZH
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1649.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_I-Tele" ,FR_I-Tele
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1310.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_BFM_TV" ,FR_BFM_TV
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1311.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_france_24_FR" ,FR_france_24_FR
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/167.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Euronews_FR" ,FR_Euronews_FR
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/168.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_WEO" ,FR_WEO
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/155.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_MONTE_CARLO" ,FR_MONTE_CARLO
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/166.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_LA_TELE" ,FR_LA_TELE
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/156.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_IL_TV" ,FR_IL_TV
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/159.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Grand_Lille_TV" ,FR_Grand_Lille_TV
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/164.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CNA" ,FR_CNA
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/158.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CANAL_9" ,FR_CANAL_9
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/157.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Orange_Cinema_ACTION" ,FR_Orange_Cinema_ACTION
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2869.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Orange_Cinema_Aventure" ,FR_Orange_Cinema_Aventure
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2868.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Orange_Cinema_COMEDIE" ,FR_Orange_Cinema_COMEDIE
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2867.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Orange_Cinema_DISNEY" ,FR_Orange_Cinema_DISNEY
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2866.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Orange_Cinema_DOCUMENTAIRE" ,FR_Orange_Cinema_DOCUMENTAIRE
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2865.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Orange_Cinema_ENQUETE_EXCLUSIVE" ,FR_Orange_Cinema_ENQUETE_EXCLUSIVE
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2864.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_Orange_Cinema_HORREUR" ,FR_Orange_Cinema_HORREUR
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2863.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CANALPLAY_1" ,FR_CANALPLAY_1
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2813.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CANAL_PLAY_2" ,FR_CANAL_PLAY_2
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2812.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CANAL_PLAY_3" ,FR_CANAL_PLAY_3
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2811.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CANAL_PLAY_4" ,FR_CANAL_PLAY_4
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2810.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CANAL_PLAY_5" ,FR_CANAL_PLAY_5
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2809.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CANAL_PLAY_6" ,FR_CANAL_PLAY_6
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2808.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CANAL_PLAY_7" ,FR_CANAL_PLAY_7
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2807.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CANAL_PLAY_8" ,FR_CANAL_PLAY_8
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2806.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CANAL_PLAY_9" ,FR_CANAL_PLAY_9
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2805.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_CANAL_PLAY_10" ,FR_CANAL_PLAY_10
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2804.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_A_LA_CARTE_1" ,FR_A_LA_CARTE_1
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1299.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_A_LA_CARTE_2" ,FR_A_LA_CARTE_2
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1300.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_A_LA_CARTE_3" ,FR_A_LA_CARTE_3
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1301.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_A_LA_CARTE_4" ,FR_A_LA_CARTE_4
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1302.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_A_LA_CARTE_5" ,FR_A_LA_CARTE_5
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1303.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_A_LA_CARTE_6" ,FR_A_LA_CARTE_6
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1304.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_A_LA_CARTE_7" ,FR_A_LA_CARTE_7
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1305.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4" tvg-name="FR_A_LA_CARTE_8" ,FR_A_LA_CARTE_8
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/1306.m3u8
 
 
 
@@ -5628,6 +6076,372 @@ http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/2830.m3u8
 
 
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER3",
+
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ZDF HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/142.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ZDF
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/607.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ZDF NEO HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/877.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ARD HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/606.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ARD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/113.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:PRO 7 HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/604.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:PRO 7
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/124.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:PRO 7 MAXX
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/924.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:PRO 7 FUN
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/5062.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:VOX HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/140.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:VOX
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/926.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SAT 1 HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/135.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SAT 1
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/925.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SAT 1 GOLD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/134.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:RTL HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/609.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:RTL
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/126.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:RTL PLUS
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/773.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:RTL NITRO
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/128.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:RTL CRIME
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/546.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:RTL PASSION
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/787.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:RTL LIVING
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2160.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:RTL 2 HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/608.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:RTL 2
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/127.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:KABEL 1 HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/605.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ARTE HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/603.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:3 SAT HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/112.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:WDR HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/774.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:NDR HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/775.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:HAMBURG TV
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/3984.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:MUNCHEN TV
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2474.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:BADEN TV
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/3508.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:INGOLSTADT TV
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/3978.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:TV BERLIN
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/3916.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:HEALTH TV
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/3470.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:NOA 4TV
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/5041.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:RIC TV
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/3960.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ALEX TV
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/3516.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:POSTDAM TV
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/5104.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:BLIZZ TV
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2357.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:KABEL JOUNAL
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/4592.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:WELT DER WUNDER
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/4554.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:EURONEWS
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/65.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:N24 NEWS
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/649.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:NTV HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/4680.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SWR DARSDING
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/3368.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",â–„ â–… â–† â–‡ â–ˆ â˜…SKY GERMANYâ˜… â–ˆ â–‡ â–† â–… â–„
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2129.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:KIKA
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/120.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:TOGGO PLUS
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2882.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SUPER RTL HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/129.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:NICKELEDEON HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/131.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:CARTOON NETWORK
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/620.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:BOOMERANG HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2166.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:DISNEY JUNIOR
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/1726.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:DISNEY XD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/1727.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:JUNIOR HD (6-20 Uhr)
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/693.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:DISNEY CHANNEL HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/545.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:DISNEY CINEMAGIC
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/1728.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:HISTORY CHANNEL
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/616.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ANIMAL PLANET HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2311.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:NAT GEO HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/784.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:NAT GEO WILD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/157.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:DISCOVERY CHANNEL
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/130.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:E! ENTERTAINMENT
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/3046.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SPIEGEL GESICHTE
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/1649.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:CLASSICA
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2164.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:AXN HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/613.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:DMAX HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/117.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SIXX HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/614.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:Syfy HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/553.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:13TH Street HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/540.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:A&E HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2171.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ZEE ONE HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2112.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:FOX  HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/654.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:UNIVERSAL HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/119.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ROMANCE TV HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/63.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:KINOWELT TV HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2103.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:VIVA/COMEDY CENTRAL
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/4584.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SONY Entertainment TV HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/341.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY 1 HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/156.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY KRIMI HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/615.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:TNT COMEDY
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/3026.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:TNT FILM
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/617.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:TNT SERIE
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/618.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:TELE5 HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/4589.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY CINEMA
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/650.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY CINEMA +1
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/682.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY CINEMA  +24
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/154.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY ACTION HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/153.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY ATLANTIC
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/151.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY COMEDY HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/152.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY EMOTION HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/158.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY CINEMA HITS
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/651.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY NOSTALGIE
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/786.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY KRIMI HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2880.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:UNIVERSAL HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2879.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:13 STREET HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2881.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY CINEMA HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2870.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY CINEMA +1 HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2871.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY CINEMA +24
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2872.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY ACTION HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2873.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY ATLANTIC HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2874.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY COMEDY HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2875.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY EMOTION HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2876.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY CINEMA FAMILY HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2877.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY NOSTALGIE HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2878.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY SELECT INFO HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/1888.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY SELECT 1HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/471.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY SELECT 2HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/472.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY SELECT 3 HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/473.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY SELECT 4 HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/474.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY SELECT 5 HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/475.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY SELECT 6 HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/476.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY SELECT 7 HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/477.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY SELECT 8 HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/1886.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY SELECT 9 HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/1887.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ELIT SELECT 1
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/4373.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ELIT SELECT 2
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/4372.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ELIT SELECT 3
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/4371.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ELIT SELECT 4
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/4370.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ELIT SELECT 5
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/4369.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ELIT SELECT 6
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/4368.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ELIT SELECT 7
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/4367.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ELIT SELECT 8
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/4366.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ELIT CINEMA 1
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/4365.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ELIT CINEMA 2
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/4364.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ELIT CINEMA 3
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/4363.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ELIT CINEMA 4
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/4362.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:ELIT CINEMA 5
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/4361.m3u8
+
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:EUROSPORT 1 HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/118.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:EUROSPORT 2 HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/3117.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:EUROSPORT 2 XTRA
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/3071.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:MOTORVISION TV
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/3001.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SPORT 1 HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/3921.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SPORT 1+ HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/58.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SPORT DIGITAL HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2225.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE.SKY SPORT NEWS HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/688.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY SPORT 1 HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/102.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY SPORT 1HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2216.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY SPORT 1 SD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2123.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY SPORT 2 HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/97.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY SPORT 2HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2217.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY SPORT 2 SD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/841.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY SPORT 3 HD (Matchday)
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/829.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY SPORT 3HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2218.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY SPORT 4 HD (Matchday)
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/830.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY SPORT 4HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2219.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY SPORT 5 HD (Matchday)
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/831.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY SPORT 5HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2220.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY SPORT 6 HD (Matchday)
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/832.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY SPORT 6HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2221.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY SPORT 7 HD (Matchday)
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/833.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY SPORT 7HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2222.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY SPORT 8 HD (Matchday)
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/834.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY SPORT 8HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2223.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:DAZN 1 HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/5413.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:DAZN 2 HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/5414.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY BUNDESLIGA 1
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/96.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY BUNDESLIGA 1HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/541.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY BUNDESLIGA 1HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2113.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY BUNDESLIGA 2HD (Matchday)
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/542.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY BUNDESLIGA 2HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2114.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY BUNDESLIGA 3HD (Matchday)
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/543.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY BUNDESLIGA 3HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2115.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY BUNDESLIGA 4HD (Matchday)
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/544.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY BUNDESLIGA 4HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2116.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY BUNDESLIGA 5HD (Matchday)
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/761.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY BUNDESLIGA 5HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2117.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY BUNDESLIGA 6HD (Matchday)
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/837.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY BUNDESLIGA 6HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2119.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY BUNDESLIGA 7HD (Matchday)
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/838.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY BUNDESLIGA 7HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2120.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY BUNDESLIGA 8HD (Matchday)
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/839.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",VIP-DE:SKY BUNDESLIGA 8HD
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2121.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3",DE:SKY BUNDESLIGA 9HD (Matchday)
+http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/840.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -7421,7 +8235,262 @@ http://37.187.136.118:8000/live/8LYOpXZr3i/O31uU5luoJ/2985.m3u8
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",
 
 
-
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :24 Kitchen FHD PT" ,PT :24 Kitchen FHD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23749.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :24 Kitchen HD PT" ,PT :24 Kitchen HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23750.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :A Bola TV PT" ,PT :A Bola TV PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23710.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :A&E PT" ,PT :A&E PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23746.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Afro Music PT" ,PT :Afro Music PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23709.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :AMC FHD PT" ,PT :AMC FHD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23745.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :AMC PT" ,PT :AMC PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23744.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :ARTV PT" ,PT :ARTV PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23800.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :AXN Black HD PT" ,PT :AXN Black HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23736.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :AXN HD PT" ,PT :AXN HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23737.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :AXN White HD PT" ,PT :AXN White HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23735.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Baby TV PT" ,PT :Baby TV PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23726.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :BabyFirst PT" ,PT :BabyFirst PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23727.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :BBC Entertainment PT" ,PT :BBC Entertainment PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23708.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :BBC World News PT" ,PT :BBC World News PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23707.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :BTV 1 FHD PT" ,PT :BTV 1 FHD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23762.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :BTV 1 PT" ,PT :BTV 1 PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23763.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :C-Music TV PT" ,PT :C-Music TV PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23688.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Caça e Pesca PT" ,PT :Caça e Pesca PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23754.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Caça Vision PT" ,PT :Caça Vision PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23706.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Canal Panda PT" ,PT :Canal Panda PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23730.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Canal Q PT" ,PT :Canal Q PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23753.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Canção Nova PT" ,PT :Canção Nova PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23687.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Cartoon Network PT" ,PT :Cartoon Network PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23732.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :CBS Reality PT" ,PT :CBS Reality PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23705.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :CineMundo PT" ,PT :CineMundo PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23715.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :CMTV PT" ,PT :CMTV PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23752.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Discovery Channel PT" ,PT :Discovery Channel PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23748.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Discovery Showcase HD PT" ,PT :Discovery Showcase HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23747.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Disney Channel PT" ,PT :Disney Channel PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23733.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Disney Junior PT" ,PT :Disney Junior PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23734.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :E! PT" ,PT :E! PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23704.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Eurosport 1 HD PT" ,PT :Eurosport 1 HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23761.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Eurosport 1 PT" ,PT :Eurosport 1 PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23760.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Eurosport 2 PT" ,PT :Eurosport 2 PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23759.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Eurosport News PT" ,PT :Eurosport News PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23758.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Fashion TV PT" ,PT :Fashion TV PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23723.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Fight Network PT" ,PT :Fight Network PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23703.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :FOX Comedy HD PT" ,PT :FOX Comedy HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23721.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :FOX Comedy PT" ,PT :FOX Comedy PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23720.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :FOX Crime HD PT" ,PT :FOX Crime HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23719.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :FOX FHD PT" ,PT :FOX FHD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23722.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :FOX Life HD PT" ,PT :FOX Life HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23718.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :FOX Movies HD PT" ,PT :FOX Movies HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23717.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :FOX Movies PT" ,PT :FOX Movies PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23716.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Fuel TV FHD PT" ,PT :Fuel TV FHD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23701.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Fuel TV PT" ,PT :Fuel TV PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23700.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :História PT" ,PT :História PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23699.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Hollywood HD PT" ,PT :Hollywood HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23743.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Hollywood PT" ,PT :Hollywood PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23742.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :JimJam PT" ,PT :JimJam PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23731.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Kombat Sport PT" ,PT :Kombat Sport PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23698.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :LocalVisão TV PT" ,PT :LocalVisão TV PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23702.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :MCM POP PT" ,PT :MCM POP PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23697.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :MCM TOP PT" ,PT :MCM TOP PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23696.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :MCS LifeStyle PT" ,PT :MCS LifeStyle PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23693.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Mezzo PT" ,PT :Mezzo PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23686.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Motorsport.TV HD PT" ,PT :Motorsport.TV HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23694.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Motorvision TV PT" ,PT :Motorvision TV PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23695.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :MTV PT" ,PT :MTV PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23725.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Nat Geo Wild HD PT" ,PT :Nat Geo Wild HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23739.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Nat Geo Wild PT" ,PT :Nat Geo Wild PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23738.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :National Geographic HD PT" ,PT :National Geographic HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23740.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Nickelodeon PT" ,PT :Nickelodeon PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23728.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Odisseia PT" ,PT :Odisseia PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23741.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Panda Biggs PT" ,PT :Panda Biggs PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23729.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :PFC PT" ,PT :PFC PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23751.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Porto Canal PT" ,PT :Porto Canal PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23755.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Real Madrid TV PT" ,PT :Real Madrid TV PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23692.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :RTP 1 FHD PT" ,PT :RTP 1 FHD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23810.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :RTP 1 HD PT" ,PT :RTP 1 HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23809.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :RTP 2 HD PT" ,PT :RTP 2 HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23808.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :RTP 2 PT" ,PT :RTP 2 PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23807.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :RTP 3 PT" ,PT :RTP 3 PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23806.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :RTP Açores PT" ,PT :RTP Açores PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23805.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :RTP África PT" ,PT :RTP África PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23804.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :RTP Internacional PT" ,PT :RTP Internacional PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23803.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :RTP Madeira PT" ,PT :RTP Madeira PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23802.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :RTP Memória PT" ,PT :RTP Memória PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23801.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :SIC Caras HD PT" ,PT :SIC Caras HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23790.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :SIC Caras PT" ,PT :SIC Caras PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23794.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :SIC HD PT" ,PT :SIC HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23793.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :SIC Kids PT" ,PT :SIC Kids PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23795.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :SIC Mulher PT" ,PT :SIC Mulher PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23797.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :SIC Notícias HD PT" ,PT :SIC Notícias HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23792.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :SIC Notícias PT" ,PT :SIC Notícias PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23798.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :SIC PT" ,PT :SIC PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23799.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :SIC Radical HD PT" ,PT :SIC Radical HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23791.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :SIC Radical PT" ,PT :SIC Radical PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23796.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Sporting TV HD PT" ,PT :Sporting TV HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23757.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Sporting TV PT" ,PT :Sporting TV PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23756.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :SportTV  PT" ,PT :SportTV  PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23775.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :SportTV 1 FHD PT" ,PT :SportTV 1 FHD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23774.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :SportTV 1 HD PT" ,PT :SportTV 1 HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23773.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :SportTV 1 PT" ,PT :SportTV 1 PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23772.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :SportTV 2 FHD PT" ,PT :SportTV 2 FHD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23770.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :SportTV 2 PT" ,PT :SportTV 2 PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23771.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :SportTV 3 FHD PT" ,PT :SportTV 3 FHD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23769.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :SportTV 3 PT" ,PT :SportTV 3 PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23768.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :SportTV 4 FHD PT" ,PT :SportTV 4 FHD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23767.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :SportTV 4 PT" ,PT :SportTV 4 PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23766.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :SportTV 5 FHD PT" ,PT :SportTV 5 FHD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23765.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :SportTV 5 PT" ,PT :SportTV 5 PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23764.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Syfy FHD PT" ,PT :Syfy FHD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23714.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Syfy PT" ,PT :Syfy PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23713.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :TLC PT" ,PT :TLC PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23724.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Toros TV PT" ,PT :Toros TV PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23691.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Trace Urban PT" ,PT :Trace Urban PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23684.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :Travel Channel HD PT" ,PT :Travel Channel HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23690.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :TV Fatima PT" ,PT :TV Fatima PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23685.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :TV Globo Premium PT" ,PT :TV Globo Premium PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23711.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :TV Globo PT" ,PT :TV Globo PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23712.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :TV Record PT" ,PT :TV Record PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23689.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :TV Séries FHD PT" ,PT :TV Séries FHD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23784.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :TVCine 1 FHD PT" ,PT :TVCine 1 FHD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23783.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :TVCine 1 PT" ,PT :TVCine 1 PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23782.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :TVCine 2 FHD PT" ,PT :TVCine 2 FHD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23781.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :TVCine 2 PT" ,PT :TVCine 2 PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23780.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :TVCine 3 FHD PT" ,PT :TVCine 3 FHD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23779.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :TVCine 3 PT" ,PT :TVCine 3 PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23778.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :TVCine 4 FHD PT" ,PT :TVCine 4 FHD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23777.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :TVCine 4 PT" ,PT :TVCine 4 PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23776.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :TVI 24 PT" ,PT :TVI 24 PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23787.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :TVI Ficção PT" ,PT :TVI Ficção PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23785.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :TVI HD PT" ,PT :TVI HD PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23789.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :TVI PT" ,PT :TVI PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23788.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :TVI Reality PT" ,PT :TVI Reality PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23786.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT :VH1 PT" ,PT :VH1 PT
+http://mibvip.ddns.me:80/live/h1TUheqKPv/VwPC0EoJuY/23683.m3u8
 
 
 
