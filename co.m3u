@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,06/10/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,08/10/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -4022,166 +4022,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/811.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER3",
 
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport 24 HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17642.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport 24 SD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20888.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport 1 Full-HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20892.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport Uno HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17364.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport 1 SD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20891.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport 24 Full-HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20889.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport Arena HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17365.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport 2 SD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20890.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport Football HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17366.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport 3 SD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20887.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport F1 HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17367.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport Golf Full HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20886.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport Golf SD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20885.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Moto GP HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4379.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport Moto GP SD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20884.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport NBA HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17641.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport Mix HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17640.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport Plus SD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20883.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Fox Sports HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17636.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Inter Channel
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17370.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Lazio Channel
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17627.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Milan Channel
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17629.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Roma Channel
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17628.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Torino Channel
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17626.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Rai Sport 1 HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4351.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Rai Sport 2
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4424.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sport Italia
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4350.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Eurosport 1 HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4368.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",EUROSPORT 2 HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4367.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Super Tennis HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4399.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Caccia e Pesca
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17612.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Pesca e Caccia
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17611.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Pescare e Cacciare
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/15787.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",Italian Fishing
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/8725.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: UNIRESAT HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17870.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Bike Channel HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17638.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",=======   CALCIO   =======
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/642.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio Info
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20912.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Supercalcio Full HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20882.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport Serie A HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17635.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Sport Serie A SD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20881.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 1 HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17368.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 1 SD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20914.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 2 HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17369.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 2 SD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/20913.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 3 HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17634.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 4 HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17633.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 5 HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17632.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 6 HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17631.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 7
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17899.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 9
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17896.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 8 HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4320.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 10
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17897.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Sky Calcio 11
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17898.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Diretta Premium Sport/Calcio HD (per eventi napoli/juve/roma/milan/inter: cronaca tifoso)
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/17871.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Premium Sport HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4431.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Premium Sport 2 HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/5419.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Premium Calcio 1 HD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4453.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Premium Calcio 1
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4454.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Premium Calcio 2
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4452.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Premium Calcio 3
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4451.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Premium Calcio 4
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4450.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Premium Calcio 5
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4449.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Premium Calcio 6
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/4448.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Vetrina DAZN
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21064.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: DAZN SPORT 1 FHD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21016.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Dazn 1 Backup
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21160.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: DAZN SPORT 2 FHD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21014.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Dazn 2 Backup
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21161.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: DAZN SPORT 3 FHD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21013.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Dazn 3 Backup
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21162.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: DAZN SPORT 4 FHD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21012.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Dazn 4 Backup
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21163.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: DAZN SPORT 5 FHD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21011.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: Dazn 5 Backup
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21164.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: DAZN SPORT 6 FHD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21010.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: DAZN SPORT 7 FHD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21009.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: DAZN SPORT 8 FHD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21008.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: DAZN SPORT 9 FHD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21007.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER3",IT: DAZN SPORT 10 FHD
-http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/21015.m3u8
 
 
 
@@ -4864,7 +4704,35 @@ http://2.primatv.club:8080/live/RMD1055FHHBR/25X10I10iQpRR/103.ts|user-agent=VLC
 
 #EXTINF:-1 group-title="France PREMIUM-SERVER3",
 
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR: Bein Sport 1
 
+http://190.2.138.110:15000/live/rmoxognz/td9Y9Ttr30/20137.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR: beiN Sport 1 HD
+
+http://190.2.138.110:15000/live/rmoxognz/td9Y9Ttr30/20136.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR: Bein Sport 2
+
+http://190.2.138.110:15000/live/rmoxognz/td9Y9Ttr30/20135.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR: beiN Sport 2 HD
+
+http://190.2.138.110:15000/live/rmoxognz/td9Y9Ttr30/20134.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR: Bein Sport 3
+
+http://190.2.138.110:15000/live/rmoxognz/td9Y9Ttr30/20133.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR: beiN Sport 3 HD
+
+http://190.2.138.110:15000/live/rmoxognz/td9Y9Ttr30/20132.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR: beIN SPORTS 5 MAX
+http://190.2.138.110:15000/live/rmoxognz/td9Y9Ttr30/20131.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR: beIN SPORTS 6 MAX
+
+http://190.2.138.110:15000/live/rmoxognz/td9Y9Ttr30/20130.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR: beIN SPORTS 7 MAX
+
+http://190.2.138.110:15000/live/rmoxognz/td9Y9Ttr30/20129.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR: beIN SPORTS NBA
+
+http://190.2.138.110:15000/live/rmoxognz/td9Y9Ttr30/20128.m3u8
 
 
 
@@ -4883,7 +4751,57 @@ http://2.primatv.club:8080/live/RMD1055FHHBR/25X10I10iQpRR/103.ts|user-agent=VLC
 
 #EXTINF:-1 group-title="France PREMIUM-SERVER4",
 
+#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS 1 HD
 
+http://ndaiptv.com:5999/live/adil1/adil2/297.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS 1 SD
+
+http://ndaiptv.com:5999/live/adil1/adil2/4661.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS 2 HD
+
+http://ndaiptv.com:5999/live/adil1/adil2/299.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS 2 SD
+
+http://ndaiptv.com:5999/live/adil1/adil2/4660.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS 3 HD
+
+http://ndaiptv.com:5999/live/adil1/adil2/300.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS 3 SD
+
+http://ndaiptv.com:5999/live/adil1/adil2/4659.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS MAX 4 HD
+
+http://ndaiptv.com:5999/live/adil1/adil2/301.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS MAX 4 SD
+
+http://ndaiptv.com:5999/live/adil1/adil2/4658.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS MAX 5 HD
+
+http://ndaiptv.com:5999/live/adil1/adil2/302.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS MAX 5 SD
+
+http://ndaiptv.com:5999/live/adil1/adil2/4657.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS MAX 6 HD
+
+http://ndaiptv.com:5999/live/adil1/adil2/303.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS MAX 6 SD
+
+http://ndaiptv.com:5999/live/adil1/adil2/4656.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS MAX 7 HD
+
+http://ndaiptv.com:5999/live/adil1/adil2/304.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS MAX 7 SD
+
+http://ndaiptv.com:5999/live/adil1/adil2/4655.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS MAX 8 SD
+
+http://ndaiptv.com:5999/live/adil1/adil2/4695.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS MAX 9 SD
+
+http://ndaiptv.com:5999/live/adil1/adil2/4696.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS MAX 10 SD
+
+http://ndaiptv.com:5999/live/adil1/adil2/4697.m3u8
 
 
 
@@ -7316,124 +7234,130 @@ http://77.54.248.94:9981/stream/channelid/806400516
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png" ,==Portugal==
 http://..........
 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png",RTP 1
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/1.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png",RTP 2
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/2.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png",SIC
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/3.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png",TVI
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/4.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png",SIC NOTICIAS
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/6.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png",RTP 3
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/5.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png",TVI24
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/7.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png",CM TV
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/8.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png",SPORT TV+
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/33.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBO.png",GLOBO
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/48.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICMULHER.png",SIC MULHER
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/648.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICCARAS.png",SIC CARAS
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/921.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/24KITCHEN.png",24 KITCHEN
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/58.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png",SPORT TV 1 HD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/35.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png",SPORT TV 2 HD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/37.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png",SPORT TV 3 HD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/38.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png",SPORT TV 4
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/39.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png",SPORT TV 5
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/40.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/41.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png",EUROSPORT 1 PT
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/31.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORVISIONTV.png",MOTORVISION TV
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/190.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png",A BOLA TV
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/30.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png",DISNEY CHANNEL
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/16.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png",DISNEY JUNIOR
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/15.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png",CARTOON NETWORK
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/17.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png",NICKELODEON
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/14.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALPANDA.png",PANDA
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/13.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PANDABIGGS.png",PANDA BIGGS
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/9.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICK.png",SIC K
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/10.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/JIMJAM.png",JIMJAM
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/11.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIFICCAO.png",TVI FICCAO
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/50.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIREALITY.png",TVI REALITY
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/45.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png",TVCINE 1 HD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/25.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png",TVCINE 2 HD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/26.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3.png",TVCINE 3 HD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/27.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC4.png",TVCINE 4 HD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/28.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVSERIES.png",TVSERIES HD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/29.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png",HOLLYWOOD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/24.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CINEMUNDO.png",CINEMUNDO
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/23.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXMOVIES.png",FOX MOVIES
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/22.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png",AXN HD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/18.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png",FOX LIFE
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/1229.m3u8
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCRIME.png",FOX CRIME
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/641.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCOMEDY.png",FOX COMEDY
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/52.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png",AXN WHITE
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/20.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNBLACK.png",AXN BLACK
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/19.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png",AMC
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/21.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTV.png",MTV PORTUGAL
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/59.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png",DISCOVERY
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/55.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png",NATIONAL GEOGRAPHIC
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/56.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png",NATIONAL GEOGRAPHIC WILD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/57.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORIA.png",HISTORIA
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/54.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ODISSEIA.png",ODISSEIA
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/53.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TLC.png",TLC
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/1345.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRAVELCHANNEL.png",TRAVEL CHANNEL
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/61.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBOPREMIUM.png",GLOBO PREMIUM
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/49.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDTV.png",TV RECORD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/47.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CACAEPESCA.png",CACA & PESCA
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/44.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KOMBATSPORT.png",KOMBAT SPORT
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/191.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| RTP 1
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1240.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| RTP 2
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1239.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| RTP 3
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1238.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| RTP Africa
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1234.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| RTP Madeira
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1235.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| RTP-Acores
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1231.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| SIC
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1236.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| SIC MULHER
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1230.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| BBC WORLD
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1263.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| 24 KITCHEN
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1278.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| CACAVISION
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1280.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| EURONEWS
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1232.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| GLOBO PORTUGAL
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1267.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| GLOBO PREMIUM
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1266.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| NAT GEO WILD
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1283.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| HISTORIA
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1215.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| CACA E PESCA
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1281.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| CI INVESTIGATION
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1279.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| Discovery Channel
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1213.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| DISCOVERY SHOWCASE
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1282.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| NATIONAL GEOGRAPHIC
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1284.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| Odisseia
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1212.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| SPORT TV+
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1211.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| SPORT TV 1 HD
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1210.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| SPORT TV 2 HD
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1209.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| SPORT TV 3 HD
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1208.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| SPORT TV 4 HD
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1207.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| SPORT TV 5 HD
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1206.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT|  EUROSPORT
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1204.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| EUROSPORT2
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1203.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| KOMBAT SPORT
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1205.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| Benefica Tv 1
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1202.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| Sporting-TV
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1201.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| NICKELODEON
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1269.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| BABY FIRST
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1274.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| BABY TV
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1273.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| BIGGS
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1272.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| JIM JAM
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1270.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| CANAL-PANDA
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1229.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| CARTOON-NETWORK
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1227.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| DISNEY CHANNEL
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1271.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| DISNEY JUNIOR
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1228.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| TCV INTERNACIONAL
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1264.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| TRAVEL CHANNEL
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1276.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| TV GALICIA
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1265.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| TV RECORD
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1268.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| TV SERIES
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1226.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| TVI
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1237.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| TVI Reality
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1214.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| TVI-24
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1233.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| MOV HD
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1221.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| AXN Black
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1222.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| AXN-HD
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1223.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| AXN-WHITE
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1224.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| FOX MOVIE
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1220.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| FOX-CRIME
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1225.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| TVCINE1
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1219.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| TVCINE2
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1218.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| TVCINE3
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1217.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",|PT| TVCINE4
+http://omega.ws:9300/live/Nadorone_exx/OID6M2WPIm/1216.m3u8
+
+
+
+
 
 
 
@@ -7453,101 +7377,101 @@ http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/191.m3u8
 
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",RTP 1 PT
-http://cdnp.cli.tn/iptv/ch2100?code=150112319717507&key=52824
+http://cdnp.cli.tn/iptv/ch2100?code=150112319701102&key=52824
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",RTP 2 PT
-http://cdnp.cli.tn/iptv/ch2101?code=150112319717507&key=54546
+http://cdnp.cli.tn/iptv/ch2101?code=150112319701102&key=54546
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",RTP 3 PT
-http://cdnp.cli.tn/iptv/ch2102?code=150112319717507&key=10584
+http://cdnp.cli.tn/iptv/ch2102?code=150112319701102&key=10584
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",RTP Memoria PT
-http://cdnp.cli.tn/iptv/ch2103?code=150112319717507&key=12621
+http://cdnp.cli.tn/iptv/ch2103?code=150112319701102&key=12621
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",SIC PT
-http://cdnp.cli.tn/iptv/ch2105?code=150112319717507&key=49241
+http://cdnp.cli.tn/iptv/ch2105?code=150112319701102&key=49241
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",SIC Noticias PT
-http://cdnp.cli.tn/iptv/ch2106?code=150112319717507&key=16149
+http://cdnp.cli.tn/iptv/ch2106?code=150112319701102&key=16149
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",SIC Mulher PT
-http://cdnp.cli.tn/iptv/ch2107?code=150112319717507&key=56616
+http://cdnp.cli.tn/iptv/ch2107?code=150112319701102&key=56616
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",SIC Kids PT
-http://cdnp.cli.tn/iptv/ch2108?code=150112319717507&key=44287
+http://cdnp.cli.tn/iptv/ch2108?code=150112319701102&key=44287
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",SIC Radical PT
-http://cdnp.cli.tn/iptv/ch2109?code=150112319717507&key=44281
+http://cdnp.cli.tn/iptv/ch2109?code=150112319701102&key=44281
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",SIC Caras PT
-http://cdnp.cli.tn/iptv/ch2110?code=150112319717507&key=35670
+http://cdnp.cli.tn/iptv/ch2110?code=150112319701102&key=35670
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVI PT
-http://cdnp.cli.tn/iptv/ch2111?code=150112319717507&key=39880
+http://cdnp.cli.tn/iptv/ch2111?code=150112319701102&key=39880
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVI Reality PT
-http://cdnp.cli.tn/iptv/ch2112?code=150112319717507&key=42111
+http://cdnp.cli.tn/iptv/ch2112?code=150112319701102&key=42111
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVI Ficcao PT
-http://cdnp.cli.tn/iptv/ch2113?code=150112319717507&key=11748
+http://cdnp.cli.tn/iptv/ch2113?code=150112319701102&key=11748
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVI 24 PT
-http://cdnp.cli.tn/iptv/ch2114?code=150112319717507&key=41291
+http://cdnp.cli.tn/iptv/ch2114?code=150112319701102&key=41291
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Canal Hollywood PT
-http://cdnp.cli.tn/iptv/ch2116?code=150112319717507&key=45639
+http://cdnp.cli.tn/iptv/ch2116?code=150112319701102&key=45639
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Canal Cinemondo PT
-http://cdnp.cli.tn/iptv/ch2117?code=150112319717507&key=35257
+http://cdnp.cli.tn/iptv/ch2117?code=150112319701102&key=35257
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Cine 1 PT
-http://cdnp.cli.tn/iptv/ch2118?code=150112319717507&key=60792
+http://cdnp.cli.tn/iptv/ch2118?code=150112319701102&key=60792
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Cine 2 PT
-http://cdnp.cli.tn/iptv/ch2119?code=150112319717507&key=12278
+http://cdnp.cli.tn/iptv/ch2119?code=150112319701102&key=12278
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Cine 3 PT
-http://cdnp.cli.tn/iptv/ch2120?code=150112319717507&key=44253
+http://cdnp.cli.tn/iptv/ch2120?code=150112319701102&key=44253
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Cine 4 PT
-http://cdnp.cli.tn/iptv/ch2121?code=150112319717507&key=34177
+http://cdnp.cli.tn/iptv/ch2121?code=150112319701102&key=34177
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Series PT
-http://cdnp.cli.tn/iptv/ch2122?code=150112319717507&key=55020
+http://cdnp.cli.tn/iptv/ch2122?code=150112319701102&key=55020
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sport TV 1 PT
-http://cdnp.cli.tn/iptv/ch2123?code=150112319717507&key=61335
+http://cdnp.cli.tn/iptv/ch2123?code=150112319701102&key=61335
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sport TV 2 PT
-http://cdnp.cli.tn/iptv/ch2124?code=150112319717507&key=18171
+http://cdnp.cli.tn/iptv/ch2124?code=150112319701102&key=18171
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sport TV 3 PT
-http://cdnp.cli.tn/iptv/ch2125?code=150112319717507&key=22866
+http://cdnp.cli.tn/iptv/ch2125?code=150112319701102&key=22866
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sport TV 4 PT
-http://cdnp.cli.tn/iptv/ch2126?code=150112319717507&key=20807
+http://cdnp.cli.tn/iptv/ch2126?code=150112319701102&key=20807
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sport TV 5 PT
-http://cdnp.cli.tn/iptv/ch2127?code=150112319717507&key=10240
+http://cdnp.cli.tn/iptv/ch2127?code=150112319701102&key=10240
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Eurosport 1 PT
-http://cdnp.cli.tn/iptv/ch2128?code=150112319717507&key=64203
+http://cdnp.cli.tn/iptv/ch2128?code=150112319701102&key=64203
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Eurosport 2 PT
-http://cdnp.cli.tn/iptv/ch2129?code=150112319717507&key=46017
+http://cdnp.cli.tn/iptv/ch2129?code=150112319701102&key=46017
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Toros TV PT
-http://cdnp.cli.tn/iptv/ch2130?code=150112319717507&key=50233
+http://cdnp.cli.tn/iptv/ch2130?code=150112319701102&key=50233
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Globo PT
-http://cdnp.cli.tn/iptv/ch2131?code=150112319717507&key=29570
+http://cdnp.cli.tn/iptv/ch2131?code=150112319701102&key=29570
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Record PT
-http://cdnp.cli.tn/iptv/ch2133?code=150112319717507&key=22089
+http://cdnp.cli.tn/iptv/ch2133?code=150112319701102&key=22089
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",MOV TV PT
-http://cdnp.cli.tn/iptv/ch2134?code=150112319717507&key=50202
+http://cdnp.cli.tn/iptv/ch2134?code=150112319701102&key=50202
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Record News PT
-http://cdnp.cli.tn/iptv/ch2135?code=150112319717507&key=15305
+http://cdnp.cli.tn/iptv/ch2135?code=150112319701102&key=15305
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PFC PT
-http://cdnp.cli.tn/iptv/ch2136?code=150112319717507&key=59436
+http://cdnp.cli.tn/iptv/ch2136?code=150112319701102&key=59436
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Odisseia PT
-http://cdnp.cli.tn/iptv/ch2138?code=150112319717507&key=21006
+http://cdnp.cli.tn/iptv/ch2138?code=150112319701102&key=21006
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fox Movies PT
-http://cdnp.cli.tn/iptv/ch2141?code=150112319717507&key=14953
+http://cdnp.cli.tn/iptv/ch2141?code=150112319701102&key=14953
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fox Comedy PT
-http://cdnp.cli.tn/iptv/ch2143?code=150112319717507&key=36869
+http://cdnp.cli.tn/iptv/ch2143?code=150112319701102&key=36869
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",CM TV PT
-http://cdnp.cli.tn/iptv/ch2144?code=150112319717507&key=30945
+http://cdnp.cli.tn/iptv/ch2144?code=150112319701102&key=30945
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Cacapesca PT
-http://cdnp.cli.tn/iptv/ch2145?code=150112319717507&key=14407
+http://cdnp.cli.tn/iptv/ch2145?code=150112319701102&key=14407
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Discovery PT
-http://cdnp.cli.tn/iptv/ch2146?code=150112319717507&key=12169
+http://cdnp.cli.tn/iptv/ch2146?code=150112319701102&key=12169
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Nat. Geo. PT
-http://cdnp.cli.tn/iptv/ch2148?code=150112319717507&key=33921
+http://cdnp.cli.tn/iptv/ch2148?code=150112319701102&key=33921
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Cazavision PT
-http://cdnp.cli.tn/iptv/ch2149?code=150112319717507&key=63590
+http://cdnp.cli.tn/iptv/ch2149?code=150112319701102&key=63590
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Cancao Nova PT
-http://cdnp.cli.tn/iptv/ch2150?code=150112319717507&key=61473
+http://cdnp.cli.tn/iptv/ch2150?code=150112319701102&key=61473
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Abola TV PT
-http://cdnp.cli.tn/iptv/ch2157?code=150112319717507&key=41491
+http://cdnp.cli.tn/iptv/ch2157?code=150112319701102&key=41491
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Cartoon Network PT
-http://cdnp.cli.tn/iptv/ch2160?code=150112319717507&key=45500
+http://cdnp.cli.tn/iptv/ch2160?code=150112319701102&key=45500
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Disney Ch. PT
-http://cdnp.cli.tn/iptv/ch2161?code=150112319717507&key=43360
+http://cdnp.cli.tn/iptv/ch2161?code=150112319701102&key=43360
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Disney Junior PT
-http://cdnp.cli.tn/iptv/ch2162?code=150112319717507&key=56004
+http://cdnp.cli.tn/iptv/ch2162?code=150112319701102&key=56004
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Nickelodeon PT
-http://cdnp.cli.tn/iptv/ch2139?code=150112319717507&key=36614
+http://cdnp.cli.tn/iptv/ch2139?code=150112319701102&key=36614
 
 
 
