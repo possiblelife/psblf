@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,09/10/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,10/10/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -277,6 +277,8 @@ http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8
 rtmp://live.streams.ovh/cannali/cannali
 #EXTINF:-1 group-title="Greece" tvg-logo="http://4.bp.blogspot.com/-o5PO61prqLw/TseaskPFynI/AAAAAAAAA84/9bLKY-CQeIg/s1600/energy-mediaset-canal-masculino-tv.PNG"  ,Energy 
 rtmp://live.streams.ovh:1935/LIFEHD/LIFEHD
+#EXTINF:-1 group-title="Greece" tvg-logo="https://bit.ly/madworldico" ,MAD WORLD
+http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 
 
 #EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   PAIDIKA   ============
@@ -4007,236 +4009,174 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/811.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER2",
 
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Cartoonito-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15400.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Discovery Focus-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15398.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Dmax HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15454.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Fox Life HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15392.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Juventus TV-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15389.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Premium Calcio 1-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/26368.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Premium Cinema Energy-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15438.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Premium Joy-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15435.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Premium Stories-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15433.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Rai Premium-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15431.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Foxcrime HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15411.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Primafila 07-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15354.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Sport 24 HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/26403.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Animal Planet-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15403.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Cielo-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15399.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Eurosport 1 HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15453.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Eurosport 2 HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/1688.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Fox Animation-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/26408.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Fox Comedy HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15451.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Fox HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15393.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Historia-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/1761.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Inter Channel-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15390.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Iris-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/1758.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | italia1 HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15448.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Italia 2-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15449.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | LA 5-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/1717.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | La7-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15447.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Mediaset Extra-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15446.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Milan Channel-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15386.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Nat Geo Wild HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15385.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Premium Action-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15382.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Premium Calcio-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15381.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Pesca e Caccia-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15383.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Premium Calcio 3-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/26370.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Premium Calcio 2-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/26369.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Premium Calcio 4-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/26371.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Premium Calcio 5-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/26372.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Premium Disney Junior-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15379.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Premium Emotion-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15436.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Premium Sport 2-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15378.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Premium Sport HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/1723.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Premium Studio Universal-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15377.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Rai Movie-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15432.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Rai Sport1-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15430.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Rai1 HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/26384.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Rai2 HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15427.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Rai4 HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/26387.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Rai3 HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/26386.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | RSI La1 HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15422.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Calcio 1-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15373.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | RSI La2 HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15421.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Cinema 1 HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/1657.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | SKY Cinema 3D-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15366.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Cinema Classic HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15419.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Cinema Cult HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/1714.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Cinema Passion HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/26397.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Cinema1 HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15414.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | SKY F1 HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/26400.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Moto GP HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/26402.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | SKY Primafila 01-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15364.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | SKY Primafila 03-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15358.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Primafila 08-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15353.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Sport2 HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15406.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Sport1 HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15407.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Sport3 HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15405.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | SKY TG 24-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15350.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Supercalcio HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/1721.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Uno HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15404.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Swiss | RSI La 1 HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/1655.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Teleticino-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15346.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | TOP CRIME-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15345.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | SUPER TENNIS (Backup)-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/26409.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Alice-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/1766.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | BOING-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/1716.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Canal 5-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/1709.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | CARTOON NETWORK-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15401.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Discovery HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15397.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Discovery Science HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15396.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Discovery Travel&Living HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15395.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | E! HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/1762.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Fox Crime HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15450.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Fox Sport HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15391.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Italian Fishing HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/11873.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Marcopolo-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/1755.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | NATIONAL GEOGRAPHIC HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15384.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Premium Cinema-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/26373.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Premium Cinema 2-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15439.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Premium Comedy-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15380.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Premium Crime-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/26376.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Rai Gulp-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15376.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Rai Yoyo-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15375.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Rai5-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/26388.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Rete4 HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/26389.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Real Time-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/11864.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Calcio 2-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15372.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Calcio 3-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15371.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Calcio 4-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15370.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Calcio 5-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15369.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Calcio 7-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15367.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Calcio 6-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15368.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Cinema Comedy HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/26394.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Cinema Family HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15417.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Cinema Max HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/1712.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | SKY Primafila 02-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15359.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Primafila 04-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15357.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Primafila 05-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15356.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Primafila 06-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15355.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Primafila 09-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15352.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Primafila 10-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15363.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Primafila 12-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15362.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Primafila 14-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15360.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Primafila 13-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15361.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Sky Sport F1 HD-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15408.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | SPORT ITALIA-
-http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/15349.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="Rai 1" tvg-name="Rai 1 HD" tvg-logo="https://www.altrospettacolo.it/wp-content/uploads/2018/01/raiuno-nuovo.jpg" ,Rai 1 HD
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/566.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="Rai 2" tvg-name="Rai 2 HD" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai2-hd.png" ,Rai 2 HD
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/567.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="Rai  3 HD" tvg-name="Rai 3 HD" tvg-logo="https://wondysonoio.org/wp-content/uploads/2017/05/rai3.png" ,Rai 3 HD
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/568.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="Rete 4 HD H265" tvg-name="Rete 4 HD" tvg-logo="http://hd-dreambox.com/imag/Rete_4.svg.png" ,Rete 4 HD
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1030.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="CANALE 5 HD" tvg-name="Canale 5 HD" tvg-logo="http://hd-dreambox.com/imag/Canale_5.svg.png" ,Canale 5 HD
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1031.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="Italia 1 HD H265" tvg-name="Italia 1 HD" tvg-logo="http://hd-dreambox.com/imag/Logo_Italia_1.svg.png" ,Italia 1 HD
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1032.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="LA7 HD H265" tvg-name="LA 7 HD" tvg-logo="https://www.cesarelanza.com/wp/wp-content/uploads/2015/02/La7-logo.jpg" ,LA 7 HD
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/283.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT:Rai 4 HD" tvg-name="RAI 4" tvg-logo="http://www.tvpertutti.it/IMG/rubon10.jpg" ,RAI 4
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/3096.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT: Rai 5 HD" tvg-name="Rai 5" tvg-logo="http://www.cartoonsbay.rai.it/wp-content/uploads/2018/03/RAI-5.png" ,Rai 5
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/3099.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="(IT) Rai Movie" tvg-name="Rai Movie" tvg-logo="https://www.cinematographe.it/wp-content/uploads/2017/02/rai-movie.jpg" ,Rai Movie
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/280.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT: Rai Premium HD" tvg-name="Rai Premium" tvg-logo="https://images.davidemaggio.it/pics3/2016/02/Rai-Premium.jpg" ,Rai Premium
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/278.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="LA 5" tvg-name="La 5" tvg-logo="http://logowow.net/logos/EBFLi4ejB.png" ,La 5
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/3091.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT:Iris" tvg-name="Iris" tvg-logo="http://www.dagospia.com/img/foto/05-2013/logo-iris-241282_tn.jpg" ,Iris
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1043.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="(IT) Top Crime HD" tvg-name="Top Crime" tvg-logo="https://mediacomunicazione.net/wp-content/uploads/2013/12/topcrime.jpg" ,Top Crime
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1042.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="Giallo" tvg-name="GIALLO" tvg-logo="http://www.ildecoder.com/wp/wp-content/uploads/2017/04/giallo.png" ,GIALLO
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2002.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT:Mediaset Extra" tvg-name="IT: Mediaset Extra" ,IT: Mediaset Extra
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1036.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="Mediaset Italia 2" tvg-name="IT: Mediaset Italia 2" ,IT: Mediaset Italia 2
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1035.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="TV 2000" tvg-name="IT: TV 2000" ,IT: TV 2000
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1045.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="Rai Storia HD" tvg-name="IT: RAI STORIA" ,IT: RAI STORIA
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/282.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Tsn Livigno" ,IT: Tsn Livigno
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/260.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Antenna Sicilia" ,IT: Antenna Sicilia
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/4433.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Radio Zeta" ,IT: Radio Zeta
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/576.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Tele Sondrio News" ,IT: Tele Sondrio News
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2828.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="Tgcom24" tvg-name="IT: Tgcom24 HD" ,IT: Tgcom24 HD
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/262.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="(IT) Rai News" tvg-name="IT: Rai News" ,IT: Rai News
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/264.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="SKY TG 24 HD" tvg-name="IT: Sky Tg24" ,IT: Sky Tg24
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/263.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="(IT) TG Norba24" tvg-name="IT: TG Norba 24" ,IT: TG Norba 24
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/261.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="*****Cinema*****" ,*****Cinema*****
 
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT:Premium.CinemaHD" tvg-name="IT: Premium Cinema" ,IT: Premium Cinema
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/837.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT:PREMIUM ACTION HD" tvg-name="IT: Premium Action" ,IT: Premium Action
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/3886.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT:PREMIUM CINEMA COMEDY" tvg-name="IT: Premium Comedy" ,IT: Premium Comedy
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/181.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT:PREMIUM EMOTION" tvg-name="IT: Premium Emotion" ,IT: Premium Emotion
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/180.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT:PREMIUM-ENERGY" tvg-name="IT: Premium Energy" ,IT: Premium Energy
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/179.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT: Premium Joy" tvg-name="IT: Premium Joi" ,IT: Premium Joi
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/178.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Sport Italia" ,IT: Sport Italia
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/3885.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT: Premium Stories" tvg-name="IT: Premium Stories" ,IT: Premium Stories
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/177.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="*****DAZN TEST*****" ,*****DAZN TEST*****
+@@
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="ITA: SUPER TENIS HD" ,ITA: SUPER TENIS HD
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/7096.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="ITA: JUVENTUS CHANNEL",ITA: JUVENTUS CHANNEL
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/7092.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="ITA: INTER CHANNEL",ITA: INTER CHANNEL
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/7093.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="ITA: ROMA CHANNEL",ITA: ROMA CHANNEL
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/7091.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="***** Bambini *****" ,***** Bambini *****
 
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: POP TV" ,IT: POP TV
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/4344.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Disney Junior" ,IT: Disney Junior
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/236.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: PEPPA PIG Channel" ,IT: PEPPA PIG Channel
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/239.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Boing" ,IT: Boing
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/238.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT:  Cartonito" ,IT:  Cartonito
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/241.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Rai yoyo" ,IT: Rai yoyo
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/235.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="(IT) Rai Gulp" tvg-name="IT: Rai Gulp" ,IT: Rai Gulp
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/277.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: FRESBEE" ,IT: FRESBEE
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/4415.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Super" ,IT: Super
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/234.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: K2" ,IT: K2
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/233.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="*****INTRATTENIMENTO*****" ,*****INTRATTENIMENTO*****
+
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="(IT) ALICE" tvg-name="IT: ALICE" ,IT: ALICE
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/273.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="GAMBERO ROSSO HD" tvg-name="IT: Gambero Rosso HD" ,IT: Gambero Rosso HD
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/248.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="(IT) MARCOPOLO" tvg-name="IT:  MARCOPOLO" ,IT:  MARCOPOLO
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/272.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="***** Cultura *****" ,***** Cultura *****
+@@
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT: AnimalPlanet" tvg-name="IT: Animal Planet" tvg-logo="https://banner2.kisspng.com/20180623/elh/kisspng-animal-planet-television-channel-cat-television-sh-5b2e4c5a33a651.1108237115297608582116.jpg" ,IT: Animal Planet
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/4343.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT:PREMIUM STUDIO UNIVERSAL" tvg-name="IT: Premium Studio Universal" tvg-logo="https://sicilia.onderadio.net/Loghi/TV/StUni.jpg" ,IT: Premium Studio Universal
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1971.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT:  Dove TV" ,IT:  Dove TV
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/4340.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT: Focus" tvg-name="IT: Focus" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/1/11/Focus_Logo.svg/1280px-Focus_Logo.svg.png" ,IT: Focus
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1044.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="Real Time HD" tvg-name="IT: Real Time" ,IT: Real Time
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1040.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="(IT) DMAX 1" tvg-name="IT: Dmax" tvg-logo="http://www.agenziagiornalisticaopinione.it/wp-content/uploads/2017/06/DMAX.png" ,IT: Dmax
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1034.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: CIELO" ,IT: CIELO
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/3094.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="***** MUSIC *****" ,***** MUSIC *****
+
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: 105 TV" ,IT: 105 TV
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/255.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: VH1 Italia" ,IT: VH1 Italia
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/257.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Radio Capital TV" ,IT: Radio Capital TV
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/253.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Radio Italia Rap TV" ,IT: Radio Italia Rap TV
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2829.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: NRJ HITS" ,IT: NRJ HITS
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2831.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT:  Mexicana" ,IT:  Mexicana
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/256.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Virgin Tv" ,IT: Virgin Tv
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/252.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT:  MTV Next HD" ,IT:  MTV Next HD
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/258.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: M2o Tv" ,IT: M2o Tv
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/254.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Paramount Channel" ,IT: Paramount Channel
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2832.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: BRIDGE DANCE TV" ,IT: BRIDGE DANCE TV
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2830.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Hit Music Channel" ,IT: Hit Music Channel
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2833.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT:  Radio Monte Carlo TV" ,IT:  Radio Monte Carlo TV
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2836.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: DeejayTv" ,IT: DeejayTv
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2840.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Radio Linea N*1" ,IT: Radio Linea N*1
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2835.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Radio Italia Tv" ,IT: Radio Italia Tv
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2834.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Radionorba Tv" ,IT: Radionorba Tv
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2837.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: MUSICA LATINA" ,IT: MUSICA LATINA
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2838.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Venere Tv 2" ,IT: Venere Tv 2
+http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2839.m3u8
 
 
 
@@ -4948,58 +4888,6 @@ http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/103.ts|user-agent=VLC/3
 
 
 #EXTINF:-1 group-title="France PREMIUM-SERVER4",
-
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS 1 HD
-
-http://ndaiptv.com:5999/live/adil1/adil2/297.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS 1 SD
-
-http://ndaiptv.com:5999/live/adil1/adil2/4661.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS 2 HD
-
-http://ndaiptv.com:5999/live/adil1/adil2/299.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS 2 SD
-
-http://ndaiptv.com:5999/live/adil1/adil2/4660.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS 3 HD
-
-http://ndaiptv.com:5999/live/adil1/adil2/300.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS 3 SD
-
-http://ndaiptv.com:5999/live/adil1/adil2/4659.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS MAX 4 HD
-
-http://ndaiptv.com:5999/live/adil1/adil2/301.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS MAX 4 SD
-
-http://ndaiptv.com:5999/live/adil1/adil2/4658.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS MAX 5 HD
-
-http://ndaiptv.com:5999/live/adil1/adil2/302.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS MAX 5 SD
-
-http://ndaiptv.com:5999/live/adil1/adil2/4657.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS MAX 6 HD
-
-http://ndaiptv.com:5999/live/adil1/adil2/303.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS MAX 6 SD
-
-http://ndaiptv.com:5999/live/adil1/adil2/4656.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS MAX 7 HD
-
-http://ndaiptv.com:5999/live/adil1/adil2/304.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS MAX 7 SD
-
-http://ndaiptv.com:5999/live/adil1/adil2/4655.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS MAX 8 SD
-
-http://ndaiptv.com:5999/live/adil1/adil2/4695.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS MAX 9 SD
-
-http://ndaiptv.com:5999/live/adil1/adil2/4696.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",|FR| BEIN SPORTS MAX 10 SD
-
-http://ndaiptv.com:5999/live/adil1/adil2/4697.m3u8
 
 
 
@@ -13817,6 +13705,754 @@ http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2704.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",
 
 
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Arabic-TV ///" tvg-logo="http://149.202.206.141:7070/logo/arabic2.png",Arabic-TV ///
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1684.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC1HD" tvg-logo="http://149.202.206.141:7070/logo/MBC1HD.png",MBC1HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1378.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC+_DRAMAHD" tvg-logo="http://149.202.206.141:7070/logo/MBC+_DRAMAHD.png",MBC+_DRAMAHD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3633.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="FOX-REWAYAT" ,FOX-REWAYAT
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6132.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC-DRAMAHD" tvg-logo="http://149.202.206.141:7070/logo/MBC-DRAMAHD.png",MBC-DRAMAHD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1395.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC+_Variety_HD" tvg-logo="http://149.202.206.141:7070/logo/MBC+_Variety_HD.png",MBC+_Variety_HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3612.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC2_HD" tvg-logo="http://149.202.206.141:7070/logo/MBC2_HD.png",MBC2_HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1371.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC3HD" tvg-logo="http://149.202.206.141:7070/logo/MBC3HD.png",MBC3HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3613.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC4HD" tvg-logo="http://149.202.206.141:7070/logo/MBC4HD.png",MBC4HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1377.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC-ACTIONHD" tvg-logo="http://149.202.206.141:7070/logo/MBC-ACTIONHD.png",MBC-ACTIONHD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1394.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC_MAX_HD" tvg-logo="http://149.202.206.141:7070/logo/MBC_MAX_HD.png",MBC_MAX_HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3614.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="LBCHD" tvg-logo="http://149.202.206.141:7070/logo/LBCHD.png",LBCHD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3628.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC1" tvg-logo="http://149.202.206.141:7070/logo/MBC1.png",MBC1
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/19.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC2" tvg-logo="http://149.202.206.141:7070/logo/MBC2.png",MBC2
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/20.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC3" tvg-logo="http://149.202.206.141:7070/logo/MBC3.png",MBC3
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/21.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC4" tvg-logo="http://149.202.206.141:7070/logo/MBC4.png",MBC4
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/22.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBCDRAMA" tvg-logo="http://149.202.206.141:7070/logo/MBCDRAMA.png",MBCDRAMA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/25.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBCAction" tvg-logo="http://149.202.206.141:7070/logo/MBCAction.png",MBCAction
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/23.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBCMAX" tvg-logo="http://149.202.206.141:7070/logo/MBCMAX.png",MBCMAX
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/26.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBCBollywood" tvg-logo="http://149.202.206.141:7070/logo/MBCBollywood.png",MBCBollywood
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/24.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC_Masr2" tvg-logo="http://149.202.206.141:7070/logo/MBC_Masr2.png",MBC_Masr2
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/28.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC_MASR" tvg-logo="http://149.202.206.141:7070/logo/MBC_MASR.png",MBC_MASR
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/27.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="FoxActionMoviesHD"  ,FoxActionMoviesHD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6911.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="FoxCrime-HD" ,FoxCrime-HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6913.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="FoxFamilyMovies-HD" ,FoxFamilyMovies-HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6915.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="FX-HD" ,FX-HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6914.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="FoxLife-HD" ,FoxLife-HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6912.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-SeeViiBeelink-HD" tvg-logo="http://149.202.206.141:7070/logo/AR-SeeViiBeelink-HD.png",AR-SeeViiBeelink-HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/4115.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-SeeVii_AlAoula-HD" tvg-logo="http://149.202.206.141:7070/logo/AR-SeeVii_AlAoula-HD.png",AR-SeeVii_AlAoula-HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/4114.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-SeeViiDrama-HD" tvg-logo="http://149.202.206.141:7070/logo/AR-SeeViiDrama-HD.png",AR-SeeViiDrama-HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/4116.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-SeeVii-Shamiya" tvg-logo="http://149.202.206.141:7070/logo/AR-SeeVii-Shamiya.png",AR-SeeVii-Shamiya
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3905.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="RotanHD" tvg-logo="http://149.202.206.141:7070/logo/RotanHD.png",RotanHD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3623.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotana-CinemaHD" tvg-logo="http://149.202.206.141:7070/logo/Rotana-CinemaHD.png",Rotana-CinemaHD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3624.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotana-AflamHD" tvg-logo="http://149.202.206.141:7070/logo/Rotana-AflamHD.png",Rotana-AflamHD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3625.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotana-ClassicHD" tvg-logo="http://149.202.206.141:7070/logo/Rotana-ClassicHD.png",Rotana-ClassicHD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3629.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotan-MasriyaHD" tvg-logo="http://149.202.206.141:7070/logo/Rotan-MasriyaHD.png",Rotan-MasriyaHD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3626.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="RessalaHD" tvg-logo="http://149.202.206.141:7070/logo/RessalaHD.png",RessalaHD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3627.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotana music" tvg-logo="http://149.202.206.141:7070/logo/Rotana music.png" ,Rotana music
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/43.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotana_Cinema_KSA" tvg-logo="http://149.202.206.141:7070/logo/Rotana_Cinema_KSA.png" ,Rotana_Cinema_KSA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/45.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotana_Cinema_EGY" tvg-logo="http://149.202.206.141:7070/logo/Rotana_Cinema_EGY.png" ,Rotana_Cinema_EGY
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/44.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotana-Masriya" tvg-logo="http://149.202.206.141:7070/logo/Rotana-Masriya.png" ,Rotana-Masriya
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/49.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotana_Clip" tvg-logo="http://149.202.206.141:7070/logo/Rotana_Clip.png" ,Rotana_Clip
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/47.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotana_Khalijiah" tvg-logo="http://149.202.206.141:7070/logo/Rotana_Khalijiah.png" ,Rotana_Khalijiah
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/48.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotana_Classic" tvg-logo="http://149.202.206.141:7070/logo/Rotana_Classic.png" ,Rotana_Classic
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/46.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Almajd-Space" tvg-logo="http://149.202.206.141:7070/logo/Almajd-Space.png",Almajd-Space
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2314.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Almajd-Science" tvg-logo="http://149.202.206.141:7070/logo/Almajd-Science.png",Almajd-Science
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2312.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Almajd-Quran" tvg-logo="http://149.202.206.141:7070/logo/Almajd-Quran.png",Almajd-Quran
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2313.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Almajd-hadeeth" tvg-logo="http://149.202.206.141:7070/logo/Almajd-hadeeth.png",Almajd-hadeeth
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2311.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="ART_Cinema" tvg-logo="http://149.202.206.141:7070/logo/ART_Cinema.png",ART_Cinema
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/53.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Aflam_1" tvg-logo="http://149.202.206.141:7070/logo/Aflam_1.png",Aflam_1
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/51.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Aflam_2" tvg-logo="http://149.202.206.141:7070/logo/Aflam_2.png",Aflam_2
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/52.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Hekayat" tvg-logo="http://149.202.206.141:7070/logo/Hekayat.png",Hekayat
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/54.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Hekayat_2" tvg-logo="http://149.202.206.141:7070/logo/Hekayat_2.png",Hekayat_2
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/75.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="NATIONAL1" tvg-logo="http://149.202.206.141:7070/logo/NATIONAL1.png" ,NATIONAL1
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/29.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="National2" tvg-logo="http://149.202.206.141:7070/logo/National2.png" ,National2
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/780.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-ELHIWAR_ETTOUNSI" tvg-logo="http://149.202.206.141:7070/logo/AR-ELHIWAR_ETTOUNSI.png" ,AR-ELHIWAR_ETTOUNSI
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/34.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-NESMA-tv" tvg-logo="http://149.202.206.141:7070/logo/AR-NESMA-tv.png" ,AR-NESMA-tv
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/32.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-ATTESSIA-TV" tvg-logo="http://149.202.206.141:7070/logo/AR-ATTESSIA-TV.png" ,AR-ATTESSIA-TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/499.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-hannibal" tvg-logo="http://149.202.206.141:7070/logo/AR-hannibal.png" ,AR-hannibal
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/31.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-ZAYTOONA" tvg-logo="http://149.202.206.141:7070/logo/AR-ZAYTOONA.png" ,AR-ZAYTOONA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/840.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-TUNISNA" tvg-logo="http://149.202.206.141:7070/logo/AR-TUNISNA.png" ,AR-TUNISNA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/35.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-ZITOUNA-HEDAYA" tvg-logo="http://149.202.206.141:7070/logo/Ar-ZITOUNA-HEDAYA.png" ,Ar-ZITOUNA-HEDAYA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1687.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-janoubiyya" tvg-logo="http://149.202.206.141:7070/logo/Ar-janoubiyya.png" ,Ar-janoubiyya
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/112.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AL_MUTAWASIT-TV" tvg-logo="http://149.202.206.141:7070/logo/AL_MUTAWASIT-TV.png" ,AL_MUTAWASIT-TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/36.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-FIRST-tv" tvg-logo="http://149.202.206.141:7070/logo/AR-FIRST-tv.png" ,AR-FIRST-tv
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/38.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-TELVZA_TV" tvg-logo="http://149.202.206.141:7070/logo/AR-TELVZA_TV.png" ,AR-TELVZA_TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/33.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-CanalALGERIA" tvg-logo="http://149.202.206.141:7070/logo/AR-CanalALGERIA.png" ,AR-CanalALGERIA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1715.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Algeria3" tvg-logo="http://149.202.206.141:7070/logo/Algeria3.png" ,Algeria3
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1685.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Numidia-News" tvg-logo="http://149.202.206.141:7070/logo/AR-Numidia-News.png" ,AR-Numidia-News
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1599.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Arb-EN TV-Algeria" tvg-logo="http://149.202.206.141:7070/logo/Arb-EN TV-Algeria.png" ,Arb-EN TV-Algeria
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1471.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Algeria4_tv" tvg-logo="http://149.202.206.141:7070/logo/Ar-Algeria4_tv.png" ,Ar-Algeria4_tv
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1682.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-heddaf" tvg-logo="http://149.202.206.141:7070/logo/AR-heddaf.png" ,AR-heddaf
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/829.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-ECHOUROUK-HD" tvg-logo="http://149.202.206.141:7070/logo/AR-ECHOUROUK-HD.png" ,AR-ECHOUROUK-HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1601.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Echourouk-benna" tvg-logo="http://149.202.206.141:7070/logo/AR-Echourouk-benna.png" ,AR-Echourouk-benna
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/831.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Echourouk-News" tvg-logo="http://149.202.206.141:7070/logo/AR-Echourouk-News.png" ,AR-Echourouk-News
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/203.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Coran-algerie" tvg-logo="http://149.202.206.141:7070/logo/AR-Coran-algerie.png" ,AR-Coran-algerie
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1644.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Dzair_TV" tvg-logo="http://149.202.206.141:7070/logo/AR-Dzair_TV.png" ,AR-Dzair_TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/202.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Samira-TV" tvg-logo="http://149.202.206.141:7070/logo/AR-Samira-TV.png",AR-Samira-TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/210.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR: BAHIA-tv"  ,AR: BAHIA-tv
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/5628.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR: Berbere-TV"  ,AR: Berbere-TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/5629.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR: BERBERE-JEUNESSE"  ,AR: BERBERE-JEUNESSE
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/5673.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR:BERBERE-MUSIC"  ,AR:BERBERE-MUSIC
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/5674.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR:MEDI1TV-AFRIQUE"  ,AR:MEDI1TV-AFRIQUE
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/5675.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR:TQ5TV"  ,AR:TQ5TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/5676.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR:CHAMS-ALGERIE"  ,AR:CHAMS-ALGERIE
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/5627.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Karameesh" tvg-logo="http://149.202.206.141:7070/logo/AR-Karameesh.png",AR-Karameesh
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1535.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Dzair3" tvg-logo="http://149.202.206.141:7070/logo/AR-Dzair3.png" ,AR-Dzair3
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1598.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-DZAIRBILAD" tvg-logo="http://149.202.206.141:7070/logo/AR-DZAIRBILAD.png" ,AR-DZAIRBILAD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1602.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-DZAIR-news" tvg-logo="http://149.202.206.141:7070/logo/AR-DZAIR-news.png" ,AR-DZAIR-news
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1596.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-beur-algerie" tvg-logo="http://149.202.206.141:7070/logo/AR-beur-algerie.png" ,AR-beur-algerie
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1600.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-DJAZAIRIA" tvg-logo="http://149.202.206.141:7070/logo/Ar-DJAZAIRIA.png" ,Ar-DJAZAIRIA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/205.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-ENNAHAR-TV" tvg-logo="http://149.202.206.141:7070/logo/AR-ENNAHAR-TV.png" ,AR-ENNAHAR-TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/164.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Ennahar-Laki" tvg-logo="http://149.202.206.141:7070/logo/AR-Ennahar-Laki.png" ,AR-Ennahar-Laki
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/207.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Medi1_TV" tvg-logo="http://149.202.206.141:7070/logo/AR-Medi1_TV.png" ,AR-Medi1_TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/293.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Almaghribia" tvg-logo="http://149.202.206.141:7070/logo/AR-Almaghribia.png" ,AR-Almaghribia
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2028.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Al_Magharibia" tvg-logo="http://149.202.206.141:7070/logo/AR-Al_Magharibia.png" ,AR-Al_Magharibia
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/821.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AlMagharibia-Two" tvg-logo="http://149.202.206.141:7070/logo/AlMagharibia-Two.png" ,AlMagharibia-Two
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1917.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-2M_Maroc" tvg-logo="http://149.202.206.141:7070/logo/AR-2M_Maroc.png" ,AR-2M_Maroc
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/197.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Arriadia" tvg-logo="http://149.202.206.141:7070/logo/AR-Arriadia.png" ,AR-Arriadia
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1533.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-ToyorBaby" tvg-logo="http://149.202.206.141:7070/logo/AR-Al Rasheed.png",Ar-ToyorBaby
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1532.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Assadissa" tvg-logo="http://149.202.206.141:7070/logo/AR-Assadissa.png" ,AR-Assadissa
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1645.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AlAoula-maroc" tvg-logo="http://149.202.206.141:7070/logo/AlAoula-maroc.png" ,AlAoula-maroc
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1646.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Tamazight" tvg-logo="http://149.202.206.141:7070/logo/AR-Tamazight.png" ,AR-Tamazight
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1473.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-HD-FILM" tvg-logo="http://149.202.206.141:7070/logo/Ar-HD-FILM.png",Ar-HD-FILM
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2293.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-HD-CLASSIC" tvg-logo="http://149.202.206.141:7070/logo/Ar-HD-CLASSIC.png",Ar-HD-CLASSIC
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2291.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-CINEMA2" tvg-logo="http://149.202.206.141:7070/logo/Ar-CINEMA2.png",Ar-CINEMA2
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2302.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-CINEMA1" tvg-logo="http://149.202.206.141:7070/logo/Ar-CINEMA1.png",Ar-CINEMA1
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2301.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-CINEMA-ALWAN" tvg-logo="http://149.202.206.141:7070/logo/Ar-CINEMA-ALWAN.png",Ar-CINEMA-ALWAN
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2296.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-FATAFEAT" tvg-logo="http://149.202.206.141:7070/logo/AR-FATAFEAT.png",AR-FATAFEAT
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/98.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR_Drama_Sudan" tvg-logo="http://149.202.206.141:7070/logo/AR_Drama_Sudan.png",AR_Drama_Sudan
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2064.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="CBC" tvg-logo="http://149.202.206.141:7070/logo/CBC.png",CBC
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/56.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="CBC2" tvg-logo="http://149.202.206.141:7070/logo/CBC2.png",CBC2
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/57.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="CBC-Drama" tvg-logo="http://149.202.206.141:7070/logo/CBC-Drama.png",CBC-Drama
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/58.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="CBC-Extra" tvg-logo="http://149.202.206.141:7070/logo/CBC-Extra.png",CBC-Extra
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/59.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="CBC-Sofra" tvg-logo="http://149.202.206.141:7070/logo/CBC-Sofra.png",CBC-Sofra
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/60.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AlArabiya-Hadath" tvg-logo="http://149.202.206.141:7070/logo/AlArabiya-Hadath.png",AlArabiya-Hadath
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/151.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Arabiya" tvg-logo="http://149.202.206.141:7070/logo/Ar-Arabiya.png",Ar-Arabiya
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/150.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="CNBC-ARABIA" tvg-logo="http://149.202.206.141:7070/logo/CNBC-ARABIA.png",CNBC-ARABIA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1916.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-JAZEERA" tvg-logo="http://149.202.206.141:7070/logo/Ar-JAZEERA.png",Ar-JAZEERA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/146.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Jazeera-Documentary" tvg-logo="http://149.202.206.141:7070/logo/Ar-Jazeera-Documentary.png",Ar-Jazeera-Documentary
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/155.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Ontv_live" tvg-logo="http://149.202.206.141:7070/logo/AR-Ontv_live.png",AR-Ontv_live
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1642.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-ONTV-sport" tvg-logo="http://149.202.206.141:7070/logo/Ar-ONTV-sport.png",Ar-ONTV-sport
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/835.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="ON-E" tvg-logo="http://149.202.206.141:7070/logo/ON-E.png",ON-E
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3702.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Al Masira" tvg-logo="http://149.202.206.141:7070/logo/Ar-Al Masira.png",Ar-Al Masira
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/833.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-SAMA-CINEMA" tvg-logo="http://149.202.206.141:7070/logo/AR-SAMA-CINEMA.png",AR-SAMA-CINEMA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/848.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="arb-TRTArabic" tvg-logo="http://149.202.206.141:7070/logo/arb-TRTArabic.png" ,arb-TRTArabic
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1460.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-BBC-ARABIC" tvg-logo="http://149.202.206.141:7070/logo/AR-BBC-ARABIC.png",AR-BBC-ARABIC
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/824.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-FRANCE24" tvg-logo="http://149.202.206.141:7070/logo/AR-FRANCE24.png",AR-FRANCE24
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/129.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-RT_arabic" tvg-logo="http://149.202.206.141:7070/logo/Ar-RT_arabic.png",Ar-RT_arabic
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2067.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-NBN" tvg-logo="http://149.202.206.141:7070/logo/AR-NBN.png",AR-NBN
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/826.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Mayadeen" tvg-logo="http://149.202.206.141:7070/logo/Ar-Mayadeen.png",Ar-Mayadeen
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/816.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-ANN-News" tvg-logo="http://149.202.206.141:7070/logo/AR-ANN-News.png",AR-ANN-News
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/828.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-DW-TV" tvg-logo="http://149.202.206.141:7070/logo/AR-DW-TV.png",AR-DW-TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/288.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AD-NatGeo" tvg-logo="http://149.202.206.141:7070/logo/AD-NatGeo.png",AD-NatGeo
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/119.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AD-DRAMA" tvg-logo="http://149.202.206.141:7070/logo/AD-DRAMA.png",AD-DRAMA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/102.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AD_ALOULA" tvg-logo="http://149.202.206.141:7070/logo/AD_ALOULA.png",AD_ALOULA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/105.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AD-ALEMARAT" tvg-logo="http://149.202.206.141:7070/logo/AD-ALEMARAT.png",AD-ALEMARAT
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/101.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-SAUDI 1" tvg-logo="http://149.202.206.141:7070/logo/Ar-SAUDI 1.png",Ar-SAUDI 1
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1530.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-SAUDI_2" tvg-logo="http://149.202.206.141:7070/logo/AR-SAUDI_2.png",AR-SAUDI_2
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/195.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="SAUDI-EKHBARIYA" tvg-logo="http://149.202.206.141:7070/logo/SAUDI-EKHBARIYA.png",SAUDI-EKHBARIYA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3711.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="saudi-QUran" tvg-logo="http://149.202.206.141:7070/logo/saudi-QUran.png",saudi-QUran
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3714.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="arb-Saudi Sunnah" tvg-logo="http://149.202.206.141:7070/logo/arb-Saudi Sunnah.png",arb-Saudi Sunnah
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/173.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Saudi-24" tvg-logo="http://149.202.206.141:7070/logo/AR-Saudi-24.png",AR-Saudi-24
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1527.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Iraqia-Sport" tvg-logo="http://149.202.206.141:7070/logo/Iraqia-Sport.png",Iraqia-Sport
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1705.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR:YAS-sport"  ,AR:YAS-sport
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/5630.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Rafiden" tvg-logo="http://149.202.206.141:7070/logo/Ar-Rafiden.png",Ar-Rafiden
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1702.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar: Iraq Alnaeem" tvg-logo="http://149.202.206.141:7070/logo/Ar-Naeem-TV.png",Ar: Iraq Alnaeem
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1869.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Masar" tvg-logo="http://149.202.206.141:7070/logo/Ar-Masar.png",Ar-Masar
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1704.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar: Alassema" tvg-logo="http://149.202.206.141:7070/logo/Ar-ASSEMA.png",Ar: Alassema
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1703.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Elsharq" tvg-logo="http://149.202.206.141:7070/logo/AR-KURDISTAN-TV.png",Ar-Elsharq
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1640.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Alrai" tvg-logo="http://149.202.206.141:7070/logo/Alrai.png",Alrai
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1686.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Wanasah" tvg-logo="http://149.202.206.141:7070/logo/Ar-Wanasah.png" ,Ar-Wanasah
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/111.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="arb-AGHANIA TV" tvg-logo="http://149.202.206.141:7070/logo/arb-AGHANIA TV.png" ,arb-AGHANIA TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1459.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Palastin" tvg-logo="http://149.202.206.141:7070/logo/Ar--Hurra-Iraq.png",Ar-Palastin
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1636.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar_Al Fallujah Iraq" tvg-logo="http://149.202.206.141:7070/logo/Au-wtv_perth.png",Ar_Al Fallujah Iraq
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3809.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="IRQ-Al-Forat" tvg-logo="http://149.202.206.141:7070/logo/IRQ-Al-Forat.png",IRQ-Al-Forat
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1470.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Alhurra" tvg-logo="http://149.202.206.141:7070/logo/Alhurra.png",Alhurra
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/124.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-AFAK-TV" tvg-logo="http://149.202.206.141:7070/logo/AR-AFAK-TV.png",AR-AFAK-TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1501.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR: AL SHARQIYA" tvg-logo="http://149.202.206.141:7070/logo/Ar--SHARQIYA-HD.png",AR: AL SHARQIYA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1641.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar--Mawsleya" tvg-logo="http://149.202.206.141:7070/logo/Ar--Mawsleya.png",Ar--Mawsleya
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1633.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Sumaria-TV" tvg-logo="http://149.202.206.141:7070/logo/Ar-Sumaria-TV.png",Ar-Sumaria-TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1643.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Rudaw-HD" tvg-logo="http://149.202.206.141:7070/logo/AR-Rudaw-HD.png",AR-Rudaw-HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1632.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-TV-kurd" tvg-logo="http://149.202.206.141:7070/logo/Ar-TV-kurd.png",Ar-TV-kurd
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2066.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-SHARKIA-NEWS" tvg-logo="http://149.202.206.141:7070/logo/AR-SHARKIA-NEWS.png",AR-SHARKIA-NEWS
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1500.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Halab Today" tvg-logo="http://149.202.206.141:7070/logo/AR-Halab Today.png",AR-Halab Today
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1499.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="YEMEN-TV" tvg-logo="http://149.202.206.141:7070/logo/YEMEN-TV.png",YEMEN-TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1553.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Moga-Comedy" tvg-logo="http://149.202.206.141:7070/logo/AR-Moga-Comedy.png",AR-Moga-Comedy
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1534.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Melody_Classic" tvg-logo="http://149.202.206.141:7070/logo/AR-Melody_Classic.png",AR-Melody_Classic
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/140.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Mazzika" tvg-logo="http://149.202.206.141:7070/logo/AR-Mazzika.png",AR-Mazzika
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/291.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-NOOR-DUBAI" tvg-logo="http://149.202.206.141:7070/logo/AR-NOOR-DUBAI.png",AR-NOOR-DUBAI
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/149.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-MUSIC_Al_Hanen" tvg-logo="http://149.202.206.141:7070/logo/AR-MUSIC_Al_Hanen.png",AR-MUSIC_Al_Hanen
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/131.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-DUBAITV" tvg-logo="http://149.202.206.141:7070/logo/AR-DUBAITV.png",AR-DUBAITV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/128.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-DUBAI-ONE" tvg-logo="http://149.202.206.141:7070/logo/AR-DUBAI-ONE.png",AR-DUBAI-ONE
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/126.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-SAMADUBAI" tvg-logo="http://149.202.206.141:7070/logo/AR-SAMADUBAI.png",AR-SAMADUBAI
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/133.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Ennahar_Algerie" tvg-logo="http://149.202.206.141:7070/logo/Ar-Ennahar_Algerie.png" ,Ar-Ennahar_Algerie
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1681.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Abu dhabi TV" tvg-logo="http://149.202.206.141:7070/logo/Ar-Abu dhabi TV.png",Ar-Abu dhabi TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1469.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AJMAN-TV" tvg-logo="http://149.202.206.141:7070/logo/AJMAN-TV.png",AJMAN-TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/153.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-MANAR" tvg-logo="http://149.202.206.141:7070/logo/Ar-MANAR.png",Ar-MANAR
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/853.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar--SHARJAH" tvg-logo="http://149.202.206.141:7070/logo/Ar--SHARJAH.png",Ar--SHARJAH
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/121.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AL_BAIT_BAITAK_CINEMA" tvg-logo="http://149.202.206.141:7070/logo/AL_BAIT_BAITAK_CINEMA.png",AL_BAIT_BAITAK_CINEMA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/284.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OTV-LEBANON" tvg-logo="http://149.202.206.141:7070/logo/OTV-LEBANON.png",OTV-LEBANON
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1925.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-LDC" tvg-logo="http://149.202.206.141:7070/logo/AR-LDC.png",AR-LDC
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1648.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-LBC" tvg-logo="http://149.202.206.141:7070/logo/AR-LBC.png",AR-LBC
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/139.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Cartoon" tvg-logo="http://149.202.206.141:7070/logo/AR-Cartoon.png",AR-Cartoon
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/162.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-FUTURE_TV" tvg-logo="http://149.202.206.141:7070/logo/AR-FUTURE_TV.png",AR-FUTURE_TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/280.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Mickey" tvg-logo="http://149.202.206.141:7070/logo/AR-Mickey.png",AR-Mickey
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/286.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-mtv_lebanon" tvg-logo="http://149.202.206.141:7070/logo/AR-mtv_lebanon.png",AR-mtv_lebanon
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/209.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Teleliban" tvg-logo="http://149.202.206.141:7070/logo/AR-Teleliban.png",AR-Teleliban
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/819.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-JADEED" tvg-logo="http://149.202.206.141:7070/logo/AR-JADEED.png",AR-JADEED
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/813.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Al_Aqsa" tvg-logo="http://149.202.206.141:7070/logo/AR-Al_Aqsa.png",AR-Al_Aqsa
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1606.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="arb-AL-Quds" tvg-logo="http://149.202.206.141:7070/logo/arb-AL-Quds.png",arb-AL-Quds
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/108.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Al_Rayyan" tvg-logo="http://149.202.206.141:7070/logo/Ar-Al_Rayyan.png",Ar-Al_Rayyan
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3569.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Hawacom(Leb)" tvg-logo="http://149.202.206.141:7070/logo/Ar-Hawacom(Leb).png",Ar-Hawacom(Leb)
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3568.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Syria-News" tvg-logo="http://149.202.206.141:7070/logo/AR-Syria-News.png",AR-Syria-News
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/825.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Syria_TV" tvg-logo="http://149.202.206.141:7070/logo/Syria_TV.png",Syria_TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1399.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="NABD-SYRIA" tvg-logo="http://149.202.206.141:7070/logo/NABD-SYRIA.png",NABD-SYRIA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3707.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="SAMA-SYRIA" tvg-logo="http://149.202.206.141:7070/logo/SAMA-SYRIA.png",SAMA-SYRIA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3708.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Syria-DRAMA" tvg-logo="http://149.202.206.141:7070/logo/Syria-DRAMA.png",Syria-DRAMA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1401.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="arb-sama_alsham" tvg-logo="http://149.202.206.141:7070/logo/arb-sama_alsham.png",arb-sama_alsham
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1458.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Nile_news" tvg-logo="http://149.202.206.141:7070/logo/Nile_news.png",Nile_news
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/295.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Nile_Life" tvg-logo="http://149.202.206.141:7070/logo/Nile_Life.png",Nile_Life
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/144.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Nile_Family" tvg-logo="http://149.202.206.141:7070/logo/Nile_Family.png",Nile_Family
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/143.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Nile_Drama" tvg-logo="http://149.202.206.141:7070/logo/Nile_Drama.png",Nile_Drama
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/142.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Nile_Cinema" tvg-logo="http://149.202.206.141:7070/logo/Nile_Cinema.png",Nile_Cinema
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/294.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Nile_Comedy" tvg-logo="http://149.202.206.141:7070/logo/Nile_Comedy.png",Nile_Comedy
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/141.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Sada_Elbalad" tvg-logo="http://149.202.206.141:7070/logo/AR-Sada_Elbalad.png",AR-Sada_Elbalad
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/4109.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="SadaElBalad2"  ,SadaElBalad2
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6771.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Almasriyah" tvg-logo="http://149.202.206.141:7070/logo/AR-Almasriyah.png",AR-Almasriyah
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/4103.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Ten" tvg-logo="http://149.202.206.141:7070/logo/AR-Ten.png",AR-Ten
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/4108.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Hayat-Cinema" tvg-logo="http://149.202.206.141:7070/logo/Ar-Hayat-Cinema.png",Ar-Hayat-Cinema
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/136.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Alhayat-Muslsalat" tvg-logo="http://149.202.206.141:7070/logo/Alhayat-Muslsalat.png",Alhayat-Muslsalat
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/515.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AlNahar-Drama" tvg-logo="http://149.202.206.141:7070/logo/AlNahar-Drama.png",AlNahar-Drama
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/159.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-nahar-nour" tvg-logo="http://149.202.206.141:7070/logo/Ar-nahar-nour.png",Ar-nahar-nour
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/838.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Nahar-Al-Youm" tvg-logo="http://149.202.206.141:7070/logo/Ar-Nahar-Al-Youm.png",Ar-Nahar-Al-Youm
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/837.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Nahar+2" tvg-logo="http://149.202.206.141:7070/logo/Ar-Nahar+2.png",Ar-Nahar+2
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/834.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar--Nahar" tvg-logo="http://149.202.206.141:7070/logo/Ar--Nahar.png",Ar--Nahar
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/156.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="DREAM1" tvg-logo="http://149.202.206.141:7070/logo/DREAM1.png",DREAM1
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/287.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Dream2" tvg-logo="http://149.202.206.141:7070/logo/Dream2.png",Dream2
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/163.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Sky_News" tvg-logo="http://149.202.206.141:7070/logo/Ar-Sky_News.png",Ar-Sky_News
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2305.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Cairo-Drama" tvg-logo="http://149.202.206.141:7070/logo/Cairo-Drama.png",Cairo-Drama
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/109.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Cairo-cinema" tvg-logo="http://149.202.206.141:7070/logo/Cairo-cinema.png",Cairo-cinema
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/107.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-DMC" tvg-logo="http://149.202.206.141:7070/logo/AR-DMC.png",AR-DMC
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/4106.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-DMC_DRAMA" tvg-logo="http://149.202.206.141:7070/logo/AR-DMC_DRAMA.png",AR-DMC_DRAMA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/4105.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-DMC_Sports" tvg-logo="http://149.202.206.141:7070/logo/AR-DMC_Sports.png",AR-DMC_Sports
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/4104.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR:FAMILY-DRAMA"  ,AR:FAMILY-DRAMA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/5631.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Panorama-Drama2" tvg-logo="http://149.202.206.141:7070/logo/Panorama-Drama2.png",Panorama-Drama2
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/41.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Panorama-Drama" tvg-logo="http://149.202.206.141:7070/logo/Panorama-Drama.png",Panorama-Drama
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/40.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Panorama-Film" tvg-logo="http://149.202.206.141:7070/logo/Panorama-Film.png",Panorama-Film
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1555.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Panorama-comedy" tvg-logo="http://149.202.206.141:7070/logo/Panorama-comedy.png",Panorama-comedy
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/844.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Panorama-FOOD" tvg-logo="http://149.202.206.141:7070/logo/Panorama-FOOD.png",Panorama-FOOD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/842.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Elbalad_Drama" tvg-logo="http://149.202.206.141:7070/logo/AR-Elbalad_Drama.png",AR-Elbalad_Drama
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/115.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-time_cinema" tvg-logo="http://149.202.206.141:7070/logo/AR-time_cinema.png",AR-time_cinema
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/223.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-TIME-COMEDY" tvg-logo="http://149.202.206.141:7070/logo/AR-TIME-COMEDY.png",AR-TIME-COMEDY
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/849.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="STAR-CINEMA2" tvg-logo="http://149.202.206.141:7070/logo/STAR-CINEMA2.png",STAR-CINEMA2
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/850.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="STAR-CINEMA1" tvg-logo="http://149.202.206.141:7070/logo/STAR-CINEMA1.png",STAR-CINEMA1
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/851.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="LTC-MASR" tvg-logo="http://149.202.206.141:7070/logo/LTC-MASR.png",LTC-MASR
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/845.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Elbilad" tvg-logo="http://149.202.206.141:7070/logo/AR-Elbilad.png",AR-Elbilad
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/4102.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-ElBalad-Drama" tvg-logo="http://149.202.206.141:7070/logo/AR-ElBalad-Drama.png",AR-ElBalad-Drama
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/843.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="ALMASRAWIA-AFLAM" tvg-logo="http://149.202.206.141:7070/logo/ALMASRAWIA-AFLAM.png" ,ALMASRAWIA-AFLAM
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/847.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-imagine_moives" tvg-logo="http://149.202.206.141:7070/logo/AR-imagine_moives.png",AR-imagine_moives
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/852.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Althanya" tvg-logo="http://149.202.206.141:7070/logo/Althanya.png",Althanya
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/199.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Mehwer" tvg-logo="http://149.202.206.141:7070/logo/AR-Mehwer.png",AR-Mehwer
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/130.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="arb-Royatv" tvg-logo="http://149.202.206.141:7070/logo/arb-Royatv.png" ,arb-Royatv
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1461.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Arb-Al_Rahma" tvg-logo="http://149.202.206.141:7070/logo/Arb-Al_Rahma.png",Arb-Al_Rahma
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1454.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="arb-Libya1_TV" tvg-logo="http://149.202.206.141:7070/logo/arb-Libya1_TV.png" ,arb-Libya1_TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1453.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-FUNoon" tvg-logo="http://149.202.206.141:7070/logo/AR-FUNoon.png",AR-FUNoon
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/289.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-SADA-MISR" tvg-logo="http://149.202.206.141:7070/logo/Ar-SADA-MISR.png",Ar-SADA-MISR
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2299.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-NOUR-KIDS" tvg-logo="http://149.202.206.141:7070/logo/Ar-NOUR-KIDS.png",Ar-NOUR-KIDS
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2300.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Amen_TV" tvg-logo="http://149.202.206.141:7070/logo/Ar-Amen_TV.png",Ar-Amen_TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2304.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-GNN" tvg-logo="http://149.202.206.141:7070/logo/Ar-GNN.png",Ar-GNN
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2295.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Menhag-Alnbowa" tvg-logo="http://149.202.206.141:7070/logo/Menhag-Alnbowa.png",Menhag-Alnbowa
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1918.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-HEYA" tvg-logo="http://149.202.206.141:7070/logo/AR-HEYA.png",AR-HEYA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/815.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Qatar" tvg-logo="http://149.202.206.141:7070/logo/AR-Qatar.png",AR-Qatar
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/132.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="ALGHAD-ALARABI" tvg-logo="http://149.202.206.141:7070/logo/ALGHAD-ALARABI.png",ALGHAD-ALARABI
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/198.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Sudan-OUS" tvg-logo="http://149.202.206.141:7070/logo/Sudan-OUS.png",Sudan-OUS
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3710.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Neelain-Sport-sudan" tvg-logo="http://149.202.206.141:7070/logo/Neelain-Sport-sudan.png",Neelain-Sport-sudan
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3709.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-SUDAN-TV" tvg-logo="http://149.202.206.141:7070/logo/AR-SUDAN-TV.png",AR-SUDAN-TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/820.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Blue_Nile" tvg-logo="http://149.202.206.141:7070/logo/Ar-Blue_Nile.png",Ar-Blue_Nile
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1531.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Kuweit 1" tvg-logo="http://149.202.206.141:7070/logo/AR-Kuweit 1.png",AR-Kuweit 1
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1635.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-KTV2" tvg-logo="http://149.202.206.141:7070/logo/Ar-KTV2.png",Ar-KTV2
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/814.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Baraem" tvg-logo="http://149.202.206.141:7070/logo/AR-Baraem.png",AR-Baraem
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/55.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Ktv_Al_Arabi" tvg-logo="http://149.202.206.141:7070/logo/AR-Ktv_Al_Arabi.png",AR-Ktv_Al_Arabi
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1689.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="TAHA-atfal" tvg-logo="http://149.202.206.141:7070/logo/TAHA-atfal.png",TAHA-atfal
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2229.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AlJazeera_Children" tvg-logo="http://149.202.206.141:7070/logo/AlJazeera_Children.png",AlJazeera_Children
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/61.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Jeem-CartoonArabia" tvg-logo="http://149.202.206.141:7070/logo/AR-Jeem-CartoonArabia.png",AR-Jeem-CartoonArabia
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/167.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-SPACETOON" tvg-logo="http://149.202.206.141:7070/logo/AR-SPACETOON.png",AR-SPACETOON
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/134.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Toyor" tvg-logo="http://149.202.206.141:7070/logo/Toyor.png",Toyor
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1398.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Falastiniah" tvg-logo="http://149.202.206.141:7070/logo/AR-Falastiniah.png",AR-Falastiniah
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1605.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Alruqia-TV" tvg-logo="http://149.202.206.141:7070/logo/Alruqia-TV.png",Alruqia-TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1621.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-SAT7-ARABIC" tvg-logo="http://149.202.206.141:7070/logo/AR-SAT7-ARABIC.png",AR-SAT7-ARABIC
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1608.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Al Nahar Cinema" tvg-logo="http://149.202.206.141:7070/logo/Ar-Al Nahar Cinema.png",Ar-Al Nahar Cinema
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/194.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-TOKTOK-CINEMA" tvg-logo="http://149.202.206.141:7070/logo/AR-TOKTOK-CINEMA.png",AR-TOKTOK-CINEMA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/116.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar--MASSAR-AL-OULA" tvg-logo="http://149.202.206.141:7070/logo/Ar--MASSAR-AL-OULA.png",Ar--MASSAR-AL-OULA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1914.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Iqraa" tvg-logo="http://149.202.206.141:7070/logo/AR-Iqraa.png",AR-Iqraa
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/812.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AL_Resala" tvg-logo="http://149.202.206.141:7070/logo/AL_Resala.png",AL_Resala
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/161.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AL_MAJD" tvg-logo="http://149.202.206.141:7070/logo/AL_MAJD.png",AL_MAJD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/285.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-cima" tvg-logo="http://149.202.206.141:7070/logo/Ar-cima.png",Ar-cima
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/279.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-NADA-TV" tvg-logo="http://149.202.206.141:7070/logo/Ar-NADA-TV.png",Ar-NADA-TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/839.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-AYAAT" tvg-logo="http://149.202.206.141:7070/logo/AR-AYAAT.png",AR-AYAAT
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/243.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="ALIMAN_TV" tvg-logo="http://149.202.206.141:7070/logo/ALIMAN_TV.png",ALIMAN_TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/158.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR:ALSALAM"  ,AR:ALSALAM
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/5632.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="ALFATH_Quran" tvg-logo="http://149.202.206.141:7070/logo/ALFATH_Quran.png",ALFATH_Quran
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/282.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Kaifa_tv" tvg-logo="http://149.202.206.141:7070/logo/AR-Kaifa_tv.png",AR-Kaifa_tv
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/250.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-MEKAMELEEN" tvg-logo="http://149.202.206.141:7070/logo/AR-Resalat_ALIslam.png",AR-MEKAMELEEN
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/172.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Ummah_TV" tvg-logo="http://149.202.206.141:7070/logo/AR-Ummah_TV.png",AR-Ummah_TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1617.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Noursat" tvg-logo="http://149.202.206.141:7070/logo/AR-Noursat.png",AR-Noursat
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1622.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-MODY-KIDS" tvg-logo="http://149.202.206.141:7070/logo/AR-MODY-KIDS.png",AR-MODY-KIDS
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1607.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR:Kids_Atfal_&_mawaheb" tvg-logo="http://149.202.206.141:7070/logo/AR-Atfal&mawaheb.png",AR:Kids_Atfal_&_mawaheb
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1623.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="ALHAYAT" tvg-logo="http://149.202.206.141:7070/logo/ALHAYAT.png",ALHAYAT
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/123.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Alhayat_2" tvg-logo="http://149.202.206.141:7070/logo/Alhayat_2.png",Alhayat_2
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/157.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Alkarma TV" tvg-logo="http://149.202.206.141:7070/logo/Ar-Alkarma TV.png",Ar-Alkarma TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2310.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Am-Assyriasat" tvg-logo="http://149.202.206.141:7070/logo/Am-Assyriasat.png" ,Am-Assyriasat
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3586.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Aghapy TV" tvg-logo="http://149.202.206.141:7070/logo/Ar-Aghapy TV.png",Ar-Aghapy TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2307.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-SAMARRA-TV" tvg-logo="http://149.202.206.141:7070/logo/Ar-SAMARRA-TV.png",Ar-SAMARRA-TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2306.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-HONA-BAGHDAD" tvg-logo="http://149.202.206.141:7070/logo/AR-HONA-BAGHDAD.png",AR-HONA-BAGHDAD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1498.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="ALhayah-ALaan" tvg-logo="http://149.202.206.141:7070/logo/ALhayah-ALaan.png",ALhayah-ALaan
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1639.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-AR-Noon-Tv" tvg-logo="http://149.202.206.141:7070/logo/AR-AR-Noon-Tv.png",AR-AR-Noon-Tv
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/118.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar: Iraq Alanwar" tvg-logo="http://149.202.206.141:7070/logo/AR-AlAnwar.png",Ar: Iraq Alanwar
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/110.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Alam_News" tvg-logo="http://149.202.206.141:7070/logo/AR-Alam_News.png",AR-Alam_News
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1867.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Al_Kahera_Wel_Nes" tvg-logo="http://149.202.206.141:7070/logo/Ar-Al_Kahera_Wel_Nes.png",Ar-Al_Kahera_Wel_Nes
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3204.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-Al_Kahera wal nas 2" tvg-logo="http://149.202.206.141:7070/logo/Ar-Al_Kahera wal nas 2.png" ,Ar-Al_Kahera wal nas 2
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3203.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Am-Armenian_tv" tvg-logo="http://149.202.206.141:7070/logo/Am-Armenian_tv.png" ,Am-Armenian_tv
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3575.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Am-AABC" tvg-logo="http://149.202.206.141:7070/logo/Am-AABC.png" ,Am-AABC
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3573.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Am-ARTN" tvg-logo="http://149.202.206.141:7070/logo/Am-ARTN.png" ,Am-ARTN
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3572.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Am-kentron" tvg-logo="http://149.202.206.141:7070/logo/Am-kentron.png" ,Am-kentron
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3574.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Am-AMGA" tvg-logo="http://149.202.206.141:7070/logo/Am-AMGA.png" ,Am-AMGA
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3581.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Am-ARMOUNT_TV" tvg-logo="http://149.202.206.141:7070/logo/Am-ARMOUNT_TV.png" ,Am-ARMOUNT_TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3579.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Am-Pan_Armenian" tvg-logo="http://149.202.206.141:7070/logo/Am-Pan_Armenian.png" ,Am-Pan_Armenian
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3577.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Am-shant_tv" tvg-logo="http://149.202.206.141:7070/logo/Am-shant_tv.png" ,Am-shant_tv
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3576.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Am-H3" tvg-logo="http://149.202.206.141:7070/logo/Am-H3.png" ,Am-H3
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3580.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Am-Yerkir_Media" tvg-logo="http://149.202.206.141:7070/logo/Am-Yerkir_Media.png" ,Am-Yerkir_Media
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3578.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="ALKAS-FOUR" tvg-logo="http://149.202.206.141:7070/logo/ALKAS-FOUR.png",ALKAS-FOUR
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3915.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="ALKAS-TWO" tvg-logo="http://149.202.206.141:7070/logo/ALKAS-TWO.png",ALKAS-TWO
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3914.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="ALKASS-ONE" tvg-logo="http://149.202.206.141:7070/logo/ALKASS-ONE.png",ALKASS-ONE
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3913.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-Dijlah-TV" tvg-logo="http://149.202.206.141:7070/logo/AR-Dijlah-TV.png",AR-Dijlah-TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1634.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR:AMHARA-TV"  ,AR:AMHARA-TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/5678.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR:KANA-tv"  ,AR:KANA-tv
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/5677.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR:walta-TV"  ,AR:walta-TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/5679.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="bein-beoutQ-1-HD" tvg-logo="http://41.224.63.105:9999/beoutq/beoutq1.png" ,bein-beoutQ-1-HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/7018.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR:beIN-SPORTS-Max-1-HD-V1"  ,AR:beIN-SPORTS-Max-1-HD-V1
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/7009.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Bn_sports///" tvg-logo="http://149.202.206.141:7070/logo/fatma/bein.png" ,Bn_sports///
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/803.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beoutQ 1 HD" tvg-logo="http://41.224.63.105:9999/beoutq/beoutq1.png" ,beoutQ 1 HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/7088.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beoutQ 2 HD" tvg-logo="http://41.224.63.105:9999/beoutq/beoutq2.png" ,beoutQ 2 HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/7087.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beoutQ 3 HD" tvg-logo="http://41.224.63.105:9999/beoutq/beoutq3.png" ,beoutQ 3 HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/7086.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beoutQ 4 HD" tvg-logo="http://41.224.63.105:9999/beoutq/beoutq4.png" ,beoutQ 4 HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/7085.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beoutQ 5 HD" tvg-logo="http://41.224.63.105:9999/beoutq/beout5.png" ,beoutQ 5 HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/7084.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beoutQ 6 HD" tvg-logo="http://41.224.63.105:9999/beoutq/beoutq6.png" ,beoutQ 6 HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/7083.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beoutQ 7 HD" tvg-logo="http://41.224.63.105:9999/beoutq/beoutq7.png" ,beoutQ 7 HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/7082.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Bn_HD_Sport1_FR" tvg-logo="http://149.202.206.141:7070/logo/Bn_HD_Sport1_FR.png" ,Bn_HD_Sport1_FR
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/17.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Fr-B_Sport1_(b)" tvg-logo="http://149.202.206.141:7070/logo/Fr-B_Sport1_(b).png" ,Fr-B_Sport1_(b)
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2739.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Bn_HD_Sport2_FR" tvg-logo="http://149.202.206.141:7070/logo/Bn_HD_Sport2_FR.png" ,Bn_HD_Sport2_FR
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/18.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Fr-B_Sport2_(b)" tvg-logo="http://149.202.206.141:7070/logo/Fr-B_Sport2_(b).png" ,Fr-B_Sport2_(b)
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2740.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Bn_HD_Sport3_FR" tvg-logo="http://149.202.206.141:7070/logo/Bn_HD_Sport3_FR.png" ,Bn_HD_Sport3_FR
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/336.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Fr-B_Sport3_(b)" tvg-logo="http://149.202.206.141:7070/logo/Fr-B_Sport3_(b).png" ,Fr-B_Sport3_(b)
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3677.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="FR:BEIN-SPORTS-MAX-4HD" tvg-logo="http://149.202.206.141:7070/logo/FR:BEIN-SPORTS-MAX-4HD.png" ,FR:BEIN-SPORTS-MAX-4HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3917.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="FR:BEIN-SPORTS-MAX-5HD" tvg-logo="http://149.202.206.141:7070/logo/FR:BEIN-SPORTS-MAX-5HD.png" ,FR:BEIN-SPORTS-MAX-5HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3918.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="FR:BEIN-SPORTS-MAX-6HD" tvg-logo="http://149.202.206.141:7070/logo/FR:BEIN-SPORTS-MAX-6HD.png" ,FR:BEIN-SPORTS-MAX-6HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3919.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="FR:BEIN-SPORTS-MAX-7HD" tvg-logo="http://149.202.206.141:7070/logo/FR:BEIN-SPORTS-MAX-7HD.png" ,FR:BEIN-SPORTS-MAX-7HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3920.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="FR:BEIN-SPORTS-MAX-8HD" tvg-logo="http://149.202.206.141:7070/logo/FR:BEIN-SPORTS-MAX-8HD.png" ,FR:BEIN-SPORTS-MAX-8HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3921.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="FR:BEIN-SPORTS-MAX-9HD" tvg-logo="http://149.202.206.141:7070/logo/FR:BEIN-SPORTS-MAX-9HD.png" ,FR:BEIN-SPORTS-MAX-9HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3922.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-B_SPORT1" tvg-logo="http://149.202.206.141:7070/logo/B_Sports_HD1.png" ,Ar-B_SPORT1
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/300.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="B_Sports_HD1" tvg-logo="http://149.202.206.141:7070/logo/B_Sports_HD1.png" ,B_Sports_HD1
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-B_SPORT2" tvg-logo="http://149.202.206.141:7070/logo/Ar-B_SPORT2.png" ,Ar-B_SPORT2
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/307.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="B_Sports_HD2" tvg-logo="http://149.202.206.141:7070/logo/B_Sports_HD2.png" ,B_Sports_HD2
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/2.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-B_SPORT3" tvg-logo="http://149.202.206.141:7070/logo/Ar-B_SPORT3.png" ,Ar-B_SPORT3
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/308.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="B_Sports_HD3" tvg-logo="http://149.202.206.141:7070/logo/B_Sports_HD3.png" ,B_Sports_HD3
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-B_SPORT4" tvg-logo="http://149.202.206.141:7070/logo/Ar-B_SPORT4.png" ,Ar-B_SPORT4
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/309.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="B_Sports_HD4" tvg-logo="http://149.202.206.141:7070/logo/B_Sports_HD4.png" ,B_Sports_HD4
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/4.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-B_SPORT5" tvg-logo="http://149.202.206.141:7070/logo/Ar-B_SPORT5.png" ,Ar-B_SPORT5
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/310.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="B_Sports_HD5" tvg-logo="http://149.202.206.141:7070/logo/B_Sports_HD5.png" ,B_Sports_HD5
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/5.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-B_SPORT6" tvg-logo="http://149.202.206.141:7070/logo/Ar-B_SPORT6.png" ,Ar-B_SPORT6
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/311.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="B_Sports_HD6" tvg-logo="http://149.202.206.141:7070/logo/B_Sports_HD6.png" ,B_Sports_HD6
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-B_SPORT7" tvg-logo="http://149.202.206.141:7070/logo/Ar-B_SPORT7.png" ,Ar-B_SPORT7
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/312.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="B_Sports_HD7" tvg-logo="http://149.202.206.141:7070/logo/B_Sports_HD7.png" ,B_Sports_HD7
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/7.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-B_SPORT8" tvg-logo="http://149.202.206.141:7070/logo/Ar-B_SPORT8.png" ,Ar-B_SPORT8
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/313.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="B_Sports_HD8" tvg-logo="http://149.202.206.141:7070/logo/B_Sports_HD8.png" ,B_Sports_HD8
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/8.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-B_SPORT9" tvg-logo="http://149.202.206.141:7070/logo/Ar-B_SPORT9.png" ,Ar-B_SPORT9
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/314.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="B_Sports_HD9" tvg-logo="http://149.202.206.141:7070/logo/B_Sports_HD9.png" ,B_Sports_HD9
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/9.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ar-B_SPORT10" tvg-logo="http://149.202.206.141:7070/logo/Ar-B_SPORT10.png" ,Ar-B_SPORT10
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/301.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="B_Sports_HD10" tvg-logo="http://149.202.206.141:7070/logo/B_Sports_HD10.png" ,B_Sports_HD10
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/10.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR: Bein Sport 11" tvg-logo="http://149.202.206.141:7070/logo/Ar-B_SPORT11.png" ,AR: Bein Sport 11
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/302.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="B_Sports_HD11" tvg-logo="http://149.202.206.141:7070/logo/B_Sports_HD11.png" ,B_Sports_HD11
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/11.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR: beIN_Sport_12_HD" tvg-logo="http://149.202.206.141:7070/logo/Ar-B_SPORT12.png" ,AR: beIN_Sport_12_HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/303.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="B_Sports_HD12" tvg-logo="http://149.202.206.141:7070/logo/B_Sports_HD12.png" ,B_Sports_HD12
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/12.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="B_Sport_News HD" tvg-logo="http://149.202.206.141:7070/logo/B_Sport_News HD.png" ,B_Sport_News HD
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/299.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-KTV_Sports_TV" tvg-logo="http://149.202.206.141:7070/logo/AR-KTV_Sports_TV.png",AR-KTV_Sports_TV
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1638.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="arb-Nile sport" tvg-logo="http://149.202.206.141:7070/logo/arb-Nile sport.png",arb-Nile sport
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/1455.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AR-DUBAI-SPORT1" tvg-logo="http://149.202.206.141:7070/logo/AR-DUBAI-SPORT1.png",AR-DUBAI-SPORT1
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/127.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="saudi-sport" tvg-logo="http://149.202.206.141:7070/logo/saudi-sport.png",saudi-sport
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/3712.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AD-SPORT1" tvg-logo="http://149.202.206.141:7070/logo/AD-SPORT1.png",AD-SPORT1
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/103.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AD-Sport2" tvg-logo="http://149.202.206.141:7070/logo/AD-Sport2.png",AD-Sport2
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/104.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC-PRO-SP1" tvg-logo="http://149.202.206.141:7070/logo/MBC-PRO-SP1.png",MBC-PRO-SP1
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/168.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC-PRO-SP2" tvg-logo="http://149.202.206.141:7070/logo/MBC-PRO-SP2.png",MBC-PRO-SP2
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/169.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC-PRO-SP3" tvg-logo="http://149.202.206.141:7070/logo/MBC-PRO-SP3.png",MBC-PRO-SP3
+http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/170.m3u8
 
 
 
