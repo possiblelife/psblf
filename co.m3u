@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,10/10/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,11/10/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -72,11 +72,11 @@ http://www.ant1iwo.com/webtv/web-tv-live/|webdown$$start=href=\"http://l$$end=\"
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/v6twaoa6r/ant1.png",Ant1 Cyprus
 http://www.fireshow.xyz/ant1cym.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
-http://master.cystreams.com:25461/live/greek/kapsouromata/14.ts
+http://master.cystreams.com:25461/live/greek/prestigio/14.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
 http://www.anacon.org/app/chans/cy/capitalcy.html|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA
-http://master.cystreams.com:25461/live/greek/kapsouromata/15.ts
+http://master.cystreams.com:25461/live/greek/prestigio/15.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA
 http://www.anacon.org/app/chans/cy/extracy.html|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/tvg/logos/201.png",Plus 
@@ -84,7 +84,7 @@ http://www.anacon.org/app/chans/cy/pluscy.html|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
-http://master.cystreams.com:25461/live/greek/kapsouromata/119.ts
+http://master.cystreams.com:25461/live/greek/prestigio/119.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
 http://www.lakatamia.tv/app/chans/cy/smilecy.html|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Youtube)
@@ -149,7 +149,7 @@ https://glmxantennatvsec-lh.akamaihd.net/i/live_1@536771/master.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="Mega Channel" epg-id="mega.gr" tvg-logo="https://goo.gl/nTCu62" ,MEGA (Youtube)
 https://www.youtube.com/watch?v=CoohQWgDWVs
 #EXTINF:-1 group-title="Greece" tvg-name="Mega Channel" epg-id="mega.gr" tvg-logo="https://goo.gl/nTCu62" ,MEGA 
-http://master.cystreams.com:25461/live/greek/kapsouromata/43.ts
+http://master.cystreams.com:25461/live/greek/prestigio/43.ts
 #EXTINF:-1 group-title="Greece" tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/satellite-tv-logos/mega-cosmos.png" ,MEGA COSMOS
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI Youtube
@@ -157,13 +157,13 @@ https://www.youtube.com/watch?v=sMYwWQHesuc
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI Youtube 2
 http://www.tvradiogr.com/p/tv/18/skai-live.html|webdown
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI
-http://master.cystreams.com:25461/live/greek/kapsouromata/42.ts
+http://master.cystreams.com:25461/live/greek/prestigio/42.ts
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI Web
 http://www.lakatamiatv.xyz/app/chans/gr/skai.html|webview zoom=100 scroll=0,100
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI official Web
 http://www.skai.gr/mobile/tv-live/|webview zoom=100 scroll=0,100
 #EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
-http://master.cystreams.com:25461/live/greek/kapsouromata/40.ts
+http://master.cystreams.com:25461/live/greek/prestigio/40.ts
 #EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR HD
 http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="Alpha" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg" ,ALPHA (USE GREECE VPN)
@@ -3858,9 +3858,9 @@ https://www.youtube.com/watch?v=7sIsiHbDi_0
 http://.....
 
 
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Animal Planet
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://banner2.kisspng.com/20180623/elh/kisspng-animal-planet-television-channel-cat-television-sh-5b2e4c5a33a651.1108237115297608582116.jpg" ,Animal Planet
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/824.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Canal 5 HD
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1"  tvg-logo="http://hd-dreambox.com/imag/Canale_5.svg.png",Canal 5 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/825.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Cartoonito
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/826.m3u8$http-refferer=http://localhost
@@ -3970,17 +3970,17 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/799.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/800.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Rai Premium
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/801.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Rai1 HD
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://www.altrospettacolo.it/wp-content/uploads/2018/01/raiuno-nuovo.jpg" ,Rai1 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/804.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Rai2 HD
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai2-hd.png",Rai2 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/805.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Rai3 HD
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://wondysonoio.org/wp-content/uploads/2017/05/rai3.png",Rai3 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/806.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Rai4 HD
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="http://www.tvpertutti.it/IMG/rubon10.jpg",Rai4 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/807.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Rai5
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="http://www.cartoonsbay.rai.it/wp-content/uploads/2018/03/RAI-5.png",Rai5
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/808.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Rete4 HD
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="http://hd-dreambox.com/imag/Rete_4.svg.png",Rete4 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/809.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER1",RSI La1 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/810.m3u8$http-refferer=http://localhost
@@ -4008,176 +4008,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/811.m3u8$http-refferer=
 
 
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER2",
-
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="Rai 1" tvg-name="Rai 1 HD" tvg-logo="https://www.altrospettacolo.it/wp-content/uploads/2018/01/raiuno-nuovo.jpg" ,Rai 1 HD
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/566.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="Rai 2" tvg-name="Rai 2 HD" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai2-hd.png" ,Rai 2 HD
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/567.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="Rai  3 HD" tvg-name="Rai 3 HD" tvg-logo="https://wondysonoio.org/wp-content/uploads/2017/05/rai3.png" ,Rai 3 HD
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/568.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="Rete 4 HD H265" tvg-name="Rete 4 HD" tvg-logo="http://hd-dreambox.com/imag/Rete_4.svg.png" ,Rete 4 HD
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1030.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="CANALE 5 HD" tvg-name="Canale 5 HD" tvg-logo="http://hd-dreambox.com/imag/Canale_5.svg.png" ,Canale 5 HD
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1031.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="Italia 1 HD H265" tvg-name="Italia 1 HD" tvg-logo="http://hd-dreambox.com/imag/Logo_Italia_1.svg.png" ,Italia 1 HD
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1032.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="LA7 HD H265" tvg-name="LA 7 HD" tvg-logo="https://www.cesarelanza.com/wp/wp-content/uploads/2015/02/La7-logo.jpg" ,LA 7 HD
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/283.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT:Rai 4 HD" tvg-name="RAI 4" tvg-logo="http://www.tvpertutti.it/IMG/rubon10.jpg" ,RAI 4
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/3096.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT: Rai 5 HD" tvg-name="Rai 5" tvg-logo="http://www.cartoonsbay.rai.it/wp-content/uploads/2018/03/RAI-5.png" ,Rai 5
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/3099.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="(IT) Rai Movie" tvg-name="Rai Movie" tvg-logo="https://www.cinematographe.it/wp-content/uploads/2017/02/rai-movie.jpg" ,Rai Movie
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/280.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT: Rai Premium HD" tvg-name="Rai Premium" tvg-logo="https://images.davidemaggio.it/pics3/2016/02/Rai-Premium.jpg" ,Rai Premium
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/278.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="LA 5" tvg-name="La 5" tvg-logo="http://logowow.net/logos/EBFLi4ejB.png" ,La 5
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/3091.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT:Iris" tvg-name="Iris" tvg-logo="http://www.dagospia.com/img/foto/05-2013/logo-iris-241282_tn.jpg" ,Iris
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1043.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="(IT) Top Crime HD" tvg-name="Top Crime" tvg-logo="https://mediacomunicazione.net/wp-content/uploads/2013/12/topcrime.jpg" ,Top Crime
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1042.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="Giallo" tvg-name="GIALLO" tvg-logo="http://www.ildecoder.com/wp/wp-content/uploads/2017/04/giallo.png" ,GIALLO
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2002.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT:Mediaset Extra" tvg-name="IT: Mediaset Extra" ,IT: Mediaset Extra
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1036.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="Mediaset Italia 2" tvg-name="IT: Mediaset Italia 2" ,IT: Mediaset Italia 2
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1035.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="TV 2000" tvg-name="IT: TV 2000" ,IT: TV 2000
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1045.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="Rai Storia HD" tvg-name="IT: RAI STORIA" ,IT: RAI STORIA
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/282.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Tsn Livigno" ,IT: Tsn Livigno
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/260.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Antenna Sicilia" ,IT: Antenna Sicilia
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/4433.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Radio Zeta" ,IT: Radio Zeta
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/576.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Tele Sondrio News" ,IT: Tele Sondrio News
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2828.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="Tgcom24" tvg-name="IT: Tgcom24 HD" ,IT: Tgcom24 HD
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/262.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="(IT) Rai News" tvg-name="IT: Rai News" ,IT: Rai News
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/264.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="SKY TG 24 HD" tvg-name="IT: Sky Tg24" ,IT: Sky Tg24
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/263.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="(IT) TG Norba24" tvg-name="IT: TG Norba 24" ,IT: TG Norba 24
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/261.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="*****Cinema*****" ,*****Cinema*****
-
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT:Premium.CinemaHD" tvg-name="IT: Premium Cinema" ,IT: Premium Cinema
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/837.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT:PREMIUM ACTION HD" tvg-name="IT: Premium Action" ,IT: Premium Action
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/3886.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT:PREMIUM CINEMA COMEDY" tvg-name="IT: Premium Comedy" ,IT: Premium Comedy
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/181.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT:PREMIUM EMOTION" tvg-name="IT: Premium Emotion" ,IT: Premium Emotion
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/180.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT:PREMIUM-ENERGY" tvg-name="IT: Premium Energy" ,IT: Premium Energy
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/179.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT: Premium Joy" tvg-name="IT: Premium Joi" ,IT: Premium Joi
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/178.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Sport Italia" ,IT: Sport Italia
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/3885.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT: Premium Stories" tvg-name="IT: Premium Stories" ,IT: Premium Stories
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/177.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="*****DAZN TEST*****" ,*****DAZN TEST*****
-@@
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="ITA: SUPER TENIS HD" ,ITA: SUPER TENIS HD
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/7096.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="ITA: JUVENTUS CHANNEL",ITA: JUVENTUS CHANNEL
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/7092.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="ITA: INTER CHANNEL",ITA: INTER CHANNEL
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/7093.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="ITA: ROMA CHANNEL",ITA: ROMA CHANNEL
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/7091.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="***** Bambini *****" ,***** Bambini *****
-
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: POP TV" ,IT: POP TV
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/4344.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Disney Junior" ,IT: Disney Junior
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/236.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: PEPPA PIG Channel" ,IT: PEPPA PIG Channel
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/239.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Boing" ,IT: Boing
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/238.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT:  Cartonito" ,IT:  Cartonito
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/241.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Rai yoyo" ,IT: Rai yoyo
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/235.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="(IT) Rai Gulp" tvg-name="IT: Rai Gulp" ,IT: Rai Gulp
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/277.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: FRESBEE" ,IT: FRESBEE
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/4415.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Super" ,IT: Super
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/234.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: K2" ,IT: K2
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/233.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="*****INTRATTENIMENTO*****" ,*****INTRATTENIMENTO*****
-
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="(IT) ALICE" tvg-name="IT: ALICE" ,IT: ALICE
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/273.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="GAMBERO ROSSO HD" tvg-name="IT: Gambero Rosso HD" ,IT: Gambero Rosso HD
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/248.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="(IT) MARCOPOLO" tvg-name="IT:  MARCOPOLO" ,IT:  MARCOPOLO
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/272.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="***** Cultura *****" ,***** Cultura *****
-@@
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT: AnimalPlanet" tvg-name="IT: Animal Planet" tvg-logo="https://banner2.kisspng.com/20180623/elh/kisspng-animal-planet-television-channel-cat-television-sh-5b2e4c5a33a651.1108237115297608582116.jpg" ,IT: Animal Planet
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/4343.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT:PREMIUM STUDIO UNIVERSAL" tvg-name="IT: Premium Studio Universal" tvg-logo="https://sicilia.onderadio.net/Loghi/TV/StUni.jpg" ,IT: Premium Studio Universal
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1971.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT:  Dove TV" ,IT:  Dove TV
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/4340.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="IT: Focus" tvg-name="IT: Focus" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/1/11/Focus_Logo.svg/1280px-Focus_Logo.svg.png" ,IT: Focus
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1044.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="Real Time HD" tvg-name="IT: Real Time" ,IT: Real Time
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1040.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2" tvg-id="(IT) DMAX 1" tvg-name="IT: Dmax" tvg-logo="http://www.agenziagiornalisticaopinione.it/wp-content/uploads/2017/06/DMAX.png" ,IT: Dmax
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/1034.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: CIELO" ,IT: CIELO
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/3094.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="***** MUSIC *****" ,***** MUSIC *****
-
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: 105 TV" ,IT: 105 TV
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/255.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: VH1 Italia" ,IT: VH1 Italia
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/257.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Radio Capital TV" ,IT: Radio Capital TV
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/253.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Radio Italia Rap TV" ,IT: Radio Italia Rap TV
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2829.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: NRJ HITS" ,IT: NRJ HITS
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2831.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT:  Mexicana" ,IT:  Mexicana
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/256.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Virgin Tv" ,IT: Virgin Tv
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/252.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT:  MTV Next HD" ,IT:  MTV Next HD
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/258.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: M2o Tv" ,IT: M2o Tv
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/254.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Paramount Channel" ,IT: Paramount Channel
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2832.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: BRIDGE DANCE TV" ,IT: BRIDGE DANCE TV
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2830.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Hit Music Channel" ,IT: Hit Music Channel
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2833.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT:  Radio Monte Carlo TV" ,IT:  Radio Monte Carlo TV
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2836.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: DeejayTv" ,IT: DeejayTv
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2840.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Radio Linea N*1" ,IT: Radio Linea N*1
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2835.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Radio Italia Tv" ,IT: Radio Italia Tv
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2834.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Radionorba Tv" ,IT: Radionorba Tv
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2837.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: MUSICA LATINA" ,IT: MUSICA LATINA
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2838.m3u8
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2"  tvg-name="IT: Venere Tv 2" ,IT: Venere Tv 2
-http://sushiiptv.ddns.net:25461/live/simiptv25kanale/25canali/2839.m3u8
-
 
 
 
@@ -7553,6 +7383,122 @@ http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67092.m3u8
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",
 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png",RTP 1 HD 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67125.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png",SIC HD 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67119.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png",TVI 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67081.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png",TVI HD 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67079.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png",SIC NOTICIAS HD 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67114.m3u8
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png",TVI24 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67077.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png",CM TV 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67176.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png",CM TV HD 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67175.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICMULHER.png",SIC MULHER 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67117.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICCARAS.png",SIC CARAS 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67120.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/24KITCHEN.png",24 KITCHEN HD 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67195.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALQ.png",CANAL Q 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67180.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67186.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV HD 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67185.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FUELTV.png",FUEL TV 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67149.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png",A BOLA TV 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67194.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png",DISNEY CHANNEL 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67171.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png",DISNEY JUNIOR 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67170.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png",NICKELODEON 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67138.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALPANDA.png",PANDA 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67181.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PANDABIGGS.png",PANDA BIGGS 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67136.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICK.png",SIC K 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67118.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BABYTV.png",BABY TV 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67187.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/JIMJAM.png",JIMJAM 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67146.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DOGTV.png",DOG TV 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67169.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIFICCAO.png",TVI FICCAO 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67080.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIREALITY.png",TVI REALITY 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67078.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png",HOLLYWOOD 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67148.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png",HOLLYWOOD HD 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67147.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CINEMUNDO.png",CINEMUNDO 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67177.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXMOVIES.png",FOX MOVIES 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67150.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png",FOX HD 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67152.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png",AXN HD 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67189.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png",FOX LIFE HD 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67151.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCRIME.png",FOX CRIME HD 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67153.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCOMEDY.png",FOX COMEDY 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67154.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png",AXN WHITE HD 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67188.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNBLACK.png",AXN BLACK HD 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67190.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png",SYFY 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67097.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png",SYFY HD 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67096.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png",AMC 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67193.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png",AMC HD 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67192.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1CLASSIC.png",VH1 CLASSIC 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67076.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png",DISCOVERY 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67173.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png",NATIONAL GEOGRAPHIC HD 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67140.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png",NATIONAL GEOGRAPHIC WILD 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67141.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORIA.png",HISTORIA 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67182.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ODISSEIA.png",ODISSEIA 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67137.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TLC.png",TLC 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67095.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOOD.png",FOOD NETWORK 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67155.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSREALITY.png",CBS REALITY 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67178.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANGELUSTV.png",ANGELUS TV 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67191.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TPA.png",TPA 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/66269.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CACAEPESCA.png",CACA & PESCA 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67184.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KOMBATSPORT.png",KOMBAT SPORT 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67145.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CRIMEINVESTIGATION.png",CRIME & INVESTIGATION 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67174.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSHOWCASE.png",DISCOVERY SHOWCASE 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67172.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FINELIVING.png",FINE LIVING NETWORK HD 
+http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67156.m3u8
 
 
 
@@ -7570,104 +7516,6 @@ http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67092.m3u8
 
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",
-
-
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",RTP 1 PT
-http://cdnp.cli.tn/iptv/ch2100?code=150112319728842&key=52824
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",RTP 2 PT
-http://cdnp.cli.tn/iptv/ch2101?code=150112319728842&key=54546
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",RTP 3 PT
-http://cdnp.cli.tn/iptv/ch2102?code=150112319728842&key=10584
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",RTP Memoria PT
-http://cdnp.cli.tn/iptv/ch2103?code=150112319728842&key=12621
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",SIC PT
-http://cdnp.cli.tn/iptv/ch2105?code=150112319728842&key=49241
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",SIC Noticias PT
-http://cdnp.cli.tn/iptv/ch2106?code=150112319728842&key=16149
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",SIC Mulher PT
-http://cdnp.cli.tn/iptv/ch2107?code=150112319728842&key=56616
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",SIC Kids PT
-http://cdnp.cli.tn/iptv/ch2108?code=150112319728842&key=44287
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",SIC Radical PT
-http://cdnp.cli.tn/iptv/ch2109?code=150112319728842&key=44281
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",SIC Caras PT
-http://cdnp.cli.tn/iptv/ch2110?code=150112319728842&key=35670
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVI PT
-http://cdnp.cli.tn/iptv/ch2111?code=150112319728842&key=39880
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVI Reality PT
-http://cdnp.cli.tn/iptv/ch2112?code=150112319728842&key=42111
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVI Ficcao PT
-http://cdnp.cli.tn/iptv/ch2113?code=150112319728842&key=11748
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVI 24 PT
-http://cdnp.cli.tn/iptv/ch2114?code=150112319728842&key=41291
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Canal Hollywood PT
-http://cdnp.cli.tn/iptv/ch2116?code=150112319728842&key=45639
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Canal Cinemondo PT
-http://cdnp.cli.tn/iptv/ch2117?code=150112319728842&key=35257
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Cine 1 PT
-http://cdnp.cli.tn/iptv/ch2118?code=150112319728842&key=60792
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Cine 2 PT
-http://cdnp.cli.tn/iptv/ch2119?code=150112319728842&key=12278
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Cine 3 PT
-http://cdnp.cli.tn/iptv/ch2120?code=150112319728842&key=44253
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Cine 4 PT
-http://cdnp.cli.tn/iptv/ch2121?code=150112319728842&key=34177
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Series PT
-http://cdnp.cli.tn/iptv/ch2122?code=150112319728842&key=55020
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sport TV 1 PT
-http://cdnp.cli.tn/iptv/ch2123?code=150112319728842&key=61335
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sport TV 2 PT
-http://cdnp.cli.tn/iptv/ch2124?code=150112319728842&key=18171
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sport TV 3 PT
-http://cdnp.cli.tn/iptv/ch2125?code=150112319728842&key=22866
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sport TV 4 PT
-http://cdnp.cli.tn/iptv/ch2126?code=150112319728842&key=20807
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sport TV 5 PT
-http://cdnp.cli.tn/iptv/ch2127?code=150112319728842&key=10240
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Eurosport 1 PT
-http://cdnp.cli.tn/iptv/ch2128?code=150112319728842&key=64203
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Eurosport 2 PT
-http://cdnp.cli.tn/iptv/ch2129?code=150112319728842&key=46017
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Toros TV PT
-http://cdnp.cli.tn/iptv/ch2130?code=150112319728842&key=50233
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Globo PT
-http://cdnp.cli.tn/iptv/ch2131?code=150112319728842&key=29570
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Record PT
-http://cdnp.cli.tn/iptv/ch2133?code=150112319728842&key=22089
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",MOV TV PT
-http://cdnp.cli.tn/iptv/ch2134?code=150112319728842&key=50202
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Record News PT
-http://cdnp.cli.tn/iptv/ch2135?code=150112319728842&key=15305
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PFC PT
-http://cdnp.cli.tn/iptv/ch2136?code=150112319728842&key=59436
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Odisseia PT
-http://cdnp.cli.tn/iptv/ch2138?code=150112319728842&key=21006
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fox Movies PT
-http://cdnp.cli.tn/iptv/ch2141?code=150112319728842&key=14953
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fox Comedy PT
-http://cdnp.cli.tn/iptv/ch2143?code=150112319728842&key=36869
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",CM TV PT
-http://cdnp.cli.tn/iptv/ch2144?code=150112319728842&key=30945
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Cacapesca PT
-http://cdnp.cli.tn/iptv/ch2145?code=150112319728842&key=14407
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Discovery PT
-http://cdnp.cli.tn/iptv/ch2146?code=150112319728842&key=12169
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Nat. Geo. PT
-http://cdnp.cli.tn/iptv/ch2148?code=150112319728842&key=33921
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Cazavision PT
-http://cdnp.cli.tn/iptv/ch2149?code=150112319728842&key=63590
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Cancao Nova PT
-http://cdnp.cli.tn/iptv/ch2150?code=150112319728842&key=61473
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Abola TV PT
-http://cdnp.cli.tn/iptv/ch2157?code=150112319728842&key=41491
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Cartoon Network PT
-http://cdnp.cli.tn/iptv/ch2160?code=150112319728842&key=45500
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Disney Ch. PT
-http://cdnp.cli.tn/iptv/ch2161?code=150112319728842&key=43360
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Disney Junior PT
-http://cdnp.cli.tn/iptv/ch2162?code=150112319728842&key=56004
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Nickelodeon PT
-http://cdnp.cli.tn/iptv/ch2139?code=150112319728842&key=36614
 
 
 
