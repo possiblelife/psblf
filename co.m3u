@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,11/10/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,12/10/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -1770,303 +1770,303 @@ https://www.youtube.com/watch?v=7sIsiHbDi_0
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
 http://.....
 
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",5USA
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/5usa.png" ,5USA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1242.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",3e
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" ,3e
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1248.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",5Star
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/5star.png",5Star
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1249.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Alibi
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/alibihd.png",Alibi
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1250.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",AMC FROM BT
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/amchd.png" ,AMC FROM BT
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1240.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Animal Planet   1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/animalplanethd.png" ,Animal Planet   1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1251.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",At The Races
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/attheraces.png",At The Races
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1252.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",BBC ALBA
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcalba.png",BBC ALBA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1239.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",BBC Parliament
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcparliament.png",BBC Parliament
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1238.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",BBC TWO HD
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbctwo.png",BBC TWO HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1253.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",BBC World News
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcnews.png",BBC World News
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1315.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",BBC4 HD
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcfour.png",BBC4 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1254.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",BET
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bet.png",BET
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1237.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1",BritishMuslim
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1236.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Cartoon Network
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cartoonnetwork.png",Cartoon Network
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1264.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Cartoonito
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cartoonito.jpg",Cartoonito
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1211.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Cbeebies
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cbeebies.png",Cbeebies
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1201.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Challenge   1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/challenge.png",Challenge   1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1265.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Channel 4
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/channel4.png",Channel 4
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1235.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Channel 4 HD
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/channel4.png",Channel 4 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1234.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",CHANNEL 5
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/channel5.png",CHANNEL 5
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1233.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",CHANNEL 5 FHD
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/channel5.png",CHANNEL 5 FHD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1232.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Chelsea FC
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/chelseatv.png",Chelsea FC
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1266.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",CNBC Europe
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cnbc.png",CNBC Europe
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1231.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Comedy Central Extra   1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/comedycentralextra.png",Comedy Central Extra   1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1267.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Crime & Investigiation
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/crimeandinvestigationhd.png" ,Crime & Investigiation
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1245.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Crime investigation  1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/crimeandinvestigationhd.png" ,Crime investigation  1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1268.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Discovery   1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoverychannelhd%20(1).png",Discovery   1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1269.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Discovery History  1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoveryhistory.png" ,Discovery History  1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1270.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Discovery Science  1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoveryscience.png",Discovery Science  1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1271.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Disney Channel   1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/disneychannelhd.png",Disney Channel   1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1272.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Disney XD   1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/disneyxdhd.png",Disney XD   1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1273.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",E!
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/eentertainmenthd.png",E!
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1274.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",E!    1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/eentertainmenthd.png",E!    1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1275.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Food Network
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/foodnetwork.png",Food Network
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1276.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Food Network  1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/foodnetwork.png",Food Network  1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1277.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",FOX News
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/fox.png",FOX News
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1230.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Golf Channel
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportstheopen.png",Golf Channel
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1212.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Good Food
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/goodfood.png",Good Food
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1278.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",H2
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Documentary/h2%2520hd.png" ,H2
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1194.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1",HBO 1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1316.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1",HBO 2
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1317.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",History
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/historyhd.png",History
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1200.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",History  1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/historyhd.png",History  1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1279.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Home&Health   1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/homeandhealthplus1.png",Home&Health   1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1280.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Horror Channel   1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/horrorchannel.png",Horror Channel   1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1281.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",ID
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/investigationdiscovery.png",ID
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1247.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",ID   1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/investigationdiscovery.png",ID   1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1282.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1",Inspiration
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1229.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Investigation Discovery
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/investigationdiscovery.png",Investigation Discovery
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1228.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1",ITV ENCORE
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1227.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",ITV1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv.png",ITV1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/5.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",ITV2
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv2hd.png",ITV2
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/6.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",ITV3
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv3hd.png",ITV3
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/7.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",ITV4
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv4hd.png",ITV4
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/8.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",KERRANG
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/kerrang.png",KERRANG
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1226.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",KISS UK
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/kiss.png",KISS UK
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1225.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",LFC TV
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/liverpoolfctv.png",LFC TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1283.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Magic
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/magic.png",Magic
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1199.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Movies 4 Men
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/movies4men.png",Movies 4 Men
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1224.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",MTV
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/mtv.png",MTV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1198.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",MTV   1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/mtv.png",MTV   1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1284.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",MUTV
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/manutv.png",MUTV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1285.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Nat Geo Wild
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/natgeowildhd.png",Nat Geo Wild
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1286.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",NATGEO WILD
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/natgeowildhd.png",NATGEO WILD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1193.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",National Geographic
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/nationalgeographic.png",National Geographic
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1195.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Nick Jnr Too
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/nickjnrtoo.jpg",Nick Jnr Too
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1287.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Nick Jr  1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/nickjr.png",Nick Jr  1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1288.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Nickelodeon
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/nickelodeon.png",Nickelodeon
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1289.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Nickelodeon   1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/nickelodeon.png",Nickelodeon   1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1290.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",QUEST
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/quest.png",QUEST
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1223.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Racing UK
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/racinguk.png",Racing UK
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1292.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Real Lives
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/reallives.png",Real Lives
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1222.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",RTE One
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/IRE_Logos/rteonehd.png",RTE One
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1293.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",RTE Two
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/IRE_Logos/rte2hd.png",RTE Two
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1294.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Scuzz
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/scuzz.png",Scuzz
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1197.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1",SMASH HITS
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1220.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Sony Channel
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/sonycrimechanneluk.png" ,Sony Channel
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1218.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Sony Chnl   1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/sonycrimechanneluk.png" ,Sony Chnl   1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1303.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Sony Movie
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/sonymoviechannel.png",Sony Movie
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1219.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Syfy   1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/syfy.png",Syfy   1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1304.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",TCM
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/tcm.png",TCM
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1196.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Tiny Pop   1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/tinypop.png",Tiny Pop   1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1305.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",TLC
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/tlc.png",TLC
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1306.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",TLC   1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/tlc.png",TLC   1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1307.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",TLC   2
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/tlc.png",TLC   2
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1308.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Travel Channel
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/travelchannel.png",Travel Channel
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1309.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1",True Movies 2
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1310.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1",Universal   1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1311.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",VH1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/vh1.png",VH1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1312.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",VICELAND
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/viceland(1).png",VICELAND
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1217.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1",VIVA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1192.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",W   1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/w.png",W   1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1313.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1",Watch
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1216.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",4Seven
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/4seven.png",4Seven
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1314.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",TLC - IRELAND
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/tlc.png",TLC - IRELAND
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1319.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1",True Movies 1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1320.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",VIP Cartoon network HD
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cartoonnetwork.png",VIP Cartoon network HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1241.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1",VIP HBO HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1214.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",VIP MTV LIVE HD
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/mtv.png",VIP MTV LIVE HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1213.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Animal Planet
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/animalplanethd.png",Animal Planet
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1172.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Chelsea TV
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/chelseatv.png",Chelsea TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1173.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",CNN
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/cnn.png",CNN
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1174.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Comedy Central
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/comedycentral.png",Comedy Central
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1175.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Dave
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/dave.png",Dave
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1176.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Eden
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/edennew.jpg",Eden
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1177.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",FOX
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/fox.png" ,FOX
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1178.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Life time
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/lifetime.png",Life time
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1179.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1",Living UK
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1180.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Manchester United TV
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/manutv.png",Manchester United TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1181.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",More 4
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/more4.png" ,More 4
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1182.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Mototrs TV
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/motosporttv.jpg",Motors TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1183.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Nat Geo Graphic
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/nationalgeographic.png",Nat Geo Graphic
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1184.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Yesterday
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/yesterday.png",Yesterday
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1191.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1",BBC World News
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1127.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",boomerang
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/boomerang.png",boomerang
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1128.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Boxnation
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/boxnation.png",Boxnation
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1129.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",CBS Action
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cbsaction.png",CBS Action
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1130.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",CBS Drama
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cbsdrama.png",CBS Drama
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1131.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",CBS reality
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cbsreality.png",CBS reality
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1132.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",DISCOVERY
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoverychannel.png",DISCOVERY
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1133.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Discovery History
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoveryhistory.png",Discovery History
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1134.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Discovery Science
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoveryscience.png",Discovery Science
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1135.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Discovery Shed
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoveryshed.png",Discovery Shed
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1136.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Discovery Turbo
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoveryturbo.png",Discovery Turbo
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1137.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Disney
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/disneychannelhd.png",Disney
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1138.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Disney Junior
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/disneyjuniorhd.png",Disney Junior
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1139.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Disney XD
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/disneyxdhd.png",Disney XD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1140.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",DMax
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/dmax.png",DMax
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1141.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Drama
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/drama-clivebesle.png" ,Drama
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1142.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",E!
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/eentertainmenthd.png",E!
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1143.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",E4
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/e4.png",E4
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1144.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Film 4
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/filmfourhd.png",Film 4
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1145.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",gold
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/gold.png",gold
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1146.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Good Food
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/goodfood.png",Good Food
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1147.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Home & Health
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/homeandhealthplus1.png",Home & Health
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1148.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1",Irish Tv
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1149.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",ITV be
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itvbe.png",ITV be
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1150.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1",London Live
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1151.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Nick Jr
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/nickjr.png",Nick Jr
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1152.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Nicktoons
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/nicktoons-wispelutri.png",Nicktoons
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1153.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Syfy
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/syfy.png",Syfy
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1169.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Tiny POP
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/tinypop.png",Tiny POP
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1170.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",UTV
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/utv.png",UTV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1171.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1",PLUG RTL
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/422.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Baby TV
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/babytvhd.jpg",Baby TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1122.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",BBC ONE HD
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png",BBC ONE HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1123.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1",BBC Three HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1124.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",CBBC
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cbbc.png",CBBC
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1125.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1",Pick
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1126.m3u8$http-refferer=http://localhost
@@ -5002,13 +5002,13 @@ https://www.youtube.com/watch?v=7sIsiHbDi_0
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
 http://.....
 
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER1",13th Street
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER1"  tvg-logo="http://37.220.2.213/resim/13th_street_de",13th Street
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/311.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1",3sat
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/310.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1",3SAT HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/309.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER1",ARD
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER1" tvg-logo="http://37.220.2.213/resim/ard_das_erste",ARD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/312.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1",Arte
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/308.m3u8$http-refferer=http://localhost
@@ -5016,17 +5016,17 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/308.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/313.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1",Boomerang
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/314.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER1",Bundesliga 1
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER1" tvg-logo="http://37.220.2.213/resim/sky_de_sport_bundesliga_uhd" ,Bundesliga 1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/315.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1",Cartoon Network
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/316.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1",Classica
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/317.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER1",DAS ERSTE HD
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER1"  tvg-logo="http://37.220.2.213/resim/ard_das_erste",DAS ERSTE HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/307.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1",Deluxe Music HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/318.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER1",Discovery HD
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER1" tvg-logo="http://37.220.2.213/resim/discovery_global_us",Discovery HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/319.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1",Disney Channel HD 
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/320.m3u8$http-refferer=http://localhost
@@ -5036,7 +5036,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/321.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/322.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1",Disney XD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/323.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER1",Kabel 1
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER1" tvg-logo="http://37.220.2.213/resim/kabel_eins_de_doku",Kabel 1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/324.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1",Kabel Eins
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/306.m3u8$http-refferer=http://localhost
@@ -5048,7 +5048,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/326.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/327.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1",NatGeo Wild HD Germany
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/328.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER1",National Geographic HD Germany
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER1" tvg-logo="http://37.220.2.213/resim/nat_geo_us",National Geographic HD Germany
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/329.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1",Nickelodeon
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/330.m3u8$http-refferer=http://localhost
@@ -5058,35 +5058,35 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/331.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/332.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1",PHOENIX
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/305.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER1",Pro7
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER1" tvg-logo="http://37.220.2.213/resim/pro_sieben_de",Pro7
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/333.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1",Pro7 Fun HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/298.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1",Pro7 Maxx HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/297.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER1",RTL
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER1" tvg-logo="http://136.243.64.215/logos/rtl_de.png",RTL
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/334.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1",RTL NITRO
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/335.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER1",Sat 1
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER1" tvg-logo="http://37.220.2.213/resim/sat1_at",Sat 1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/336.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1",sat 1 emotions
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/337.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER1",Sat 1 Gold
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER1" tvg-logo="http://37.220.2.213/resim/sat1_at",Sat 1 Gold
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/304.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1",SERVUS TV HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/303.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1",SUPER RTL HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/380.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER1",TNT Serie
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER1"  tvg-logo="http://37.220.2.213/resim/tnt_us_serie",TNT Serie
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/381.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER1",VIVA
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER1" tvg-logo="http://37.220.2.213/resim/viva_de",VIVA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/302.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1",VOX
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/382.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1",WDR HD DE
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/301.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER1",ZDF
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER1" tvg-logo="http://37.220.2.213/resim/zdf_de",ZDF
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/383.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER1",ZDF NEO HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/300.m3u8$http-refferer=http://localhost
@@ -5113,395 +5113,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 
 
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",
-
-
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Das Erste DE" tvg-name="DE | ARD UHD" tvg-logo="http://37.220.2.213/resim/ard_das_erste" ,DE | ARD UHD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/502.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Das Erste DE" tvg-name="DE | ARD HD" tvg-logo="http://37.220.2.213/resim/ard_das_erste" ,DE | ARD HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/196.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Das Erste DE" tvg-name="DE | ARD SD" tvg-logo="http://37.220.2.213/resim/ard_das_erste" ,DE | ARD SD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/567.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="ZDF DE" tvg-name="DE | ZDF UHD" tvg-logo="http://37.220.2.213/resim/zdf_de" ,DE | ZDF UHD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/823.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="ZDF DE" tvg-name="DE | ZDF HD"  ,DE | ZDF HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/195.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | ZDF"  ,DE | ZDF
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/570.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | WDR HD"  ,DE | WDR HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/194.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | WDR KOLN"  ,DE | WDR KOLN
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/568.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="RTL DE" tvg-name="DE | RTL UHD" tvg-logo="http://37.220.2.213/resim/rtl_de" ,DE | RTL UHD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/498.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | RTL HD"  ,DE | RTL HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/193.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="RTL DE" tvg-name="DE | RTL" tvg-logo="http://136.243.64.215/logos/rtl_de.png" ,DE | RTL
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/632.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Pro7 HD DE" tvg-name="DE | PRO 7 UHD" tvg-logo="http://37.220.2.213/resim/pro_sieben_de" ,DE | PRO 7 UHD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/497.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="ProSieben DE" tvg-name="DE | PRO7 HD" tvg-logo="http://37.220.2.213/resim/pro_sieben_de" ,DE | PRO7 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/190.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="ProSieben DE" tvg-name="DE | PRO7" tvg-logo="http://37.220.2.213/resim/pro_sieben_de" ,DE | PRO7
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/630.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="RTL II DE" tvg-name="DE | RTL2 UHD" tvg-logo="http://37.220.2.213/resim/rtl2_de" ,DE | RTL2 UHD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/499.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="RTL II DE" tvg-name="DE | RTL2 HD" tvg-logo="http://37.220.2.213/resim/rtl2_de" ,DE | RTL2 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/192.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="RTL II DE" tvg-name="DE | RTL2" tvg-logo="http://37.220.2.213/resim/rtl2_de" ,DE | RTL2
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/857.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="VOX DE" tvg-name="DE | VOX UHD"  ,DE | VOX UHD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/500.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | VOX HD"  ,DE | VOX HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/191.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | VOX"  ,DE | VOX
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/835.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="SAT.1 DE" tvg-name="DE | SAT 1 UHD" tvg-logo="http://37.220.2.213/resim/sat1_at" ,DE | SAT 1 UHD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/501.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | SAT1 HD"  ,DE | SAT1 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/189.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="SAT.1 DE" tvg-name="DE | SAT 1" tvg-logo="http://37.220.2.213/resim/sat1_at" ,DE | SAT 1
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/633.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | KABEL 1  UHD"  ,DE | KABEL 1  UHD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/496.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | KABEL1 HD"  ,DE | KABEL1 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/188.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | KABEL 1"  ,DE | KABEL 1
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/628.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | PRO 7 FUN  HD"  ,DE | PRO 7 FUN  HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/511.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | PRO7 MAXX HD"  ,DE | PRO7 MAXX HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/187.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | PRO7 MAXX"  ,DE | PRO7 MAXX
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/838.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="DMAX DE" tvg-name="DE | DMAX" tvg-logo="http://37.220.2.213/resim/dmax_us" ,DE | DMAX
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/853.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="SIXX DE" tvg-name="DE | SIXX"  ,DE | SIXX
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/104.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | ANEXI SD"  ,DE | ANEXI SD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/509.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | ZEE ONE"  ,DE | ZEE ONE
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/185.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="TLC DE" tvg-name="DE | TLC HD"  ,DE | TLC HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/186.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Tele 5 DE" tvg-name="DE | TELE5" tvg-logo="http://37.220.2.213/resim/tele5_de" ,DE | TELE5
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/848.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="arte DE" tvg-name="DE | ARTE"  ,DE | ARTE
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/180.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | 3SAT"  ,DE | 3SAT
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/184.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="ZDFinfo DE" tvg-name="DE | ZDF INFO"  ,DE | ZDF INFO
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/179.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | ZDF NEO"  ,DE | ZDF NEO
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/491.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="ARD-alpha DE" tvg-name="DE | ARD-alpha" tvg-logo="http://37.220.2.213/resim/ard_alpha_de" ,DE | ARD-alpha
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/837.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | ONE"  ,DE | ONE
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/836.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | PHOENIX"  ,DE | PHOENIX
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/634.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | TAGESSCHAU 24"  ,DE | TAGESSCHAU 24
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/182.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="n-tv DE" tvg-name="DE | NTV  UHD"  ,DE | NTV  UHD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/503.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | welt HD"  ,DE | welt HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/183.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | NTV"  ,DE | NTV
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/629.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | WELT" tvg-logo="http://37.220.2.213/resim/welt-de" ,DE | WELT
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/492.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | Bloomberg"  ,DE | Bloomberg
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/639.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | N24 DOKU"  ,DE | N24 DOKU
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/181.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="kabel eins Doku DE" tvg-name="DE | Kabel 1 Doku" tvg-logo="http://37.220.2.213/resim/kabel_eins_de_doku" ,DE | Kabel 1 Doku
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/507.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | hr-fernsehen"  ,DE | hr-fernsehen
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/569.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | SWR BW"  ,DE | SWR BW
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/510.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | RTL  PLUS"  ,DE | RTL  PLUS
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/494.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE |  RTL PASSION"  ,DE |  RTL PASSION
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/506.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="SAT.1 DE" tvg-name="DE | RTL Living HD" tvg-logo="http://37.220.2.213/resim/sat1_at" ,DE | RTL Living HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/505.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="SAT.1 DE" tvg-name="DE | SAT 1 GOLD" tvg-logo="http://37.220.2.213/resim/sat1_at" ,DE | SAT 1 GOLD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/504.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | KIKA"  ,DE | KIKA
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/207.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | SUPER RTL"  ,DE | SUPER RTL
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/172.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | TOGGO PLUS"  ,DE | TOGGO PLUS
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/493.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | Nickelodeon/Nicknight"  ,DE | Nickelodeon/Nicknight
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/171.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | DISNEY channel"  ,DE | DISNEY channel
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/177.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Boomerang DE" tvg-name="DE | BOOMERANG"  ,DE | BOOMERANG
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/174.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | Cartoon Network"  ,DE | Cartoon Network
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/212.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | Nicktoons"  ,DE | Nicktoons
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/849.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | DISNEY JR"  ,DE | DISNEY JR
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/103.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | DISNEY CINE MAGIC"  ,DE | DISNEY CINE MAGIC
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/176.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | DISNEY XD"  ,DE | DISNEY XD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/175.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | DISNEY SD"  ,DE | DISNEY SD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/178.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | JUNIOR"  ,DE | JUNIOR
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/102.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Baby TV DE" tvg-name="DE | BabyTV"  ,DE | BabyTV
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/854.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | Nick Jr."  ,DE | Nick Jr.
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/850.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | Fix&Foxi"  ,DE | Fix&Foxi
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/852.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Viva - Comedy Central DE" tvg-name="DE | VIVA / COMEDY CENTRAL" tvg-logo="http://37.220.2.213/resim/viva_de" ,DE | VIVA / COMEDY CENTRAL
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/856.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | MTV"  ,DE | MTV
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/855.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE  | VH1"  ,DE  | VH1
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/834.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | MTV Hits"  ,DE | MTV Hits
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/821.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | MTV Dance" tvg-logo="http://37.220.2.213/resim/mtv_dance_us" ,DE | MTV Dance
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/907.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="CNBC US" tvg-name="DE | MTV Music 24"  ,DE | MTV Music 24
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/155.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | CLASSICA"  ,DE | CLASSICA
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/635.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | VH1 Classic"  ,DE | VH1 Classic
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/820.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Deutsches Musik Fernsehen DE" tvg-name="DE | Deutsches Musik Fernsehen" tvg-logo="http://37.220.2.213/resim/deutsches_musik_fernsehen" ,DE | Deutsches Musik Fernsehen
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/858.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | BonGusto"  ,DE | BonGusto
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/154.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | RTL LIVING"  ,DE | RTL LIVING
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/150.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | CNBC"  ,DE | CNBC
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/844.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | DW ENGLISCH"  ,DE | DW ENGLISCH
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/210.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky 1 DE" tvg-name="DE | sky 1 UHD T" tvg-logo="http://37.220.2.213/resim/sky_de_1" ,DE | sky 1 UHD T
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/830.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky 1 DE" tvg-name="DE | sky 1 HD" tvg-logo="http://37.220.2.213/resim/sky_de_1" ,DE | sky 1 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/156.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky 1 DE" tvg-name="DE | sky 1" tvg-logo="http://37.220.2.213/resim/sky_de_1" ,DE | sky 1
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/566.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Cinema DE" tvg-name="DE | sky CINEMA UHD" tvg-logo="http://37.220.2.213/resim/sky_de_cinema" ,DE | sky CINEMA UHD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/827.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Cinema DE" tvg-name="DE | sky CINEMA" tvg-logo="http://37.220.2.213/resim/sky_de_cinema" ,DE | sky CINEMA
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/169.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Cinema Action DE" tvg-name="DE | sky CINEMA  ACTION UHD T" tvg-logo="http://37.220.2.213/resim/sky_de_cinema_action" ,DE | sky CINEMA  ACTION UHD T
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/828.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Action DE" tvg-name="DE | sky CINEMA ACTION HD" tvg-logo="http://37.220.2.213/resim/sky_de_cinema_action" ,DE | sky CINEMA ACTION HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/906.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Action DE" tvg-name="DE | sky CINEMA ACTION" tvg-logo="http://37.220.2.213/resim/sky_de_cinema_action" ,DE | sky CINEMA ACTION
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/170.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Cinema Hits DE" tvg-name="DE | sky CINEMA HITS UHD T" tvg-logo="http://37.220.2.213/resim/sky_de_cinema_hits" ,DE | sky CINEMA HITS UHD T
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/829.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Hits DE" tvg-name="DE | sky CINEMA HITS" tvg-logo="http://37.220.2.213/resim/sky_de_cinema_hits" ,DE | sky CINEMA HITS
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/165.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Atlantic DE" tvg-name="DE | sky ATLANTIC HD" tvg-logo="http://37.220.2.213/resim/sky_de_atlantic_hd" ,DE | sky ATLANTIC HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/627.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Atlantic DE" tvg-name="DE | sky ATLANTIC" tvg-logo="http://37.220.2.213/resim/sky_de_atlantic_hd" ,DE | sky ATLANTIC
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/166.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Cinema Plus1 DE" tvg-name="DE | sky CINEMA +1" tvg-logo="http://37.220.2.213/resim/sky_de_cinema_plus1" ,DE | sky CINEMA +1
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/168.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Cinema Plus24 DE" tvg-name="DE | sky CINEMA +24" tvg-logo="http://37.220.2.213/resim/sky_de_cinema_plus24" ,DE | sky CINEMA +24
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/167.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Comedy DE" tvg-name="DE | sky CINEMA COMEDY" tvg-logo="http://37.220.2.213/resim/sky_de_cinema_comedy" ,DE | sky CINEMA COMEDY
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/163.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Nostalgie DE" tvg-name="DE | sky CINEMA NOSTALGIE" tvg-logo="http://37.220.2.213/resim/sky_de_cinema_nostalgie" ,DE | sky CINEMA NOSTALGIE
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/164.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Family DE" tvg-name="DE | Sky CINEMA FAMILY" tvg-logo="http://37.220.2.213/resim/sky_de_cinema_family_hd" ,DE | Sky CINEMA FAMILY
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/101.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="13th Street DE" tvg-name="DE | 13 THE STREET HD" tvg-logo="http://37.220.2.213/resim/13th_street_de" ,DE | 13 THE STREET HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/153.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="13th Street DE" tvg-name="DE | 13 THE STREET" tvg-logo="http://37.220.2.213/resim/13th_street_de" ,DE | 13 THE STREET
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/205.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | SYFY HD"  ,DE | SYFY HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/152.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Syfy DE" tvg-name="DE | SYFY"  ,DE | SYFY
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/563.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="TNT Film DE" tvg-name="DE | TNT FILM HD" tvg-logo="http://37.220.2.213/resim/tnt_us_film" ,DE | TNT FILM HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/162.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="TNT Film DE" tvg-name="DE | TNT Film" tvg-logo="http://37.220.2.213/resim/tnt_us_film" ,DE | TNT Film
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/839.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="TNT Comedy DE" tvg-name="DE | TNT COMEDY HD" tvg-logo="http://37.220.2.213/resim/tnt_us_comedy" ,DE | TNT COMEDY HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/161.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="TNT Comedy DE" tvg-name="DE | TNT Comedy" tvg-logo="http://37.220.2.213/resim/tnt_us_comedy" ,DE | TNT Comedy
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/905.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="TNT Serie DE" tvg-name="DE | TNT Serie" tvg-logo="http://37.220.2.213/resim/tnt_us_serie" ,DE | TNT Serie
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/564.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | NITRO" tvg-logo="http://37.220.2.213/resim/nitro_de" ,DE | NITRO
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/141.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Krimi DE" tvg-name="DE | sky KRIMI" tvg-logo="http://37.220.2.213/resim/sky_de_krimi" ,DE | sky KRIMI
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/565.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | FOX HD"  ,DE | FOX HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/158.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | FOX SERIE"  ,DE | FOX SERIE
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/157.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | RTL CRIME"  ,DE | RTL CRIME
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/151.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Heimatkanal DE" tvg-name="DE | HEIMAT KANAL"  ,DE | HEIMAT KANAL
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/202.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | ROMANCE TV"  ,DE | ROMANCE TV
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/148.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | ROMANCE TV HD"  ,DE | ROMANCE TV HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/147.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | Sky Cinema Arts"  ,DE | Sky Cinema Arts
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/495.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | Sat.1 Emotions"  ,DE | Sat.1 Emotions
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/159.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | RTL EMOTION HD"  ,DE | RTL EMOTION HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/149.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Emotion DE" tvg-name="DE | sky CINEMA EMOTION" tvg-logo="http://37.220.2.213/resim/sky_de_cinema_emotion" ,DE | sky CINEMA EMOTION
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/846.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="E! Entertainment DE" tvg-name="DE | E! Entertainment" tvg-logo="http://37.220.2.213/resim/e_global_us" ,DE | E! Entertainment
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/847.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Kinowelt TV DE" tvg-name="DE | Kinowelt TV HD"  ,DE | Kinowelt TV HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/203.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | kabel eins classics"  ,DE | kabel eins classics
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/140.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | Silverline Movie Channel"  ,DE | Silverline Movie Channel
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/206.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Universal Channel DE" tvg-name="DE | Universal TV HD" tvg-logo="http://37.220.2.213/resim/universal_channel_global" ,DE | Universal TV HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/904.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | e o tv" tvg-logo="http://37.220.2.213/resim/eotv-de" ,DE | e o tv
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/903.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | A&E"  ,DE | A&E
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/637.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | ANIMAL PLANET HD"  ,DE | ANIMAL PLANET HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/143.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | NATGEO WILD HD"  ,DE | NATGEO WILD HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/142.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Discovery Channel HD DE" tvg-name="DE | DISCOVERY CHANNEL UHD" tvg-logo="http://37.220.2.213/resim/discovery_global_us" ,DE | DISCOVERY CHANNEL UHD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/832.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Discovery Channel HD DE" tvg-name="DE | DISCOVERY CHANNEL" tvg-logo="http://37.220.2.213/resim/discovery_global_us" ,DE | DISCOVERY CHANNEL
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/145.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | NAT GEO  HD"  ,DE | NAT GEO  HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/144.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="National Geographic DE" tvg-name="DE | NAT GEO" tvg-logo="http://37.220.2.213/resim/nat_geo_us" ,DE | NAT GEO
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/845.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Nat Geo Wild DE" tvg-name="DE | Nat Geo Wild"  ,DE | Nat Geo Wild
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/851.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Animal Planet DE" tvg-name="DE | ANIMAL PLANET" tvg-logo="http://37.220.2.213/resim/animal_planet_us" ,DE | ANIMAL PLANET
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/901.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="History DE" tvg-name="DE | HISTORY UHD" tvg-logo="http://37.220.2.213/resim/history_us" ,DE | HISTORY UHD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/933.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="History DE" tvg-name="DE | HISTORY" tvg-logo="http://37.220.2.213/resim/history_us" ,DE | HISTORY
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/204.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Animal Planet DE" tvg-name="DE | PLANET"  ,DE | PLANET
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/201.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | Spiegel TV Wissen"  ,DE | Spiegel TV Wissen
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/213.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | SPIEGEL GESCHICHTE"  ,DE | SPIEGEL GESCHICHTE
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/200.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Motorvision TV DE" tvg-name="DE | AUTO MOTORSPORT HD"  ,DE | AUTO MOTORSPORT HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/134.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | auto motor sport"  ,DE | auto motor sport
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/902.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Motorvision TV DE" tvg-name="DE | Motorvision TV" tvg-logo="http://37.220.2.213/resim/motorvision_tv_de" ,DE | Motorvision TV
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/160.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Eurosport 1 DE" tvg-name="DE | EUROSPORT1 HD"  ,DE | EUROSPORT1 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/136.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | EUROSPORT 2"  ,DE | EUROSPORT 2
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/508.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sport1Plus DE" tvg-name="DE | Sport1+"  ,DE | Sport1+
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/133.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | Sport 1 US"  ,DE | Sport 1 US
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/132.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sport1 DE" tvg-name="DE | SPORT1 US" tvg-logo="http://37.220.2.213/resim/sport1_de" ,DE | SPORT1 US
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/841.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport News DE" tvg-name="DE | sky SPORT NEWS HD" tvg-logo="http://37.220.2.213/resim/sky_de_sport_news" ,DE | sky SPORT NEWS HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/139.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport News DE" tvg-name="DE | sky SPORT NEWS T" tvg-logo="http://37.220.2.213/resim/sky_de_sport_news" ,DE | sky SPORT NEWS T
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/840.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="sportdigital DE" tvg-name="DE | SPORT DIGITAL"  ,DE | SPORT DIGITAL
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/137.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2"  tvg-name="DE | Sportdigital"  ,DE | Sportdigital
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/571.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport Austria DE" tvg-name="DE | sky SPORT AUSTRIA HD" tvg-logo="http://37.220.2.213/resim/sky_de_sport_austria" ,DE | sky SPORT AUSTRIA HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/138.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Eurosport 2 DE" tvg-name="DE | Eurosport 2 HD Xtra"  ,DE | Eurosport 2 HD Xtra
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/135.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Eurosport 2 DE" tvg-name="DE | EUROSPORT2 XTRA UHD T" tvg-logo="http://37.220.2.213/resim/eurosport-2-xtra-fr-de" ,DE | EUROSPORT2 XTRA UHD T
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/833.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport Bundesliga 1 DE" tvg-name="DE | sky SPORT BUNDESLIGA 1 UHD" tvg-logo="http://37.220.2.213/resim/sky_de_sport_bundesliga_uhd" ,DE | sky SPORT BUNDESLIGA 1 UHD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/825.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport Bundesliga 1 DE" tvg-name="DE | sky SPORT BUNDESLIGA1 HD"  ,DE | sky SPORT BUNDESLIGA1 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/131.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport Bundesliga 2 DE" tvg-name="DE | SKY SPORT BUNDESLIGA2 HD"  ,DE | SKY SPORT BUNDESLIGA2 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/130.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport Bundesliga 3 DE" tvg-name="DE | SKY SPORT BUNDESLIGA3 HD"  ,DE | SKY SPORT BUNDESLIGA3 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/129.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport Bundesliga 4 DE" tvg-name="DE | SKY SPORT BUNDESLIGA4"  ,DE | SKY SPORT BUNDESLIGA4
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/128.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport Bundesliga 5 DE" tvg-name="DE | SKY SPORT BUNDESLIGA5 HD"  ,DE | SKY SPORT BUNDESLIGA5 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/127.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport Bundesliga 6 DE" tvg-name="DE | SKY SPORT BUNDESLIGA6"  ,DE | SKY SPORT BUNDESLIGA6
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/126.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport Bundesliga 7 DE" tvg-name="DE | SKY SPORT BUNDESLIGA7 HD"  ,DE | SKY SPORT BUNDESLIGA7 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/125.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport Bundesliga 8 DE" tvg-name="DE | SKY SPORT BUNDESLIGA8 HD"  ,DE | SKY SPORT BUNDESLIGA8 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/124.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport Bundesliga 9 DE" tvg-name="DE | SKY SPORT BUNDESLIGA9 HD"  ,DE | SKY SPORT BUNDESLIGA9 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/123.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport Bundesliga 10 DE" tvg-name="DE | SKY SPORT BUNDESLIGA10 HD"  ,DE | SKY SPORT BUNDESLIGA10 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/122.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport 1 DE" tvg-name="DE | sky SPORT 1 UHD" tvg-logo="http://37.220.2.213/resim/sky_de_sport_uhd" ,DE | sky SPORT 1 UHD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/824.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sport1 DE" tvg-name="DE | SKY SPORT1 HD"  ,DE | SKY SPORT1 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/121.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport 1 DE" tvg-name="DE | sky SPORT 1 T" tvg-logo="http://37.220.2.213/resim/sky_de_sport" ,DE | sky SPORT 1 T
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/843.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport 2 DE" tvg-name="DE | sky SPORT 2 UHD" tvg-logo="http://37.220.2.213/resim/sky_de_sport_uhd" ,DE | sky SPORT 2 UHD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/826.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport 2 DE" tvg-name="DE | SKY SPORT2 HD"  ,DE | SKY SPORT2 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/120.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport 2 DE" tvg-name="DE | sky SPORT 2 T" tvg-logo="http://37.220.2.213/resim/sky_de_sport" ,DE | sky SPORT 2 T
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/842.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport 3 DE" tvg-name="DE | SKY  SPORT 3"  ,DE | SKY  SPORT 3
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/119.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport 4 DE" tvg-name="DE | SKY SPORT 4"  ,DE | SKY SPORT 4
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/118.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport 5 DE" tvg-name="DE | SKY SPORT5"  ,DE | SKY SPORT5
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/117.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport 6 DE" tvg-name="DE | SKY SPORT6"  ,DE | SKY SPORT6
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/116.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport 7 DE" tvg-name="DE | SKY SPORT7 HD"  ,DE | SKY SPORT7 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/115.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport 8 DE" tvg-name="DE | SKY SPORT8 HD"  ,DE | SKY SPORT8 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/114.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport 9 DE" tvg-name="DE | SKY SPORT9 HD"  ,DE | SKY SPORT9 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/113.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport 10 DE" tvg-name="DE | SKY SPORT10"  ,DE | SKY SPORT10
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/112.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport 11 DE" tvg-name="DE | sky SPORT 11 HD"  ,DE | sky SPORT 11 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/111.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Select 1 DE" tvg-name="°DE | sky SELECT 1 HD" tvg-logo="http://37.220.2.213/resim/sky-select-de" ,°DE | sky SELECT 1 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/2823.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Select 2 DE" tvg-name="°DE | sky SELECT 2 HD" tvg-logo="http://37.220.2.213/resim/sky-select-de" ,°DE | sky SELECT 2 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/2824.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Select 3 DE" tvg-name="°DE | sky SELECT 3 HD" tvg-logo="http://37.220.2.213/resim/sky-select-de" ,°DE | sky SELECT 3 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/2825.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Select 4 DE" tvg-name="°DE | sky SELECT 4 HD" tvg-logo="http://37.220.2.213/resim/sky-select-de" ,°DE | sky SELECT 4 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/2826.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Select 5 DE" tvg-name="°DE | sky SELECT 5 HD" tvg-logo="http://37.220.2.213/resim/sky-select-de" ,°DE | sky SELECT 5 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/2827.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Select 6 DE" tvg-name="°DE | sky SELECT 6 HD" tvg-logo="http://37.220.2.213/resim/sky-select-de" ,°DE | sky SELECT 6 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/2828.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Sport Bundesliga 7 DE" tvg-name="°DE | sky SELECT 7 HD" tvg-logo="http://37.220.2.213/resim/sky-select-de" ,°DE | sky SELECT 7 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/2829.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-id="Sky Select 8 DE" tvg-name="°DE | sky SELECT 8 HD" tvg-logo="http://37.220.2.213/resim/sky-select-de" ,°DE | sky SELECT 8 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/2830.m3u8
-
-
-
 
 
 
@@ -14320,7 +13931,72 @@ http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/170.m3u8
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",
 
-
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS NEWS
+http://xc.kingtv.pro:504/live/1012/2018/689.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sports HD1
+http://xc.kingtv.pro:504/live/1012/2018/7176.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sports HD2
+http://xc.kingtv.pro:504/live/1012/2018/7174.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sports HD3
+http://xc.kingtv.pro:504/live/1012/2018/7173.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sports HD4
+http://xc.kingtv.pro:504/live/1012/2018/7172.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sports HD5
+http://xc.kingtv.pro:504/live/1012/2018/7171.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sports HD6
+http://xc.kingtv.pro:504/live/1012/2018/7170.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sports HD7
+http://xc.kingtv.pro:504/live/1012/2018/7169.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sports HD8
+http://xc.kingtv.pro:504/live/1012/2018/7168.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sports HD9
+http://xc.kingtv.pro:504/live/1012/2018/7167.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sports HD10
+http://xc.kingtv.pro:504/live/1012/2018/7175.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| beIN SPORTS 4K 1
+http://xc.kingtv.pro:504/live/1012/2018/7327.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| beIN SPORTS 4K 2
+http://xc.kingtv.pro:504/live/1012/2018/7326.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| beIN SPORTS 4K 3
+http://xc.kingtv.pro:504/live/1012/2018/7325.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| beIN SPORTS 4K 4
+http://xc.kingtv.pro:504/live/1012/2018/7324.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| beIN SPORTS 4K 5
+http://xc.kingtv.pro:504/live/1012/2018/7323.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| beIN SPORTS 4K 6
+http://xc.kingtv.pro:504/live/1012/2018/7322.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| beIN SPORTS 4K 7
+http://xc.kingtv.pro:504/live/1012/2018/7321.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| beIN SPORTS 4K 8
+http://xc.kingtv.pro:504/live/1012/2018/7320.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| beIN SPORTS 4K 9
+http://xc.kingtv.pro:504/live/1012/2018/7319.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| beIN SPORTS 4K 10
+http://xc.kingtv.pro:504/live/1012/2018/7318.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 1HD²
+http://xc.kingtv.pro:504/live/1012/2018/2.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 2HD²
+http://xc.kingtv.pro:504/live/1012/2018/3.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 3HD²
+http://xc.kingtv.pro:504/live/1012/2018/4.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 4HD²
+http://xc.kingtv.pro:504/live/1012/2018/5.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 5HD²
+http://xc.kingtv.pro:504/live/1012/2018/6.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 6HD²
+http://xc.kingtv.pro:504/live/1012/2018/7.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 7HD²
+http://xc.kingtv.pro:504/live/1012/2018/8.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 8HD²
+http://xc.kingtv.pro:504/live/1012/2018/9.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 9HD²
+http://xc.kingtv.pro:504/live/1012/2018/10.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 10HD²
+http://xc.kingtv.pro:504/live/1012/2018/11.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 11HD²
+http://xc.kingtv.pro:504/live/1012/2018/12.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 12HD²
+http://xc.kingtv.pro:504/live/1012/2018/13.m3u8
 
 
 
@@ -14345,7 +14021,104 @@ http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/170.m3u8
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",
 
-
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 1HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/1.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 2HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/3.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 3HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/5.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 4HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/7.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 5HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/9.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 6HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 7HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 8HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/15.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 9HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/17.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 10HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/19.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 11HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/21.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 12HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/22.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 13HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/1156.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 14HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/1157.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 15HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/1158.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 16HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/1159.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 17HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/2589.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS NBA
+http://topiptv.net:5890/live/najehnajeh2018/30012018/3123.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 1 HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/1403.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 2 HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/1404.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 3 HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/1405.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 4 HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/1406.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 5 HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/1407.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 6 HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/1408.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 7 HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/1409.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 8 HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/864.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 9 HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/865.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS 10 HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11930.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD 1
+http://topiptv.net:5890/live/najehnajeh2018/30012018/5993.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD 2
+http://topiptv.net:5890/live/najehnajeh2018/30012018/5994.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD 3
+http://topiptv.net:5890/live/najehnajeh2018/30012018/5995.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD 4
+http://topiptv.net:5890/live/najehnajeh2018/30012018/6011.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD 5
+http://topiptv.net:5890/live/najehnajeh2018/30012018/6010.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD 6
+http://topiptv.net:5890/live/najehnajeh2018/30012018/6009.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD 7
+http://topiptv.net:5890/live/najehnajeh2018/30012018/6008.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD 8
+http://topiptv.net:5890/live/najehnajeh2018/30012018/6007.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD 9
+http://topiptv.net:5890/live/najehnajeh2018/30012018/6006.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD 10
+http://topiptv.net:5890/live/najehnajeh2018/30012018/6005.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",««------beIN SPORTS (L) G6------»»
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13425.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD (L)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13426.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS News HD (L)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13427.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD1 1080p
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13417.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD2 1080p
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13418.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD3 1080p
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13419.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD4 1080p
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13420.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD1 720p
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13421.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD2 720p
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13422.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD3 720p
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13423.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD4 720p
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13424.m3u8
 
 
 
