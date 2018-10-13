@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,12/10/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,13/10/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -1712,13 +1712,13 @@ http://123tv.live/watch/freesports/|webview zoom=200 scroll=200,200
 #EXTINF:-1 group-title="UK-SERVER5" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
 http://..........
 
-#EXTINF:-1 group-title="UK-SERVER5", BT Sport 1 
+#EXTINF:-1 group-title="UK-SERVER5" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport1.png", BT Sport 1 
 http://185.53.163.205:2700 
-#EXTINF:-1 group-title="UK-SERVER5", BT Sport 2 
+#EXTINF:-1 group-title="UK-SERVER5" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport2.png", BT Sport 2 
 http://185.53.163.205:2506 
-#EXTINF:-1 group-title="UK-SERVER5", BT Sport 3 
+#EXTINF:-1 group-title="UK-SERVER5" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport3.png", BT Sport 3 
 http://185.53.163.205:2701 
-#EXTINF:-1 group-title="UK-SERVER5", BT Sport ESPN 
+#EXTINF:-1 group-title="UK-SERVER5" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport.png", BT Sport ESPN 
 http://185.53.163.205:2507 
 #EXTINF:-1 group-title="UK-SERVER5", BT Sport Extra 1 
 http://185.53.163.205:2707 
@@ -1732,7 +1732,6 @@ http://185.53.163.205:2502
 http://185.53.163.205:2503 
 #EXTINF:-1 group-title="UK-SERVER5", BT Sport Extra 6 
 http://185.53.163.205:2504 
-
 
 
 
@@ -6550,155 +6549,155 @@ https://www.youtube.com/watch?v=7sIsiHbDi_0
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
 http://.....
 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1", Fox Crime
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCRIME.png", Fox Crime
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/887.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1", Historia
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORIA.png", Historia
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/888.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",24 KITCHEN
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/24KITCHEN.png",24 KITCHEN
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/889.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",A & E
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/890.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",A BOLA TV
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png",A BOLA TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/891.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",AMC
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png",AMC
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/892.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",AXN
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png",AXN
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/893.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",AXN WHITE
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png",AXN WHITE
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/894.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",BABY TV
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BABYTV.png",BABY TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/895.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",BENFICA TV 1
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV 1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/896.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",BENFICA TV 2
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV 2
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/897.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",CAÇA & PESCA
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CACAEPESCA.png",CAÇA & PESCA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/898.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",CANAL HISTÓRIA
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORIA.png",CANAL HISTÓRIA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/899.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",CANAL PANDA
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALPANDA.png",CANAL PANDA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/900.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",CANAL Q
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALQ.png",CANAL Q
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/901.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",CARTOON  NETWORK
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png",CARTOON  NETWORK
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/902.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",CBS REALITY
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSREALITY.png",CBS REALITY
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/903.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",CHELSEA TV
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHELSEATV.png",CHELSEA TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/904.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",CINEMUNDO
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CINEMUNDO.png",CINEMUNDO
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/905.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",CM TV
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png",CM TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/906.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",DISCOVERY CHANNEL
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png",DISCOVERY CHANNEL
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/907.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",Discovery HD Showcase
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSHOWCASE.png",Discovery HD Showcase
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/908.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",DISNEY CHANNEL
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png",DISNEY CHANNEL
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/909.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",DISNEY JUNIOR
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png",DISNEY JUNIOR
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/910.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",E! Entertainment
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/E!.png",E! Entertainment
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/911.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",Fox Comedy
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCOMEDY.png",Fox Comedy
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/913.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",FOX CRIME
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCRIME.png",FOX CRIME
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/914.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",FOX LIFE
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png",FOX LIFE
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/915.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",FOX MOVIES
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXMOVIES.png",FOX MOVIES
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/916.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",FOX TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/917.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",FUEL TV
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FUELTV.png",FUEL TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/918.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",GLOBO
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBO.png",GLOBO
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/919.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",HOLLYWOOD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png",HOLLYWOOD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/920.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",JIM JAM
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/JIMJAM.png",JIM JAM
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/921.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",MOTORS TV
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORSPORTTV.png",MOTORS TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/922.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",MOTORVISION
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORVISIONTV.png",MOTORVISION
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/923.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",MOTORVISION TV
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORVISIONTV.png",MOTORVISION TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/924.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",MOV HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/925.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",Mtv Portuga
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTV.png",Mtv Portugal
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/926.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",MTV PORTUGAL
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTV.png",MTV PORTUGAL
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/927.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",Nat Geo Wild
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png",Nat Geo Wild
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/929.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",NATIONAL GEOGRAPHIC
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png",NATIONAL GEOGRAPHIC
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/928.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",NICKELODEON
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png",NICKELODEON
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/930.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",ODISSEIA
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ODISSEIA.png",ODISSEIA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/931.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",PFC
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/932.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",PORTO CANAL
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PORTOCANAL.png",PORTO CANAL
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/933.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",RTP 1
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png",RTP 1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/934.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",RTP 2
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png",RTP 2
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/935.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",RTP 3
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png",RTP 3
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/936.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",RTP AÇORES
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPACORES.png",RTP AÇORES
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/937.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",RTP ÁFRICA
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPAFRICA.png",RTP ÁFRICA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/938.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",RTP MADEIRA
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMADEIRA.png",RTP MADEIRA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/886.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",RTP MEMÓRIA
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png",RTP MEMÓRIA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/939.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",Sic
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png",Sic
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/940.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",SIC MULHER
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICMULHER.png",SIC MULHER
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/941.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",SIC NOTICIAS
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png",SIC NOTICIAS
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/942.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",SIC RADICAL
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png",SIC RADICAL
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/943.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",SYFY
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png",SYFY
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/944.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",TLC
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TLC.png",TLC
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/945.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",TOUROS TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/946.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",TV CINE 1  HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png",TV CINE 1  HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/947.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",TV CINE 2  HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png",TV CINE 2  HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/948.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",TV CINE 3 HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3.png",TV CINE 3 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/949.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",TV CINE 4
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC4.png",TV CINE 4
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/950.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",TV GLOBO
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBO.png",TV GLOBO
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/951.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",TV Globo Premium
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBO.png",TV Globo Premium
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/952.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",TV RECORD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDTV.png",TV RECORD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/953.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",TVC HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC.png",TVC HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/954.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",TVCseries
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVSERIES.png",TVCseries
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/955.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",TVI
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png",TVI
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/956.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",TVI 24
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png",TVI 24
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/957.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",TVI REALITY
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIREALITY.png" ,TVI REALITY
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/958.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",TVI Reality (A Quinta)
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIREALITY.png" ,TVI Reality (A Quinta)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/959.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",VH1
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png",VH1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/960.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1",VH1 CLASSIC
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1CLASSIC.png",VH1 CLASSIC
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/961.m3u8$http-refferer=http://localhost
 
 
@@ -6722,257 +6721,111 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/961.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",
 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png" ,==Portugal==
-http://..........
 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: RTP 2
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67132.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: RTP 3
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67131.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: RTP ?FRICA
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67129.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: RTP ACORES
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67130.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: RTP MADEIRA
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67128.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: RTP MEMORIA
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67127.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: RTP1
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67126.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: RTP1 HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67125.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: RTP2 HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67124.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: RTP3 HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67123.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SIC
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67122.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SIC Caras
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67121.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SIC CARAS HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67120.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SIC HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67119.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SIC K
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67118.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SIC MULHER
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67117.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SIC Mulher HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67116.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SIC NOTICIAS
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67115.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SIC NOTICIAS HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67114.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SIC RADICAL
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67113.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SIC RADICAL HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67112.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: TPA
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67093.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: TV  SERIES
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67091.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: TV CINE 2
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67090.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: TV SERIES  HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67089.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: TVCINE 1
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67088.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: TVCine 1 HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67087.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: TVCINE 2 HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67086.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: TVCINE 3
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67085.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: TVCine 3 HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67084.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: TVCine 4
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67083.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: TVCine 4 HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67082.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: TVI
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67081.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: TVI FICCAO
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67080.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: TVI HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67079.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: TVI Reality
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67078.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: TVI24
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67077.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: VH1 CLASSIC
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67076.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: TCV Cabo
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/66523.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: TPA ANGOLA
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/66269.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: TV MIRAMAR ANGOLA
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/66268.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: 24 KITCHEN HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67195.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: AMC
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67193.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: AMC HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67192.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: Angelus TV
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67191.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: AXN BLACK HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67190.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: AXN HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67189.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: AXN WHITE HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67188.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: BABY TV
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67187.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: BTV 1
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67186.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: BTV 1HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67185.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: CA?AVISION
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67183.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: CACA E PESCA
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67184.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: CANAL HIST?RIA
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67182.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: CANAL PANDA
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67181.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: CANAL Q
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67180.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: CARTOON NETWORK
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67179.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: CBS REALITY
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67178.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: CINEMUNDO
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67177.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: CMTV
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67176.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: CMTV HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67175.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: CRIME INVESTIGATION
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67174.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: DISCOVERY CHANNEL
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67173.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: DISCOVERY HD SHOWCASE
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67172.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: DISNEY CHANNEL
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67171.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: DISNEY JUNIOR
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67170.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: DOG TV
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67169.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: FINE LIVING NETWORK HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67156.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: FOOD NETWORK HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67155.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: FOX COMEDY
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67154.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: FOX Crime HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67153.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: FOX HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67152.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: FOX Life HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67151.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: FOX MOVIES
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67150.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: Fuel TV
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67149.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: HOLLYWOOD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67148.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: Hollywood HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67147.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: JIM JAM
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67146.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: KOMBAT SPORT
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67145.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: My Cuisine
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67142.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: Nat Geo Wild
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67141.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: NATIONAL GEOGRAPHIC HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67140.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: NBA TV
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67139.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: Nickelodeon
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67138.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: Odisseia
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67137.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: PANDA BIGGS
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67136.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SYFY
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67097.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SYFY HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67096.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: TLC
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67095.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: A BOLA TV
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67194.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: ELEVEN SPORTS 1 HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67168.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: ELEVEN SPORTS 1 HD NET FRACA
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67167.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: ELEVEN SPORTS 2 HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67166.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: ELEVEN SPORTS 2 HD NET FRACA
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67165.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: ELEVEN SPORTS 3 HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67164.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: ELEVEN SPORTS 3 HD NET FRACA
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67163.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: ELEVEN SPORTS 4 HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67162.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: ELEVEN SPORTS 5 HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67161.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: ELEVEN SPORTS 6 HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67160.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: EUROSPORT 1 HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67159.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: EUROSPORT 2
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67158.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: EUROSPORT1
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67157.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: MOTORS TV
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67144.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: MOTORVISION
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67143.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: PORTO CANAL
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67135.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: PORTO CANAL HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67134.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: REAL MADRID TV
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67133.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SPORT TV
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67111.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SPORT TV 3
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67110.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SPORT TV 3 HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67109.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: Sport TV 4HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67108.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SPORT TV1
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67107.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SPORT TV2
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67106.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SPORT TV2 HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67105.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SPORT TV4
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67104.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SPORTING HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67103.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SPORTING TV
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67102.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SPORTTV 5
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67101.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SPORTV    HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67100.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SPORTV 5 HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67099.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: SPORTV1 HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67098.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: TOROS TV
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67094.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: TRAVEL CHANNEL HD
-http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67092.m3u8
-
-
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT: FUEL TV
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2328.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:A BOLA TV
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2327.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:AXN BLACK HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2342.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:AXN HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2344.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:AXN WHITE HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2343.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:BENFICA TV HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2305.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:CANAL PANDA
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2319.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:CINEMUNDO
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2331.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:DISCOVERY HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2312.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:DISCOVERY SHOWCASE HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2309.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:DISNEY CHANNEL HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2316.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:DISNEY JUNIOR HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2317.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:EUROSPORT 1
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2304.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:EUROSPORT 2
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2303.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:FOX COMEDY HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2337.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:FOX CRIME HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2339.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:FOX HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2341.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:FOX LIFE HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2340.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:FOX MOVIES HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2338.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:HISTORIA HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2313.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:HOLLYWOOD HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2336.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:MOTORS TV
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2307.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:NAT GEO WILD HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2311.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:NAT GEOGRAPHIC HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2310.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:NICKELODEON HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2318.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:PANDA PIGGS HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2325.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:PORTO CANAL
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2326.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:RTP 1 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2360.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:RTP 2 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2359.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:RTP 3 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2358.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:RTP AFRICA
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2357.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:RTP MEMORIA
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2355.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:SIC
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2353.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:SIC CARAS HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2349.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:SIC KIDS
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2352.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:SIC NOTICIAS
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2350.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:SPORT TV 1 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2302.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:SPORT TV 2 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2301.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:SPORT TV 3 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2300.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:SPORT TV 4 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2299.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:SPORT TV 5 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2298.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:SPORTING TV HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2297.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:SYFY
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2335.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:TVCINE 1 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2323.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:TVCINE 2 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2322.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:TVCINE 3 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2321.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:TVCINE 4 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2320.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:TVI
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2348.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:TVI 24 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2347.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:TVI FACCAO
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2345.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:TVI REALITY HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2346.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:VH 1 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2329.m3u8
 
 
 
@@ -6992,123 +6845,6 @@ http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67092.m3u8
 
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",
-
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png",RTP 1 HD 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67125.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png",SIC HD 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67119.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png",TVI 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67081.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png",TVI HD 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67079.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png",SIC NOTICIAS HD 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67114.m3u8
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png",TVI24 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67077.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png",CM TV 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67176.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png",CM TV HD 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67175.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICMULHER.png",SIC MULHER 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67117.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICCARAS.png",SIC CARAS 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67120.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/24KITCHEN.png",24 KITCHEN HD 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67195.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALQ.png",CANAL Q 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67180.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67186.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV HD 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67185.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FUELTV.png",FUEL TV 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67149.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png",A BOLA TV 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67194.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png",DISNEY CHANNEL 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67171.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png",DISNEY JUNIOR 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67170.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png",NICKELODEON 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67138.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALPANDA.png",PANDA 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67181.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PANDABIGGS.png",PANDA BIGGS 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67136.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICK.png",SIC K 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67118.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BABYTV.png",BABY TV 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67187.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/JIMJAM.png",JIMJAM 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67146.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DOGTV.png",DOG TV 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67169.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIFICCAO.png",TVI FICCAO 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67080.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIREALITY.png",TVI REALITY 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67078.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png",HOLLYWOOD 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67148.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png",HOLLYWOOD HD 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67147.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CINEMUNDO.png",CINEMUNDO 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67177.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXMOVIES.png",FOX MOVIES 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67150.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png",FOX HD 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67152.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png",AXN HD 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67189.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png",FOX LIFE HD 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67151.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCRIME.png",FOX CRIME HD 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67153.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCOMEDY.png",FOX COMEDY 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67154.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png",AXN WHITE HD 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67188.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNBLACK.png",AXN BLACK HD 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67190.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png",SYFY 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67097.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png",SYFY HD 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67096.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png",AMC 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67193.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png",AMC HD 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67192.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1CLASSIC.png",VH1 CLASSIC 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67076.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png",DISCOVERY 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67173.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png",NATIONAL GEOGRAPHIC HD 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67140.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png",NATIONAL GEOGRAPHIC WILD 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67141.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORIA.png",HISTORIA 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67182.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ODISSEIA.png",ODISSEIA 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67137.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TLC.png",TLC 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67095.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOOD.png",FOOD NETWORK 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67155.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSREALITY.png",CBS REALITY 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67178.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANGELUSTV.png",ANGELUS TV 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67191.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TPA.png",TPA 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/66269.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CACAEPESCA.png",CACA & PESCA 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67184.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KOMBATSPORT.png",KOMBAT SPORT 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67145.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CRIMEINVESTIGATION.png",CRIME & INVESTIGATION 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67174.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSHOWCASE.png",DISCOVERY SHOWCASE 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67172.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FINELIVING.png",FINE LIVING NETWORK HD 
-http://190.2.142.103:8000/live/BLZokeTBv2/qDvpdVEPz4/67156.m3u8
 
 
 
