@@ -730,85 +730,85 @@ https://www.youtube.com/watch?v=7sIsiHbDi_0
 #EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
 http://.....
 
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",5USA
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/5usa.png",5USA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1242.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",USA Network HD
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/usanetwork.jpg",USA Network HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1118.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",AMC HD
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/amc.png",AMC HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/968.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",BYU TV
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/byutv.png",BYU TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/969.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",CARTOON NETWORK
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/cartoonnetwork.png",CARTOON NETWORK
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/970.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",CBSN HD
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/cbsnews.jpg",CBSN HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/971.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",CNBC
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/cnbc.png",CNBC
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/972.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",DISCCOVERY HD
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoverychannelhd%20(1).png",DISCOVERY HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/973.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",DW
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/dw-english/pos/dw-english_300.png",DW
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/974.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",Fight HD
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/fightnetwork.jpg",Fight HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/975.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",Fox HD
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/fox.png",Fox HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/965.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",FXX
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/fxx.png",FXX
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/976.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",HBO Comedy
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/hbocomedy.png",HBO Comedy
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/977.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",HBO East
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/830.png",HBO East
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/978.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",HBO HD
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/hbo(1).jpg",HBO HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/979.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",HBO Signature
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/hbosignature.png",HBO Signature
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/980.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",HBO Zone
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/hbozone.png",HBO Zone
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/981.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",NBA SD
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/nba.png",NBA SD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/982.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",NBA TV HD
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/nba.png",NBA TV HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/983.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",NFL Network 1080i
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/nflsundayticket.jpg",NFL Network 1080i
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/967.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",NFL REDZONE SD
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/Nfl-redzone.png",NFL REDZONE SD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/966.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",Showtime 2
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/showtime2.png",Showtime 2
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/984.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",SHOWTIME HD
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/showtime.jpg",SHOWTIME HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/985.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",Showtime West
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/Showtime_West-logo-4D2CF9A40A-seeklogo.com.gif.300x300_q85.jpg",Showtime West
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/986.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",Starz Cinema
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/starzcinema.png",Starz Cinema
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/987.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",Starz Comedy
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/starzcomedy.png",Starz Comedy
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/988.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",Starz East
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/starz.png",Starz East
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/989.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",Starz Encore
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/starzencorefamily.png",Starz Encore
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/990.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",Tennis Channel HD
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/tennischannel.png",Tennis Channel HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/991.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",(SD)NFL: 1
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/nflsundayticket.jpg",(SD)NFL: 1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1014.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",(SD)NFL: 2
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/nflsundayticket.jpg",(SD)NFL: 2
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1013.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",(SD)NFL: 3
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/nflsundayticket.jpg",(SD)NFL: 3
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1012.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",(SD)NFL: 4
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/nflsundayticket.jpg",(SD)NFL: 4
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1011.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",(SD)NFL: 5
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/nflsundayticket.jpg",(SD)NFL: 5
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1010.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",(SD)NFL: 6
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/nflsundayticket.jpg",(SD)NFL: 6
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1009.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",(SD)NFL: 7
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/nflsundayticket.jpg",(SD)NFL: 7
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1008.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",(SD)NFL: 8
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/nflsundayticket.jpg",(SD)NFL: 8
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1007.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",(SD)NFL: 9
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/nflsundayticket.jpg",(SD)NFL: 9
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1006.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",A&E HD
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/aande.png",A&E HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1015.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="USA PREMIUM-SERVER1",Amazing Discoveries HD
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-logo="https://amazingdiscoveries.tv/thumbs/categories/amazing_discoveries.jpg",Amazing Discoveries HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1016.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="USA PREMIUM-SERVER1",ESPN
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1017.m3u8$http-refferer=http://localhost
@@ -1771,7 +1771,7 @@ http://.....
 
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/5usa.png" ,5USA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1242.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1" ,3e
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/ie/3E.png",3e
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1248.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/5star.png",5Star
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1249.m3u8$http-refferer=http://localhost
@@ -1795,7 +1795,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1315.m3u8$http-refferer
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1254.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bet.png",BET
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1237.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",BritishMuslim
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="https://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png",BritishMuslim
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1236.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cartoonnetwork.png",Cartoon Network
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1264.m3u8$http-refferer=http://localhost
@@ -1849,9 +1849,9 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1212.m3u8$http-refferer
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1278.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Documentary/h2%2520hd.png" ,H2
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1194.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",HBO 1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/hbo(1).jpg",HBO 1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1316.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",HBO 2
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/hbo2.png",HBO 2
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1317.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/historyhd.png",History
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1200.m3u8$http-refferer=http://localhost
@@ -1865,11 +1865,11 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1281.m3u8$http-refferer
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1247.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/investigationdiscovery.png",ID   1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1282.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Inspiration
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://image.roku.com/channels/images/8e24969bfce84aa68bcc6dae2d1bb14d-hd.jpg",Inspiration
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1229.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/investigationdiscovery.png",Investigation Discovery
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1228.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",ITV ENCORE
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/ITV_Encore_logo.png/220px-ITV_Encore_logo.png",ITV ENCORE
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1227.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv.png",ITV1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/5.m3u8$http-refferer=http://localhost
@@ -1921,7 +1921,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1293.m3u8$http-refferer
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1294.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/scuzz.png",Scuzz
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1197.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",SMASH HITS
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://i.ytimg.com/vi/tXuO7cC0MbE/hqdefault.jpg",SMASH HITS
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1220.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/sonycrimechanneluk.png" ,Sony Channel
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1218.m3u8$http-refferer=http://localhost
@@ -1943,29 +1943,29 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1307.m3u8$http-refferer
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1308.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/travelchannel.png",Travel Channel
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1309.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",True Movies 2
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/True_Movies_2_logo.png",True Movies 2
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1310.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Universal   1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/universalchannel.png",Universal   1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1311.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/vh1.png",VH1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1312.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/viceland(1).png",VICELAND
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1217.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",VIVA
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="https://lh3.googleusercontent.com/-tus1ndtVccE/UghYMC-yImI/AAAAAAAABPE/VoF0nQelHso/viva+tv+live.png",VIVA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1192.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/w.png",W   1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1313.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Watch
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://seenit.co.uk/wp-content/uploads/uktv_watch.jpg",Watch
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1216.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/4seven.png",4Seven
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1314.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/tlc.png",TLC - IRELAND
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1319.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",True Movies 1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/True_Movies.png",True Movies 1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1320.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cartoonnetwork.png",VIP Cartoon network HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1241.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",VIP HBO HD
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/hbo(1).jpg",VIP HBO HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1214.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/mtv.png",VIP MTV LIVE HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1213.m3u8$http-refferer=http://localhost
@@ -1985,7 +1985,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1177.m3u8$http-refferer
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1178.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/lifetime.png",Life time
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1179.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Living UK
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://media-recherche.ina.fr/image/VQTaZJ8u-IvY5HF3jok4b_cKKetrpVGe-dpy0HFDyAVLMyJ-u6i9B8Xz7TWI35MS1dGlz0JhqipHMiJcw80etV1pTFCAAOIzPLga9tWYYas.jpg",Living UK
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1180.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/manutv.png",Manchester United TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1181.m3u8$http-refferer=http://localhost
@@ -1997,7 +1997,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1183.m3u8$http-refferer
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1184.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/yesterday.png",Yesterday
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1191.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",BBC World News
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="https://pbs.twimg.com/profile_images/875702138680246273/BfQLzf7G_400x400.jpg",BBC World News
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1127.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/boomerang.png",boomerang
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1128.m3u8$http-refferer=http://localhost
@@ -2041,11 +2041,11 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1146.m3u8$http-refferer
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1147.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/homeandhealthplus1.png",Home & Health
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1148.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Irish Tv
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://www.achillmarathon.com/img/irish_tv_140x93.png",Irish Tv 
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1149.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itvbe.png",ITV be
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1150.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",London Live
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="https://www.londonlive.co.uk/assets/images/londonlive-big-logo.png",London Live
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1151.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/nickjr.png",Nick Jr
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1152.m3u8$http-refferer=http://localhost
@@ -2057,17 +2057,17 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1169.m3u8$http-refferer
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1170.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/utv.png",UTV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1171.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",PLUG RTL
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0020/5102/brand.gif",PLUG RTL
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/422.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/babytvhd.jpg",Baby TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1122.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png",BBC ONE HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1123.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",BBC Three HD
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://www.tazoo.tv/wp-content/uploads/2014/04/bbc3hd.png",BBC Three HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1124.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cbbc.png",CBBC
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1125.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",Pick
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/pick.png",Pick
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1126.m3u8$http-refferer=http://localhost
 
 
@@ -2106,15 +2106,15 @@ http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/55.ts?.coms|user-agent=
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/22.ts?.coms|user-agent=freeapppsss
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbctwo.png" ,BBC 2 UK
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/23.ts?.coms|user-agent=freeapppsss
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2",BBC 3 UK
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://www.tazoo.tv/wp-content/uploads/2014/04/bbc3hd.png",BBC 3 UK
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/24.ts?.coms|user-agent=freeapppsss
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcfour.png",BBC 4 UK
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/25.ts?.coms|user-agent=freeapppsss
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2",Willow Cricket
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2"  tvg-logo="https://dev.dishpromotions.com/wp-content/uploads/WLLOW-logo.png",Willow Cricket
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/117.ts?.coms|user-agent=freeapppsss
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2",Willow Cricket Backup
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2"  tvg-logo="https://dev.dishpromotions.com/wp-content/uploads/WLLOW-logo.png",Willow Cricket Backup
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/434.ts?.coms|user-agent=freeapppsss
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2",WWE Network
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Sports/wwe.jpg",WWE Network
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/146.ts?.coms|user-agent=freeapppsss
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/boxnation.png",Box Nation
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/44.ts?.coms|user-agent=freeapppsss
@@ -2134,9 +2134,9 @@ http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/148.ts?.coms|user-agent
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/849.ts?.coms|user-agent=freeapppsss
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/IRE_Logos/eirsport2.png",Eir Sports2
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/850.ts?.coms|user-agent=freeapppsss
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2",ESPN 2 USA
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/espn.png",ESPN 2 USA
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/49.ts?.coms|user-agent=freeapppsss
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2",ESPN USA
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/espn2.png",ESPN USA
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/48.ts?.coms|user-agent=freeapppsss
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsmainevent.png",Sky Sports Main Event
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/2131.ts?.coms|user-agent=freeapppsss
@@ -2176,7 +2176,7 @@ http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/118.ts?.coms|user-agent
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/2463.ts?.coms|user-agent=freeapppsss
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Sports/setanta-sport-plus.png" ,Setanta Sports
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/57.ts?.coms|user-agent=freeapppsss
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2",SportsNetWorld
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Sportsnet/sportsnet%20world.png",SportsNetWorld
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/467.ts?.coms|user-agent=freeapppsss
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemafamily.png",Sky Cinema Hits
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/2422.ts?.coms|user-agent=freeapppsss
@@ -2188,9 +2188,9 @@ http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/2421.ts?.coms|user-agen
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/66.ts?.coms|user-agent=freeapppsss
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemacomedy.png",Sky Movie Comedy (Backup)
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/2420.ts?.coms|user-agent=freeapppsss
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2",Sky Movie Christmas Ex-Drama
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/truechristmas.png",Sky Movie Christmas Ex-Drama
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/68.ts?.coms|user-agent=freeapppsss
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2",Sky Movie Christmas Ex-Drama (Backup)
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/truechristmas.png",Sky Movie Christmas Ex-Drama (Backup)
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/2419.ts?.coms|user-agent=freeapppsss
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemagreats.png",Sky Movie Modern Greats
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/70.ts?.coms|user-agent=freeapppsss
