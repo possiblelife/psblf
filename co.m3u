@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,13/10/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,15/10/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -52,7 +52,7 @@ http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png" ,RIK1
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webdown$$start=\" src=\"http://l$$end=\" title=\"\">$$replace1=\" src=\"$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",RIK1
-http://www.fireshow.xyz/rik1.html|webdown
+http://www.fireshow.xyz/rik1.html|webnoagent$$start==src:  \"http://$$end=.m3u8$$replace=src:  \"$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png" ,RIK2
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|webdown$$start=\" src=\"http://l$$end=\" title=\"\">$$replace1=\" src=\"$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png",RIK2
@@ -447,7 +447,7 @@ http://........
 
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="http://2pouqfl1mif26n3ql1jslyj1.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/360NorthTuneIn3-650x457.jpg" ,360 North
 http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
-#EXTINF:-1 group-title="USA/Canada-WebTV",Arirang
+#EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="https://pbs.twimg.com/profile_images/419141811785854978/kYXvz2bh_400x400.jpeg",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/970x545/public/live_atlantachannel_0.jpg" ,Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
@@ -475,9 +475,9 @@ http://wjmn-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9e/KREX-TV_2005.jpg" ,CBS 5 News (Colorado)
 http://krex-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
-#EXTINF:-1 group-title="USA/Canada-WebTV",CBS NEWS HD
+#EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L._SY355_.png" ,CBS NEWS HD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-#EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="http://www.fallcreekgarland.net/Garland%20logo.png" ,CGTV
+#EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="http://cgtv.la/wp-content/uploads/2015/01/cgtv-logo-300x137.png" ,CGTV
 http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" ttvg-logo="http://i.imgur.com/IH7rVcy.png",Channel 7
 http://radio.7chan.org:8000/CH7
@@ -493,23 +493,19 @@ http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
 http://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="https://dcps.dc.gov/sites/default/files/styles/medium/public/dc/sites/dcps/service_content/images/district-knowledge-network-.jpg" ,District Knowledge Network
 http://video.oct.dc.gov/out/u/96_4.m3u8
-#EXTINF:0 group-title="USA/Canada-WebTV",DJING Dancefloor HD (Music) (Wuffy Player)
-http://www.djing.com/tv/d-05.m3u8
-#EXTINF:0 group-title="USA/Canada-WebTV",DJing Ibiza (Public-Music) (Wuffy Player)
-http://www.djing.com/tv/dancefloor.m3u8 
-#EXTINF:0 group-title="USA/Canada-WebTV",DJing EDM (Public-Music) (Wuffy Player)
-http://www.djing.com/tv/live.m3u8 
-#EXTINF:0 group-title="USA/Canada-WebTV",DJing Underground (Public-Music) (Wuffy Player) 
-http://www.djing.com/tv/underground.m3u8 
-#EXTINF:0 group-title="USA/Canada-WebTV",DJing Classic (Public-Music) (Wuffy Player)
-http://www.djing.com/tv/classics.m3u8 
-#EXTINF:0 group-title="USA/Canada-WebTV",DJing Animation (Public-Music) (Wuffy Player)
-http://www.djing.com/tv/animation.m3u8 
-#EXTINF:0 group-title="USA/Canada-WebTV",DJING Hot Hot Hot HD (Music) (Wuffy Player)
-http://www.djing.com/tv/hothothot.m3u8
-#EXTINF:-1 group-title="USA/Canada-WebTV",DW HD
+#EXTINF:0 group-title="USA/Canada-WebTV" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2014/12/djing-200x141.jpg",DjinG   
+https://www.djing.com/tv/d-28081-04.m3u8
+#EXTINF:0 group-title="USA/Canada-WebTV" tvg-logo="https://ulango.tv/uploads/channels/355362/logo_djing%20animation1.png",Djing Animation HD
+https://www.djing.com/tv/a-28081-04.m3u8
+#EXTINF:0 group-title="USA/Canada-WebTV" tvg-logo="http://vivotvhd.com/img/cha/2.gif",Djing Classic HD
+https://www.djing.com/tv/i-28081-04.m3u8
+#EXTINF:0 group-title="USA/Canada-WebTV" tvg-logo="http://5.189.166.30/LBox/Divers/Logos/Musica/DJING_IBIZA.png",Djing Ibiza HD
+https://www.djing.com/tv/d-28081-04.m3u8
+#EXTINF:0 group-title="USA/Canada-WebTV" tvg-logo="http://www.elitgrafik.com/m/tv/tv_logo_k/169.jpg",Djing Underground HD
+https://www.djing.com/tv/u-28081-04.m3u8
+#EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png",DW HD
 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:-1 group-title="USA/Canada-WebTV",FOX NEWS (Youtube)
+#EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/fox-news-logo-png-transparent.png",FOX NEWS (Youtube)
 https://www.youtube.com/watch?v=LKzcwjOkwok
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2013/06/wttg-logo_304x200.jpg" ,Fox 5 News (Washington DC)
 https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
@@ -517,21 +513,21 @@ https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 http://cmghlslive-i.akamaihd.net/hls/live/224672/WHBQ/2564k/prog.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="http://d31wsou9chh9ss.cloudfront.net/0/mobile/images/1409171234/3043/300/200/PlayerLogo.jpg" ,Fox News Radio
 http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
-#EXTINF:-1 group-title="USA/Canada-WebTV",FRANCE 24
+#EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="http://www.france24.com/bundles/aefhermesf24/img/france-24-logo.png?version=20180301121500",FRANCE 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" ,Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="http://www.greenbeltmd.gov/images/InfoAdvanced/52/municipal%20Access.jpg" ,Greenbelt Municipal Access TV
 http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
-#EXTINF:0 group-title="USA/Canada-WebTV",HEART TV (Music) 
+#EXTINF:0 group-title="USA/Canada-WebTV" tvg-logo="http://www.thaiptv.com/img/hearttv.jpg",HEART TV (Music) 
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:-1 group-title="USA/Canada-WebTV",HISTORY LAB – ITÁLIA
+#EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="http://fondazione.museostorico.it/var/plain_site/storage/images/progetti/principali-ambiti-tematici-di-ricerca/history-lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria/63732-1-ita-IT/History-Lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria_galleryfull.jpg",HISTORY LAB – ITÁLIA
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="http://www.sat-address.com/f/pics/logotipi/TVW-House-Channel_o.jpg" ,House of Representatives
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="https://pbs.twimg.com/profile_images/771129571143917568/ALsCCg-v.jpg" ,InfoWars
 http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
-#EXTINF:0 group-title="USA/Canada-WebTV",Juce tv (Family) 
+#EXTINF:0 group-title="USA/Canada-WebTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/JUCE_TV_logo.png",Juce tv (Family) 
 http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/kbvrtv-profile_image-666cfc3f59b5f449-300x300.jpeg" ,KBVR TV
 http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
@@ -545,13 +541,13 @@ http://173.199.158.79:1935/roku/myStream/playlist.m3u8
 https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="https://www.cityoflaurel.org/system/files/styles/facebook_big/private/images/laurel-wide-logo.png" ,Laurel TV
 https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
-#EXTINF:0 group-title="USA/Canada-WebTV",Miami TV (Lifestyle) 
+#EXTINF:0 group-title="USA/Canada-WebTV" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/miami-tv-channel-577.jpg",Miami TV (Lifestyle) 
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w1078336163_b2592000.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="http://channelpear.com/images/media/5249.jpg" ,MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="http://www.thedailyrash.com/wp-content/uploads/2014/02/MSNBC.jpg" ,MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:0 group-title="USA/Canada-WebTV",Music Box (Music) 
+#EXTINF:0 group-title="USA/Canada-WebTV" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/07/Music-box.gif",Music Box (Music) 
 rtmp://212.26.132.86/live/mb_ua
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="https://www.mctvohio.com/uploads/mc-black-beveledstyle.jpg" ,Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
@@ -579,27 +575,27 @@ http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
 http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="http://channelpear.com/images/media/9095.png" ,NFL Now
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
-#EXTINF:-1 group-title="USA/Canada-WebTV",NHK WORLD HD
+#EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="https://img7.androidappsapk.co/300/7/3/7/jp.or.nhk.nhkworld.tv.png" ,NHK WORLD HD
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="http://www.wrcftv.com/index_htm_files/1747.jpg" ,Orange TV
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
-#EXTINF:0 group-title="USA/Canada-WebTV",PAC 12 Arizona (Sports) 
+#EXTINF:0 group-title="USA/Canada-WebTV" tvg-logo="http://extremehosts.info/Logos/Pac%20Networks/pac%2012%20arizona.png",PAC 12 Arizona (Sports) 
 http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
-#EXTINF:0 group-title="USA/Canada-WebTV",PAC 12 Bay Area (Sports) 
+#EXTINF:0 group-title="USA/Canada-WebTV" tvg-logo="http://extremehosts.info/Logos/Pac%20Networks/pac%2012%20bay%20area.png",PAC 12 Bay Area (Sports) 
 http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
-#EXTINF:0 group-title="USA/Canada-WebTV",PAC 12 Los Angeles (Sports) 
+#EXTINF:0 group-title="USA/Canada-WebTV" tvg-logo="http://extremehosts.info/Logos/Pac%20Networks/pac%2012%20los%20angeles.png",PAC 12 Los Angeles (Sports) 
 http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
-#EXTINF:0 group-title="USA/Canada-WebTV",PAC 12 Mountain (Sports) 
+#EXTINF:0 group-title="USA/Canada-WebTV" tvg-logo="http://static.ontvtonight.com/static/2/Open/SourceLogos/400x300/Pac12_mountain.png",PAC 12 Mountain (Sports) 
 http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
-#EXTINF:0 group-title="USA/Canada-WebTV",PAC 12 Network (Sports) 
+#EXTINF:0 group-title="USA/Canada-WebTV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1d/Pac-12_Networks.png",PAC 12 Network (Sports) 
 http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
-#EXTINF:0 group-title="USA/Canada-WebTV",PAC 12 Oregon (Sports) 
+#EXTINF:0 group-title="USA/Canada-WebTV" tvg-logo="http://extremehosts.info/Logos/Pac%20Networks/pac%2012%20oregan.png",PAC 12 Oregon (Sports) 
 http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
-#EXTINF:0 group-title="USA/Canada-WebTV",PAC 12 Washington (Sports) 
+#EXTINF:0 group-title="USA/Canada-WebTV" tvg-logo="http://extremehosts.info/Logos/Pac%20Networks/pac%2012%20washington.png",PAC 12 Washington (Sports) 
 http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="http://conveyornetworks.co.uk/wp-content/uploads/2016/01/portfolio-client-logo-qvc-300x200.jpg" ,QVC
 http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
-#EXTINF:-1 group-title="USA/Canada-WebTV",RAI NEWS 24
+#EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Rai_News_-_Logo_2010.svg/1200px-Rai_News_-_Logo_2010.svg.png",RAI NEWS 24
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="http://static.tumblr.com/f9da82faf4956cc7fa2cc1ce6e2e2e20/pk9s04n/vC5nh2fuf/tumblr_static_914sssk3j7k00ww4k840w4okg.png" ,Russia Today America
 https://secure-streams.akamaized.net/rt-usa/index.m3u8
@@ -627,9 +623,9 @@ http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="https://www.bbgdirect.com/Content/images/VOA-logo.png" ,VoA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:0 group-title="USA/Canada-WebTV",Vibee (Public-Music) (UK) 
+#EXTINF:0 group-title="USA/Canada-WebTV" tvg-logo="http://www.weblivetv.fr/wp-content/uploads/Vibee-Radio-TV-Logo.png",Vibee (Public-Music) (UK) 
 http://46.101.21.42:8081/abr/abr/playlist.m3u8 
-#EXTINF:0 group-title="USA/Canada-WebTV",WBKO  Bowling Green KY (Public-News) 
+#EXTINF:0 group-title="USA/Canada-WebTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71IvlC2WBqL._SL210_QL95_BG0,0,0,0_FMpng_.png",WBKO  Bowling Green KY (Public-News) 
 http://w3.cdn.anvato.net/live/manifests/4mAweME7l80u5R7DFruJqn27lX2nG8Nq/wbko/master.m3u8? 
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="https://pbs.twimg.com/profile_images/888431997017661440/fj0FLr2O_400x400.jpg" ,WBZ 4 News (Boston)
 http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
@@ -1104,11 +1100,11 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1117.m3u8$http-refferer
 #EXTINF:1 group-title="UK-WEBTV" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
 http://..........
 
-#EXTINF:-1 group-title="UK-WEBTV",Al Jazeera English
+#EXTINF:-1 group-title="UK-WEBTV" tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png",Al Jazeera English
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
-#EXTINF:0 group-title="UK-WEBTV",Amazing Facts TV
+#EXTINF:0 group-title="UK-WEBTV" tvg-logo="http://www.amazingfactsministries.com/wp-content/uploads/2015/11/aftv.jpg",Amazing Facts TV
 http://bglive-w.bitgravity.com/amazingfacts/live/feed01
-#EXTINF:0 group-title="UK-WEBTV",Amazing Facts TV
+#EXTINF:0 group-title="UK-WEBTV" tvg-logo="http://www.amazingfactsministries.com/wp-content/uploads/2015/11/aftv.jpg",Amazing Facts TV
 http://amazingfacts.live-s.cdn.bitgravity.com/cdn-live/_definst_/amazingfacts/live/feed01/chunklist_w1921345467.m3u8
 #EXTINF:-1 group-title="UK-WEBTV" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Capital-TV-NEW.png",CAPITAL TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
@@ -1126,19 +1122,13 @@ http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 #EXTINF:0 group-title="UK-WEBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/5/5b/Hittv_logo_2014.jpg" ,MyHit
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
-#EXTINF:0 group-title="UK-WEBTV",NDTV
+#EXTINF:0 group-title="UK-WEBTV" tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2016/11/ndtv001.jpg",NDTV
 http://bglive-a.bitgravity.com/ndtv/247hi/live/native
-#EXTINF:0 group-title="UK-WEBTV",NDTV
+#EXTINF:0 group-title="UK-WEBTV" tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2016/11/ndtv001.jpg",NDTV
 http://ndtv.indostan.epac.to/ndtv/247lo/live/native
-#EXTINF:0 group-title="UK-WEBTV",NDTV 24x7
-http://bglive-a.bitgravity.com/ndtv/247lo/live/native
-#EXTINF:-1 group-title="UK-WEBTV",NRJ Hits
-http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
 #EXTINF:0 group-title="UK-WEBTV" tvg-name="NRJHits.fr" tvg-id="NRJHits.fr" tvg-logo="http://static.radio.de/images/broadcasts/10/9f/12372/3/c175.png" ,NRJ HITS
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
-#EXTINF:0 group-title="UK-WEBTV",Peace Tv Asia
-rtmp://peace.fms.visionip.tv/live/b2b-peace_asia-live-25f-4x3-sdh_1
-#EXTINF:-1 group-title="UK-WEBTV",Peace tv 
+#EXTINF:-1 group-title="UK-WEBTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Peace_TV_logo_2015.jpeg",Peace tv 
 http://199.167.151.237:1935/live/sp15_3.stream/master-baba_1.m3u8?
 #EXTINF:-1 group-title="UK-WEBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" ,QVC Style
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
@@ -4007,6 +3997,101 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/811.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER2",
 
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Supertennis
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/4.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",NOVE TV
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/23.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DE:Romance TV
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/214.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT - CARTOONITO
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/162.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT - CARTOON NETWORK
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/164.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT - BOING
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/163.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT;SUPER!
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/161.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT:K2
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/160.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",History HD
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/1267.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai yoyo
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/101.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Sport   HD
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/99.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Sport
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/100.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Discovery
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/1265.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Discovery Science
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/1266.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Nat Geo HD
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/1264.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Nat Geo People HD
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/1263.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Nat Geo Wild HD
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/106.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Scuola
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/97.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Premium
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/96.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai News 24
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/95.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Movie
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/93.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Gulp
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/92.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 5
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/91.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 4
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/90.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 3 HD
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/89.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 2 HD
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/88.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 1 HD
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/87.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Studio Universal
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/135.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Stories
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/133.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Joy
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/131.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Investigation Discovery
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/130.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Energy HD
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/129.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Emotion
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/128.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Crime HD
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/127.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Comedy
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/125.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema HD
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/124.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cartoon Network
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/120.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Calcio 6
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/119.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Calcio 5
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/118.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Calcio 4
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/117.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Calcio 3
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/116.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Calcio 2
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/115.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Action HD
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/112.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Italia 1 HD
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/103.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Canale 5 HD
+http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/102.ts
+
+
+
+
+
 
 
 
@@ -6722,109 +6807,109 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/961.m3u8$http-refferer=
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",
 
 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT: FUEL TV
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT: FUEL TV
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2328.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:A BOLA TV
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:A BOLA TV
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2327.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:AXN BLACK HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:AXN BLACK HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2342.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:AXN HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:AXN HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2344.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:AXN WHITE HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:AXN WHITE HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2343.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:BENFICA TV HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:BENFICA TV HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2305.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:CANAL PANDA
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:CANAL PANDA
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2319.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:CINEMUNDO
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:CINEMUNDO
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2331.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:DISCOVERY HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:DISCOVERY HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2312.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:DISCOVERY SHOWCASE HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:DISCOVERY SHOWCASE HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2309.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:DISNEY CHANNEL HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:DISNEY CHANNEL HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2316.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:DISNEY JUNIOR HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:DISNEY JUNIOR HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2317.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:EUROSPORT 1
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:EUROSPORT 1
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2304.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:EUROSPORT 2
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:EUROSPORT 2
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2303.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:FOX COMEDY HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:FOX COMEDY HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2337.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:FOX CRIME HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:FOX CRIME HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2339.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:FOX HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:FOX HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2341.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:FOX LIFE HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:FOX LIFE HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2340.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:FOX MOVIES HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:FOX MOVIES HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2338.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:HISTORIA HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:HISTORIA HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2313.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:HOLLYWOOD HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:HOLLYWOOD HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2336.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:MOTORS TV
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:MOTORS TV
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2307.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:NAT GEO WILD HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:NAT GEO WILD HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2311.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:NAT GEOGRAPHIC HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:NAT GEOGRAPHIC HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2310.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:NICKELODEON HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:NICKELODEON HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2318.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:PANDA PIGGS HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:PANDA PIGGS HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2325.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:PORTO CANAL
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:PORTO CANAL
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2326.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:RTP 1 HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:RTP 1 HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2360.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:RTP 2 HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:RTP 2 HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2359.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:RTP 3 HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:RTP 3 HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2358.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:RTP AFRICA
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:RTP AFRICA
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2357.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:RTP MEMORIA
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:RTP MEMORIA
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2355.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:SIC
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:SIC
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2353.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:SIC CARAS HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:SIC CARAS HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2349.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:SIC KIDS
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:SIC KIDS
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2352.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:SIC NOTICIAS
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:SIC NOTICIAS
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2350.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:SPORT TV 1 HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:SPORT TV 1 HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2302.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:SPORT TV 2 HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:SPORT TV 2 HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2301.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:SPORT TV 3 HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:SPORT TV 3 HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2300.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:SPORT TV 4 HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:SPORT TV 4 HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2299.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:SPORT TV 5 HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:SPORT TV 5 HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2298.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:SPORTING TV HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:SPORTING TV HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2297.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:SYFY
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:SYFY
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2335.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:TVCINE 1 HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:TVCINE 1 HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2323.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:TVCINE 2 HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:TVCINE 2 HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2322.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:TVCINE 3 HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:TVCINE 3 HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2321.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:TVCINE 4 HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:TVCINE 4 HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2320.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:TVI
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:TVI
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2348.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:TVI 24 HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:TVI 24 HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2347.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:TVI FACCAO
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:TVI FACCAO
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2345.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:TVI REALITY HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:TVI REALITY HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2346.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2"PT:VH 1 HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",PT:VH 1 HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2329.m3u8
 
 
@@ -13666,73 +13751,107 @@ http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/170.m3u8
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS NEWS
-http://xc.kingtv.pro:504/live/1012/2018/689.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sports HD1
-http://xc.kingtv.pro:504/live/1012/2018/7176.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sports HD2
-http://xc.kingtv.pro:504/live/1012/2018/7174.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sports HD3
-http://xc.kingtv.pro:504/live/1012/2018/7173.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sports HD4
-http://xc.kingtv.pro:504/live/1012/2018/7172.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sports HD5
-http://xc.kingtv.pro:504/live/1012/2018/7171.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sports HD6
-http://xc.kingtv.pro:504/live/1012/2018/7170.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sports HD7
-http://xc.kingtv.pro:504/live/1012/2018/7169.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sports HD8
-http://xc.kingtv.pro:504/live/1012/2018/7168.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sports HD9
-http://xc.kingtv.pro:504/live/1012/2018/7167.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sports HD10
-http://xc.kingtv.pro:504/live/1012/2018/7175.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| beIN SPORTS 4K 1
-http://xc.kingtv.pro:504/live/1012/2018/7327.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| beIN SPORTS 4K 2
-http://xc.kingtv.pro:504/live/1012/2018/7326.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| beIN SPORTS 4K 3
-http://xc.kingtv.pro:504/live/1012/2018/7325.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| beIN SPORTS 4K 4
-http://xc.kingtv.pro:504/live/1012/2018/7324.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| beIN SPORTS 4K 5
-http://xc.kingtv.pro:504/live/1012/2018/7323.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| beIN SPORTS 4K 6
-http://xc.kingtv.pro:504/live/1012/2018/7322.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| beIN SPORTS 4K 7
-http://xc.kingtv.pro:504/live/1012/2018/7321.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| beIN SPORTS 4K 8
-http://xc.kingtv.pro:504/live/1012/2018/7320.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| beIN SPORTS 4K 9
-http://xc.kingtv.pro:504/live/1012/2018/7319.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| beIN SPORTS 4K 10
-http://xc.kingtv.pro:504/live/1012/2018/7318.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 1HD²
-http://xc.kingtv.pro:504/live/1012/2018/2.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 2HD²
-http://xc.kingtv.pro:504/live/1012/2018/3.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 3HD²
-http://xc.kingtv.pro:504/live/1012/2018/4.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 4HD²
-http://xc.kingtv.pro:504/live/1012/2018/5.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 5HD²
-http://xc.kingtv.pro:504/live/1012/2018/6.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 6HD²
-http://xc.kingtv.pro:504/live/1012/2018/7.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 7HD²
-http://xc.kingtv.pro:504/live/1012/2018/8.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 8HD²
-http://xc.kingtv.pro:504/live/1012/2018/9.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 9HD²
-http://xc.kingtv.pro:504/live/1012/2018/10.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 10HD²
-http://xc.kingtv.pro:504/live/1012/2018/11.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 11HD²
-http://xc.kingtv.pro:504/live/1012/2018/12.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BeIN Sports 12HD²
-http://xc.kingtv.pro:504/live/1012/2018/13.m3u8
 
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-1=LOW
+http://egyman.net:1978/live/50509/50509/4937.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-2=LOW
+http://egyman.net:1978/live/50509/50509/4936.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-3=LOW
+http://egyman.net:1978/live/50509/50509/4935.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-4=LOW
+http://egyman.net:1978/live/50509/50509/4934.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-5=LOW
+http://egyman.net:1978/live/50509/50509/4933.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-6=LOW
+http://egyman.net:1978/live/50509/50509/4932.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-7=LOW
+http://egyman.net:1978/live/50509/50509/4931.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-8=LOW
+http://egyman.net:1978/live/50509/50509/4930.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-9=LOW
+http://egyman.net:1978/live/50509/50509/4929.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-10=LOW
+http://egyman.net:1978/live/50509/50509/4928.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-1=512
+http://egyman.net:1978/live/50509/50509/2.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-2=512
+http://egyman.net:1978/live/50509/50509/3.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-3=512
+http://egyman.net:1978/live/50509/50509/4.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-4=512
+http://egyman.net:1978/live/50509/50509/6.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-5=512
+http://egyman.net:1978/live/50509/50509/7.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-6=512
+http://egyman.net:1978/live/50509/50509/8.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-7=512
+http://egyman.net:1978/live/50509/50509/9.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-8=512
+http://egyman.net:1978/live/50509/50509/10.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-9=512
+http://egyman.net:1978/live/50509/50509/11.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-10=512
+http://egyman.net:1978/live/50509/50509/12.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-1=SD
+http://egyman.net:1978/live/50509/50509/22.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-2=SD
+http://egyman.net:1978/live/50509/50509/21.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-3=SD
+http://egyman.net:1978/live/50509/50509/20.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-4=SD
+http://egyman.net:1978/live/50509/50509/19.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-5=SD
+http://egyman.net:1978/live/50509/50509/18.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-6=SD
+http://egyman.net:1978/live/50509/50509/17.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-7=SD
+http://egyman.net:1978/live/50509/50509/16.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-8=SD
+http://egyman.net:1978/live/50509/50509/15.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-9=SD
+http://egyman.net:1978/live/50509/50509/14.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-10=SD
+http://egyman.net:1978/live/50509/50509/13.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-1=HD
+http://egyman.net:1978/live/50509/50509/4555.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-2=HD
+http://egyman.net:1978/live/50509/50509/4554.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-3=HD
+http://egyman.net:1978/live/50509/50509/4553.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-5=HD
+http://egyman.net:1978/live/50509/50509/4551.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-6=HD
+http://egyman.net:1978/live/50509/50509/4550.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-7=HD
+http://egyman.net:1978/live/50509/50509/4549.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-8=HD
+http://egyman.net:1978/live/50509/50509/4548.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-9=HD
+http://egyman.net:1978/live/50509/50509/4547.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-10=HD
+http://egyman.net:1978/live/50509/50509/4546.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-1=FULL-HD
+http://egyman.net:1978/live/50509/50509/4885.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-2=FULL-HD
+http://egyman.net:1978/live/50509/50509/4884.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-3=FULL-HD
+http://egyman.net:1978/live/50509/50509/4883.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-4=FULL-HD
+http://egyman.net:1978/live/50509/50509/4882.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-4=HD
+http://egyman.net:1978/live/50509/50509/4552.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-5=FULL-HD
+http://egyman.net:1978/live/50509/50509/4881.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-6=FULL-HD
+http://egyman.net:1978/live/50509/50509/4880.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-7=FULL-HD
+http://egyman.net:1978/live/50509/50509/4879.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-8=FULL-HD
+http://egyman.net:1978/live/50509/50509/4878.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-9=FULL-HD
+http://egyman.net:1978/live/50509/50509/4877.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN-SPORT-10=FULL-HD
+http://egyman.net:1978/live/50509/50509/4876.ts
 
 
 
