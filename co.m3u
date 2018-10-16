@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,15/10/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,16/10/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -295,8 +295,14 @@ http://176.9.126.181:1006
 http://176.9.126.181:1024 
 #EXTINF:-1 group-title="Greece" ,Cartoon World 4
 http://176.9.126.181:1004
-
-
+#EXTINF:-1 group-title="Greece" ,Cartoon World 5
+http://176.9.126.181:1002
+#EXTINF:-1 group-title="Greece" ,Cartoon World 6
+http://176.9.126.181:1008
+#EXTINF:-1 group-title="Greece" ,Cartoon World 7
+http://176.9.126.181:1010
+#EXTINF:-1 group-title="Greece" ,Cartoon World 8
+http://176.9.126.181:1022
 
 #EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   Diethni    ============
 http://.....
@@ -4649,123 +4655,123 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/523.m3u8$http-refferer=
 http://..........
 
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",USHUAIA_TV-HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/93.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/93.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",TIJI
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/98.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/98.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",TF1-SD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/63.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/63.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",TELETOON-HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/104.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/104.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",PIWI-HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/97.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/97.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",OCS_MAX
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/86.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/86.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",OCS_GEANT
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/84.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/84.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",OCS_CITY
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/85.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/85.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",OCS_CHOC
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/83.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/83.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",NICKELODEON_JUNIOR
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/106.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/106.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",NICKELODEON
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/105.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/105.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",NATIONAL-GEO
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/89.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/89.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",ACTION
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/88.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/88.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",NAT-GEO-WILD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/90.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/90.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",MANGAS
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/102.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/102.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",M6-SD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/64.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/64.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",LCI
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/96.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/96.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",INFOSPORT-HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/113.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/113.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",GULLI
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/101.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/101.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",FRANCE_0-SD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/69.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/69.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",FRANCE_2-SD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/65.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/65.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",FRANCE_2-HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/119.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/119.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",FRANCE_3-SD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/66.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/66.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",FRANCE_3-HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/120.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/120.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",FRANCE_4-SD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/67.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/67.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",FRANCE_5-SD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/68.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/68.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",FRANCE_24
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/94.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/94.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",FOOT 24-HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/112.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/112.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",DISNEY_XD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/110.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/110.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",DISNEY_JUNIOR
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/107.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/107.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",DISNEY_CINEMA
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/109.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/109.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",DISNEY_CHANNEL
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/108.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/108.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",DISCOVRY-SCI
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/92.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/92.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",DISCOVRY
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/91.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/91.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",Discovery-ID-HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/25.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/25.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",COMEDIE
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/87.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/87.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",CINE_PREMIER
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/75.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/75.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",CINE_POLAR
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/81.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/81.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",CINE_FX
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/82.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/82.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",CINE_FRISSON
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/76.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/76.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",CINE_FAMIZ
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/80.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/80.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",CINE_EMOTION
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/77.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/77.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",CINE_CLUB
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/79.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/79.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",CINE_CLASSIC
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/78.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/78.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",CARTON_NET-HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/100.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/100.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL_PLAY_1
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/114.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/114.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL_PLAY_2
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/115.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/115.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL_PLAY_3
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/116.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/116.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL_PLAY_4
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/117.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/117.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL_PLAY_5
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/118.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/118.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL SPORT-HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/111.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/111.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL SERIES
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/74.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/74.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL FAMILY
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/73.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/73.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL DECALE
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/72.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/72.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL CINEMA
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/71.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/71.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/70.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/70.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",C NEWS
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/95.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/95.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",BOOMERANG-HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/99.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/99.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",BOING
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/103.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/103.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 
 
@@ -6933,6 +6939,124 @@ http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2329.m3u8
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",
 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Spor tv 1" ,PT: Spor tv 1
+http://ipsatpro.biz:8080/live/noemie/noemie1/880.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: SporTV 2" ,PT: SporTV 2
+http://ipsatpro.biz:8080/live/noemie/noemie1/881.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: SporTV 3" ,PT: SporTV 3
+http://ipsatpro.biz:8080/live/noemie/noemie1/882.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: SporTV 4" ,PT: SporTV 4
+http://ipsatpro.biz:8080/live/noemie/noemie1/883.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: SporTV 5" ,PT: SporTV 5
+http://ipsatpro.biz:8080/live/noemie/noemie1/884.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Sporting TV HD" ,PT: Sporting TV HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/885.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Sport TV" ,PT: Sport TV
+http://ipsatpro.biz:8080/live/noemie/noemie1/899.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Benfica TV 1" ,PT: Benfica TV 1
+http://ipsatpro.biz:8080/live/noemie/noemie1/900.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: TVCine 1" ,PT: TVCine 1
+http://ipsatpro.biz:8080/live/noemie/noemie1/936.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: TVCine 2" ,PT: TVCine 2
+http://ipsatpro.biz:8080/live/noemie/noemie1/935.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: TVCine 3" ,PT: TVCine 3
+http://ipsatpro.biz:8080/live/noemie/noemie1/934.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: TVCine 4" ,PT: TVCine 4
+http://ipsatpro.biz:8080/live/noemie/noemie1/933.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: TVCseries" ,PT: TVCseries
+http://ipsatpro.biz:8080/live/noemie/noemie1/930.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: VeVo 1 HD" ,PT: VeVo 1 HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/898.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: VeVo 2 HD" ,PT: VeVo 2 HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/897.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: VeVo 3 HD" ,PT: VeVo 3 HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/896.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: AXN HD" ,PT: AXN HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/915.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Axn White HD" ,PT: Axn White HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/916.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Axn Black HD" ,PT: Axn Black HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/932.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Fox HD" ,PT: Fox HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/926.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Fox Crime" ,PT: Fox Crime
+http://ipsatpro.biz:8080/live/noemie/noemie1/901.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Fox Life HD" ,PT: Fox Life HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/925.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Fox Comedy" ,PT: Fox Comedy
+http://ipsatpro.biz:8080/live/noemie/noemie1/923.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Fox Movies HD" ,PT: Fox Movies HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/929.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Toros tv" ,PT: Toros tv
+http://ipsatpro.biz:8080/live/noemie/noemie1/909.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: TVI Ficcao" ,PT: TVI Ficcao
+http://ipsatpro.biz:8080/live/noemie/noemie1/886.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: TVI" ,PT: TVI
+http://ipsatpro.biz:8080/live/noemie/noemie1/889.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: TVI 24" ,PT: TVI 24
+http://ipsatpro.biz:8080/live/noemie/noemie1/887.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: TV Globo" ,PT: TV Globo
+http://ipsatpro.biz:8080/live/noemie/noemie1/888.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: SIC" ,PT: SIC
+http://ipsatpro.biz:8080/live/noemie/noemie1/924.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: SIC K" ,PT: SIC K
+http://ipsatpro.biz:8080/live/noemie/noemie1/919.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: SIC Noticias" ,PT: SIC Noticias
+http://ipsatpro.biz:8080/live/noemie/noemie1/903.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Sic Radical" ,PT: Sic Radical
+http://ipsatpro.biz:8080/live/noemie/noemie1/914.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: SIC Caras" ,PT: SIC Caras
+http://ipsatpro.biz:8080/live/noemie/noemie1/912.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Sic Mulher" ,PT: Sic Mulher
+http://ipsatpro.biz:8080/live/noemie/noemie1/913.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: RTP 1" ,PT: RTP 1
+http://ipsatpro.biz:8080/live/noemie/noemie1/895.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: RTP 2" ,PT: RTP 2
+http://ipsatpro.biz:8080/live/noemie/noemie1/894.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: RTP Memoria" ,PT: RTP Memoria
+http://ipsatpro.biz:8080/live/noemie/noemie1/890.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: RTP Madeira" ,PT: RTP Madeira
+http://ipsatpro.biz:8080/live/noemie/noemie1/891.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: RTP Acores" ,PT: RTP Acores
+http://ipsatpro.biz:8080/live/noemie/noemie1/893.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: TLC" ,PT: TLC
+http://ipsatpro.biz:8080/live/noemie/noemie1/878.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Travel Channel" ,PT: Travel Channel
+http://ipsatpro.biz:8080/live/noemie/noemie1/877.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: CM TV" ,PT: CM TV
+http://ipsatpro.biz:8080/live/noemie/noemie1/908.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: TV Globo Premium" ,PT: TV Globo Premium
+http://ipsatpro.biz:8080/live/noemie/noemie1/931.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Record" ,PT: Record
+http://ipsatpro.biz:8080/live/noemie/noemie1/917.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: PFC" ,PT: PFC
+http://ipsatpro.biz:8080/live/noemie/noemie1/911.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Jim Jim" ,PT: Jim Jim
+http://ipsatpro.biz:8080/live/noemie/noemie1/918.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: SyFy" ,PT: SyFy
+http://ipsatpro.biz:8080/live/noemie/noemie1/902.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: CartoonNet Work" ,PT: CartoonNet Work
+http://ipsatpro.biz:8080/live/noemie/noemie1/920.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Motors TV" ,PT: Motors TV
+http://ipsatpro.biz:8080/live/noemie/noemie1/921.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Cine Mundo" ,PT: Cine Mundo
+http://ipsatpro.biz:8080/live/noemie/noemie1/892.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: EuroSpor News" ,PT: EuroSpor News
+http://ipsatpro.biz:8080/live/noemie/noemie1/922.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Hollywood" ,PT: Hollywood
+http://ipsatpro.biz:8080/live/noemie/noemie1/907.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: EuroSport 2" ,PT: EuroSport 2
+http://ipsatpro.biz:8080/live/noemie/noemie1/927.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: EuroSport" ,PT: EuroSport
+http://ipsatpro.biz:8080/live/noemie/noemie1/928.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Disney Junior" ,PT: Disney Junior
+http://ipsatpro.biz:8080/live/noemie/noemie1/905.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Disney Channel" ,PT: Disney Channel
+http://ipsatpro.biz:8080/live/noemie/noemie1/904.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Discovery HD" ,PT: Discovery HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/906.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-name="PT: Abola tv" ,PT: Abola tv
+http://ipsatpro.biz:8080/live/noemie/noemie1/910.m3u8
 
 
 
@@ -10056,7 +10180,7 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226327/1.m3u8 
 #EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Maha Movie 
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226225/1.m3u8 
-EXTINF:0, ,Maiboli 
+#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Maiboli 
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226332/1.m3u8 
 #EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Makkal TV 
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226362/01.m3u8 
@@ -12041,247 +12165,247 @@ http://..........
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======MBC=======
 http://......
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_1
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/217.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/217.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_2
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/218.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/218.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_3
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/219.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/219.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_4
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/220.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/220.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_DRAMA
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/225.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/225.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_MAX
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/222.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/222.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_ACTION
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/221.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/221.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_MASR_1
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/223.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/223.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_MASR_2
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/224.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/224.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_BOLLYWOOD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/226.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/226.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_ZEE_Alwan
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/227.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/227.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_ZEE_Aflam
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/228.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/228.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_B4U_AFLAM
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/229.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/229.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======BEIN=======
 http://......
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN_Series-HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/191.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/191.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN_Jeem_HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/18.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/18.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN_Gourmet
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/17.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/17.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN_Fatafeat
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/153.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/153.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN-Movies-1HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/187.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/187.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN-Movies-2HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/188.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/188.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN-Movies-3HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/189.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/189.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN-Movies-4HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/190.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/190.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN-Junior
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/19.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/19.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN-Fox-Action
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/193.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/193.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN-Dmax
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/192.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/192.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN-Baraem
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/15.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/15.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN-Animal-Planet
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/16.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/16.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======OSN=======
 http://......
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Yahala_Shabab_HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/209.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/209.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Yahala_HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/207.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/207.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Yahala_Drama_HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/208.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/208.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Yahala_Cinema_HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/210.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/210.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_SeeVii_Drama_HD.
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/213.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/213.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_SeeVii_Beelink_HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/216.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/216.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_SeeVii_Al oula_HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/214.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/214.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_SeeVii-Shamia
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/215.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/215.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Ondemend_Extra_HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/206.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/206.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Ondemand_HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/205.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/205.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_ON DEMAND 3FHD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/197.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/197.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_ON DEMAND 2FHD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/196.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/196.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_ON DEMAND 1FHD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/195.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/195.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Movies_Premiere_2
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/203.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/203.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Movies_Premiere
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/202.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/202.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Movies_HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/198.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/198.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Movies_Comedy_HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/204.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/204.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Movies_Action_HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/200.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/200.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Movies_Action_2_HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/201.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/201.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Movies_2_HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/199.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/199.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Cinema_2HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/212.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/212.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Cinema_1HD
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/211.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/211.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============
 http://......
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",IQRAA
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/185.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/185.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Al_Majd_Quran
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/180.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/180.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Al_Majd_Hadith
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/181.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/181.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Al_Majd
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/182.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/182.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alresalah
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/186.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/186.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alrahma
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/183.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/183.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alnas
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/184.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/184.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Al_Ekhbariya
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/168.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/168.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Aljazeera
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/164.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/164.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alhadath
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/166.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/166.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alarabiyia
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/165.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/165.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Skynews
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/167.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/167.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",BBC-Arabic
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/171.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/171.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",France_24
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/169.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/169.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",RT
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/170.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/170.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Quest-Arabia
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/174.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/174.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",National_Geo-Abudhabi
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/173.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/173.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Aljazeera_Doc
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/172.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/172.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",baraem
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/177.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/177.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Toyour_ElJannah
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/178.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/178.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Toyour_Baby
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/179.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/179.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Space Toon
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/176.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/176.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",CN_Arabia
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/175.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/175.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======Maroc=======
 http://......
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MA_Al-Aoula-Inter
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/123.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/123.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MA_2M-Monde
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/124.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/124.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MA_Arriadia-TNT
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/129.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/129.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MA_Arrabia
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/127.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/127.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MA_Al-Maghribia
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/125.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/125.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MA_Assadisa
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/128.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/128.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MA_Tamazight
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/126.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/126.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MA_Medi-1-TV
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/122.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/122.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MA_Tele-Maroc
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/121.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/121.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======Tunesia=======
 http://......
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",TN_Zitouna
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/160.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/160.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",TN_Tunesia_2
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/155.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/155.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",TN_Tunesia_1
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/154.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/154.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",TN_Tonesna
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/156.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/156.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",TN_Telvaza
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/162.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/162.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",TN_Nessma
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/159.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/159.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",TN_Hannibal
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/158.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/158.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",TN_El-HiwEttounsi
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/157.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/157.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",TN_Attasiaa
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/161.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/161.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",TN_Al-Janoubia
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/163.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/163.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Samira-Tv
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/152.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/152.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Programme.National
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/133.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/133.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Kbc_Algeria
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/142.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/142.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_EnnahTV
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/137.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/137.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_EnnahLaki
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/138.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/138.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Eljazairia-TV-1
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/145.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/145.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Elhaddaf-TV
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/144.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/144.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Elbilad
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/143.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/143.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Echorouk_TV
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/131.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/131.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Echorouk_News
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/130.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/130.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Echorouk_Benna
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/132.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/132.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Dzai_News
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/140.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/140.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Dzair_TV
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/141.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/141.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Canal-Algerie
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/134.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/134.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Beur-TV
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/148.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/148.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Berbere-TV
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/149.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/149.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Berbere-Music
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/150.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/150.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Berbere-Jeuness
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/151.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/151.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_BAHIA_TV
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/139.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/139.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Al_Magharibia-2
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/147.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/147.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Al_Magharibia-1
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/146.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/146.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Algeria_5
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/136.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/136.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Algeria_3
-http://2.primatv.club:8080/live/RMD105xxpsd/25X10Izaudfb/135.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://prima.janberyan.giize.com/135.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 
 
