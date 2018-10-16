@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,16/10/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,16/10/18 !
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -60,7 +60,7 @@ http://www.fireshow.xyz/rik2.html|webdown$$start=src:  \"http://$$end=.m3u8$$rep
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/rik-hd-jpg-H1Uop6wxQ.jpg" ,RIK HD
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|webnoagent$$start=file: \"http://$$end=.m3u8$$replace=file: \"$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.tvone.com.cy/pictures/tvshow_nopic.jpg" ,TVONE (Retry if failed)
-http://www.megatv.com.cy/live/?cs=1|webdown$$start=file: \"http://$$end=\"},$$replace1=file: \"$$add=
+http://www.megatv.com.cy/live/?cs=1|webnoagent$$start=file: \"http://$$end=\"},$$replace=file: \"$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.tvone.com.cy/pictures/tvshow_nopic.jpg" ,TVONE (External Player only)
 http://www.fireshow.xyz/megacym.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" epg-id="Sigma" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
@@ -68,9 +68,9 @@ http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" epg-id="Sigma" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA (External Player only)
 http://www.fireshow.xyz/sigmam.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus
-http://www.alphacyprus.com.cy/page/live|webdown$$start=url: 'http://$$end=',\n        }]$$replace1=url: '$$add=
+http://www.alphacyprus.com.cy/page/live|webnoagent$$start=url: 'http://$$end=',\n        }]$$replace=url: '$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/v6twaoa6r/ant1.png",Ant1 Cyprus
-http://www.ant1iwo.com/webtv/web-tv-live/|webdown$$start=href=\"http://l$$end=\" data-in$$replace1=href=\"$$add=
+http://www.ant1iwo.com/webtv/web-tv-live/|webnoagent$$start=href=\"http://l$$end=\" data-in$$replace=href=\"$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/v6twaoa6r/ant1.png",Ant1 Cyprus (External Player only)
 http://www.fireshow.xyz/ant1cym.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
