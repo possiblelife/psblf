@@ -12049,25 +12049,25 @@ http://..........
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======MBC=======
 http://......
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_1
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/MBC1.png",MBC_1
 http://prima.janberyan.giize.com/217.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_2
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/MBC2.png",MBC_2
 http://prima.janberyan.giize.com/218.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_3
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/MBC3.png",MBC_3
 http://prima.janberyan.giize.com/219.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_4
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/MBC4.png",MBC_4
 http://prima.janberyan.giize.com/220.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_DRAMA
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/MBCDRAMA.png",MBC_DRAMA
 http://prima.janberyan.giize.com/225.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_MAX
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/MBCMAX.png",MBC_MAX
 http://prima.janberyan.giize.com/222.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_ACTION
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/MBCAction.png",MBC_ACTION
 http://prima.janberyan.giize.com/221.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_MASR_1
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/MBC_MASR.png",MBC_MASR_1
 http://prima.janberyan.giize.com/223.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_MASR_2
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/MBC_Masr2.png",MBC_MASR_2
 http://prima.janberyan.giize.com/224.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_BOLLYWOOD
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/MBCBollywood.png",MBC_BOLLYWOOD
 http://prima.janberyan.giize.com/226.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC_ZEE_Alwan
 http://prima.janberyan.giize.com/227.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
@@ -12080,11 +12080,11 @@ http://prima.janberyan.giize.com/229.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-gi
 http://......
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN_Series-HD
 http://prima.janberyan.giize.com/191.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN_Jeem_HD
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-Jeem-CartoonArabia.png",beIN_Jeem_HD
 http://prima.janberyan.giize.com/18.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN_Gourmet
 http://prima.janberyan.giize.com/17.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN_Fatafeat
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-FATAFEAT.png",beIN_Fatafeat
 http://prima.janberyan.giize.com/153.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN-Movies-1HD
 http://prima.janberyan.giize.com/187.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
@@ -12100,7 +12100,7 @@ http://prima.janberyan.giize.com/19.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 http://prima.janberyan.giize.com/193.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN-Dmax
 http://prima.janberyan.giize.com/192.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN-Baraem
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-Baraem.png",beIN-Baraem
 http://prima.janberyan.giize.com/15.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN-Animal-Planet
 http://prima.janberyan.giize.com/16.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
@@ -12115,13 +12115,13 @@ http://prima.janberyan.giize.com/207.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-gi
 http://prima.janberyan.giize.com/208.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Yahala_Cinema_HD
 http://prima.janberyan.giize.com/210.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_SeeVii_Drama_HD.
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-SeeViiDrama-HD.png",OSN_SeeVii_Drama_HD.
 http://prima.janberyan.giize.com/213.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_SeeVii_Beelink_HD
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-SeeViiBeelink-HD.png",OSN_SeeVii_Beelink_HD
 http://prima.janberyan.giize.com/216.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_SeeVii_Al oula_HD
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-SeeVii_AlAoula-HD.png",OSN_SeeVii_Al oula_HD
 http://prima.janberyan.giize.com/214.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_SeeVii-Shamia
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-SeeVii-Shamiya.png",OSN_SeeVii-Shamia
 http://prima.janberyan.giize.com/215.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Ondemend_Extra_HD
 http://prima.janberyan.giize.com/206.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
@@ -12154,11 +12154,11 @@ http://prima.janberyan.giize.com/211.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-gi
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============
 http://......
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",IQRAA
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-Iqraa.png",IQRAA
 http://prima.janberyan.giize.com/185.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Al_Majd_Quran
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/Almajd-Quran.png",Al_Majd_Quran
 http://prima.janberyan.giize.com/180.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Al_Majd_Hadith
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/Almajd-hadeeth.png",Al_Majd_Hadith
 http://prima.janberyan.giize.com/181.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Al_Majd
 http://prima.janberyan.giize.com/182.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
@@ -12168,7 +12168,7 @@ http://prima.janberyan.giize.com/186.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-gi
 http://prima.janberyan.giize.com/183.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alnas
 http://prima.janberyan.giize.com/184.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Al_Ekhbariya
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/SAUDI-EKHBARIYA.png",Al_Ekhbariya
 http://prima.janberyan.giize.com/168.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Aljazeera
 http://prima.janberyan.giize.com/164.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
@@ -12178,9 +12178,9 @@ http://prima.janberyan.giize.com/166.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-gi
 http://prima.janberyan.giize.com/165.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Skynews
 http://prima.janberyan.giize.com/167.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",BBC-Arabic
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-BBC-ARABIC.png",BBC-Arabic
 http://prima.janberyan.giize.com/171.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",France_24
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-FRANCE24.png",France_24
 http://prima.janberyan.giize.com/169.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",RT
 http://prima.janberyan.giize.com/170.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
@@ -12196,26 +12196,26 @@ http://prima.janberyan.giize.com/177.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-gi
 http://prima.janberyan.giize.com/178.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Toyour_Baby
 http://prima.janberyan.giize.com/179.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Space Toon
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-SPACETOON.png",Space Toon
 http://prima.janberyan.giize.com/176.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",CN_Arabia
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-Jeem-CartoonArabia.png",CN_Arabia
 http://prima.janberyan.giize.com/175.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======Maroc=======
 http://......
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MA_Al-Aoula-Inter
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-SeeVii_AlAoula-HD.png",MA_Al-Aoula-Inter
 http://prima.janberyan.giize.com/123.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MA_2M-Monde
 http://prima.janberyan.giize.com/124.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MA_Arriadia-TNT
 http://prima.janberyan.giize.com/129.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MA_Arrabia
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-Arriadia.png",MA_Arrabia
 http://prima.janberyan.giize.com/127.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MA_Al-Maghribia
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-Almaghribia.png",MA_Al-Maghribia
 http://prima.janberyan.giize.com/125.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MA_Assadisa
 http://prima.janberyan.giize.com/128.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MA_Tamazight
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-Tamazight.png",MA_Tamazight
 http://prima.janberyan.giize.com/126.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MA_Medi-1-TV
 http://prima.janberyan.giize.com/122.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
@@ -12224,7 +12224,7 @@ http://prima.janberyan.giize.com/121.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-gi
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======Tunesia=======
 http://......
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",TN_Zitouna
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/Ar-ZITOUNA-HEDAYA.png" ,TN_Zitouna
 http://prima.janberyan.giize.com/160.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",TN_Tunesia_2
 http://prima.janberyan.giize.com/155.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
@@ -12236,7 +12236,7 @@ http://prima.janberyan.giize.com/156.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-gi
 http://prima.janberyan.giize.com/162.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",TN_Nessma
 http://prima.janberyan.giize.com/159.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",TN_Hannibal
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-hannibal.png",TN_Hannibal
 http://prima.janberyan.giize.com/158.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",TN_El-HiwEttounsi
 http://prima.janberyan.giize.com/157.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
@@ -12245,21 +12245,21 @@ http://prima.janberyan.giize.com/161.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-gi
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",TN_Al-Janoubia
 http://prima.janberyan.giize.com/163.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Samira-Tv
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-Samira-TV.png",DZ_Samira-Tv
 http://prima.janberyan.giize.com/152.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Programme.National
 http://prima.janberyan.giize.com/133.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Kbc_Algeria
 http://prima.janberyan.giize.com/142.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_EnnahTV
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-ENNAHAR-TV.png",DZ_EnnahTV
 http://prima.janberyan.giize.com/137.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_EnnahLaki
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-Ennahar-Laki.png",DZ_EnnahLaki
 http://prima.janberyan.giize.com/138.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Eljazairia-TV-1
 http://prima.janberyan.giize.com/145.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Elhaddaf-TV
 http://prima.janberyan.giize.com/144.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Elbilad
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-Elbilad.png",DZ_Elbilad
 http://prima.janberyan.giize.com/143.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Echorouk_TV
 http://prima.janberyan.giize.com/131.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
@@ -12267,13 +12267,13 @@ http://prima.janberyan.giize.com/131.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-gi
 http://prima.janberyan.giize.com/130.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Echorouk_Benna
 http://prima.janberyan.giize.com/132.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Dzai_News
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-DZAIR-news.png",DZ_Dzai_News
 http://prima.janberyan.giize.com/140.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Dzair_TV
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-Dzair_TV.png",DZ_Dzair_TV
 http://prima.janberyan.giize.com/141.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Canal-Algerie
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2"" tvg-logo="http://149.202.206.141:7070/logo/AR-CanalALGERIA.png",DZ_Canal-Algerie
 http://prima.janberyan.giize.com/134.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Beur-TV
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-beur-algerie.png" ,DZ_Beur-TV
 http://prima.janberyan.giize.com/148.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Berbere-TV
 http://prima.janberyan.giize.com/149.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
@@ -12283,13 +12283,13 @@ http://prima.janberyan.giize.com/150.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-gi
 http://prima.janberyan.giize.com/151.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_BAHIA_TV
 http://prima.janberyan.giize.com/139.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Al_Magharibia-2
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AlMagharibia-Two.png",DZ_Al_Magharibia-2
 http://prima.janberyan.giize.com/147.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Al_Magharibia-1
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-Al_Magharibia.png",DZ_Al_Magharibia-1
 http://prima.janberyan.giize.com/146.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Algeria_5
 http://prima.janberyan.giize.com/136.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Algeria_3
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/Algeria3.png" ,DZ_Algeria_3
 http://prima.janberyan.giize.com/135.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 
