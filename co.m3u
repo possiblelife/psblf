@@ -53,6 +53,10 @@ http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webnoagent$$start=file: \"http://$$end=.m3u8$$replace=file: \"$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",RIK1
 http://www.fireshow.xyz/rik1.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u8
+
+#EXTINF:-1 group-title="Cyprus" ,.
+http://www.fireshow.xyz/rik1.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
+
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png" ,RIK2
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|webnoagent$$start=file: \"http://$$end=.m3u8$$replace=file: \"$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png",RIK2
