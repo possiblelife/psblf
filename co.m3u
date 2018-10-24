@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,23/10/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,24/10/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -46,30 +46,29 @@ https://www.youtube.com/watch?v=7sIsiHbDi_0
 http://..........
 
 #EXTINF:-1 group-title="Cyprus" tvg-name="Rik1" epg-id="Rik1" tvg-logo="http://www.riknews.com.cy/images/stories/icons/logo-2.png" ,RIKSAT
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-sat/|webnoagent$$start=file: \"http://$$end=.m3u8$$replace=file: \"$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-name="Rik1" epg-id="Rik1" tvg-logo="http://www.riknews.com.cy/images/stories/icons/logo-2.png" ,RIKSAT
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 group-title="Cyprus" tvg-name="Rik1" epg-id="Rik1" tvg-logo="http://www.riknews.com.cy/images/stories/icons/logo-2.png" ,RIKSAT
+http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-sat/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png" ,RIK1
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webnoagent$$start=file: \"http://$$end=.m3u8$$replace=file: \"$$replacewith=$$add=.m3u8
+http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",RIK1
-http://www.fireshow.xyz/rik1.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u
-
-
-
+http://www.fireshow.xyz/rik1.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png" ,RIK2
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|webnoagent$$start=file: \"http://$$end=.m3u8$$replace=file: \"$$replacewith=$$add=.m3u8
+http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u88
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png",RIK2
-http://www.fireshow.xyz/rik2.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u8
+http://www.fireshow.xyz/rik2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/rik-hd-jpg-H1Uop6wxQ.jpg" ,RIK HD
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|webnoagent$$start=file: \"http://$$end=.m3u8$$replace=file: \"$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.tvone.com.cy/pictures/tvshow_nopic.jpg" ,TVONE (Retry if failed)
-http://www.megatv.com.cy/live/?cs=1|webnoagent$$start=file: \"http://$$end=\"},$$replace=file: \"$$replacewith=$$add=
+http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
+#EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.tvone.com.cy/pictures/tvshow_nopic.jpg" ,TVONE)
+http://www.megatv.com.cy/live/?cs=1|agentnodown$$start=file: "http://$$end="},$$replace=file: "$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.tvone.com.cy/pictures/tvshow_nopic.jpg" ,TVONE
-http://www.fireshow.xyz/megacym.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u8
+http://www.fireshow.xyz/megacym.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" epg-id="Sigma" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" epg-id="Sigma" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
-http://www.fireshow.xyz/sigmam.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u8
+http://www.fireshow.xyz/sigmam.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
+#EXTINF:-1 group-title="Cyprus" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus
+http://www.alphacyprus.com.cy/page/live|agentnodown$$start=http://l$$end=        }],$$replace=',$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus
 http://www.alphacyprus.com.cy/page/live|webnoagent$$start=url: 'http://$$end=',\n        }]$$replace=url: '$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/v6twaoa6r/ant1.png",Ant1 Cyprus
@@ -79,23 +78,23 @@ http://www.fireshow.xyz/ant1cym.html|webdown$$start=src:  \"http://$$end=.m3u8$$
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
 http://master.cystreams.com:25461/live/greek/microwave/14.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
-http://www.anacon.org/app/chans/cy/capitalcy.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u8
+http://www.anacon.org/app/chans/cy/capitalcy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA
 http://master.cystreams.com:25461/live/greek/microwave/15.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA 
-http://www.anacon.org/app/chans/cy/extracy.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u8
+http://www.anacon.org/app/chans/cy/extracy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/tvg/logos/201.png",Plus
-http://www.anacon.org/app/chans/cy/pluscy.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u8
+http://www.anacon.org/app/chans/cy/pluscy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
 http://master.cystreams.com:25461/live/greek/microwave/119.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
-http://www.lakatamia.tv/app/chans/cy/smilecy.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u8
+http://www.lakatamia.tv/app/chans/cy/smilecy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Youtube)
-https://www.youtube.com/watch?v=Z5l84cZ8OcU
+https://www.youtube.com/watch?v=1CgdJs4ayqg
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS
-http://gr.euronews.com/live|webdown
+http://gr.euronews.com/live|webnoagent$$start=https://euronews-$$end=playlist.m3u8$$replace=$$replacewith=$$add=playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cyta.com.cy/mp/informational/images/channels/cbctvmall.gif" ,TV Mall
 http://master.cystreams.com:25461/live/tvmall/tvmall/539.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://i.imgur.com/w9Je47D.png",CYSPORTS
@@ -108,7 +107,6 @@ http://master.cystreams.com:25461/live/epistrofi/epistrofi123/44.ts
 http://master.cystreams.com:25461/live/cycinema/cycinema123/1868.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://farosonair.com/iconfaros.png",FAROS on Air
 http://master.cystreams.com:25461/live/faros/farostv/154.ts
- 
 
 
 
@@ -180,9 +178,10 @@ http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/m1ZYJB" ,VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Youtube)
-https://www.youtube.com/watch?v=Z5l84cZ8OcU
+https://www.youtube.com/watch?v=1CgdJs4ayqg
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS
-http://gr.euronews.com/live|webdown
+http://gr.euronews.com/live|webnoagent$$start=https://euronews-$$end=playlist.m3u8$$replace=$$replacewith=$$add=playlist.m3u8
+
 
 #EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,============= PERIFERIAKA ============
 http://.....
@@ -1210,42 +1209,77 @@ http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34b
 #EXTINF:-1 group-title="UK-SERVER1",
 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
-http://..........
+http://.........
 
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc1.jpg",BBC 1  (Faster Loading)
+https://easyview.eu/watch.php?stream=bbc-1|agentnodown$$start=https://origin$$end=            hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc1.jpg",BBC 1 
 https://easyview.eu/watch.php?stream=bbc-1|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg",BBC 2  (Faster Loading)
+https://easyview.eu/watch.php?stream=bbc-two|agentnodown$$start=https://origin$$end=            hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg",BBC 2
 https://easyview.eu/watch.php?stream=bbc-two|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc4-logo-400x284.jpg",BBC 4  (Faster Loading)
+https://easyview.eu/watch.php?stream=bbc-four|agentnodown$$start=https://origin$$end=            hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc4-logo-400x284.jpg",BBC 4
 https://easyview.eu/watch.php?stream=bbc-four|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/CBBC.jpg",Cbbc   (Faster Loading)
+https://easyview.eu/watch.php?stream=cbbc|agentnodown$$start=https://origin$$end=            hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/CBBC.jpg",Cbbc 
 https://easyview.eu/watch.php?stream=cbbc|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/cbeebies.jpg",cbeebies  (Faster Loading)
+https://easyview.eu/watch.php?stream=cbeebies|agentnodown$$start=https://origin$$end=            hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/cbeebies.jpg",cbeebies
 https://easyview.eu/watch.php?stream=cbeebies|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg",BBC 1 Wales  (Faster Loading)
+https://easyview.eu/watch.php?stream=bbc-one-wales|agentnodown$$start=https://origin$$end=            hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg",BBC 1 Wales
 https://easyview.eu/watch.php?stream=bbc-one-wales|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg",BBC 1 Scotland  (Faster Loading)
+https://easyview.eu/watch.php?stream=bbc-one-scotland|agentnodown$$start=https://origin$$end=            hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg",BBC 1 Scotland
 https://easyview.eu/watch.php?stream=bbc-one-scotland|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg",BBC 1 Northern Ireland  (Faster Loading)
+https://easyview.eu/watch.php?stream=bbc-one-northern-ireland|agentnodown$$start=https://origin$$end=            hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg",BBC 1 Northern Ireland
 https://easyview.eu/watch.php?stream=bbc-one-northern-ireland|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-parliament.jpg",BBC Parliament  (Faster Loading)
+https://easyview.eu/watch.php?stream=bbc-parliament|agentnodown$$start=https://origin$$end=            hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-parliament.jpg",BBC Parliament
 https://easyview.eu/watch.php?stream=bbc-parliament|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc_news.jpg",BBC News  (Faster Loading)
+https://easyview.eu/watch.php?stream=bbc-news|agentnodown$$start=https://origin$$end=            hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc_news.jpg",BBC News
 https://easyview.eu/watch.php?stream=bbc-news|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Alba.jpg",BBC alba  (Faster Loading)
+https://easyview.eu/watch.php?stream=bbc-alba|agentnodown$$start=https://origin$$end=            hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Alba.jpg",BBC alba
 https://easyview.eu/watch.php?stream=bbc-alba|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg",ITV  (Faster Loading)
+https://easyview.eu/watch.php?stream=itv|agentnodown$$start=https://origin$$end=            hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg",ITV
 https://easyview.eu/watch.php?stream=itv|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg",ITV 2  (Faster Loading)
+https://easyview.eu/watch.php?stream=itv2|agentnodown$$start=https://origin$$end=            hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg",ITV 2
 https://easyview.eu/watch.php?stream=itv2|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv3-400x284.jpg",ITV 3  (Faster Loading)
+https://easyview.eu/watch.php?stream=itv3|agentnodown$$start=https://origin$$end=            hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv3-400x284.jpg",ITV 3
 https://easyview.eu/watch.php?stream=itv3|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv4-400x284.jpg",ITV 4  (Faster Loading)
+https://easyview.eu/watch.php?stream=itv4|agentnodown$$start=https://origin$$end=            hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv4-400x284.jpg",ITV 4
 https://easyview.eu/watch.php?stream=itv4|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/citv_logo_2015-400x284.jpg",CITV  (Faster Loading)
+https://easyview.eu/watch.php?stream=citv|agentnodown$$start=https://origin$$end=            hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/citv_logo_2015-400x284.jpg",CITV
 https://easyview.eu/watch.php?stream=citv|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg",ITV Be.  (Faster Loading)
+https://easyview.eu/watch.php?stream=itvbe|agentnodown$$start=https://origin$$end=            hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg",ITV Be.
 https://easyview.eu/watch.php?stream=itvbe|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
+
 
 
 
@@ -2248,931 +2282,6 @@ http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/74.ts?.coms|user-agent=
 
 #EXTINF:-1 group-title="UK PREMIUM-SERVER3",
 
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBCAlba.uk" tvg-name="BBC ALBA" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcalba.png",BBC ALBA
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7818.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="4seven.uk" tvg-name="4 SEVEN HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/4seven.png" ,4 SEVEN HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7615.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Alibiplus1.uk" tvg-name="ALIBI PLUS 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/alibiplus1.png",ALIBI PLUS 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16797.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="AnimalPlanetHD.uk" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/animalplanethd.png" ,ANIMAL PLANET FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10765.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BTSport1.uk" tvg-name="BT SPORTS 1 FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport1.png" ,BT SPORTS 1 FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10714.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsAction.uk" tvg-name="SKY SPORTS ACTION FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportaction.png",SKY SPORTS ACTION FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10710.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="BBC RED BUTTON 01" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcredbutton01.png" ,BBC RED BUTTON 01
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16890.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="AtTheRaces.uk" tvg-name="AT THE RACES HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/attheraces.png" ,AT THE RACES HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10751.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Film4.uk" tvg-name="FILM 4 HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/filmfourhd.png" ,FILM 4 HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10738.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BabyTV.uk" tvg-name="BABY TV HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/babytvhd.jpg" ,BABY TV HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7171.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="AKA MUSIC" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/akamusic.jpg" ,AKA MUSIC
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/12347.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="AL JAZERRA" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/aljeezra(1).jpg",AL JAZERRA
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7235.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="4seven.uk" tvg-name="4 SEVEN" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/4seven.png" ,4 SEVEN
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7211.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="5star.uk" tvg-name="5 STAR SD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/5star.png" ,5 STAR SD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7210.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="5star.uk" tvg-name="5 STAR" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/5star.png" ,5 STAR
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10900.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="FiveUSA.uk" tvg-name="5 USA SD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/5usa.png" ,5 USA SD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7209.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="FiveUSA.uk" tvg-name="5 USA" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/5usa.png" ,5 USA
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10899.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Alibi.uk" tvg-name="ALIBI HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/alibihd.png" ,ALIBI HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10898.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Alibi.uk" tvg-name="ALIBI" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/alibihd.png" ,ALIBI
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7208.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="AMC.uk" tvg-name="AMC FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/amchd.png" ,AMC FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7614.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="AMC.uk" tvg-name="AMC HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/amchd.png" ,AMC HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7207.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="AnimalPlanet.uk" tvg-name="ANIMAL PLANET HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/animalplanethd.png" ,ANIMAL PLANET HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7559.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="AnimalPlanetplus1.uk" tvg-name="ANIMAL PLANET PLUS 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/animalplanethdplus1.png",ANIMAL PLANET PLUS 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16790.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="AtTheRaces.uk" tvg-name="AT THE RACES" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/attheraces.png" ,AT THE RACES
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7346.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC4.uk" tvg-name="BBC FOUR" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcfour.png",BBC FOUR
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7817.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBCNews.uk" tvg-name="BBC NEWS HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcnews.png",BBC NEWS HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7586.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBCNews.uk" tvg-name="BBC NEWS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcnews.png",BBC NEWS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7234.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC1.uk" tvg-name="BBC ONE CAMBRIDGE" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png",BBC ONE CAMBRIDGE
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7816.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC1.uk" tvg-name="BBC ONE CHANNEL ISLANDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png",BBC ONE CHANNEL ISLANDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7815.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC1.uk" tvg-name="BBC ONE EAST MIDLANDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png",BBC ONE EAST MIDLANDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7814.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC1.uk" tvg-name="BBC ONE EAST" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png",BBC ONE EAST
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7812.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC1.uk" tvg-name="BBC ONE EAST YORKSHIRE" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png",BBC ONE EAST YORKSHIRE
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7813.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC1.uk" tvg-name="BBC ONE FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png" ,BBC ONE FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7811.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC1.uk" tvg-name="BBC ONE HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png" ,BBC ONE HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7613.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC1.uk" tvg-name="BBC ONE LONDON" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png",BBC ONE LONDON
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7810.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC1.uk" tvg-name="BBC ONE NORTH EAST" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png",BBC ONE NORTH EAST
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7809.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC1.uk" tvg-name="BBC ONE NORTH WEST" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png",BBC ONE NORTH WEST
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7808.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC1NIreland.uk" tvg-name="BBC ONE NORTHERN IRELAND HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png",BBC ONE NORTHERN IRELAND HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7807.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC1.uk" tvg-name="BBC ONE OXFORD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png",BBC ONE OXFORD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7806.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC1Scotland.uk" tvg-name="BBC ONE SCOTLAND HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png",BBC ONE SCOTLAND HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7820.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC1.uk" tvg-name="BBC ONE SOUTH EAST" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png",BBC ONE SOUTH EAST
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7805.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC1.uk" tvg-name="BBC ONE SOUTH" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png",BBC ONE SOUTH
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7803.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC1.uk" tvg-name="BBC ONE SOUTH WEST" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png",BBC ONE SOUTH WEST
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7804.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC1Wales.uk" tvg-name="BBC ONE WALES" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png",BBC ONE WALES
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14248.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC1.uk" tvg-name="BBC ONE WEST" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png",BBC ONE WEST
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7802.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC1.uk" tvg-name="BBC ONE YORKS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png",BBC ONE YORKS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7801.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBCParliament.uk" tvg-name="BBC PARLIAMENT" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcparliament.png",BBC PARLIAMENT
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7800.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="BBC RED BUTTON 02" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcredbutton02.png" ,BBC RED BUTTON 02
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16889.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="BBC RED BUTTON 03" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcredbutton03.png" ,BBC RED BUTTON 03
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16888.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="BBC RED BUTTON 04" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcredbutton04.png" ,BBC RED BUTTON 04
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16887.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="BBC RED BUTTON 05" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcredbutton05.png" ,BBC RED BUTTON 05
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16886.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="BBC RED BUTTON 06" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcredbutton06.png" ,BBC RED BUTTON 06
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16885.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="BBC RED BUTTON 07" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcredbutton07.png" ,BBC RED BUTTON 07
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16884.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="BBC RED BUTTON 08" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcredbutton08.png" ,BBC RED BUTTON 08
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16883.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="BBC RED BUTTON 09" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcredbutton09.png" ,BBC RED BUTTON 09
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16882.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="BBC RED BUTTON 10" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcredbutton10.png" ,BBC RED BUTTON 10
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16881.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC2.uk" tvg-name="BBC TWO FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbctwo.png" ,BBC TWO FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7819.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC2.uk" tvg-name="BBC TWO HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbctwo.png" ,BBC TWO HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7609.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC2NIreland.uk" tvg-name="BBC TWO NORTHEN IRELAND" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbctwo.png",BBC TWO NORTHEN IRELAND
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7799.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC2Scotland.uk" tvg-name="BBC TWO SCOTLAND" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbctwo.png",BBC TWO SCOTLAND
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7798.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC2Wales.uk" tvg-name="BBC TWO WALES" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbctwo.png",BBC TWO WALES
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7797.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BET.uk" tvg-name="BET HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bet.png" ,BET HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10896.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BET.uk" tvg-name="BET" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bet.png" ,BET
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7608.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="BETFRED" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/betfred(1).jpg" ,BETFRED
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10750.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Blaze.uk" tvg-name="BLAZE HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/blaze.png" ,BLAZE HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10895.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Boomerang.us" tvg-name="BOOMERANG SD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/boomerangsd.png" ,BOOMERANG SD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7582.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Boomerang.uk" tvg-name="BOOMERANG" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/boomerang.png" ,BOOMERANG
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7170.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Bloomberg.uk" tvg-name="BLOOMBERG" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/bloombergtv.jpg",BLOOMBERG
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7236.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="BOX" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/thebox.png" ,BOX
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/15639.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="BOX HITS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/boxhits.png" ,BOX HITS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/15637.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BoxUpfront.uk" tvg-name="BOX UPFRONT" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/boxupfront.png" ,BOX UPFRONT
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/15638.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BoxNation.uk" tvg-name="BOXNATION FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/boxnation.png" ,BOXNATION FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10749.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BoxNation.uk" tvg-name="BOXNATION HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/boxnation.png" ,BOXNATION HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7344.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BoxNation.uk" tvg-name="BOXNATION" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/boxnation.png" ,BOXNATION
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7343.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="BOYLE SPORTS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/boylesports.jpg" ,BOYLE SPORTS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10748.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BTSport1.uk" tvg-name="BT SPORTS 1 HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport1.png" ,BT SPORTS 1 HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7549.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BTSport1.uk" tvg-name="BT SPORTS 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport1.png" ,BT SPORTS 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7340.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BTSport2.uk" tvg-name="BT SPORTS 2 FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport2.png" ,BT SPORTS 2 FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10713.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BTSport2.uk" tvg-name="BT SPORTS 2 HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport2.png" ,BT SPORTS 2 HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7548.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BTSport2.uk" tvg-name="BT SPORTS 2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport2.png" ,BT SPORTS 2
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7338.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BTSport3.uk" tvg-name="BT SPORTS 3 FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport3.png" ,BT SPORTS 3 FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10712.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BTSport3.uk" tvg-name="BT SPORTS 3 HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport3.png" ,BT SPORTS 3 HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7547.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BTSport3.uk" tvg-name="BT SPORTS 3" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport3.png" ,BT SPORTS 3
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7336.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BTSportESPN.uk" tvg-name="BT SPORTS ESPN FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport.png" ,BT SPORTS ESPN FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10711.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BTSportESPN.uk" tvg-name="BT SPORTS ESPN HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport.png" ,BT SPORTS ESPN HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7546.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BTSportESPN.uk" tvg-name="BT SPORTS ESPN" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport.png" ,BT SPORTS ESPN
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7334.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="CartoonNetwork.uk" tvg-name="CARTOON NETWORK HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cartoonnetwork.png" ,CARTOON NETWORK HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7168.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="CartoonNetwork.uk" tvg-name="CARTOON NETWORK" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cartoonnetwork.png" ,CARTOON NETWORK
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7169.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Cartoonito.uk" tvg-name="CARTOONITO SD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cartoonito.jpg" ,CARTOONITO SD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7167.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="CBBC.uk" tvg-name="CBBC FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cbbc.png" ,CBBC FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10774.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="CBBC.uk" tvg-name="CBBC HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cbbc.png" ,CBBC HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7166.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="CBeebies.uk" tvg-name="CBEEBIES FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cbeebies.png" ,CBEEBIES FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7164.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="CBSAction.uk" tvg-name="CBS ACTION" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cbsaction.png" ,CBS ACTION
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10894.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="CBSDrama.uk" tvg-name="CBS DRAMA" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cbsdrama.png" ,CBS DRAMA
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10893.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="CBSReality.uk" tvg-name="CBS REALITY" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cbsreality.png" ,CBS REALITY
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10892.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Challenge.uk" tvg-name="CHALLENGE HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/challenge.png" ,CHALLENGE HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10891.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Challenge.uk" tvg-name="CHALLENGE" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/challenge.png" ,CHALLENGE
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7202.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Channel4.uk" tvg-name="CHANNEL 4 FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/channel4.png" ,CHANNEL 4 FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10795.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Channel4.uk" tvg-name="CHANNEL 4 HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/channel4.png" ,CHANNEL 4 HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7607.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Channel4plus1.uk" tvg-name="CHANNEL 4 PLUS 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/channel4plus1.png",CHANNEL 4 PLUS 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14291.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Channel5.uk" tvg-name="CHANNEL 5 FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/channel5.png" ,CHANNEL 5 FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10890.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Channel5.uk" tvg-name="CHANNEL 5 HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/channel5.png" ,CHANNEL 5 HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7590.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Channel5plus1.uk" tvg-name="CHANNEL 5 PLUS 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/channel5plus1.png",CHANNEL 5 PLUS 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14290.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ChartShow.uk" tvg-name="CHART SHOW HITS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/chartshowhits.jpg" ,CHART SHOW HITS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10812.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ChartShowTV.uk" tvg-name="CHART SHOW TV" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/chartshowtv.png" ,CHART SHOW TV
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10811.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="CHILLED MUSIC TV" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/chilledmusic(1).jpg" ,CHILLED MUSIC TV
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14245.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ComedyCentralExtra.uk" tvg-name="COMEDY CENTRAL EXTRA HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/comedycentralextra.png" ,COMEDY CENTRAL EXTRA HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7197.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ComedyCentralExtra.uk" tvg-name="COMEDY CENTRAL EXTRA" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/comedycentralextra.png" ,COMEDY CENTRAL EXTRA
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7605.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ComedyCentral.uk" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/comedycentral.png" ,COMEDY CENTRAL FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10794.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ComedyCentral.us" tvg-name="COMEDY CENTRAL FHD ᵘˢ" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/comedycentral.png",COMEDY CENTRAL FHD ᵘˢ
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7736.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ComedyCentral.uk" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/comedycentral.png" ,COMEDY CENTRAL HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7196.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="CORAL SPORTS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/coralsports.jpg" ,CORAL SPORTS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10747.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="CRIME & INVESTIGATION FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/crimeandinvestigationhd.png" ,CRIME & INVESTIGATION FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10764.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="CRIME & INVESTIGATION HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/crimeandinvestigationhd.png" ,CRIME & INVESTIGATION HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7228.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Dave.uk" tvg-name="DAVE FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/dave.png" ,DAVE FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10792.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Dave.uk" tvg-name="DAVE HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/dave.png" ,DAVE HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7604.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Dave.uk" tvg-name="DAVE" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/dave.png" ,DAVE
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7195.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="DiscoveryChannel.uk" tvg-name="DISCOVERY FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoverychannelhd%20(1).png" ,DISCOVERY FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10763.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="DiscoveryChannel.uk" tvg-name="DISCOVERY HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoverychannelhd%20(1).png" ,DISCOVERY HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7557.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="DiscoveryHistoryPlus1.uk" tvg-name="DISCOVERY HISTORY PLUS 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoveryhistoryplus1.png",DISCOVERY HISTORY PLUS 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16793.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="DiscoveryHistory.uk" tvg-name="DISCOVERY HISTORY SD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoveryhistory.png" ,DISCOVERY HISTORY SD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7556.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="DiscoveryHistory.uk" tvg-name="DISCOVERY HISTORY" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoveryhistory.png" ,DISCOVERY HISTORY
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10762.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="DiscoveryHomeandHealth.uk" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoveryhomeandhealth.png" ,DISCOVERY HOME & HEALTH SD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7616.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="DiscoveryHomeandHealth.uk" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoveryhomeandhealth.png" ,DISCOVERY HOME & HEALTH
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10761.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="DiscoverySciencePlus1.uk" tvg-name="DISCOVERY SCIENCE PLUS 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoveryscienceplus1.png",DISCOVERY SCIENCE PLUS 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16792.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="DiscoveryScience.uk" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoveryscience.png" ,DISCOVERY SCIENCE SD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7555.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="DiscoveryScience.uk" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoveryscience.png" ,DISCOVERY SCIENCE
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10760.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="DiscoveryShed.uk" tvg-name="DISCOVERY SHED HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoveryshed.png" ,DISCOVERY SHED HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7554.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="DiscoveryShed.uk" tvg-name="DISCOVERY SHED" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoveryshed.png" ,DISCOVERY SHED
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10759.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="DiscoveryTurbo.uk" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoveryturbo.png" ,DISCOVERY TURBO HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7553.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="DiscoveryTurbo.uk" tvg-name="DISCOVERY TURBO" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoveryturbo.png" ,DISCOVERY TURBO
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10758.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="DiscoveryChannel.uk" tvg-name="DISCOVERY" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/discoverychannel.png" ,DISCOVERY
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7227.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Disney.uk" tvg-name="DISNEY CHANNEL FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/disneychannelhd.png" ,DISNEY CHANNEL FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7162.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Disney.uk" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/disneychannelhd.png" ,DISNEY CHANNEL HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10771.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="DisneyJunior.uk" tvg-name="DISNEY JUNIOR FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/disneyjuniorhd.png" ,DISNEY JUNIOR FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7161.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="DisneyJunior.uk" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/disneyjuniorhd.png" ,DISNEY JUNIOR HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17227.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="DisneyXD.uk" tvg-name="DISNEY XD FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/disneyxdhd.png" ,DISNEY XD FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7579.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="DisneyXD.uk" tvg-name="DISNEY XD HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/disneyxdhd.png" ,DISNEY XD HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10772.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Drama.uk" tvg-name="DRAMA HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/drama-clivebesle.png" ,DRAMA HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10889.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="E.uk" tvg-name="E! ENTERTAINMENT HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/eentertainmenthd.png" ,E! ENTERTAINMENT HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10888.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="E4.uk" tvg-name="E4 FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/e4.png" ,E4 FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10791.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="E4.uk" tvg-name="E4 HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/e4.png" ,E4 HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7194.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="E4plus1.uk" tvg-name="E4 PLUS 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/e4plus1.png",E4 PLUS 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14303.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Eden.uk" tvg-name="EDEN HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/edennew.jpg" ,EDEN HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10757.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="EdenPlus1.uk" tvg-name="EDEN PLUS 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/edenplus1.jpg",EDEN PLUS 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16789.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="eirSport1.ie" tvg-name="EIR SPORTS 1 HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/IRE_Logos/eirsport1.png" ,EIR SPORTS 1 HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10846.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="eirSport1.ie" tvg-name="EIR SPORTS 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/IRE_Logos/eirsport1.png" ,EIR SPORTS 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7331.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="eirSport2.ie" tvg-name="EIR SPORTS 2 HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/IRE_Logos/eirsport2.png" ,EIR SPORTS 2 HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10847.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="eirSport2.ie" tvg-name="EIR SPORTS 2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/IRE_Logos/eirsport2.png" ,EIR SPORTS 2
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7330.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Elevensports1.uk" tvg-name="ELEVEN SPORTS 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/elevensports.png" ,ELEVEN SPORTS 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/15649.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Elevensports2.uk" tvg-name="ELEVEN SPORTS 2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/elevensports2.png" ,ELEVEN SPORTS 2
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/15650.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Eurosport1.uk" tvg-name="EUROSPORTS 1 FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/eurosport1hd.png" ,EUROSPORTS 1 FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7545.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Eurosport1.uk" tvg-name="EUROSPORTS 1 HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/eurosport1hd.png" ,EUROSPORTS 1 HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7329.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Eurosport2.uk" tvg-name="EUROSPORTS 2 FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/eurosport2hd.png" ,EUROSPORTS 2 FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7544.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Eurosport2.uk" tvg-name="EUROSPORTS 2 HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/eurosport2hd.png" ,EUROSPORTS 2 HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7328.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Film4plus1.uk" tvg-name="FILM 4 PLUS 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/filmfourplus1.png",FILM 4 PLUS 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16893.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Film4.uk" tvg-name="FILM 4" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/filmfourhd.png" ,FILM 4
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7298.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="FoodNetwork.uk" tvg-name="FOOD NETWORK" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/foodnetwork.png" ,FOOD NETWORK
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10887.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="FOX.uk" tvg-name="FOX FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/fox.png" ,FOX FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10790.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="FreeSports.uk" tvg-name="FREESPORTS HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/freesports.jpg" ,FREESPORTS HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10744.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="FreeSports.uk" tvg-name="FREESPORTS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/freesports.jpg" ,FREESPORTS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7825.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="FRONT RUNNER" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/frontrunner.png" ,FRONT RUNNER
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7327.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="GOLD.uk" tvg-name="GOLD HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/gold.png" ,GOLD HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10789.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="GOLDPlus1.uk" tvg-name="GOLD PLUS 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/goldplus1.png",GOLD PLUS 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16802.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="GOLD.uk" tvg-name="GOLD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/gold.png" ,GOLD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7192.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="GoodFood.uk" tvg-name="GOOD FOOD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/goodfood.png" ,GOOD FOOD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10885.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="History2.uk" tvg-name="H2 FHD" tvg-logo="http://extremehosts.info/Logos/Documentary/h2%2520hd.png" ,H2 FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10756.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="History2.uk" tvg-name="H2 HD" tvg-logo="http://extremehosts.info/Logos/Documentary/h2%2520hd.png" ,H2 HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7218.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="HEART TV" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/heart.png" ,HEART TV
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7270.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="History.uk" tvg-name="HISTORY FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/historyhd.png" ,HISTORY FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10755.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="History.uk" tvg-name="HISTORY HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/historyhd.png" ,HISTORY HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7560.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="DiscoveryHomeandHealthPlus1.uk" tvg-name="HOME & HEALTH PLUS 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/homeandhealthplus1.png",HOME & HEALTH PLUS 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16795.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="HorrorChannel.uk" tvg-name="HORROR CHANNEL" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/horrorchannel.png" ,HORROR CHANNEL
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16826.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Investigation.uk" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/investigationdiscovery.png" ,INVESTIGATION DISCOVERY
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10754.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV.uk" tvg-name="ITV 1 FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv.png" ,ITV 1 FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7600.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV.uk" tvg-name="ITV 1 HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv.png" ,ITV 1 HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10788.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITVPlus1.uk" tvg-name="ITV 1 PLUS 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itvplus1.png",ITV 1 PLUS 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14387.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV.uk" tvg-name="ITV 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv.png" ,ITV 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7190.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV2.uk" tvg-name="ITV 2 HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv2hd.png" ,ITV 2 HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7599.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV2plus1.uk" tvg-name="ITV 2 PLUS 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv2plus1.png",ITV 2 PLUS 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14388.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV2.uk" tvg-name="ITV 2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv2hd.png" ,ITV 2
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7189.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV3.uk" tvg-name="ITV 3 HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv3hd.png" ,ITV 3 HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7598.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV3plus1.uk" tvg-name="ITV 3 PLUS 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv3plus1.png",ITV 3 PLUS 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14389.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV3.uk" tvg-name="ITV 3" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv3hd.png" ,ITV 3
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7188.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV4.uk" tvg-name="ITV 4 HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv4hd.png" ,ITV 4 HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7597.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV4plus1.uk" tvg-name="ITV 4 PLUS 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv4plus1.png",ITV 4 PLUS 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14390.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV4.uk" tvg-name="ITV 4" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv4hd.png" ,ITV 4
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7187.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITVBe.uk" tvg-name="ITV BE HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itvbe.png" ,ITV BE HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10882.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITVBe.uk" tvg-name="ITV BE" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itvbe.png" ,ITV BE
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7186.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Kerrang.uk" tvg-name="KERRANG" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/kerrang.png" ,KERRANG
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/15763.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="KissTV.uk" tvg-name="KISS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/kiss.png" ,KISS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10810.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="LADBROKES" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/ladbrokes.png" ,LADBROKES
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7326.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="LFCTVHD.uk" tvg-name="LFC TV" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/liverpoolfctv.png" ,LFC TV
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10855.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Magic.uk" tvg-name="MAGIC" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/magic.png" ,MAGIC
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/15762.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="More4Plus1.uk" tvg-name="MORE 4 PLUS 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/more4plus1.png",MORE 4 PLUS 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14300.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="More4.uk" tvg-name="MORE4" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/more4.png" ,MORE4
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7184.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="MOTOGP LIVE HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/motogp.png" ,MOTOGP LIVE HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/12886.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="MotorsTV.uk" tvg-name="MOTORSPORT" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/motosporttv.jpg" ,MOTORSPORT
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16894.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="MoviesTwentyFour.uk" tvg-name="MOVIES 24 SD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/movies24.png" ,MOVIES 24 SD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16823.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="MoviesTwentyFour.uk" tvg-name="MOVIES 24" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/movies24.png" ,MOVIES 24
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10197.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Movies4Men.uk" tvg-name="MOVIES4MEN" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/movies4men.png" ,MOVIES4MEN
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16824.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="MTVBase.uk" tvg-name="MTV BASE HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/mtvbase.png" ,MTV BASE HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10808.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="MTVBase.uk" tvg-name="MTV BASE" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/mtvbase.png" ,MTV BASE
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7269.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="MTVClassic.uk" tvg-name="MTV CLASSIC HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/mtvclassic.png" ,MTV CLASSIC HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10807.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="MTVClassic.uk" tvg-name="MTV CLASSICS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/mtvclassic.png" ,MTV CLASSICS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7268.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="MTVDance.uk" tvg-name="MTV DANCE HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/mtvdance.png" ,MTV DANCE HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10806.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="MTVDance.uk" tvg-name="MTV DANCE" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/mtvdance.png" ,MTV DANCE
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7267.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="MTV.uk" tvg-name="MTV HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/mtv.png" ,MTV HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7262.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="MTVHits.uk" tvg-name="MTV HITS HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/mtvhits.png" ,MTV HITS HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10805.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="MTVHits.uk" tvg-name="MTV HITS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/mtvhits.png" ,MTV HITS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7266.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="MTVMusic.uk" tvg-name="MTV MUSIC SD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/mtvmusic.png" ,MTV MUSIC SD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7264.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="MTVRocks.uk" tvg-name="MTV ROCKS HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/mtvrocks.png" ,MTV ROCKS HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10802.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="MTVRocks.uk" tvg-name="MTV ROCKS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/mtvrocks.png" ,MTV ROCKS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7263.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="MUTV.uk" tvg-name="MUTV" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/manutv.png" ,MUTV
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10854.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="My5.uk" tvg-name="MY 5" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/my5.png" ,MY 5
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16827.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="NatGeoWild.uk" tvg-name="NAT GEO WILD FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/natgeowildhd.png" ,NAT GEO WILD FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7551.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="NatGeoWild.uk" tvg-name="NAT GEO WILD HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/natgeowildhd.png" ,NAT GEO WILD HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7215.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="NationalGeographic.uk" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/nationalgeographic.png" ,NATIONAL GEOGRAPHIC HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7552.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="NationalGeographic.uk" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/nationalgeographic.png" ,NATIONAL GEOGRAPHIC
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7213.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Nickelodeon.uk" tvg-name="NICK FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/nickelodeon.png" ,NICK FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10769.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Nickelodeon.uk" tvg-name="NICK HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/nickelodeon.png" ,NICK HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7159.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="NickJrToo.uk" tvg-name="NICK JR TOO" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/nickjnrtoo.jpg" ,NICK JR TOO
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10766.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="NickJunior.uk" tvg-name="NICK JR" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/nickjr.png" ,NICK JR
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7158.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="NickJunior.uk" tvg-name="NICK JR SD" tvg-logo="http://extremehosts.info/Logos/Kids/nick%2520jr.png" ,NICK JR SD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7578.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="NickJrToo.uk" tvg-name="NICK JR.TOO SD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/nickjnrtoo.jpg" ,NICK JR.TOO SD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7577.t
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Nicktoons.uk" tvg-name="NICKTOONS HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/nicktoons-wispelutri.png" ,NICKTOONS HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7574.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Nicktoons.uk" tvg-name="NICKTOONS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/nicktoons-wispelutri.png" ,NICKTOONS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7156.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="NOW 80s" tvg-logo="http://extremehosts.info/Logos/Music/now80s.jpg" ,NOW 80s
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/12345.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="NOW 90s" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/now%2090's.png" ,NOW 90s
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/12346.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="NOW MUSIC" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/nowmusic.jpg" ,NOW MUSIC
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14246.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="PREMIER SPORTS 2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/premiersports2new.jpg" ,PREMIER SPORTS 2
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/15616.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="PremierSports.uk" tvg-name="PREMIER SPORTS FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/premiersportsnew.jpeg" ,PREMIER SPORTS FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7542.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="PremierSports.uk" tvg-name="PREMIER SPORTS HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/premiersportsnew.jpeg" ,PREMIER SPORTS HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7323.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="QuestRed.uk" tvg-name="QUEST RED" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/questred.png" ,QUEST RED
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16825.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Quest.uk" tvg-name="QUEST" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/quest.png" ,QUEST
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10876.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="RacingUK.uk" tvg-name="RACING HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/racinguk.png" ,RACING HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10742.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="RacingUK.uk" tvg-name="RACING" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/racinguk.png" ,RACING
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7322.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="RealLives.uk" tvg-name="REAL LIVES" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/reallives.png" ,REAL LIVES
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10875.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Really.uk" tvg-name="REALLY" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/really.png" ,REALLY
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10874.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="RTETwo.ie" tvg-name="RTE 2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/IRE_Logos/rte2hd.png",RTE 2
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7150.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="RTEJr.ie" tvg-name="RTE JUNIOR" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/IRE_Logos/rtejr.png",RTE JUNIOR
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7152.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="RTEOne.ie" tvg-name="RTE 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/IRE_Logos/rteonehd.png",RTE 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7148.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="RTENewsNow.ie" tvg-name="RTE NEWS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/IRE_Logos/rtenewsnow.png",RTE NEWS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7153.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="S4C.uk" tvg-name="S4C HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/s4c.png",S4C HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10739.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="S4C.uk" tvg-name="S4C" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/s4c.png",S4C
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7796.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Scuzz.uk" tvg-name="SCUZZ" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/scuzz.png" ,SCUZZ
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/15764.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SetantaSportsChannel.int" tvg-name="SETANTA SPORTS HD" tvg-logo="http://extremehosts.info/Logos/Sports/setanta-sport-plus.png" ,SETANTA SPORTS HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10741.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="SHEFFIELD STEELERS TV" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/sheffieldsteelers.jpeg" ,SHEFFIELD STEELERS TV
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/15758.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="SIS EUROPE" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/sis.jpg" ,SIS EUROPE
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10740.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="SIS ONE" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/sis.jpg" ,SIS ONE
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/15761.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="SIS TWO" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/sis.jpg" ,SIS TWO
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/15760.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyArts1.uk" tvg-name="SKY ARTS HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skyarts.png" ,SKY ARTS HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10873.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyArts1.uk" tvg-name="SKY ARTS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skyarts.png" ,SKY ARTS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/8078.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyAtlantic.uk" tvg-name="SKY ATLANTIC FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skyatlantic.png" ,SKY ATLANTIC FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10783.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyAtlantic.uk" tvg-name="SKY ATLANTIC HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skyatlantic.png" ,SKY ATLANTIC HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7183.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesActionandAdventure.uk" tvg-name="SKY CINEMA ACTION & ADVENTURE FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemaactionandadventure.png" ,SKY CINEMA ACTION & ADVENTURE FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10731.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesActionandAdventure.uk" tvg-name="SKY CINEMA ACTION & ADVENTURE HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemaactionandadventure.png" ,SKY CINEMA ACTION & ADVENTURE HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7571.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesActionandAdventure.uk" tvg-name="SKY CINEMA ACTION & ADVENTURE" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemaactionandadventure.png" ,SKY CINEMA ACTION & ADVENTURE
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7297.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesComedy.uk" tvg-name="SKY CINEMA COMEDY FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemacomedy.png" ,SKY CINEMA COMEDY FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10736.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesComedy.uk" tvg-name="SKY CINEMA COMEDY HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemacomedy.png" ,SKY CINEMA COMEDY HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7570.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesComedy.uk" tvg-name="SKY CINEMA COMEDY" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemacomedy.png" ,SKY CINEMA COMEDY
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7295.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesCrimeandThriller.uk" tvg-name="SKY CINEMA CRIME & THRILLER FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemathriller.png" ,SKY CINEMA CRIME & THRILLER FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10735.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesCrimeandThriller.uk" tvg-name="SKY CINEMA CRIME & THRILLER HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemathriller.png" ,SKY CINEMA CRIME & THRILLER HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7569.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesCrimeandThriller.uk" tvg-name="SKY CINEMA CRIME & THRILLER" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemathriller.png" ,SKY CINEMA CRIME & THRILLER
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7293.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesDisney.uk" tvg-name="SKY CINEMA DISNEY FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemadisney1.png" ,SKY CINEMA DISNEY FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10734.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesDisney.uk" tvg-name="SKY CINEMA DISNEY HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemadisney1.png" ,SKY CINEMA DISNEY HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7568.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesDisney.uk" tvg-name="SKY CINEMA DISNEY" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemadisney1.png" ,SKY CINEMA DISNEY
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7291.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesDrama.uk" tvg-name="SKY CINEMA DRAMA & ROMANCE FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemadramaandromance.png" ,SKY CINEMA DRAMA & ROMANCE FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10733.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesDrama.uk" tvg-name="SKY CINEMA DRAMA & ROMANCE HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemadramaandromance.png" ,SKY CINEMA DRAMA & ROMANCE HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7567.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesDrama.uk" tvg-name="SKY CINEMA DRAMA & ROMANCE" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemadramaandromance.png" ,SKY CINEMA DRAMA & ROMANCE
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7289.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesFamily.uk" tvg-name="SKY CINEMA FAMILY FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemafamily.png" ,SKY CINEMA FAMILY FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10737.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesFamily.uk" tvg-name="SKY CINEMA FAMILY HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemafamily.png" ,SKY CINEMA FAMILY HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7566.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesFamily.uk" tvg-name="SKY CINEMA FAMILY" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemafamily.png" ,SKY CINEMA FAMILY
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7287.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyCinemaHits.uk" tvg-name="SKY CINEMA HITS FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemahitshd.png" ,SKY CINEMA HITS FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10730.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyCinemaHits.uk" tvg-name="SKY CINEMA HITS HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemahitshd.png" ,SKY CINEMA HITS HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7565.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyCinemaHits.uk" tvg-name="SKY CINEMA HITS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemahitshd.png" ,SKY CINEMA HITS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7285.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesModernGreats.uk" tvg-name="SKY CINEMA MODERN GREATS FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemagreats.png" ,SKY CINEMA MODERN GREATS FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16805.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesModernGreats.uk" tvg-name="SKY CINEMA MODERN GREATS HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemagreats.png" ,SKY CINEMA MODERN GREATS HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10732.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesModernGreats.uk" tvg-name="SKY CINEMA MODERN GREATS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemagreats.png" ,SKY CINEMA MODERN GREATS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7283.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesPremiere.uk" tvg-name="SKY CINEMA PREMIERE FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemapremierehd.png" ,SKY CINEMA PREMIERE FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10729.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesPremiere.uk" tvg-name="SKY CINEMA PREMIERE HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemapremierehd.png" ,SKY CINEMA PREMIERE HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7564.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesPremiere.uk" tvg-name="SKY CINEMA PREMIERE" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemapremierehd.png" ,SKY CINEMA PREMIERE
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7281.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySciFiHorror.uk" tvg-name="SKY CINEMA SCI FI & HORROR FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemascifiandhorrorhd.png" ,SKY CINEMA SCI FI & HORROR FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10728.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySciFiHorror.uk" tvg-name="SKY CINEMA SCI FI & HORROR" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemascifiandhorrorhd.png" ,SKY CINEMA SCI FI & HORROR
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7279.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySciFiHorror.uk" tvg-name="SKY CINEMA SCIFI & HORROR HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemascifiandhorrorhd.png" ,SKY CINEMA SCIFI & HORROR HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7563.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesSelect.uk" tvg-name="SKY CINEMA SELECT FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemaselecthd.png" ,SKY CINEMA SELECT FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10727.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesSelect.uk" tvg-name="SKY CINEMA SELECT HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemaselecthd.png" ,SKY CINEMA SELECT HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7562.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesSelect.uk" tvg-name="SKY CINEMA SELECT" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemaselecthd.png" ,SKY CINEMA SELECT
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7277.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyNews.uk" tvg-name="SKY NEWS HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skynews-clivebesle.png",SKY NEWS HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7584.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyNews.uk" tvg-name="SKY NEWS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skynews-clivebesle.png",SKY NEWS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7232.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Sky1.uk" tvg-name="SKY ONE FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/sky1.png" ,SKY ONE FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10784.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Sky1.uk" tvg-name="SKY ONE HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/sky1.png" ,SKY ONE HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7595.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Sky1.uk" tvg-name="SKY ONE ᶦʳᵉ" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/sky1.png",SKY ONE ᶦʳᵉ
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14266.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsAction.uk" tvg-name="SKY SPORTS ACTION HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportaction.png",SKY SPORTS ACTION HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7540.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsAction.uk" tvg-name="SKY SPORTS ACTION UHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportaction.png",SKY SPORTS ACTION UHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14392.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsAction.uk" tvg-name="SKY SPORTS ACTION UHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportaction.png",SKY SPORTS ACTION UHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7320.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsArena.uk" tvg-name="SKY SPORTS ARENA FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsarena.png",SKY SPORTS ARENA FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10709.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsArena.uk" tvg-name="SKY SPORTS ARENA HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsarena.png",SKY SPORTS ARENA HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7539.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsArena.uk" tvg-name="SKY SPORTS ARENA UHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsarena.png",SKY SPORTS ARENA UHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14394.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsArena.uk" tvg-name="SKY SPORTS ARENA UHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsarena.png",SKY SPORTS ARENA UHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7318.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsCricket.uk" tvg-name="SKY SPORTS CRICKET FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportscricet.png",SKY SPORTS CRICKET FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10708.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsCricket.uk" tvg-name="SKY SPORTS CRICKET HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportscricet.png",SKY SPORTS CRICKET HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7538.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsCricket.uk" tvg-name="SKY SPORTS CRICKET UHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportscricet.png",SKY SPORTS CRICKET UHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14396.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsCricket.uk" tvg-name="SKY SPORTS CRICKET UHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportscricet.png",SKY SPORTS CRICKET UHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7316.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsF1.uk" tvg-name="SKY SPORTS F1 FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportf1-phibruspel.png",SKY SPORTS F1 FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10707.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsF1.uk" tvg-name="SKY SPORTS F1 HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportf1-phibruspel.png",SKY SPORTS F1 HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7536.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsF1.uk" tvg-name="SKY SPORTS F1 UHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportf1-phibruspel.png",SKY SPORTS F1 UHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14398.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsF1.uk" tvg-name="SKY SPORTS F1 UHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportf1-phibruspel.png",SKY SPORTS F1 UHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7312.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsFootball.uk" tvg-name="SKY SPORTS FOOTBALL FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsfootball.png",SKY SPORTS FOOTBALL FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10706.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsFootball.uk" tvg-name="SKY SPORTS FOOTBALL HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsfootball.png",SKY SPORTS FOOTBALL HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7535.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsFootball.uk" tvg-name="SKY SPORTS FOOTBALL UHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsfootball.png",SKY SPORTS FOOTBALL UHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14400.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsFootball.uk" tvg-name="SKY SPORTS FOOTBALL UHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsfootball.png",SKY SPORTS FOOTBALL UHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7310.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsGolf.uk" tvg-name="SKY SPORTS GOLF FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportstheopen.png",SKY SPORTS GOLF FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10701.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsGolf.uk" tvg-name="SKY SPORTS GOLF HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportstheopen.png",SKY SPORTS GOLF HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7534.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsGolf.uk" tvg-name="SKY SPORTS GOLF UHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportstheopen.png",SKY SPORTS GOLF UHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14410.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsGolf.uk" tvg-name="SKY SPORTS GOLF UHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportstheopen.png",SKY SPORTS GOLF UHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7308.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsMainEvent.uk" tvg-name="SKY SPORTS MAIN EVENT FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsmainevent.png",SKY SPORTS MAIN EVENT FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10705.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsMainEvent.uk" tvg-name="SKY SPORTS MAIN EVENT HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsmainevent.png",SKY SPORTS MAIN EVENT HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7537.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsMainEvent.uk" tvg-name="SKY SPORTS MAIN EVENT UHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsmainevent.png",SKY SPORTS MAIN EVENT UHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14402.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsMainEvent.uk" tvg-name="SKY SPORTS MAIN EVENT UHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsmainevent.png",SKY SPORTS MAIN EVENT UHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7314.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsMix.uk" tvg-name="SKY SPORTS MIX FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsmix.png",SKY SPORTS MIX FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10704.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsMix.uk" tvg-name="SKY SPORTS MIX HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsmix.png",SKY SPORTS MIX HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7533.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsMix.uk" tvg-name="SKY SPORTS MIX UHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsmix.png",SKY SPORTS MIX UHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14404.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsMix.uk" tvg-name="SKY SPORTS MIX UHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsmix.png",SKY SPORTS MIX UHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7306.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsNews.uk" tvg-name="SKY SPORTS NEWS FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsnews.png",SKY SPORTS NEWS FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10703.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsNews.uk" tvg-name="SKY SPORTS NEWS HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsnews.png",SKY SPORTS NEWS HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7532.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsNews.uk" tvg-name="SKY SPORTS NEWS UHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsnews.png",SKY SPORTS NEWS UHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14406.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsNews.uk" tvg-name="SKY SPORTS NEWS UHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsnews.png",SKY SPORTS NEWS UHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7304.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsPremierLeague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportspremierleague.png",SKY SPORTS PREMIER LEAGUE FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10702.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsPremierLeague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportspremierleague.png",SKY SPORTS PREMIER LEAGUE HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7531.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsPremierLeague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE UHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportspremierleague.png",SKY SPORTS PREMIER LEAGUE UHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14408.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsPremierLeague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE UHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportspremierleague.png",SKY SPORTS PREMIER LEAGUE UHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7302.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Sky2.uk" tvg-name="SKY TWO HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/sky2.png" ,SKY TWO HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7593.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Sky2.uk" tvg-name="SKY TWO" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/sky2.png" ,SKY TWO
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7177.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Sky2.uk" tvg-name="SKY TWO ᶦʳᵉ" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/sky2.png",SKY TWO ᶦʳᵉ
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/14265.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyLiving.uk" tvg-name="SKY WITNESS FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skywitness(1).png" ,SKY WITNESS FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7594.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyLiving.uk" tvg-name="SKY WITNESS HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skywitness(1).png" ,SKY WITNESS HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10782.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyLiving.uk" tvg-name="SKY WITNESS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skywitness(1).png" ,SKY WITNESS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7180.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="SONY CRIME PLUS 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/sonycrimechannelplus1.png",SONY CRIME PLUS 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16892.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="SONY CRIME" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/sonycrimechanneluk.png" ,SONY CRIME
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16891.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SonyMovies.uk" tvg-name="SONY MOVIE SD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/sonymoviechannel.png" ,SONY MOVIE SD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/12189.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SonyMovies.uk" tvg-name="SONY MOVIES" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/sonymoviechannel.png" ,SONY MOVIES
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16821.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Spike.uk" tvg-name="SPIKE SD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/spike.png" ,SPIKE SD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7176.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Spike.uk" tvg-name="SPIKE" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/spike.png" ,SPIKE
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7592.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Syfy.uk" tvg-name="SYFY HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/syfy.png" ,SYFY HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7591.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SyfyPlus1.uk" tvg-name="SYFY PLUS 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/syfyplus1.png",SYFY PLUS 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16800.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Syfy.uk" tvg-name="SYFY" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/syfy.png" ,SYFY
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7175.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="TCM.uk" tvg-name="TCM FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/tcm.png" ,TCM FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10849.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="TCM.uk" tvg-name="TCM HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/tcm.png" ,TCM HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10848.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="TG4.ie" tvg-name="TG4" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/IRE_Logos/tg4.png",TG4
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7147.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="TheVault.uk" tvg-name="THE VAULT" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/thevault.png" ,THE VAULT
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/15765.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="TinyPop.uk" tvg-name="TINY POP" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/tinypop.png" ,TINY POP
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7572.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="TLC.uk" tvg-name="TLC HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/tlc.png" ,TLC HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10868.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="TLCplus1.uk" tvg-name="TLC PLUS 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/tlcplus1.png",TLC PLUS 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16798.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="TravelChannel.uk" tvg-name="TRAVEL CHANNEL" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/travelchannel.png" ,TRAVEL CHANNEL
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10867.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="TruTV.uk" tvg-name="TRU TV HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/trutv.png" ,TRU TV HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10866.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="TruTV.uk" tvg-name="TRUE ENTERTAINMENT" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/trueentertainment.png" ,TRUE ENTERTAINMENT
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/12188.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="TrueMovies.uk" tvg-name="TRUE CHRISTMAS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/truechristmas.png" ,TRUE CHRISTMAS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16822.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="TV3.ie" tvg-name="TV3" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/IRE_Logos/tv3-pephawrego.png",TV3
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7149.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="UTV.uk" tvg-name="UTV" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/utv.png",UTV
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7151.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="VH1UK.uk" tvg-name="VH1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/vh1.png" ,VH1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7260.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="VICELAND.uk" tvg-name="VICE HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/viceland(1).png" ,VICE HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16918.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="W.uk" tvg-name="W HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/w.png" ,W HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7588.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="W.uk" tvg-name="W" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/w.png" ,W
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7173.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="WILLIAM HILL" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/williamhill.png" ,WILLIAM HILL
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7300.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Yesterday.uk" tvg-name="YESTERDAY SD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/yesterday.png" ,YESTERDAY SD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10864.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Yesterday.uk" tvg-name="YESTERDAY" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/yesterday.png" ,YESTERDAY
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10863.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsAction.uk" tvg-name="SKY SPORTS ACTION HDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportaction.png",SKY SPORTS ACTION HDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17009.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsArena.uk" tvg-name="SKY SPORTS ARENA HDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsarena.png",SKY SPORTS ARENA HDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17005.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsCricket.uk" tvg-name="SKY SPORTS CRICKET HDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportscricet.png",SKY SPORTS CRICKET HDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17010.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsF1.uk" tvg-name="SKY SPORTS F1 HDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportf1-phibruspel.png",SKY SPORTS F1 HDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17006.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsFootball.uk" tvg-name="SKY SPORTS FOOTBALL HDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsfootball.png",SKY SPORTS FOOTBALL HDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17003.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsGolf.uk" tvg-name="SKY SPORTS GOLF HDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportstheopen.png",SKY SPORTS GOLF HDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17008.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsMainEvent.uk" tvg-name="SKY SPORTS MAIN EVENTS HDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsmainevent.png",SKY SPORTS MAIN EVENTS HDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17004.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsMix.uk" tvg-name="SKY SPORTS MIX HDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsmix.png",SKY SPORTS MIX HDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17002.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsNews.uk" tvg-name="SKY SPORTS NEWS HDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsnews.png",SKY SPORTS NEWS HDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17011.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsPremierLeague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE HDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportspremierleague.png",SKY SPORTS PREMIER LEAGUE HDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17007.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesActionandAdventure.uk" tvg-name="SKY CINEMA ACTION & ADVENTURE HDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemaactionandadventure.png" ,SKY CINEMA ACTION & ADVENTURE HDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17015.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesComedy.uk" tvg-name="SKY CINEMA COMEDY HDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemacomedy.png" ,SKY CINEMA COMEDY HDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17014.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesCrimeandThriller.uk" tvg-name="SKY CINEMA CRIME & THRILLER HDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemathriller.png" ,SKY CINEMA CRIME & THRILLER HDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17012.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesDisney.uk" tvg-name="SKY CINEMA DISNEY HDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemadisney.png" ,SKY CINEMA DISNEY HDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17020.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesDrama.uk" tvg-name="SKY CINEMA DRAMA HDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemathriller.png" ,SKY CINEMA DRAMA HDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17016.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesFamily.uk" tvg-name="SKY CINEMA FAMILY HDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemafamily.png" ,SKY CINEMA FAMILY HDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17013.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesModernGreats.uk" tvg-name="SKY CINEMA MODERN GREAT HDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemagreats.png" ,SKY CINEMA MODERN GREAT HDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17021.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesPremiere.uk" tvg-name="SKY CINEMA PREMIER HDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemapremierehd.png" ,SKY CINEMA PREMIER HDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17019.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySciFiHorror.uk" tvg-name="SKY CINEMA SCIFI & HORROR HDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemascifiandhorrorhd.png" ,SKY CINEMA SCIFI & HORROR HDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17018.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyMoviesSelect.uk" tvg-name="SKY CINEMA SELECT HDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemaselecthd.png" ,SKY CINEMA SELECT HDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17017.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BTSportExtra1.uk" tvg-name="BT SPORTS EXTRA 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/btsportextra.jpg" ,BT SPORTS EXTRA 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17028.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BTSportExtra2.uk" tvg-name="BT SPORTS EXTRA 2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/btsportextra.jpg" ,BT SPORTS EXTRA 2
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17027.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BTSportExtra3.uk" tvg-name="BT SPORTS EXTRA 3" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/btsportextra.jpg" ,BT SPORTS EXTRA 3
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17026.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BTSportExtra4.uk" tvg-name="BT SPORTS EXTRA 4" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/btsportextra.jpg" ,BT SPORTS EXTRA 4
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17025.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BTSportExtra5.uk" tvg-name="BT SPORTS EXTRA 5" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/btsportextra.jpg" ,BT SPORTS EXTRA 5
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17024.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BTSportExtra6.uk" tvg-name="BT SPORTS EXTRA 6" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/btsportextra.jpg" ,BT SPORTS EXTRA 6
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17023.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="BT SPORTS EXTRA 7" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/btsportextra.jpg" ,BT SPORTS EXTRA 7
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17022.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="BT BOX OFFICE FHD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/btsportsboxoffice(1).jpg" ,BT BOX OFFICE FHD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17033.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="ITV BOX OFFICE HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/itvboxoffice(1).jpg" ,ITV BOX OFFICE HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17035.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySpBoxOff.uk" tvg-name="SKY SPORTS BOX OFFICE HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/skysportsboxoffice(1).jpg",SKY SPORTS BOX OFFICE HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17034.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BEN.uk" tvg-name="BEN TV" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/ben.png" ,BEN TV
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17036.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="HighStreetTV.uk" tvg-name="HIGH STREET TV 1" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/highstreettv.png" ,HIGH STREET TV 1
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17042.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="HighStreetTV.uk" tvg-name="HIGH STREET TV 2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/highstreettv.png" ,HIGH STREET TV 2
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17041.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="HighStreetTV.uk" tvg-name="HIGH STREET TV 3" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/highstreettv.png" ,HIGH STREET TV 3
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17040.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="HighStreetTV.uk" tvg-name="HIGH STREET TV 4" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/highstreettv.png" ,HIGH STREET TV 4
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17039.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="QVCBeauty.uk" tvg-name="QVC BEAUTY" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/qvcbeauty.png" ,QVC BEAUTY
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17038.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="QVC EXTRA" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/qvcextra.jpg" ,QVC EXTRA
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17037.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="QVCStyle.uk" tvg-name="QVC STYLE" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/qvcstyle.png" ,QVC STYLE
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17043.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="QVC.uk" tvg-name="QVC" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/qvc.png" ,QVC
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17044.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="STV.uk" tvg-name="STV HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/stvhd.png",STV HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17032.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsAction.uk" tvg-name="SKY SPORTS ACTION FHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportaction.png",SKY SPORTS ACTION FHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17114.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsArena.uk" tvg-name="SKY SPORTS ARENA FHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsarena.png",SKY SPORTS ARENA FHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17113.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsCricket.uk" tvg-name="SKY SPORTS CRICKET FHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportscricet.png",SKY SPORTS CRICKET FHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17112.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsF1.uk" tvg-name="SKY SPORTS F1 FHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportf1-phibruspel.png",SKY SPORTS F1 FHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17111.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsFootball.uk" tvg-name="SKY SPORTS FOOTBALL FHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsfootball.png",SKY SPORTS FOOTBALL FHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17110.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsGolf.uk" tvg-name="SKY SPORTS GOLF FHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportstheopen.png",SKY SPORTS GOLF FHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17109.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsMainEvent.uk" tvg-name="SKY SPORTS MAIN EVENT FHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsmainevent.png",SKY SPORTS MAIN EVENT FHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17108.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsMix.uk" tvg-name="SKY SPORTS MIX FHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsmix.png",SKY SPORTS MIX FHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17107.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkySportsPremierLeague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE FHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportspremierleague.png",SKY SPORTS PREMIER LEAGUE FHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17106.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Bloomberg.uk" tvg-name="BLOOMBERG HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/bloombergtv.jpg",BLOOMBERG HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17148.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="CNBC NEWS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cnbc.png",CNBC NEWS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17147.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="CNN.uk" tvg-name="CNN HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/cnn.png",CNN HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17150.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="FOX NEWS HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/foxnews.png",FOX NEWS HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17145.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="FRANCE24English.uk" tvg-name="FRANCE 24" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/france24.png",FRANCE 24
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17146.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="RTENewsNow.ie" tvg-name="RTE NEWS NOW" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/IRE_Logos/rtenewsnow.png",RTE NEWS NOW
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17144.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="SkyNews.uk" tvg-name="SKY NEWS IRELAND" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skynews-clivebesle.png",SKY NEWS IRELAND
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17149.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BTSport1.uk" tvg-name="BT SPORTS 1 FHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport1.png" ,BT SPORTS 1 FHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17221.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BTSport2.uk" tvg-name="BT SPORTS 2 FHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport2.png" ,BT SPORTS 2 FHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17222.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BTSport3.uk" tvg-name="BT SPORTS 3 FHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport3.png" ,BT SPORTS 3 FHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17223.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BTSportESPN.uk" tvg-name="BT SPORTS ESPN FHDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport.png" ,BT SPORTS ESPN FHDS
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17224.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="SKY SPORTS RED BUTTON 01" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsredbutton01.jpg",SKY SPORTS RED BUTTON 01
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16880.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="SKY SPORTS RED BUTTON 02" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsredbutton02.jpg",SKY SPORTS RED BUTTON 02
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16879.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="SKY SPORTS RED BUTTON 03" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsredbutton.jpg",SKY SPORTS RED BUTTON 03
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16878.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="SKY SPORTS RED BUTTON 04" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsredbutton04.jpg",SKY SPORTS RED BUTTON 04
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16877.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="SKY SPORTS RED BUTTON 05" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsredbutton05.jpg",SKY SPORTS RED BUTTON 05
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16876.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="SKY SPORTS RED BUTTON 06" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsredbutton06.jpg",SKY SPORTS RED BUTTON 06
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16875.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="SKY SPORTS RED BUTTON 07" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsredbutton07.jpg",SKY SPORTS RED BUTTON 07
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16874.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="SKY SPORTS RED BUTTON 08" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsredbutton08.jpg",SKY SPORTS RED BUTTON 08
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16873.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="SKY SPORTS RED BUTTON 09" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsredbutton09.jpg",SKY SPORTS RED BUTTON 09
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/16872.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="CBeebies.uk" tvg-name="CBEEBIES HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cbeebies.png" ,CBEEBIES HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17229.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Cartoonito.uk" tvg-name="CARTOONITO" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/cartoonito.jpg" ,CARTOONITO
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17228.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV1Central.uk" tvg-name="ITV CENTRAL WEST" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv.png",ITV CENTRAL WEST
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17238.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV1Granada.uk" tvg-name="ITV GRANADA" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv.png",ITV GRANADA
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17237.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV1London.uk" tvg-name="ITV LONDON" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv.png",ITV LONDON
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17236.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV1Meridian.uk" tvg-name="ITV MERIDIAN" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv.png",ITV MERIDIAN
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17235.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV1TyneTees.uk" tvg-name="ITV TYNE TEES" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv.png",ITV TYNE TEES
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17234.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV1Wales.uk" tvg-name="ITV WALES" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv.png",ITV WALES
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17233.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV1West.uk" tvg-name="ITV WEST COUNTRY SOUTH WEST" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv.png",ITV WEST COUNTRY SOUTH WEST
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17232.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV1West.uk" tvg-name="ITV WEST COUNTRY WEST" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv.png",ITV WEST COUNTRY WEST
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17231.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV1Yorkshire.uk" tvg-name="ITV YORKSHIRE" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv.png",ITV YORKSHIRE
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17230.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ChelseaTV.uk" tvg-name="CHELSEA TV HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/chelseatv.png" ,CHELSEA TV HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17246.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="CLUBBING TV" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/clubbingtv.png" ,CLUBBING TV
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17243.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ClublandTV.uk" tvg-name="CLUBLAND" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/clublandtv.png" ,CLUBLAND
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17240.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="DaveJaVu.uk" tvg-name="DAVE JA VU" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/davejavu.png" ,DAVE JA VU
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17250.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="DiscoveryDMAX.uk" tvg-name="DMAX" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/dmax.png" ,DMAX
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17251.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="HorseAndCountry.uk" tvg-name="HORSE & COUNTRY" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/horseandcountry.png" ,HORSE & COUNTRY
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17252.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="KEEP IT COUNTRY" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/keepitcountry.gif" ,KEEP IT COUNTRY
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17242.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="LFCTVHD.uk" tvg-name="LFC TV HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/liverpoolfctv.png" ,LFC TV HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17245.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="MTV OMG" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/mtvomg.png" ,MTV OMG
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17241.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="MUTV.uk" tvg-name="MUTV HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/manutv.png" ,MUTV HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17247.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="PBS.uk" tvg-name="PBS AMERICA" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/pbsamerica.jpg" ,PBS AMERICA
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17239.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="POP MAX" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/popmax.png" ,POP MAX
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17248.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="PremierSports2.uk" tvg-name="PREMIER SPORTS 2 HD" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/premiersports2new.jpg" ,PREMIER SPORTS 2 HD
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17244.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-name="SHOWCASE" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/showcasetv.jpg" ,SHOWCASE
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17253.m3u8
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="YourTV.uk" tvg-name="YOUR TV" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/yourtv.png" ,YOUR TV
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/17249.m3u8
-
 
 
 
@@ -3382,7 +2491,62 @@ http://..........
 
 #EXTINF:-1 group-title="Romania-SERVER3",
 
-
+#EXTINF:-1 group-title="Romania-SERVER3",KanalD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$KanalD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",HISTORY
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TheHistoryChannel/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",PARAMOUNT CHANNEL
+http://telekomtv.ro.edgesuite.net/shls/LIVE$Paramount/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",Food Network
+http://telekomtv.ro.edgesuite.net/shls/LIVE$FoodNetwork/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",BOLLYWOOD TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",BOLLYWOOD CLASSIC
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",COMEDY CENTRAL
+http://telekomtv.ro.edgesuite.net/shls/LIVE$ComedyCentral/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",MOOZ HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHD/6.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044
+#EXTINF:-1 group-title="Romania-SERVER3",MOOZ DANCE
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?start=LIVE&end=END&time=1472768812494
+#EXTINF:-1 group-title="Romania-SERVER3",MOOZ RO
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",MOOZ HITS
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHitsSD/6.m3u8/Level(545259)?start=LIVE&end=END&time=1472768646553
+#EXTINF:-1 group-title="Romania-SERVER3",BOOMERANG
+http://telekomtv.ro.edgesuite.net/shls/LIVE$Boomerang/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",DISNEY CHANNEL
+http://telekomtv.ro.edgesuite.net/shls/LIVE$DisneyChannel/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",DISNEY JUNIOR
+http://telekomtv.ro.edgesuite.net/shls/LIVE$DisneyJunior/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",DUCK TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$DuckTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",BBC NEWS
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",NickJR
+http://telekomtv.ro.edgesuite.net/shls/LIVE$NickJR/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",TV CITY
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TVCITY/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",Erdely TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$ErdelyTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",Alfa Omega TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",6 TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$6TV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",BBC World News HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",BBC Earth HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",Dolce Sport 4
+http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport4/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",Dolce Sport 3
+http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport3/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",Speranta
+http://telekomtv.ro.edgesuite.net/shls/LIVE$SperantaTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",Eurosport 2
+http://telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport2/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romania-SERVER3",Travel Mix
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelMix/6.m3u8/Level(545259)?start=LIVE&end=END
 
 
 
@@ -6849,7 +6013,16 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/961.m3u8$http-refferer=
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",
 
 
-
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png",SPORT TV 1 HD 
+https://sportsbar.pw/lba/123/g5/SportTV1.m3u8|Referer=https://sport7.pw/
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png",SPORT TV 2 
+https://sportsbar.pw/lba/123/g7/Sport2PT.m3u8|Referer=https://sport7.pw/
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png",SPORT TV 3 
+https://sportsbar.pw/lba/123/g3/SportTV3.m3u8|Referer=https://sport7.pw/
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png",SPORT TV 4 
+https://sportsbar.pw/lba/123/g4/Sport4PT.m3u8|Referer=https://sport7.pw/
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png",SPORT TV 5 
+https://sportsbar.pw/lba/123/g9/SportTV5.m3u8|Referer=https://sport7.pw/
 
 
 
@@ -6869,7 +6042,152 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/961.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",
 
-
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",TVI
+http://148.71.7.211:4022/udp/239.100.28.9:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",SPORT TV 1 HD
+http://148.71.7.211:4022/udp/239.100.28.10:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",FOX Comedy HD
+http://148.71.7.211:4022/udp/239.100.28.13:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Kanal 
+http://148.71.7.211:4022/udp/239.100.28.12:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Program 1309
+http://148.71.7.211:4022/udp/239.100.28.15:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Program 217
+http://148.71.7.211:4022/udp/239.100.28.16:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",RTP ?frica
+http://148.71.7.211:4022/udp/239.100.28.17:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Cartoon Network
+http://148.71.7.211:4022/udp/239.100.28.20:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Globo Now HD
+http://148.71.7.211:4022/udp/239.100.28.19:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Program 1319
+http://148.71.7.211:4022/udp/239.100.28.18:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",SIC Radical
+http://148.71.7.211:4022/udp/239.100.28.21:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",SIC Mulher
+http://148.71.7.211:4022/udp/239.100.25.9:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",TLC
+http://148.71.7.211:4022/udp/239.100.25.10:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Kanal 
+http://148.71.7.211:4022/udp/239.100.25.11:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Blaze
+http://148.71.7.211:4022/udp/239.100.25.13:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",VH1
+http://148.71.7.211:4022/udp/239.100.25.15:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Biggs
+http://148.71.7.211:4022/udp/239.100.25.18:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Service01
+http://148.71.7.211:4022/udp/239.100.25.19:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Program 5017
+http://148.71.7.211:4022/udp/239.100.25.26:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Disney Junior
+http://148.71.7.211:4022/udp/239.100.25.28:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Service01
+http://148.71.7.211:4022/udp/239.100.25.29:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",AMC HD
+http://148.71.7.211:4022/udp/239.100.26.11:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Venus
+http://148.71.7.211:4022/udp/239.100.26.10:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",CMTV HD
+http://148.71.7.211:4022/udp/239.100.26.12:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",TVSØries
+http://148.71.7.211:4022/udp/239.100.26.14:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Service01
+http://148.71.7.211:4022/udp/239.100.26.15:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Kanal 
+http://148.71.7.211:4022/udp/239.100.26.32:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",AXN
+http://148.71.7.211:4022/udp/239.100.27.15:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Kanal 
+http://148.71.7.211:4022/udp/239.100.27.14:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Kanal 
+http://148.71.7.211:4022/udp/239.100.27.16:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",SIC
+http://148.71.7.211:4022/udp/239.100.29.9:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",SIC NotŦcias HD
+http://148.71.7.211:4022/udp/239.100.29.10:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",SPORT TV 2 HD
+http://148.71.7.211:4022/udp/239.100.29.12:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Discovery Channel
+http://148.71.7.211:4022/udp/239.100.29.13:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Odisseia
+http://148.71.7.211:4022/udp/239.100.29.14:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",SPORT TV 3 HD
+http://148.71.7.211:4022/udp/239.100.29.15:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Service01
+http://148.71.7.211:4022/udp/239.100.29.16:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Service01
+http://148.71.7.211:4022/udp/239.100.29.17:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Program 900
+http://148.71.7.211:4022/udp/239.100.29.19:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Nick Jr.
+http://148.71.7.211:4022/udp/239.100.29.20:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Eurosport 2
+http://148.71.7.211:4022/udp/239.100.29.21:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Kanal
+http://148.71.7.211:4022/udp/239.100.29.22:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Kanal
+http://148.71.7.211:4022/udp/239.100.29.24:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Record News
+http://148.71.7.211:4022/udp/239.100.29.27:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Sporting TV
+http://148.71.7.211:4022/udp/239.100.29.29:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Program 1303
+http://148.71.7.211:4022/udp/239.100.29.31:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Porto Satellite TV
+http://148.71.7.211:4022/udp/239.100.29.32:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Kanal
+http://148.71.7.211:4022/udp/239.100.29.30:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",MCM Top
+http://148.71.7.211:4022/udp/239.100.29.33:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Program 1308
+http://148.71.7.211:4022/udp/239.100.29.34:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",CanĿªo Nova
+http://148.71.7.211:4022/udp/239.100.29.35:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",M6
+http://148.71.7.211:4022/udp/239.100.29.38:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",BBC Entertainment
+http://148.71.7.211:4022/udp/239.100.29.42:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",BBC World News
+http://148.71.7.211:4022/udp/239.100.29.41:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Kanal 
+http://148.71.7.211:4022/udp/239.100.29.57:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",RTP 1
+http://148.71.7.211:4022/udp/239.100.30.9:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",RTP 2
+http://148.71.7.211:4022/udp/239.100.30.10:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",RTP 3
+http://148.71.7.211:4022/udp/239.100.30.11:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Eurosport 1 HD
+http://148.71.7.211:4022/udp/239.100.30.14:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Histðria
+http://148.71.7.211:4022/udp/239.100.30.15:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Baby TV
+http://148.71.7.211:4022/udp/239.100.30.16:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Hollywood
+http://148.71.7.211:4022/udp/239.100.30.17:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Service01
+http://148.71.7.211:4022/udp/239.100.30.18:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",MTV Portugal
+http://148.71.7.211:4022/udp/239.100.30.22:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Program 129
+http://148.71.7.211:4022/udp/239.100.30.23:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Service01
+http://148.71.7.211:4022/udp/239.100.30.25:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",TVI 24
+http://148.71.7.211:4022/udp/239.100.30.27:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",TV Record HD
+http://148.71.7.211:4022/udp/239.100.30.30:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",AXN Black HD
+http://148.71.7.211:4022/udp/239.100.24.9:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",AXN White HD
+http://148.71.7.211:4022/udp/239.100.24.10:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",FOX Life
+http://148.71.7.211:4022/udp/239.100.24.11:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Kanal 
+http://148.71.7.211:4022/udp/239.100.24.12:1234
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",Globo
+http://148.71.7.211:4022/udp/239.100.23.9:1234
 
 
 
@@ -6899,16 +6217,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/961.m3u8$http-refferer=
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",
 
 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png",SPORT TV 1 HD 
-https://sportsbar.pw/lba/123/g5/SportTV1.m3u8|Referer=https://sport7.pw/
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png",SPORT TV 2 
-https://sportsbar.pw/lba/123/g7/Sport2PT.m3u8|Referer=https://sport7.pw/
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png",SPORT TV 3 
-https://sportsbar.pw/lba/123/g3/SportTV3.m3u8|Referer=https://sport7.pw/
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png",SPORT TV 4 
-https://sportsbar.pw/lba/123/g4/Sport4PT.m3u8|Referer=https://sport7.pw/
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png",SPORT TV 5 
-https://sportsbar.pw/lba/123/g9/SportTV5.m3u8|Referer=https://sport7.pw/
+
 
 
 
@@ -9851,11 +9160,11 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226361/01.m3u8 
 #EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Bansal News 
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226216/1.m3u8 
-EXTINF:0, ,BBC World News 
+EXTINF:0 group-title="India PREMIUM-SERVER1" ,BBC World News 
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226051/01.m3u8 
 #EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Bhakti TV 
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226357/01.m3u8 
-EXTINF:0, ,Bhojpuri Cinema 
+EXTINF:0 group-title="India PREMIUM-SERVER1" ,Bhojpuri Cinema 
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226056/01.m3u8 
 #EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Big Ganga 
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226088/01.m3u8 
@@ -12929,7 +12238,300 @@ http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2704.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",
 
 
-
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: 2M Maroc
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/698.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Abu Dhabi Drama
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/717.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Abu Dhabi TV HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/718.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Ad National Geographic
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/719.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Aghani TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/628.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Ajyal TV HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/570.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Aan TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/705.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Aoula
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/701.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Aoula Layoune
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/702.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Arabia Tv
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/712.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Arabiya HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/714.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Haddaf
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/678.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Hayat 2
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/623.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Jazeera Children
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/565.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Jazeera Documentary
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/710.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Jazeera TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/715.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Kahera Wal Nas 2
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/619.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Magharibia
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/695.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Maghribia Ikbaria
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/696.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Manar
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/704.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Mayadeen
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/716.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Nabaa  TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/612.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Nabaa TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/581.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Nahar Drama
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/606.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Nahar One
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/605.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Nahar TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/607.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Saudi 2 HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/600.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Saudi HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/601.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Al Sharqiya
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/608.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Algeria Tv 3
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/673.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Algerie Tv 4
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/672.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Algerie Tv 5
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/671.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Alhayat Musalsalat
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/622.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Arrabiaa
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/693.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Arriadia
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/694.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Art Aflam 1
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/668.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Art Aflam 2
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/667.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Art Cinema
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/666.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Art Hekayat
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/665.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Art Hekayat  2
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/664.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Assadissa
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/697.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Bbc Arabic
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/708.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Berbere Music
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/681.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Berbere TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/679.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Beur TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/682.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Cairo Cinema
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/615.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Cairo Drama
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/614.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Canal Algerie
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/683.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Cbc
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/640.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Cbc Drama
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/636.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Cbc EXtra News
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/637.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Cbc Sofra
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/638.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CBC TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/639.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Cima TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/630.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Dmc HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/624.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Dmc_Drama HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/625.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Dream 2 TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/585.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Dubai Drama
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/609.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Dubai One HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/611.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Dubai TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/587.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Dubai Zaman
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/610.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Dw  Arabia
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/706.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Dw Arabia
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/709.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Dzair Tv
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/684.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Echourouk
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/676.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Echourouk News
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/675.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: El Bilad Tv
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/685.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Ennahar TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/670.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Eptv Terrestre Tv Algerie
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/674.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Fox Movies Action HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/583.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Fox Movies Family HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/584.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: France 24 Arabic
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/711.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Future TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/595.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM Aflam TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/690.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM Agricole TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/691.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM COMEDIA TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/689.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM HIT AFRO TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/688.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM Katakit TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/687.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Hadath  TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/713.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Jordan TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/586.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Kidzania
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/572.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Ldc
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/597.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Libia 218 TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/582.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Libya 24 TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/578.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Libya Al-Ahrar TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/576.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Libya Hadath TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/580.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Libya one
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/577.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Libya TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/579.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: M.Classic
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/621.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Majid Kids TV HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/571.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Mbc 1
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/663.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Mbc 1 HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/662.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Mbc 2
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/661.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Mbc 2 HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/660.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Mbc 3
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/574.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC 3 HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/573.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Mbc 4
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/659.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Mbc 4 HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/658.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Mbc Action
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/655.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Mbc Bollywood
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/649.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Mbc Drama
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/653.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Mbc Masr
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/651.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Mbc Masr 2
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/650.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Mbc Max
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/657.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Mbc_Action HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/654.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Mbc_Drama HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/652.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Mbc_Max HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/656.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Medi 1 TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/699.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MEDI1 TV AFRIQUE HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/692.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Moga Comedy TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/635.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Mtv Lebanon
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/594.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Nile Cinema
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/603.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Nile Comedy
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/604.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Noor Al Sham TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/589.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Noor Dubai TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/602.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: On_Live HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/627.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: OSN Movies Drama
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/626.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Panorama Drama
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/617.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Panorama Drama 2
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/616.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Panorama Film
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/618.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Rotana Aflam
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/645.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Rotana Cinema
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/646.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Rotana Classic
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/648.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Rotana Clip
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/643.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Rotana Khalijiah
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/644.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Rotana Masriya
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/647.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Rotana Music
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/642.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Sama Dubai HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/613.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Samira Tv
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/686.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Saudi Al Ekhbariya HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/599.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Saudi Al Thaqafiya HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/598.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: SeeVii Al Oula HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/641.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Semsem TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/567.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Space Toon Arabic
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/566.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Star Cinema 1
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/588.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Star Cinema 2
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/629.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Syria Al Oula TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/591.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Syria Drama
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/592.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Syria Nour Cham TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/590.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Syria TV
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/593.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: T
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/703.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Tamazight
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/700.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Ten Tv
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/620.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Toyor Al Janah
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/569.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Trt Al Arabiya
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/707.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Zee Aflam
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/631.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Zee Alwan
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/632.ts
 
 
 
