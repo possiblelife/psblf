@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="http://epg.in.ua/epg/tvprogram_ua_ru.gz ,http://sgcpm.com/epg/devilcosta.gz"
+#EXTM3U url-tvg="http://epg.in.ua/epg/tvprogram_ua_ru.gz ,http://sgcpm.com/epg/devilcosta.gz"
 
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
@@ -173,7 +173,7 @@ http://master.cystreams.com:25461/live/greek/microwave/40.ts
 http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="Alpha" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg" ,ALPHA (USE GREECE VPN)
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://i.imgur.com/TEc8hmy.jpg" ,Epsilon TV
+#EXTINF:-1 group-title="Greece" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="hhttps://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV  (USE GREECE VPN)
 https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="Macedonia TV" epg-id="Macedonia.gr" tvg-logo="https://goo.gl/CsM9Iu" ,M.TV HD
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
@@ -380,7 +380,7 @@ http://5.135.92.138:31783/out/u/575_1.m3u8
 http://5.135.92.138:31783/out/u/577_1.m3u8
 #EXTINF:-1 group-title="Greece-SERVER2" tvg-logo="https://goo.gl/m1ZYJB" ,VOULI
 http://5.135.92.138:31783/out/u/579_1.m3u8
-#EXTINF:-1 group-title="Greece-SERVER2" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://i.imgur.com/TEc8hmy.jpg" ,Epsilon TV
+#EXTINF:-1 group-title="Greece-SERVER2" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV
 http://5.135.92.138:31783/out/u/581_1.m3u8
 #EXTINF:-1 group-title="Greece-SERVER2" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 HD
 http://5.135.92.138:40327/out/u/atsykmssuyrsyhth.m3u8
