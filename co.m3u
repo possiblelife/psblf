@@ -202,7 +202,7 @@ http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/ZTIWHBd.png" ,NEW TV
 https://neotv.streamings.gr/live/tv/index.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/WSfOWs" ,NEA TV
-https://prod-video-eu-central-1.pscp.tv/JTGWW_01bVvMAp2HcUKkYPlM2VjU0hgu7x_xeIY9Lbx9P2PfVmyev417ZS_J3aKOKXnKNa-_uKbGZ_oqwXA9_Q/live/eu-central-1/dynamic_highlatency.m3u8
+https://live.neatv.gr:8888/hls/neatv_low/index.m3u8
 #EXTINF:-1 group-title="Greece"  tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ARN/arena-colour-lightbg.png" ,ARENA
 http://web.onair-radio.eu:1935/Arenachannel/Arenachannel/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/GdgekUL.png" ,TV FILOPOLI
