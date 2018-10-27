@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,26/10/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,27/10/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -76,11 +76,11 @@ http://www.ant1iwo.com/webtv/web-tv-live/|webnoagent$$start=href=\"http://l$$end
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus 
 http://www.fireshow.xyz/ant1cym.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
-http://master.cystreams.com:25461/live/greek/microwave/14.ts
+http://master.cystreams.com:25461/live/greek/otinane/14.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
 http://www.anacon.org/app/chans/cy/capitalcy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA
-http://master.cystreams.com:25461/live/greek/microwave/15.ts
+http://master.cystreams.com:25461/live/greek/otinane/15.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA 
 http://www.anacon.org/app/chans/cy/extracy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/tvg/logos/201.png",Plus
@@ -88,7 +88,7 @@ http://www.anacon.org/app/chans/cy/pluscy.html|agentdown$$start=src:  "$$end=.m3
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
-http://master.cystreams.com:25461/live/greek/microwave/119.ts
+http://master.cystreams.com:25461/live/greek/otinane/119.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
 http://www.lakatamia.tv/app/chans/cy/smilecy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Youtube)
@@ -152,7 +152,7 @@ https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="Mega Channel" epg-id="mega.gr" tvg-logo="https://goo.gl/nTCu62" ,MEGA (Youtube)
 https://www.youtube.com/watch?v=CoohQWgDWVs
 #EXTINF:-1 group-title="Greece" tvg-name="Mega Channel" epg-id="mega.gr" tvg-logo="https://goo.gl/nTCu62" ,MEGA 
-http://master.cystreams.com:25461/live/greek/microwave/43.ts
+http://master.cystreams.com:25461/live/greek/otinane/43.ts
 #EXTINF:-1 group-title="Greece" tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/satellite-tv-logos/mega-cosmos.png" ,MEGA COSMOS
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI Youtube
@@ -160,13 +160,13 @@ https://www.youtube.com/watch?v=sMYwWQHesuc
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI Youtube 2
 http://www.tvradiogr.com/p/tv/18/skai-live.html|webdown
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI
-http://master.cystreams.com:25461/live/greek/microwave/42.ts
+http://master.cystreams.com:25461/live/greek/otinane/42.ts
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI Web
 http://www.lakatamiatv.xyz/app/chans/gr/skai.html|webview zoom=100 scroll=0,100
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI official Web
 http://www.skai.gr/mobile/tv-live/|webview zoom=100 scroll=0,100
 #EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
-http://master.cystreams.com:25461/live/greek/microwave/40.ts
+http://master.cystreams.com:25461/live/greek/otinane/40.ts
 #EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR HD
 http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="Alpha" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg" ,ALPHA (USE GREECE VPN)
@@ -1376,74 +1376,40 @@ http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34b
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
 http://.........
 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc1.jpg",BBC 1  (Faster Loading)
-https://easyview.eu/watch.php?stream=bbc-1|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc1.jpg",BBC 1 
-https://easyview.eu/watch.php?stream=bbc-1|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg",BBC 2  (Faster Loading)
+https://easyview.eu/watch.php?stream=bbc-1|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg",BBC 2 
 https://easyview.eu/watch.php?stream=bbc-two|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg",BBC 2
-https://easyview.eu/watch.php?stream=bbc-two|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc4-logo-400x284.jpg",BBC 4  (Faster Loading)
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc4-logo-400x284.jpg",BBC 4 
 https://easyview.eu/watch.php?stream=bbc-four|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc4-logo-400x284.jpg",BBC 4
-https://easyview.eu/watch.php?stream=bbc-four|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/CBBC.jpg",Cbbc   (Faster Loading)
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/CBBC.jpg",Cbbc   
 https://easyview.eu/watch.php?stream=cbbc|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/CBBC.jpg",Cbbc 
-https://easyview.eu/watch.php?stream=cbbc|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/cbeebies.jpg",cbeebies  (Faster Loading)
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/cbeebies.jpg",cbeebies  
 https://easyview.eu/watch.php?stream=cbeebies|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/cbeebies.jpg",cbeebies
-https://easyview.eu/watch.php?stream=cbeebies|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg",BBC 1 Wales  (Faster Loading)
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg",BBC 1 Wales 
 https://easyview.eu/watch.php?stream=bbc-one-wales|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg",BBC 1 Wales
-https://easyview.eu/watch.php?stream=bbc-one-wales|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg",BBC 1 Scotland  (Faster Loading)
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg",BBC 1 Scotland  
 https://easyview.eu/watch.php?stream=bbc-one-scotland|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg",BBC 1 Scotland
-https://easyview.eu/watch.php?stream=bbc-one-scotland|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg",BBC 1 Northern Ireland  (Faster Loading)
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg",BBC 1 Northern Ireland 
 https://easyview.eu/watch.php?stream=bbc-one-northern-ireland|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg",BBC 1 Northern Ireland
-https://easyview.eu/watch.php?stream=bbc-one-northern-ireland|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-parliament.jpg",BBC Parliament  (Faster Loading)
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-parliament.jpg",BBC Parliament 
 https://easyview.eu/watch.php?stream=bbc-parliament|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-parliament.jpg",BBC Parliament
-https://easyview.eu/watch.php?stream=bbc-parliament|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc_news.jpg",BBC News  (Faster Loading)
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc_news.jpg",BBC News 
 https://easyview.eu/watch.php?stream=bbc-news|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc_news.jpg",BBC News
-https://easyview.eu/watch.php?stream=bbc-news|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Alba.jpg",BBC alba  (Faster Loading)
-https://easyview.eu/watch.php?stream=bbc-alba|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Alba.jpg",BBC alba
-https://easyview.eu/watch.php?stream=bbc-alba|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg",ITV  (Faster Loading)
+https://easyview.eu/watch.php?stream=bbc-alba|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg",ITV 
 https://easyview.eu/watch.php?stream=itv|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg",ITV
-https://easyview.eu/watch.php?stream=itv|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg",ITV 2  (Faster Loading)
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg",ITV 2 
 https://easyview.eu/watch.php?stream=itv2|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg",ITV 2
-https://easyview.eu/watch.php?stream=itv2|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv3-400x284.jpg",ITV 3  (Faster Loading)
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv3-400x284.jpg",ITV 3 
 https://easyview.eu/watch.php?stream=itv3|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv3-400x284.jpg",ITV 3
-https://easyview.eu/watch.php?stream=itv3|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv4-400x284.jpg",ITV 4  (Faster Loading)
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv4-400x284.jpg",ITV 4 
 https://easyview.eu/watch.php?stream=itv4|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv4-400x284.jpg",ITV 4
-https://easyview.eu/watch.php?stream=itv4|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/citv_logo_2015-400x284.jpg",CITV  (Faster Loading)
-https://easyview.eu/watch.php?stream=citv|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/citv_logo_2015-400x284.jpg",CITV
-https://easyview.eu/watch.php?stream=citv|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg",ITV Be.  (Faster Loading)
+https://easyview.eu/watch.php?stream=citv|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg",ITV Be. 
 https://easyview.eu/watch.php?stream=itvbe|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg",ITV Be.
-https://easyview.eu/watch.php?stream=itvbe|webnoagent$$start=https://origin$$end=');\n\t\t\t  hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="http://123tv.live/wp-content/uploads/2018/08/More4-269x151.png",More 4
 https://easyview.eu/watch.php?stream=more4|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://www.watchallchannels.com/wp-content/uploads/2015/02/Really-1-520x245.jpg",Really
@@ -4563,7 +4529,94 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",
 
-
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Sport 1 HD DE
+http://cdnp.cli.tn/iptv/ch405?code=150114350350388&key=19039
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Sport 2 HD DE
+http://cdnp.cli.tn/iptv/ch406?code=150114350350388&key=24106
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sport1 DE
+http://cdnp.cli.tn/iptv/ch1520?code=150114350350388&key=52249
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",EuroSport1 DE
+http://cdnp.cli.tn/iptv/ch420?code=150114350350388&key=58479
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Eurosport2 DE
+http://cdnp.cli.tn/iptv/ch1519?code=150114350350388&key=62786
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Atlantic HD DE
+http://cdnp.cli.tn/iptv/ch402?code=150114350350388&key=52340
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Cinema HD DE
+http://cdnp.cli.tn/iptv/ch401?code=150114350350388&key=32647
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Action DE
+http://cdnp.cli.tn/iptv/ch411?code=150114350350388&key=28695
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Hits DE
+http://cdnp.cli.tn/iptv/ch1516?code=150114350350388&key=54707
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",TNT Glitz DE
+http://cdnp.cli.tn/iptv/ch1522?code=150114350350388&key=64908
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",TNT Series DE
+http://cdnp.cli.tn/iptv/ch1518?code=150114350350388&key=17622
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",NAT Geo WILD HD
+http://cdnp.cli.tn/iptv/ch409?code=150114350350388&key=11548
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Discovery HD
+http://cdnp.cli.tn/iptv/ch410?code=150114350350388&key=43577
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Nat. Geo DE
+http://cdnp.cli.tn/iptv/ch408?code=150114350350388&key=39395
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Syfy DE
+http://cdnp.cli.tn/iptv/ch414?code=150114350350388&key=23400
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Universal DE
+http://cdnp.cli.tn/iptv/ch1511?code=150114350350388&key=35303
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",History DE
+http://cdnp.cli.tn/iptv/ch1504?code=150114350350388&key=50639
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Disney Cinemagic DE
+http://cdnp.cli.tn/iptv/ch1501?code=150114350350388&key=45148
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Disney Channel DE
+http://cdnp.cli.tn/iptv/ch1500?code=150114350350388&key=24684
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Disney Junior DE
+http://cdnp.cli.tn/iptv/ch404?code=150114350350388&key=41091
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Kika DE
+http://cdnp.cli.tn/iptv/ch421?code=150114350350388&key=26136
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",13 Street DE
+http://cdnp.cli.tn/iptv/ch1515?code=150114350350388&key=39958
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",E. DE
+http://cdnp.cli.tn/iptv/ch1513?code=150114350350388&key=23944
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",ZDF
+http://cdnp.cli.tn/iptv/ch416?code=150114350350388&key=63401
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",ZDF Info
+http://cdnp.cli.tn/iptv/ch417?code=150114350350388&key=26191
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",ZDF Kultur
+http://cdnp.cli.tn/iptv/ch1506?code=150114350350388&key=26200
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",ZDF Neo
+http://cdnp.cli.tn/iptv/ch1505?code=150114350350388&key=31220
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",ARTE DE
+http://cdnp.cli.tn/iptv/ch1524?code=150114350350388&key=30599
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Das Erst
+http://cdnp.cli.tn/iptv/ch1525?code=150114350350388&key=40315
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",PRO 7 Maxx
+http://cdnp.cli.tn/iptv/ch1512?code=150114350350388&key=41790
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",RTL DE
+http://cdnp.cli.tn/iptv/ch418?code=150114350350388&key=53464
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Super RTL DE
+http://cdnp.cli.tn/iptv/ch1526?code=150114350350388&key=25561
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",RTL 2
+http://cdnp.cli.tn/iptv/ch419?code=150114350350388&key=26321
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",RTL Living DE
+http://cdnp.cli.tn/iptv/ch1527?code=150114350350388&key=64909
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",RTL Crime DE
+http://cdnp.cli.tn/iptv/ch1503?code=150114350350388&key=35831
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",RTL Nitro DE
+http://cdnp.cli.tn/iptv/ch1528?code=150114350350388&key=44091
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",SAT 1
+http://cdnp.cli.tn/iptv/ch1507?code=150114350350388&key=62634
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Kabel 1
+http://cdnp.cli.tn/iptv/ch1509?code=150114350350388&key=32740
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sixx
+http://cdnp.cli.tn/iptv/ch1510?code=150114350350388&key=21073
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",PRO 7
+http://cdnp.cli.tn/iptv/ch1508?code=150114350350388&key=53159
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",NTV DE
+http://cdnp.cli.tn/iptv/ch1502?code=150114350350388&key=31331
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",3 Sat
+http://cdnp.cli.tn/iptv/ch425?code=150114350350388&key=43227
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",VOX
+http://cdnp.cli.tn/iptv/ch415?code=150114350350388&key=53148
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Bundesliga 1 DE
+http://cdnp.cli.tn/iptv/ch1521?code=150114350350388&key=18273
 
 
 
