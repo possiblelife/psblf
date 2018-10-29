@@ -149,12 +149,6 @@ https://www.youtube.com/watch?v=bVREmAZt6i0
 https://www.youtube.com/watch?v=-OSoL74Gi0U
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="Mega Channel" epg-id="mega.gr" tvg-logo="https://goo.gl/nTCu62" ,MEGA (Youtube)
-https://www.youtube.com/watch?v=CoohQWgDWVs
-#EXTINF:-1 group-title="Greece" tvg-name="Mega Channel" epg-id="mega.gr" tvg-logo="https://goo.gl/nTCu62" ,MEGA 
-http://master.cystreams.com:25461/live/greek/otinane/43.ts
-#EXTINF:-1 group-title="Greece" tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/satellite-tv-logos/mega-cosmos.png" ,MEGA COSMOS
-http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI Youtube
 https://www.youtube.com/watch?v=sMYwWQHesuc
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI Youtube 2
@@ -173,6 +167,8 @@ http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1w
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV  (USE GREECE VPN)
 https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8
+#EXTINF:-1 group-title="Greece" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV
+http://master.cystreams.com:25461/live/greek/otinane/43.ts
 #EXTINF:-1 group-title="Greece" tvg-name="Macedonia TV" epg-id="Macedonia.gr" tvg-logo="https://goo.gl/CsM9Iu" ,M.TV HD
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/m1ZYJB" ,VOULI
@@ -12448,6 +12444,1092 @@ http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2704.m3u8
 
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",
+
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Tunisia NAT 1" tvg-logo="https://tunisie14.tn/www/img/media/television-tunisienne/28.jpg" ,Tunisia NAT 1
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2752.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Tunisia NAT 2" tvg-logo="https://tunisie14.tn/www/img/media/television-tunisienne/29.jpg" ,Tunisia NAT 2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2751.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Elhiwar ettounsi TV" tvg-logo="http://sen-decors.com/wp-content/uploads/2016/09/362x263-363x263-el-hiwar-ettounsi-50078-300x218.png" ,Elhiwar ettounsi TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2750.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ettounisia-tv"  ,Ettounisia-tv
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11481.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Attessia TV" tvg-logo="https://lh3.googleusercontent.com/DoxUlfsSlT1N46-PRkyzA4r8t6td4AGp4ygrS457u3xOiTGMdKHHhasy3Kg0Qdwsso4=w300" ,Attessia TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2749.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Nessma" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/Nessma_logo_2016.png" ,Nessma
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2748.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Hannibal" tvg-logo="https://www.streaminghd.tn/img/tv/hannibal.png" ,Hannibal
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2747.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Tunisia live events"  ,Tunisia live events
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11663.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="M Tunisia" tvg-logo="https://www.streaminghd.tn/img/tv/mtunisia.png" ,M Tunisia
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2743.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Telvza TV" tvg-logo="http://www.agendas.ovh/wp-content/uploads/2016/10/20141111193109Telvzatv_logo.png" ,Telvza TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2746.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Sahel tv" tvg-logo="https://i.ytimg.com/vi/K1h5RZ7AD9A/hqdefault_live.jpg" ,Sahel tv
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9084.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Carthage TV"  ,Carthage TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4375.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Tunisna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_tunisna_rogn%C3%A9.png" ,Tunisna
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2744.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Insen TV" tvg-logo="http://www.tunisvista.com/medias/al-insen-tv-al-insan-tv-live-online-direct-tv-tunisie.png" ,Al Insen TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2740.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Janoubia Tv" tvg-logo="https://www.streaminghd.tn/img/tv/janoubia.png" ,Al Janoubia Tv
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2745.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Mustakillah" tvg-logo="http://3.bp.blogspot.com/-wQCp9oCW8wY/TqbE_wznYOI/AAAAAAAABJ8/g9Y7AylAq6U/s320/mustakillah.jpeg" ,Al Mustakillah
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2742.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Zitouna TV" tvg-logo="http://www.tunisvista.com/medias/zitouna-tv-live-online-direct-tunisie.png" ,Zitouna TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2741.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="S7T Movies HD"  ,S7T Movies HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8616.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="S7T Aflam HD" tvg-logo="http://www.delorsinstitute.eu/images/bibli/france24en.png_574_3000_2" ,S7T Aflam HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2802.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="S7T Series"  ,S7T Series
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9783.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="S7T Bollywood"  ,S7T Bollywood
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8593.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="S7T Documentaire" tvg-logo="http://www.tunisvista.com/medias/algeria3.png" ,S7T Documentaire
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2779.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="S7T Culture"  ,S7T Culture
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8609.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="S7T Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/FRANCE24.svg/859px-FRANCE24.svg.png" ,S7T Anime
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2804.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="S7T Korean"  ,S7T Korean
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8614.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="S7T Hits HD"  ,S7T Hits HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8613.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="S7T Music HD"  ,S7T Music HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9359.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="--------TN TNT--------"  ,--------TN TNT--------
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5736.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Tunisia Nat 1 TNT"  ,Tunisia Nat 1 TNT
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5724.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Tunisia Nat 2 TNT"  ,Tunisia Nat 2 TNT
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5725.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Elhiwar Ettounsi TNT"  ,Elhiwar Ettounsi TNT
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5726.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Nessma TNT"  ,Nessma TNT
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5728.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Hannibal TNT"  ,Hannibal TNT
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5729.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Attessia TNT"  ,Attessia TNT
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5727.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Telvza TNT"  ,Telvza TNT
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5733.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Janoubia TNT"  ,Al Janoubia TNT
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5730.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="M Tunisia TNT"  ,M Tunisia TNT
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5734.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Tunisna TNT"  ,Tunisna TNT
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5731.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Insen TNT"  ,Al Insen TNT
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5735.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Zitouna TNT"  ,Zitouna TNT
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5732.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="--------ALGERIE--------"  ,--------ALGERIE--------
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2782.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Algeria tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_Alg%C3%A9rie_logo.svg/1200px-Canal_Alg%C3%A9rie_logo.svg.png" ,Algeria tv
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2781.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Algerie 3"  ,Algerie 3
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8619.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Algerie 4"  ,Algerie 4
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8612.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Algerie 5"  ,Algerie 5
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8608.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Echorouk TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Echourouk_TV_logo.svg/1200px-Echourouk_TV_logo.svg.png" ,Echorouk TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2775.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Numidia News"  ,Numidia News
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9782.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Echorouk News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/ECHOUROUK-NEWS.png" ,Echorouk News
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2774.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Bahia TV"  ,Bahia TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8599.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Dzair News" tvg-logo="https://pbs.twimg.com/profile_images/567632888640708608/-SIDndnK.png" ,Dzair News
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2768.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="El Bilad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/41/El_Bilad_TV.png" ,El Bilad TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2765.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Heddaf tv"  ,Al Heddaf tv
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12242.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="El Djazairia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eldjazairiaone1234.png" ,El Djazairia TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2766.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ennahar TV DZ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Ennahar_TV_%28logo_actuel%29.svg/1200px-Ennahar_TV_%28logo_actuel%29.svg.png" ,Ennahar TV DZ
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2771.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="ENTV Algerie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/ENTV_%26_EPTV_logo.png" ,ENTV Algerie
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2780.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Berbere TV" tvg-logo="http://brtvwork.alpha-layer.com/defaults/all/img/logo_berbereTV.png" ,Berbere TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2759.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Berbere Jeunesse"  ,Berbere Jeunesse
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8605.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Berbere Music"  ,Berbere Music
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9253.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="El Fadjr TV DZ" tvg-logo="https://4.bp.blogspot.com/-REypugcLGAQ/WNlnnNWF8HI/AAAAAAAAU0s/K5a9-LLR3rIDLJLWxJC3yuk64AQSXdWfgCLcB/s1600/%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9%2B%25D8%25A7%25D9%2584%25D9%2581%25D8%25AC%25D8%25B1%2Btv%2B%25D8%25A7%25D9%2584%25D8%25AC%25D8%25B2%25D8%25A7%25D8%25A6%25D8%25B1%25D9%258A%25D8%25A9.png" ,El Fadjr TV DZ
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2763.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="--------MAROC--------"  ,--------MAROC--------
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2793.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Tele Maroc"  ,Tele Maroc
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11402.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="2M Maroc" tvg-logo="http://tendance-video.com/wp-content/uploads/2016/07/2mlivestreaming.png" ,2M Maroc
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2791.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Aoula Inter" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/SNRT-Al-Aoula.png" ,Al Aoula Inter
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2792.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Maghribia"  ,Al Maghribia
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9316.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Magharibia News" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a5/Al_Magharibia.png" ,Al Magharibia News
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2758.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Magharibia Two" tvg-logo="http://4.bp.blogspot.com/-78Q6MPQ7SEY/Vi6VvlDpwtI/AAAAAAAAAk0/Eqme70YxNEU/s1600/Al_Magharibia_Tv_Algerie.jpg" ,Al Magharibia Two
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2757.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Maroc Tamazight" tvg-logo="https://lh6.googleusercontent.com/proxy/tYqI483fou7pT5W7Kcc9g_JZv1_TAK1N3gfeBMGm5xnblIR6455QD6Ozv-aI5VRlAGhCGcGBjIhW2vK3URZo7w3I4UvNqh9uetO4lAU6KpAknX1PNYM3CQ=s0-d" ,Maroc Tamazight
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2786.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Medi1 TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ca/Medi_1_TV_logo.png" ,Medi1 TV HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2785.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Arrabiaa" tvg-logo="http://picons.karrié.de/snp.kodi.transparent-white_2015-08-31--20-35-24/tv/arrabiaa.png" ,Arrabiaa
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2789.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Assadissa" tvg-logo="http://www.assadissatv.ma/images/sadisa_logo.png" ,Assadissa
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2787.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Aflam7"  ,Aflam7
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/7977.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Canal Atlas"  ,Canal Atlas
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11149.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="GM Movies HD"  ,GM Movies HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8620.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="GM Comedia TV"  ,GM Comedia TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8597.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="GM Alwan"  ,GM Alwan
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8611.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="GM Muzicana"  ,GM Muzicana
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8606.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="GM Chaabi TV"  ,GM Chaabi TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8601.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="GM Music TV"  ,GM Music TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8602.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="GM OFIVE"  ,GM OFIVE
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9254.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="GM Bizim TV"  ,GM Bizim TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8617.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="CHADA"  ,CHADA
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4405.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Beur TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e6/Beur_TV.png" ,Beur TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2764.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Arryadia Live HD" tvg-logo="https://pbs.twimg.com/profile_images/2609406675/98wld4pxmn59xtkv2ytl_400x400.png" ,Arryadia Live HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2790.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Jazeera" tvg-logo="http://freelogo2016cdn.b-cdn.net/wp-content/uploads/2016/12/al-jazeera-logo.png" ,Al Jazeera
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2812.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Arabiya" tvg-logo="http://www.fraja-maroc.net/TV/img/img23.jpg" ,Al Arabiya
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2811.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Arabiya Al Hadath" tvg-logo="https://pbs.twimg.com/profile_images/818821066617393152/jCjo7DqP.jpg" ,Al Arabiya Al Hadath
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2810.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Sky News Arabia HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/Sky_uk_news_arabia_hd.png/revision/latest?cb=20140329133721" ,Sky News Arabia HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2809.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="France 24 Arabic"  ,France 24 Arabic
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11463.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Sharq tv"  ,Al Sharq tv
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6502.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Alam"  ,Al Alam
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8734.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="RT Arab"  ,RT Arab
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4342.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="DW Arabic TV" tvg-logo="https://www.streaminghd.tn/img/tv/dw.png" ,DW Arabic TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2798.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="BBC Arabic" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/BBCArabic.png" ,BBC Arabic
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3078.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Euro news" tvg-logo="https://pbs.twimg.com/profile_images/732665354242150400/tZsCnjuh.jpg" ,Euro news
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2800.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Alhurra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Al_Hurra_logo.png" ,Alhurra
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3038.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Cnbc Arabia"  ,Cnbc Arabia
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4274.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="TRT Arabic" tvg-logo="http://f12.data4web.com/u/1001/3662/3392/blog/58d153f58666e.jpg" ,TRT Arabic
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2796.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Ekhbariya"  ,Al Ekhbariya
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4233.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Ekhbariya Al Soriya" tvg-logo="http://www.parliament.gov.sy/SD08/msf/1492489250_.png" ,Al Ekhbariya Al Soriya
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2801.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Sharqiya News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/97/Alsharqiyahd_logo.png" ,Al Sharqiya News HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2795.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Jazeera English" tvg-logo="http://www.aljazeera.com/mritems/assets/images/aj-logo-lg.png" ,Al Jazeera English
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2805.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Jazeera Mubasher" tvg-logo="https://s5.mzstatic.com/us/r30/Purple2/v4/0f/37/20/0f372065-921f-c653-77d4-407e264fde35/mzl.iapcqvag.png" ,Al Jazeera Mubasher
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2807.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="--------LIBYAN--------"  ,--------LIBYAN--------
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2829.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Libya TV"  ,Libya TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4312.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Libya 24"  ,Libya 24
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4417.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Aljamahiriya TV"  ,Aljamahiriya TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9287.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Libya Alhadath TV"  ,Libya Alhadath TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9251.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Libya Future"  ,Libya Future
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9268.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Libya el watan" tvg-logo="http://www.libyaelwatan.com/wp-content/uploads/2017/05/logo-200.png" ,Libya el watan
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2827.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Libya Al Ahrar TV" tvg-logo="http://libyatv.com/libyatvlogo_bgblack.PNG" ,Libya Al Ahrar TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2828.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Libya's Channel"  ,Libya's Channel
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4418.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="--------DOCUMENTAIRE--------"  ,--------DOCUMENTAIRE--------
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2835.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Nat Geo Abu Dhabi" tvg-logo="https://3.bp.blogspot.com/-sdPuBUXSXFc/Tv3fgzDQI4I/AAAAAAAAABg/RSKFXWsx4ZU/s1600/20110508172024%2521Nat_geo_channel_abu_dhabi.png" ,Nat Geo Abu Dhabi
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2834.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Jazeera Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" ,Al Jazeera Documentary
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2832.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Quest Arabiya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_Quest_Arabiya_2015.png" ,Quest Arabiya
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2833.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="--------CUISINE--------"  ,--------CUISINE--------
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8581.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Fatafeat" tvg-logo="https://i.fatafeat.com/static/images/logo.png" ,Fatafeat
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2928.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Samira TV."  ,Samira TV.
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8582.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="CBC سفرة" tvg-name="CBC Sofra" tvg-logo="http://masr140.net/wp-content/uploads/2016/03/12548870_1020951144630635_8873317935607728699_n-300x300.jpg" ,CBC Sofra
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2926.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="CBC BENNA"  ,CBC BENNA
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9372.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN Gourmet HD"  ,beIN Gourmet HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5199.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Panorama Food" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWQMZGVSCJBnL4AmrMS3HzW1tPMnLMoKpfATah6nTJRo4ZL_K_" ,Panorama Food
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2901.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="--------FILM&SERIES--------"  ,--------FILM&SERIES--------
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3001.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="MBC" tvg-name="MBC" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mbc1.jpg" ,MBC
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2999.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="MBC 2" tvg-name="MBC 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mbc2_ae.jpg" ,MBC 2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2998.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="MBC 4" tvg-name="MBC 4" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mbc4.jpg" ,MBC 4
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2996.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="MBC Max" tvg-name="MBC MAX" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1132_1.png" ,MBC MAX
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2994.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="MBC ACTION" tvg-name="MBC Action" tvg-logo="https://2.bp.blogspot.com/-wBSTould7Ow/WOqdKpApVqI/AAAAAAAAE8w/ID8MTEzQL08nybNeT7AOq8Uxg9rdstUsQCLcB/s1600/mbc_ae_action.png" ,MBC Action
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2992.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="MBC Bollywood" tvg-name="MBC Bollywood" tvg-logo="https://apkplz.com/storage/images/com/its/mbcbollywood/300/mbc-bollywood-tv.png" ,MBC Bollywood
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2985.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="MBC دراما" tvg-name="MBC Drama" tvg-logo="https://1.bp.blogspot.com/-fvhnC5WyXHk/WO_uws-YsoI/AAAAAAAAFD0/YR3KM8a0hJca-5aruYeWECmJaeQX9osXQCLcB/s1600/mbc_ae_drama_us.png" ,MBC Drama
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2990.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="MBC مصر" tvg-name="MBC Masr" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1239_1.png" ,MBC Masr
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2987.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="MBC مصر 2" tvg-name="MBC Masr2" tvg-logo="http://www.mbc.net/ar/mbc-masr-2/ogImageBinary/7b1c16c942fd2ef61a68e74ab68bf13c9920abd3/MBC_Masr2.jpg" ,MBC Masr2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2986.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Amman TV"  ,Amman TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5334.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="CA TV"  ,CA TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5341.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN Drama"  ,beIN Drama
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6537.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN Movies 1 HD" tvg-logo="https://4.bp.blogspot.com/-lLLGwGe0SU0/VvfF-Wf-PgI/AAAAAAAAD1w/4wuF8M2X9YsckWaAfPSXdIPTDVgcPaSnQ/s1600/be_in_movies_1_hd.png" ,beIN Movies 1 HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2965.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN Movies 2 HD" tvg-logo="http://www.tvchannel.biz/wp-content/uploads/2016/10/beinmovies2.jpg" ,beIN Movies 2 HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2964.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN Movies 3 HD" tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2015/09/beINMOVIES_3HD.png" ,beIN Movies 3 HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2963.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN Movies 4 HD" tvg-logo="http://frequencyme.com/wp-content/uploads/-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A-%D8%A5%D9%86-%D9%85%D9%88%D9%81%D9%8A-4-bein-movies-hd-e1508615691131.gif" ,beIN Movies 4 HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2962.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="BeIN Series HD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/The_new_logo_of_beIN_SERIES_at_2017.jpg" ,BeIN Series HD 1
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2959.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="BeIN Series HD 2"  ,BeIN Series HD 2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6529.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN AMC"  ,beIN AMC
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8797.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN Fox Movies"  ,beIN Fox Movies
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8795.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="B4U Aflam"  ,B4U Aflam
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9349.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="B4U Plus."  ,B4U Plus.
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/7446.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Zee Aflam" tvg-logo="http://www.broadcastprome.com/wp-content/uploads/2012/11/Zee-Aflam.gif" ,Zee Aflam
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2863.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Zee Alwan" tvg-logo="https://cdn6.aptoide.com/imgs/c/2/c/c2c8fbe3bd97068c81e69c4133b052b0_icon.png?w=240" ,Zee Alwan
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2862.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Belody Aflam"  ,Belody Aflam
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4266.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="أبوظبي الأولى" tvg-name="Abu Dhabi TV HD" tvg-logo="http://www.abudhabitv.ae/public/img/branding/logo.png" ,Abu Dhabi TV HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2871.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Emarat TV HD" tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" ,Al Emarat TV HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2869.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="أبوظبي دراما" tvg-name="AD Drama" tvg-logo="http://www.addrama.ae/public/img/branding/logo.png" ,AD Drama
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2870.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="دبي" tvg-name="Dubai Tv" tvg-logo="http://dmi.ae/dubaitv/images/logo.png" ,Dubai Tv
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2868.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="Dubai one" tvg-name="Dubai One" tvg-logo="http://www.dmi.ae/dubaione/images/dubaione-logo.png" ,Dubai One
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2867.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="سما دبي" tvg-name="Sama Dubai" tvg-logo="http://www.wataan.com/uploads/4122016-062525AM.gif" ,Sama Dubai
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2865.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Dubai Zaman" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1283_1.png" ,Dubai Zaman
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2866.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Noor Dubai" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/59e457478a.png" ,Noor Dubai
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2841.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotana Aflam" tvg-logo="https://pbs.twimg.com/media/CykqgJ7WQAABvCp.png" ,Rotana Aflam
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2981.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotana Aflam HD"  ,Rotana Aflam HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8267.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotana Cinema EGY" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/RotanaCinema.png" ,Rotana Cinema EGY
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2983.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotana Cinema KSA" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1289_1.png" ,Rotana Cinema KSA
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2982.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotana Cinema HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/RotanaCinema.png" ,Rotana Cinema HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2984.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotana Classic" tvg-logo="https://lh3.ggpht.com/fqJHAPwem_Ccpa5y7Da0J21grSiMq-8ZYoSxHeRouBYTJDRZ-_NFAa8y5b4zIl-OnDw=w300" ,Rotana Classic
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2971.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotana Classic HD" tvg-logo="https://lh3.ggpht.com/fqJHAPwem_Ccpa5y7Da0J21grSiMq-8ZYoSxHeRouBYTJDRZ-_NFAa8y5b4zIl-OnDw=w300" ,Rotana Classic HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2972.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotana Masriya" tvg-logo="https://img00.deviantart.net/00bf/i/2012/294/0/7/rotana_masryia_logo_by_shazly250-d5ii98p.png" ,Rotana Masriya
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2979.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotana Masria HD" tvg-logo="https://img00.deviantart.net/00bf/i/2012/294/0/7/rotana_masryia_logo_by_shazly250-d5ii98p.png" ,Rotana Masria HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2980.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="ART أفلام 1" tvg-name="ART Aflam 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_art_aflam1.jpg" ,ART Aflam 1
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2970.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="ART أفلام 2" tvg-name="ART Aflam 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_art_aflam2.jpg" ,ART Aflam 2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2969.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="ART سينما" tvg-name="ART Cinema" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/art_cinema.jpg" ,ART Cinema
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2968.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Hekayat 1"  ,Hekayat 1
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3114.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="ART حكايات 2" tvg-name="Hekayat 2" tvg-logo="http://i86.servimg.com/u/f86/16/98/17/92/118210.png" ,Hekayat 2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2966.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Cima" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cima_tv.jpg" ,Cima
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2953.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="CIMA TUBE"  ,CIMA TUBE
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2942.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="CINEMA 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_cinema1_arabic.jpg" ,CINEMA 1
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2944.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="CINEMA 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_cinema2_arabic.jpg" ,CINEMA 2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2943.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="CINEMA PRO"  ,CINEMA PRO
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2951.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="CIMA ALI BABA" tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/cima-alibaba.jpg" ,CIMA ALI BABA
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2952.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="CINEMA TUBE" tvg-logo="https://1.bp.blogspot.com/-vDXOssNSm1M/WSQQQ5RkYjI/AAAAAAAAFFA/Oba5xo0B5iI8Ci6-5_7-yv3vwUsOb5lhwCLcB/s1600/YouTube-logo-play-icon-219x286.png" ,CINEMA TUBE
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2940.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="LCD Aflam"  ,LCD Aflam
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6385.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="4G AFLAM"  ,4G AFLAM
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2949.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="4G CIMA"  ,4G CIMA
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2948.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="4G CLASSIC"  ,4G CLASSIC
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2947.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="4G DRAMA"  ,4G DRAMA
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2946.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="4G FILM"  ,4G FILM
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2945.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="I CINEMA"  ,I CINEMA
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2933.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="STAR CINEMA1"  ,STAR CINEMA1
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2958.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="STAR CINEMA2"  ,STAR CINEMA2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2957.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="TOKTOK CIMA" tvg-logo="http://www.altkiasat.com/wp-content/uploads/2015/09/%D9%82%D9%86%D8%A7%D8%A9-%D8%AA%D9%88%D9%83-%D8%AA%D9%88%D9%83-%D8%A3%D9%81%D9%84%D8%A7%D9%85.jpg" ,TOKTOK CIMA
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2954.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Panorama Film" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/panorama_film.jpg" ,Panorama Film
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2956.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Panorama Comedy" tvg-logo="http://egylab.ucoz.com/tv/imge/premiumtv/pcomedy.jpg" ,Panorama Comedy
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2902.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Panorama Drama2" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1165_1.png" ,Panorama Drama2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2903.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Panorama Drama" tvg-logo="http://www.nemsawy.com/ar/wp-content/uploads/2016/10/pano1.png" ,Panorama Drama
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2904.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Panorama Yom"  ,Panorama Yom
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4336.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Sa3a Comedy"  ,Al Sa3a Comedy
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4422.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="CBC" tvg-name="CBC" tvg-logo="http://www.tunisvista.com/medias/cbc-tv-live-online-streaming-egypt.png" ,CBC
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2927.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="CBC eXtra"  ,CBC eXtra
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2925.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="CBC دراما" tvg-name="CBC Drama"  ,CBC Drama
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4270.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="ON Live HD"  ,ON Live HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4427.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="ON Drama" tvg-logo="https://scontent.ftun3-1.fna.fbcdn.net/v/t1.0-9/22552299_2004800586467141_8142207142939334991_n.jpg?oh=499e05c296eea2bb5599a3c13d5146fc&oe=5A6F4EB1" ,ON Drama
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2914.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="ON E" tvg-name="ON E HD" tvg-logo="http://on-eg.com/app/themes/on/images/homepage/logo.png" ,ON E HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2915.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="dmc" tvg-name="DMC HD" tvg-logo="http://www.alhayat.com/getattachment/33523950-127d-4030-9fb1-5fbf79a905fb/" ,DMC HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2912.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="dmc دراما" tvg-name="DMC Drama" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1292_1.png" ,DMC Drama
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2911.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="M Cinema TV"  ,M Cinema TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4314.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="M Classic" tvg-logo="http://masry-now.com/images/stories/RIADA/melody%20classic.png" ,M Classic
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2843.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Imagine Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxy6zetPGeqV-R6cp3PcYyGHfDFDFEe-CT5ZAc5Oh2HRITIEmBlQ" ,Imagine Movies
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2931.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Toktok Aflam"  ,Toktok Aflam
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2955.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Cairo Drama" tvg-logo="http://1.bp.blogspot.com/-UUAvbvdl-Tc/UJ6aO9UzJJI/AAAAAAAAAD0/Amn_St-uRjo/w1200-h630-p-k-no-nu/Cairo+Drama+2.png" ,Cairo Drama
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2921.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Cairo cinema"  ,Cairo cinema
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2922.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Shasha Cinema"  ,Al Shasha Cinema
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2950.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Masrawia Aflam"  ,Al Masrawia Aflam
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2930.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Mosalsalat Tube" tvg-logo="http://4.bp.blogspot.com/-aTi2fq_X8ms/Vo7z7w88y2I/AAAAAAAAEO0/tyGB5sh1BnE/s1600/YouTube-Play-Button.png" ,Mosalsalat Tube
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2842.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Family Drama"  ,Family Drama
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9278.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Maspero Zaman"  ,Maspero Zaman
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9223.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="دريم" tvg-name="Dream 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dream1_eg.jpg" ,Dream 1
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2906.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Dream 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dream2_eg.jpg" ,Dream 2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2905.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Nile Cinema" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1157_1.png" ,Nile Cinema
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2897.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Nile Comedy" tvg-logo="https://static.livetvhd.net/thumbs/nile-comedy.png" ,Nile Comedy
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2895.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="Nile دراما" tvg-name="Nile Drama" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1156_1.png" ,Nile Drama
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2896.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Nile Culture" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTMFQktMnlMDEhs1Ip5xiKp9zt2B3xgHitJGwAzyirHIgwYDhN" ,Nile Culture
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2898.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Nile Family" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1201_1.png" ,Nile Family
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2899.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Nile Life"  ,Nile Life
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4327.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Nile News"  ,Nile News
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4328.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Mekameleen TV"  ,Mekameleen TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/7732.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Hayat" tvg-logo="http://www.shoofeetv.com/images/2013/09/20130921085603_channelsbig.png" ,Al Hayat
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2891.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Hayat 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9_2.png" ,Al Hayat 2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2890.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Alhayat Muslsalat" tvg-logo="http://www.shoofeetv.com/images/2013/09/20130915170219_channelsbig.png" ,Alhayat Muslsalat
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2889.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Althanya" tvg-logo="http://www.3arablive.com/wp-content/uploads/2014/06/egy-channel-2.jpg" ,Althanya
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2907.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="النهار دراما" tvg-name="Al Nahar Drama" tvg-logo="https://www.mydish.com/filestream.ashx?ID=12339" ,Al Nahar Drama
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2918.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="SCARE TV"  ,SCARE TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9292.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Sharo5an Hindi"  ,Sharo5an Hindi
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9224.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Alostora TV"  ,Alostora TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9249.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="المحور" tvg-name="Mehwar TV" tvg-logo="http://www.elmehwartv.com/assets/img/logo_blue.png" ,Mehwar TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2876.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Oula Masr" tvg-logo="http://img.youm7.com/large/s4201227171035.jpg" ,Oula Masr
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2908.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AL masriya"  ,AL masriya
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4385.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MASR ALHAYAH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSvEiTShJIaqBUE5DWjvBhBKA0vIcfRlqswZ7Bwo1TbPDlJOpe" ,MASR ALHAYAH
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2888.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="القاهرة والناس" tvg-name="Al Kahera Wal Nas" tvg-logo="http://www.alkaherawalnas.com/templates/fitness_center/images/s5_logo.png" ,Al Kahera Wal Nas
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2917.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="القاهرة والناس 2" tvg-name="Al Kahera Wal Nas 2"  ,Al Kahera Wal Nas 2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2916.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="صدى البلد" tvg-name="Sada El Balad" tvg-logo="http://www.elbalad.news/themes/balad/images/sada.png" ,Sada El Balad
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2893.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="صدى البلد دراما" tvg-name="Sada ElBalad Drama" tvg-logo="http://www.egytvs.com/wp-content/uploads/2014/07/sada_el_balad_drama.png" ,Sada ElBalad Drama
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2892.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="An Najah Nbc"  ,An Najah Nbc
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9225.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Qatar TV" tvg-logo="http://www.qtv.qa/qtv/images/logo_top.png" ,Qatar TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2839.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="KTV CH1 HD"  ,KTV CH1 HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2858.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="KTV CH2 HD"  ,KTV CH2 HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2856.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="KTV AL ARABI HD"  ,KTV AL ARABI HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2859.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="KTV ETHRAA HD"  ,KTV ETHRAA HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2855.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="KTV S.Plus HD"  ,KTV S.Plus HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2854.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Sudan.TV" tvg-logo="http://shamfm.fm/uploads/image/article/fullsize/d547349446b36d705d84b8e19d256bba.jpg" ,Sudan.TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3049.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Sudania 24 HD"  ,Sudania 24 HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9334.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Sudan Drama"  ,Sudan Drama
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9324.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Sudan Om Dorman"  ,Sudan Om Dorman
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11162.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Sudan Khartoum"  ,Sudan Khartoum
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11159.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Sudan Tayba"  ,Sudan Tayba
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11164.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Sudan Blue Nile"  ,Sudan Blue Nile
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11160.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Sudan Shorouk"  ,Sudan Shorouk
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11163.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Sudan Monwaat"  ,Sudan Monwaat
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9339.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Sudan Music"  ,Sudan Music
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9322.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Sudan Sport"  ,Sudan Sport
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9330.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Sudan Dabanga"  ,Sudan Dabanga
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11161.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Sudan Knowledge"  ,Sudan Knowledge
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11165.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="----------Lebanon.TV----------"  ,----------Lebanon.TV----------
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12403.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="LBC" tvg-logo="http://fikrconferences.org/sites/default/files/lbc-logo.jpg" ,LBC
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2885.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Future" tvg-logo="https://yt3.ggpht.com/-06mS0mwhzno/AAAAAAAAAAI/AAAAAAAAAAA/6K-Wn_N0h98/s88-c-k-no-mo-rj-c0xffffff" ,Future
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2883.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="NBN" tvg-logo="http://www.nbn.com.lb/wp-content/uploads/2017/02/nbnlogoforsite3.png" ,NBN
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2880.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="LDC" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ldc_lb.jpg" ,LDC
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2881.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Mayadeen Tv" tvg-logo="https://cdnar.almayadeen.net/cdn/website/images/web-logo.png" ,Al Mayadeen Tv
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2877.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AlRai"  ,AlRai
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4401.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Lebanon" tvg-logo="http://www.genius3d.com/site%20images/Tele_Liban_Logo_Liban_Arabic_Full_LowRes.png" ,Lebanon
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2884.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Heya TV"  ,Heya TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4290.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Aan TV"  ,Al Aan TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9342.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="TEN" tvg-name="Ten" tvg-logo="https://dailynewsegypt.com/app/uploads/2015/10/ten-tv.png" ,Ten
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2909.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AL Manar" tvg-logo="http://www.almanar.com.lb/framework/assets/images/logo-tech.png" ,AL Manar
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2878.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Citruss TV"  ,Citruss TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4217.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Jadeed TV" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1216_1.png" ,Al Jadeed TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2879.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OTV Lebanon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgOKexOShn2dOCcbFhaY5po4LU8Wdu2xl0a1A4pP58q7mWn5aWIA" ,OTV Lebanon
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2882.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MTV Lebanon"  ,MTV Lebanon
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4424.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Mtv Lebanon 2"  ,Mtv Lebanon 2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5337.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Mtv Lebanon 3"  ,Mtv Lebanon 3
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5338.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="NOUR TV" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/NourTV.png" ,NOUR TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2872.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Nour Mariam"  ,Nour Mariam
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3026.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Nour elkuds"  ,Nour elkuds
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4258.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Nour El Keddisin"  ,Nour El Keddisin
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2875.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Nour Music 2" tvg-logo="http://noursat.tv/mediafiles/channels/shabab-logo.png" ,Nour Music 2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2873.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Nour Kids"  ,Nour Kids
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3027.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="----------Syrian.TV----------"  ,----------Syrian.TV----------
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12404.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Syria News"  ,Syria News
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11283.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Syrian Satellite Tv"  ,Syrian Satellite Tv
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9281.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="SYRIA DRAMA" tvg-logo="http://www.elahmad.com/tv/images/syria_drama.jpg" ,SYRIA DRAMA
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2852.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="SYRIA EDUCATION"  ,SYRIA EDUCATION
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12430.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Syria TV"  ,Syria TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11364.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Orient" tvg-logo="https://i0.wp.com/www.egytvs.com/wp-content/uploads/2014/07/Orient-TV-Live-e1480987455480.jpg?fit=350%2C169" ,Orient
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3062.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="LANA TV"  ,LANA TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11281.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Sama TV"  ,Sama TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11282.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="SHAM TV"  ,SHAM TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12429.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Altaghier Tv"  ,Altaghier Tv
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12412.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="NOUR EL SHAM" tvg-logo="http://www.ortas.gov.sy/archive/products/p1494839794.jpg" ,NOUR EL SHAM
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3053.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="----------Jordan.TV----------"  ,----------Jordan.TV----------
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12405.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Jordan HD" tvg-logo="http://almontasf.com/wp-content/uploads/2017/03/%D9%85%D8%A4%D8%B3%D8%B3%D8%A9-%D8%A7%D9%84%D8%A7%D8%B0%D8%A7%D8%B9%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86%D9%8A.png" ,Jordan HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3122.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Noor Jordan"  ,Noor Jordan
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4330.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="A1 Jordan" tvg-logo="https://scontent.ftun3-1.fna.fbcdn.net/v/t1.0-9/13331107_1361351730558312_578870835186741796_n.jpg?oh=b5fab66bdb93ebf7c8e2a87f04b80d71&oe=5A70215A" ,A1 Jordan
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3060.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="JORDAN AMEN"  ,JORDAN AMEN
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12425.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="JORDAN DERETNA"  ,JORDAN DERETNA
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12426.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="JORDAN SAMA"  ,JORDAN SAMA
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12427.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="ROYA HD"  ,ROYA HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11166.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Zweina Baladna"  ,Zweina Baladna
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9310.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="KAIFA TV"  ,KAIFA TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12411.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Jordan Sport" tvg-logo="http://static.jbcgroup.com/sport/images/uploads/51e693f40d178.jpg" ,Jordan Sport
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3020.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="----------Palestine.TV----------"  ,----------Palestine.TV----------
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12407.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Palestine Today" tvg-logo="http://arabic-media.com/img/stn/src/paltodaytv.jpg" ,Palestine Today
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3052.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Palestine live" tvg-logo="http://www.sat-address.com/f/pics/Stations/PSC-Palestine-Live_o.jpg" ,Palestine live
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3082.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="PALESTINE NEWS"  ,PALESTINE NEWS
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12428.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MUSAWA"  ,MUSAWA
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12408.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MAAN"  ,MAAN
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12410.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="HONA ALQUDS"  ,HONA ALQUDS
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12409.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Quds TV"  ,Al Quds TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4246.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="----------Iraq.TV----------"  ,----------Iraq.TV----------
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12406.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Iraqi EDU"  ,Iraqi EDU
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2844.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Iraqia TV"  ,Iraqia TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4296.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Baghdad TV"  ,Baghdad TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4264.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AL Hurra Iraq"  ,AL Hurra Iraq
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4383.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Hona Baghdad"  ,Hona Baghdad
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2850.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Fallujah TV"  ,Al Fallujah TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4381.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Mawsleya"  ,Al Mawsleya
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4386.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Sumaria TV"  ,Al Sumaria TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4390.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AL Anbar"  ,AL Anbar
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4391.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Rafiden"  ,Al Rafiden
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4388.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Karbala TV"  ,Karbala TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4411.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Ghadeer"  ,Al Ghadeer
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9233.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Alitejah TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcojuEZS-Tvwmk-QGYnzszpPVxPwl8MuxR5cGDwZy6SMvvtxSl7w" ,Alitejah TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3036.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Alforat TV"  ,Alforat TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9288.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Rasheed"  ,Al Rasheed
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4389.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="--------DIVERS--------"  ,--------DIVERS--------
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3088.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Hiwar TV"  ,Al Hiwar TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9296.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ajman TV"  ,Ajman TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4222.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Ghad Al Mushreq" tvg-logo="https://www.twofour54.com/en/Images/alghaz-logo_tcm12-27915.jpg" ,Al Ghad Al Mushreq
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2851.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="النهار" tvg-name="Al Nahar One"  ,Al Nahar One
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4242.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="ALhayah ALaan" tvg-logo="http://www.channelsfrequency.com/public_html/wp-content/uploads/2016/12/%D9%A1-29.jpg" ,ALhayah ALaan
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3040.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Yemen Sama" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Sama_TV_Logo.png" ,Yemen Sama
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3081.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Neelain Sport"  ,Neelain Sport
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9325.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Arrab"  ,Al Arrab
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4228.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Fujairah TV"  ,Fujairah TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4287.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Yemen Today"  ,Yemen Today
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9280.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Shabab TV"  ,Shabab TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4435.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Tanasoh TV"  ,Tanasoh TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4363.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Naeem TV" tvg-logo="https://scontent.ftun3-1.fna.fbcdn.net/v/t1.0-9/13716120_858442900955003_1238483599899807903_n.jpg?oh=6ff8386609907bd890f6c424bce84f1d&oe=5A6EFAC7" ,Al Naeem TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3046.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Minbar TV" tvg-logo="https://alminbar.tv/wp-content/uploads/2017/04/Untitled-2.png" ,Al Minbar TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3033.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Rayyan SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB2kJeTsPqW_fINyHOxC_pcoCAEQt9GrLDH7m2scHcqZ07eMcU" ,Al Rayyan SD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3031.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Afak"  ,Afak
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4376.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AL Anwar"  ,AL Anwar
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4225.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Maaref"  ,Al Maaref
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4238.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="--------MUSIC--------"  ,--------MUSIC--------
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3099.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotana Clip" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rotana_clip.jpg" ,Rotana Clip
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2977.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="روتانا خليجية" tvg-name="Rotana Khalijiah" tvg-logo="http://rotana.net/assets/uploads/2016/10/Final-Khaleejia-logo.png" ,Rotana Khalijiah
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2973.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotana Music HD" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_533.png" ,Rotana Music HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2976.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Rotana Music" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_533.png" ,Rotana Music
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2975.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="روتانا خليجية" tvg-name="Rotana Khaliji HD" tvg-logo="http://rotana.net/assets/uploads/2016/10/Final-Khaleejia-logo.png" ,Rotana Khaliji HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2974.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Mazzika" tvg-logo="http://1.bp.blogspot.com/-E2Z3wK1Gf-A/VUVc4bCQchI/AAAAAAAAA_Y/zZ-4A1AWG5s/s1600/Mazzika.png" ,Mazzika
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3096.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Aghani Aghani TV" tvg-logo="http://www.aghaniaghani.com/images/logo.png" ,Aghani Aghani TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3093.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Afrah TV" tvg-logo="https://yt3.ggpht.com/-eZvmy5p4fBg/AAAAAAAAAAI/AAAAAAAAAAA/1cv-Xz3fD5s/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" ,Afrah TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3059.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Hawacom"  ,Hawacom
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3023.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Mazazik Tv"  ,Mazazik Tv
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4320.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Music Alhanen" tvg-logo="https://yt3.ggpht.com/--hcAjPDHKFM/AAAAAAAAAAI/AAAAAAAAAAA/cGjFNDJbt2o/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" ,Music Alhanen
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3092.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="FUNoon"  ,FUNoon
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9231.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="TATT7"  ,TATT7
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9210.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="WANASAH"  ,WANASAH
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2861.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="--------ISLAMIC--------"  ,--------ISLAMIC--------
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3120.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Majd3" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/AlMajd3-200x150.png" ,Al Majd3
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3118.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Majd TV" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/AlMajd3-200x150.png" ,Majd TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3119.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Majd Hadith"  ,Al Majd Hadith
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4392.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AL NADA TV"  ,AL NADA TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4394.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AlAfasy" tvg-logo="http://misharialafasy.net/wp-content/uploads/2017/07/Afasy-logo-01.png" ,AlAfasy
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3110.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="alnas"  ,alnas
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/7950.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Iqraa" tvg-logo="https://sc.dish.com/shared/images/station-logos/iqraa.png" ,Iqraa
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3117.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Makkah TV"  ,Makkah TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9232.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Saudi 1" tvg-logo="http://middleeastbook.com/wp-content/uploads/2014/03/S11.png" ,Saudi 1
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3116.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Saudi 2" tvg-logo="http://middleeastbook.com/wp-content/uploads/2014/03/S2.png" ,Saudi 2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3115.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Saudi Ch Quran"  ,Saudi Ch Quran
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4351.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Saudi Ch Sunnah"  ,Saudi Ch Sunnah
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4352.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Rahma" tvg-logo="http://www.alrahma.tv/app/Resources/2016/images/logo.png" ,Al Rahma
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3109.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Resala" tvg-logo="https://store-images.s-microsoft.com/image/apps.33262.9007199266709972.f8d9a3e4-0dfc-4e52-b263-168a73c64bc6.9220b9ae-a940-46f5-b563-b0c6f66a0d54?w=180&h=180&q=60" ,Al Resala
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3105.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Azhari"  ,Azhari
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3085.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Alhayat We Alnas" tvg-logo="https://ulango.tv/uploads/channels/3780009/logo_al%20hayat%20we%20alnas%20tv%20%7C%20%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86%20%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9%20%D9%88%D8%A7%D9%84%D9%86%D8%A7%D8%B3%20.png" ,Alhayat We Alnas
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3039.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Erth Al Nabawi"  ,Al Erth Al Nabawi
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9085.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Tayba TV"  ,Tayba TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9383.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al kawthar" tvg-logo="https://3.bp.blogspot.com/-9aiMnt2Wt-8/WOQdgbuzf_I/AAAAAAAAEug/ZhiErA214FMvoFRprR-OJ5sd-K-A77glQCLcB/s1600/kawthar.png" ,Al kawthar
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3104.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Anis TV"  ,Al Anis TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4224.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Quran Tv"  ,Quran Tv
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3019.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ahel Al Quran"  ,Ahel Al Quran
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4341.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Al Malakoot Sat"  ,Al Malakoot Sat
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4240.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="--------SPORT--------"  ,--------SPORT--------
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3147.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Alkass One HD" tvg-logo="http://4.bp.blogspot.com/-xmVNgityWpI/Vkq3eVghcfI/AAAAAAAADkg/jBKPSPHS1uc/s1600/alkass1.png" ,Alkass One HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3146.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Alkass Two HD" tvg-logo="http://1.bp.blogspot.com/-2B-_Pp5a-Mc/Vkq3gxmdmxI/AAAAAAAADko/BlUgPCSFhdQ/s1600/alkass2.png" ,Alkass Two HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3145.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Alkass Four HD" tvg-logo="http://4.bp.blogspot.com/-FiLMkHCmIVA/Vkq3lJ6eNMI/AAAAAAAADk4/Xf1YQYDNkfo/s1600/alkass4.png" ,Alkass Four HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3143.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Alkass Five HD" tvg-logo="http://livetvy.com/video-elements/files/2009/10/Al_Kass5.jpg" ,Alkass Five HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3142.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="ON Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%88%D9%86_%D8%AA%D9%8A_%D9%81%D9%8A_%D8%B3%D8%A8%D9%88%D8%B1%D8%AA_%D8%A7%D8%AA%D8%B4_%D8%AF%D9%8A.jpg" ,ON Sport
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2913.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="YAS Sports HD"  ,YAS Sports HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4443.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AD Sport1" tvg-logo="http://frequencyme.com/wp-content/uploads/1-%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-abu-dhabi-sports.png" ,AD Sport1
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3137.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AD Sport2" tvg-logo="http://pause-cafe.news/wp-content/uploads/2017/07/Abu-Dhabi-Sports-2-live-Streaming-AD-Sports-2-%D8%A7%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-2-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.png" ,AD Sport2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3135.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AD Sport3" tvg-logo="http://frequencyme.com/wp-content/uploads/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-3-abu-dhabi-sports.png" ,AD Sport3
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3134.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="AD Sport4"  ,AD Sport4
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/10367.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Dubai Sport 1" tvg-logo="http://www.sat-address.com/f/pics/Stations/Dubai-Sports_o.jpg" ,Dubai Sport 1
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3129.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Dubai Sports 2"  ,Dubai Sports 2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6383.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Dubai Sports 3" tvg-logo="http://www.sat-address.com/f/pics/Stations/Dubai-Sports-3_1_o.jpg" ,Dubai Sports 3
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3128.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Dubai Racing 1"  ,Dubai Racing 1
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9059.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Dubai Racing 2"  ,Dubai Racing 2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6384.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Dubai Racing 3" tvg-logo="http://www.sat-address.com/f/pics/Stations/Dubai-Racing-3_o.jpg" ,Dubai Racing 3
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3126.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Dawri Plus 1" tvg-logo="http://masr140.net/wp-content/uploads/2016/11/MBC-SPORT1.png" ,Dawri Plus 1
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3141.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Dawri Plus 2" tvg-logo="https://2.bp.blogspot.com/-FTGrPCotFKQ/WO6bQ9apS4I/AAAAAAAAAOk/kCXDw9YrZ7sQklXNE-2s_18U1sdDlCXQACLcB/s320/%25D9%2582%25D9%2586%25D8%25A7%25D9%2587%2B%25D8%25A7%25D9%2585%2B%25D8%25A8%25D9%258A%2B%25D8%25B3%25D9%258A%2B%25D8%25A8%25D8%25B1%25D9%2588%2B2%2B%25D8%25A8%25D8%25AB%2B%25D9%2585%25D8%25A8%25D8%25A7%25D8%25B4%25D8%25B1.png" ,Dawri Plus 2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3140.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Dawri Plus 3" tvg-logo="http://masr140.net/wp-content/uploads/2016/11/MBC-SPORT3.png" ,Dawri Plus 3
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3139.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Dawri Plus 4" tvg-logo="http://www.gobx.com/wp-content/uploads/2017/08/23-MBC-PROSPORTS-4-SD.png" ,Dawri Plus 4
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3138.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Saudi Sport"  ,Saudi Sport
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4353.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="DMC Sports" tvg-logo="https://4.bp.blogspot.com/-03x8dQVxX_g/WVQhsXNatzI/AAAAAAAAHkE/cZ0vz86k284O9LPvdxU6JSjbckM5XPryQCLcBGAs/s1600/dmc_eg_sports.png" ,DMC Sports
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2910.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="KTV Sport HD" tvg-logo="https://4.bp.blogspot.com/-vpIDPhNWc_A/WVJNZO2PBdI/AAAAAAAAHek/wKQQcJr_E3sUtpsIFaGuweEXRLi2wMB9wCLcBGAs/s1600/ktv_sport_plus.png" ,KTV Sport HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3123.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="--------beIN SPORTS--------"  ,--------beIN SPORTS--------
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3168.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN SPORTS HD1" ,beIN SPORTS HD1
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12075.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN SPORTS HD2" ,beIN SPORTS HD2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12076.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN SPORTS HD3" tvg-logo="https://www.orcaapi.com/beinLogo/HD3.png",beIN SPORTS HD3
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3165.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN SPORTS HD4" tvg-logo="https://www.orcaapi.com/beinLogo/HD4.png",beIN SPORTS HD4
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3164.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN SPORTS HD5" tvg-logo="https://www.orcaapi.com/beinLogo/HD5.png",beIN SPORTS HD5
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3163.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN SPORTS HD6" tvg-logo="https://www.orcaapi.com/beinLogo/HD6.png",beIN SPORTS HD6
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3162.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN SPORTS HD7" tvg-logo="https://www.orcaapi.com/beinLogo/HD7.png",beIN SPORTS HD7
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3161.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN SPORTS HD8" tvg-logo="https://www.orcaapi.com/beinLogo/HD8.png",beIN SPORTS HD8
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3160.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN SPORTS HD9" tvg-logo="https://www.orcaapi.com/beinLogo/HD9.png",beIN SPORTS HD9
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3159.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN SPORTS HD10" tvg-logo="https://www.orcaapi.com/beinLogo/HD10.png",beIN SPORTS HD10
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3158.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN SPORTS NEWS HD" tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2015/09/News.png",beIN SPORTS NEWS HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3150.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN SPORTS HD11" tvg-logo="https://www.orcaapi.com/beinLogo/HD11.png",beIN SPORTS HD11
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3157.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN SPORTS HD12" tvg-logo="https://www.orcaapi.com/beinLogo/HD12.png",beIN SPORTS HD12
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3156.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="BeIN SPORTS1 sd" ,BeIN SPORTS1 sd
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12068.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="BeIN SPORTS2 sd" ,BeIN SPORTS2 sd
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12067.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="BeIN SPORTS3 sd" ,BeIN SPORTS3 sd
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11876.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="BeIN SPORTS4 sd" ,BeIN SPORTS4 sd
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11875.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="BeIN SPORTS5 sd" ,BeIN SPORTS5 sd
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11874.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="BeIN SPORTS6 sd" ,BeIN SPORTS6 sd
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11873.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="BeIN SPORTS7 sd" ,BeIN SPORTS7 sd
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11872.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="--------OSN--------"  ,--------OSN--------
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9119.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Movies HD"  ,OSN Movies HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6375.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Movies 2H"  ,OSN Movies 2H
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6340.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Movies Action HD"  ,OSN Movies Action HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6369.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Movies Thriller HD"  ,OSN Movies Thriller HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6371.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Movies Family HD"  ,OSN Movies Family HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6365.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Movies Festival HD"  ,OSN Movies Festival HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6364.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Movies First HD"  ,OSN Movies First HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6373.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Movies Comedy HD"  ,OSN Movies Comedy HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6366.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Series HD"  ,OSN Series HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6353.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Fine Living"  ,OSN Fine Living
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6337.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN First HBO HD"  ,OSN First HBO HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6349.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Series First HD"  ,OSN Series First HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6352.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Series Comedy HD"  ,OSN Series Comedy HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6351.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Food Network HD"  ,OSN Food Network HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6336.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Syfy HD"  ,OSN Syfy HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6348.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN CINEMA 1"  ,OSN CINEMA 1
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6355.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN CINEMA 2"  ,OSN CINEMA 2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6354.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Musalsalat  HD"  ,OSN Musalsalat  HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6357.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Musalsalat HD 2"  ,OSN Musalsalat HD 2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6356.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Ya Hala HD"  ,OSN Ya Hala HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6363.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Ya Hala Oula HD"  ,OSN Ya Hala Oula HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6362.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Yahala Cinema HD"  ,OSN Yahala Cinema HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6360.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN ALSAFWA"  ,OSN ALSAFWA
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6358.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN ALYOUM"  ,OSN ALYOUM
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6359.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN H2 HD"  ,OSN H2 HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6325.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN E! Entertainment HD"  ,OSN E! Entertainment HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6338.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN History Channel HD"  ,OSN History Channel HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6326.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Crime & Investigation"  ,OSN Crime & Investigation
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6324.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Animal Planet HD"  ,OSN Animal Planet HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6335.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Nat Geo HD"  ,OSN Nat Geo HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6334.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Nat GEO Wild HD"  ,OSN Nat GEO Wild HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6333.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN NAT GEO People HD"  ,OSN NAT GEO People HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6332.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Discovery Family HD"  ,OSN Discovery Family HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6328.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Discovery Channel HD"  ,OSN Discovery Channel HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6331.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Discovery Science HD"  ,OSN Discovery Science HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6330.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Travel"  ,OSN Travel
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6327.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Movies Kids HD"  ,OSN Movies Kids HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6367.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Nick JR"  ,OSN Nick JR
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6319.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Disney XD"  ,OSN Disney XD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6321.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Disney Junior"  ,OSN Disney Junior
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6320.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Disney Channel HD"  ,OSN Disney Channel HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6322.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN VH-1"  ,OSN VH-1
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6300.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN TLC HD"  ,OSN TLC HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6343.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Fight Network HD"  ,OSN Fight Network HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6313.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN WWE Network"  ,OSN WWE Network
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6312.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="OSN Sports Cricket HD"  ,OSN Sports Cricket HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6306.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="--------MyHD H264--------"  ,--------MyHD H264--------
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11349.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="MBC 2 HD" tvg-name="MBC 2 HD '"  ,MBC 2 HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11332.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC MAX HD '"  ,MBC MAX HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11333.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC ACTION HD '"  ,MBC ACTION HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11335.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC 1 HD '"  ,MBC 1 HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11352.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC 4 HD '"  ,MBC 4 HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11331.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC DRAMA HD '"  ,MBC DRAMA HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11336.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC BOLLYWOOD HD '"  ,MBC BOLLYWOOD HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11334.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Fox Rewayat HD '"  ,Fox Rewayat HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11355.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="FX HD '"  ,FX HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11354.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Fox Crime HD '"  ,Fox Crime HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11358.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Fox Action Movies HD '"  ,Fox Action Movies HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11359.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Fox Family Movies HD '"  ,Fox Family Movies HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11357.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="My Cinema HD '"  ,My Cinema HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11330.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="FilmBox HD '"  ,FilmBox HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11338.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="FilmBox Arthouse '"  ,FilmBox Arthouse '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11339.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Cinemachi Movies HD '"  ,Cinemachi Movies HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11362.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Star Movies HD '"  ,Star Movies HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11325.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="My Zen TV HD '"  ,My Zen TV HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11329.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="FAST & FUN HD '"  ,FAST & FUN HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11340.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Docu box HD '"  ,Docu box HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11342.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Planet Earth HD '"  ,Planet Earth HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11326.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="NAT GEO WILD HD '"  ,NAT GEO WILD HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11327.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="National Geographic HD '"  ,National Geographic HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11328.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Discovery Science HD '"  ,Discovery Science HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11361.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="ITV Choice HD '"  ,ITV Choice HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11353.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="MBC 3 HD '"  ,MBC 3 HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11351.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="TIJI '"  ,TIJI '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11324.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Duck TV '"  ,Duck TV '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11360.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Gulli Bil Arabie '"  ,Gulli Bil Arabie '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11337.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Cinemachi kids HD '"  ,Cinemachi kids HD '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11343.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Fix & Foxi '"  ,Fix & Foxi '
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11356.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="--------KIDS--------"  ,--------KIDS--------
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6249.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="MBC 3" tvg-name="MBC 3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mbc3.jpg" ,MBC 3
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3014.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"tvg-id="MBC 3" tvg-name="MBC 3 HD" tvg-logo="http://www.electro-tunis.tn/img/cms/mbc3.png" ,MBC 3 HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3013.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Cartoon Network Arabic"  ,Cartoon Network Arabic
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6376.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN Baraem" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baraem.jpg" ,beIN Baraem
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3012.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Bein Junior"  ,Bein Junior
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/2960.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN DreamWorks"  ,beIN DreamWorks
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9495.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Toyor Al Janah" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/toyor_al_janah.jpg" ,Toyor Al Janah
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3008.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="SpaceToon Arabic" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/spacetoon.jpg" ,SpaceToon Arabic
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3010.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Toyor Baby" tvg-logo="https://photosarab.com/wp-content/uploads/2016/09/22122014-104024PM.png" ,Toyor Baby
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3009.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Nat Geo KIDS"  ,Nat Geo KIDS
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8268.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="beIN Baby"  ,beIN Baby
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9283.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Tom And Jerry"  ,Tom And Jerry
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3017.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="HodHod TV" tvg-logo="https://yt3.ggpht.com/-youoOhRFauc/AAAAAAAAAAI/AAAAAAAAAAA/SjS-5M8VbpQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" ,HodHod TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3005.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Mickey Channel" tvg-logo="http://www.sat-address.com/f/pics/Stations/Mickey-Channel_o.jpg" ,Mickey Channel
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3066.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Majid Kids TV" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/17be6028827615.55d4566e97b60.png" ,Majid Kids TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3007.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Mody Kids"  ,Mody Kids
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4325.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Fix Foxi"  ,Fix Foxi
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8174.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Jeem TV" tvg-logo="https://2.bp.blogspot.com/--S-DeGvqRAg/WRyfY5wYLpI/AAAAAAAAGLU/yC70XhXSm38-LjDpx6C0ZXZKwqbEYuLHwCLcB/s1600/jeem_tv_qa.png" ,Jeem TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3003.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="KOKKY TV"  ,KOKKY TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4412.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="TAHA"  ,TAHA
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4362.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="KARAMEESH" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/karameesh.jpg" ,KARAMEESH
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3006.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="S7T Cartoon"  ,S7T Cartoon
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8623.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Atfal Channel TV"  ,Atfal Channel TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9337.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4" tvg-name="Ajial"  ,Ajial
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4221.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
