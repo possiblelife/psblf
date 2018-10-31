@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,11/09/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,31/10/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -31,25 +31,27 @@ https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:1 group-title="Documentary/Entertainment", 
 
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://wba-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Animal-Planet-logo.jpg",Animal Planet (Wuffy Player)
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://wba-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Animal-Planet-logo.jpg",Animal Planet (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1251.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://wba-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Animal-Planet-logo.jpg",Animal Planet
+http://5.56.29.95:1234/udp/239.254.0.49
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://wba-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Animal-Planet-logo.jpg",Animal Planet
 http://37.194.121.4:1234/udp/239.1.5.3:1234 
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/misc/National-Geographic-Logo.jpg",National Geographic (Wuffy Player)
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/misc/National-Geographic-Logo.jpg",National Geographic (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1195.m3u8$http-refferer=http://localhost
 #EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/misc/National-Geographic-Logo.jpg",National Geographic
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://media.marketwire.com/attachments/201111/35566_NatGeoLogo.jpg",NATGEO WILD (Wuffy Player)
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://media.marketwire.com/attachments/201111/35566_NatGeoLogo.jpg",NATGEO WILD (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1193.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery (Wuffy Player)
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1133.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",DISCOVERY
-http://74.81.71.186:4000/live/138/138.m3u8
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery Channel
+http://5.56.29.95:1234/udp/239.254.0.56
 #EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery Channel
 http://37.194.121.4:1234/udp/239.1.5.1:1234 
 #EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://dune-hd.com/resources/support/misc/tv_channels_icons/channel_48.1319735745.png",Discovery World
 http://37.194.121.4:1234/udp/239.1.5.2:1234 
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://4.bp.blogspot.com/-KFrx1NgKR9A/TZuiubLiRrI/AAAAAAAAA3I/faOXkdD5JvU/s320/Science+morph+logo+2011.jpg",Discovery Science (Wuffy Player)
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://4.bp.blogspot.com/-KFrx1NgKR9A/TZuiubLiRrI/AAAAAAAAA3I/faOXkdD5JvU/s320/Science+morph+logo+2011.jpg",Discovery Science (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1271.m3u8$http-refferer=http://localhost
 #EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="http://4.bp.blogspot.com/-KFrx1NgKR9A/TZuiubLiRrI/AAAAAAAAA3I/faOXkdD5JvU/s320/Science+morph+logo+2011.jpg",Discovery Science
 http://37.194.121.4:1234/udp/239.1.5.9:1234 
@@ -102,15 +104,15 @@ http://37.194.182.58:81/udp/239.1.3.2:1234
 http://91.149.172.100:80/channel?id=25&u=demo&p=demo 
 #EXTINF:-1 group-title="KIDS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/200px-Boomerang_tv_logo.png",Boomerang 
 http://91.149.172.100:80/channel?id=119&u=demo&p=demo 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/200px-Boomerang_tv_logo.png",Boomerang (Wuffy Player)
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/200px-Boomerang_tv_logo.png",Boomerang (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1128.m3u8$http-refferer=http://localhost
 #EXTINF:0 group-title="KIDS" tvg-logo="http://onlinetv1.ru/wp-content/uploads/2018/02/bhp.png",Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
-#EXTINF:-1 group-title="KIDS" tvg-logo="http://onlinetv1.ru/wp-content/uploads/2018/02/bhp.png",Cartoon Network (Wuffy Player)
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://onlinetv1.ru/wp-content/uploads/2018/02/bhp.png",Cartoon Network (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1264.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://apprecs.org/ios/images/app-icons/256/67/529997671.jpg",Disney Channel (Wuffy Player)
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://apprecs.org/ios/images/app-icons/256/67/529997671.jpg",Disney Channel (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1272.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_Disney_XD_Actualixado.png",Disney XD  (Wuffy Player)
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_Disney_XD_Actualixado.png",Disney XD  (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1273.m3u8$http-refferer=http://localhost
 #EXTINF:0 group-title="KIDS" tvg-logo="http://www.fotoseimagenes.net/imagenes/full/0/26/0/nickelodeon-latinoamerica-1.jpg",Nickelodeon
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
@@ -120,9 +122,9 @@ http://91.149.172.100:80/channel?id=87&u=demo&p=demo
 http://91.149.172.100:80/channel?id=76&u=demo&p=demo 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ff/25/54/ff2554ca-e6ca-9337-a90c-73c72d9a70ad/mzl.iddssfzk.png/246x0w.jpg",Talking TOM
 https://www.youtube.com/watch?v=66K0g6W4JU4
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.regularcapital.com/wp-content/uploads/2015/02/CartoonitoHeader.jpg",Cartoonito
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.regularcapital.com/wp-content/uploads/2015/02/CartoonitoHeader.jpg",Cartoonito (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1211.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://childrens-web.files.bbci.co.uk/cbeebies/www/assets/c56cdb3/images/programme-availability/logo.png",Cbeebies
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://childrens-web.files.bbci.co.uk/cbeebies/www/assets/c56cdb3/images/programme-availability/logo.png",Cbeebies (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1201.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://www.lagardere-global-advertising.com/var/plain_site/storage/images/all-brands/tiji/2576-3-fre-FR/Tiji_image220.png",TiJi (RU)
 http://37.194.121.4:1234/udp/239.1.3.6:1234 
@@ -476,15 +478,15 @@ http://bit.ly/2l0o6Os
 http://91.149.172.100:80/channel?id=93&u=demo&p=demo 
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/4/4a/Paramoun_Comedy_Channel_2000.png",Paramount Comedy 
 http://91.149.172.100:80/channel?id=90&u=demo&p=demo 
-#EXTINF:-1 group-title="Cinema" tvg-logo="http://www.logotypes101.com/logos/842/722FA648C176AC694B93340552CC9A97/hbocomedy.png",HBO Comedy (wuffy Player)
+#EXTINF:-1 group-title="Cinema" tvg-logo="http://www.logotypes101.com/logos/842/722FA648C176AC694B93340552CC9A97/hbocomedy.png",HBO Comedy (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/977.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Cinema" tvg-logo="https://pipul.tv/wp-content/uploads/2017/05/hbo-east.png",HBO East (wuffy Player)
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://pipul.tv/wp-content/uploads/2017/05/hbo-east.png",HBO East (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/978.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Cinema" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/HBO_HD_new_logo.png",HBO HD (wuffy Player)
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/HBO_HD_new_logo.png",HBO HD (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/979.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Cinema" tvg-logo="https://www.gmkfreelogos.com/logos/H/img/HBO_Signature.gif",HBO Signature (wuffy Player)
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://www.gmkfreelogos.com/logos/H/img/HBO_Signature.gif",HBO Signature (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/980.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png",HBO Zone (wuffy Player)
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png",HBO Zone (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/981.m3u8$http-refferer=http://localhost
 
 
