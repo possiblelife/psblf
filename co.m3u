@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,02/11/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,03/11/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -360,7 +360,8 @@ http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 group-title="Greece-SERVER2" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/manaellada.png" ,==GREECE==
 http://..........
 
-
+#EXTINF:-1 group-title="Greece-SERVER2" tvg-logo="https://www.greektvlive.info/wp-content/uploads/2015/06/ert-hd-150x150.png" ,ERT HD
+http://5.135.92.138:31783/out/u/583_1.m3u8
 #EXTINF:-1 group-title="Greece-SERVER2" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 HD
 http://5.135.92.138:40327/out/u/atsykmssuyrsyhth.m3u8
 
@@ -379,27 +380,28 @@ http://5.135.92.138:40327/out/u/atsykmssuyrsyhth.m3u8
 
 #EXTINF:-1 group-title="Greece-SERVER3",
 
-#EXTINF:-1 group-title="Greece-SERVER3" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/manaellada.png" ,==GREECE==
-http://..........
-
-#EXTINF:-1 group-title="Greece-SERVER3" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg" ,ALPHA
-http://e2.iudtv.org:8080/live/tura/123456/855.m3u8
-#EXTINF:-1 group-title="Greece-SERVER3", Nickelodeon
-http://e2.iudtv.org:8080/live/tura/123456/859.m3u8
-#EXTINF:-1 group-title="Greece-SERVER3" tvg-logo="https://www.greektvlive.info/wp-content/uploads/2015/06/ert-hd-150x150.png" ,ERT HD
-http://e2.iudtv.org:8080/live/tura/123456/872.m3u8
-#EXTINF:-1 group-title="Greece-SERVER3" tvg-logo="https://goo.gl/hD0NSD" ,ERT1
-http://e2.iudtv.org:8080/live/tura/123456/871.m3u8
-#EXTINF:-1 group-title="Greece-SERVER3" tvg-logo="https://goo.gl/quc9Qp" ,ERT2
-http://e2.iudtv.org:8080/live/tura/123456/866.m3u8
-#EXTINF:-1 group-title="Greece-SERVER3" tvg-logo="https://goo.gl/FOIiN8" ,ERT3
-http://e2.iudtv.org:8080/live/tura/123456/865.m3u8
-#EXTINF:-1 group-title="Greece-SERVER3" tvg-logo="https://goo.gl/z2xi2U" ,STAR
-http://e2.iudtv.org:8080/live/tura/123456/848.m3u8
-#EXTINF:-1 group-title="Greece-SERVER3" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI
-http://e2.iudtv.org:8080/live/tura/123456/850.m3u8
-#EXTINF:-1 group-title="Greece-SERVER3" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV 
-http://e2.iudtv.org:8080/live/tura/123456/869.m3u8
+#EXTINF:-1 group-title="Greece-SERVER3" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg",Alpha Tv
+http://formen1.com:8080/live/tahsinak/aktahsin/15965.m3u8
+#EXTINF:-1 group-title="Greece-SERVER3" tvg-logo="https://goo.gl/q5aDRg",Ant1
+http://formen1.com:8080/live/tahsinak/aktahsin/15964.m3u8
+#EXTINF:-1 group-title="Greece-SERVER3",Channel 9
+http://formen1.com:8080/live/tahsinak/aktahsin/15963.m3u8
+#EXTINF:-1 group-title="Greece-SERVER3" tvg-logo="https://goo.gl/quc9Qp",Ept2
+http://formen1.com:8080/live/tahsinak/aktahsin/15961.m3u8
+#EXTINF:-1 group-title="Greece-SERVER3" tvg-logo="https://goo.gl/FOIiN8",Ept3
+http://formen1.com:8080/live/tahsinak/aktahsin/15960.m3u8
+#EXTINF:-1 group-title="Greece-SERVER3" tvg-logo="https://goo.gl/hD0NSD",Etp1
+http://formen1.com:8080/live/tahsinak/aktahsin/15962.m3u8
+#EXTINF:-1 group-title="Greece-SERVER3",Kontra Tv
+http://formen1.com:8080/live/tahsinak/aktahsin/15959.m3u8
+#EXTINF:-1 group-title="Greece-SERVER3",Makedonia Tv
+http://formen1.com:8080/live/tahsinak/aktahsin/15958.m3u8
+#EXTINF:-1 group-title="Greece-SERVER3",Nickelodeon
+http://formen1.com:8080/live/tahsinak/aktahsin/15956.m3u8
+#EXTINF:-1 group-title="Greece-SERVER3" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg",Skai Greece
+http://formen1.com:8080/live/tahsinak/aktahsin/15955.m3u8
+#EXTINF:-1 group-title="Greece-SERVER3" tvg-logo="https://goo.gl/m1ZYJB",Vouli Tv
+http://formen1.com:8080/live/tahsinak/aktahsin/15954.m3u8
 
 
 
@@ -11795,285 +11797,6 @@ http://prima.janberyan.giize.com/135.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-gi
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",
 
-
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",▼▲▼ ◉ BEIN ENTRAINMENT ◉ ▼▲▼
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3794.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Sériés_1_HD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3799.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Movies_4_HD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3798.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Movies_1_HD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3795.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Movies_2_HD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3796.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Movies_3_HD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3797.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Gourmet_HD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3802.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Fatafeat_HD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3801.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_AMC_HD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3800.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",▼▲▼ ◉ BEIN SPORTS ◉ ▼▲▼
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3785.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Sports_1_HD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3786.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Sports_2_HD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3787.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Sports_3_HD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3788.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Sports_4_HD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3789.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Sports_5_HD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3790.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Sports_6_HD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3791.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Sports_7_HD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3792.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Sports_8_HD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3793.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 1 SD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3419.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 2 SD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3420.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 3 SD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3421.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 4 SD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3422.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 5 SD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3423.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 6 SD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3424.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 7 SD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3425.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 8 SD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3426.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",≦≧◉PS SPORTS◉≦≧
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3603.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Watar Sports HD 1
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3574.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",pnn tv tv sd
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3571.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",kolnas tv hd
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3568.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",falcon Sports sd
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3576.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",aso Sports sd
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3577.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",alsalam tv hd
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3569.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Alfajertv tv hd
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3570.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ajeyel tv hd
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3567.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",byaban Sports sd
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3575.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",bethlam tv hd
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3565.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",≦≧◉ FRENCH ◉≦≧
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3088.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TF1
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3378.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ARTE
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3380.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",L'Equipe 21
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3385.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",La Une
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3391.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",La Deux
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3392.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",La Trois
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3393.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Canal+
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3394.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Animal Planet
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3386.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",nrj12
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3383.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NRJ HITS
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3387.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",RT France
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3388.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Disney XD
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3389.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Disney Cinéma
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3390.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",cherie25
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3382.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BFM Paris
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3384.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",≦≧◉ ISLAMIC ◉≦≧
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3480.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",makkahtv
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3483.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",QURAN
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3482.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",SUNNA tv
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3481.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",≦≧◉ KIDS ◉≦≧
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3485.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",CN Arabic
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3489.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",tyor
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3486.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",spacetoon
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3487.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",smsem
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3490.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",≦≧◉ SYRIA & LEBNON ◉≦≧
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3492.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Syria tv 1
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3496.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",syria  TV
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3494.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LBC tv
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3506.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Lana tv
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3505.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AL  JADEED
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3498.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",M T V 2
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3500.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",M T V
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3499.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",teleliban
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3507.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OTV
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3503.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NBN Lebanon
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3501.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AL oriennews
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3497.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Future TV
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3493.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",≦≧◉ ARABIC ◉≦≧
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2383.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",DUBAI TV
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2518.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",dubaizaman
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2520.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Dubai sama
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2521.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",DUBAI one
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2517.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Al Jazeera Documentary
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2506.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Quest Arabic
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2508.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Nat Geo Wild eng
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2510.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Al Aan TV
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2552.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",2m morco
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2448.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",zeealwann hd
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3532.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",zeeaflaam hd
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3531.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",suadi alkashibre
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3529.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",suadi 2
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3528.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",SharjahTV kalbla
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3513.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",SharjahTV
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3512.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MehwarTV
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3534.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ROTANA music
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3537.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Rotana Khalijia
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3539.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Rotana Drama
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3538.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Rotana clip
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3536.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ROTANA clasic
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3535.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ROTANA Cinema
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3541.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Rotana aflamm
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3540.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OM Oman TV 4
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3525.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OM Oman TV 3
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3524.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KTV Plus
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3522.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KTV Ethraa
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3520.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KTV Al Majlis
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3523.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KTV 2
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3519.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Dubai Noor Dubai TV
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3508.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",dmc dreame
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3546.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",DMC
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3547.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",cbc dreame
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3545.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",CBC
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3533.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ayat
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3484.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",alshrqye
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3526.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",alrayyan 2
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3517.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",alrayyan 1
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3516.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Alaan.tv
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3515.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Hura
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2437.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Al Rai
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2528.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Russia Today
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2499.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",EchoroukTV
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2457.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",el-nahar-tv
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2458.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",≦≧◉ SPORTS ◉≦≧
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2349.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Abu Dhabi Sports
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3585.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Abu Dhabi Sports 2
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3589.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",DUBAI SPORTS
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2542.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Al Sharjah sport
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2540.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Oman sports
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2543.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",eleven sport 1
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3605.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",eleven sport 2
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3604.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Sharjah Sports
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2547.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Al Kass Sports
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3593.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Al Kass Sports 2
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2544.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Al Kass Sports 3
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2545.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Al Kass Sports 4
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3594.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Al Kass Sports 5
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2546.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",≦≧◉ NEWS ◉≦≧
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2351.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Aljazeera Mubasher
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2504.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ALJAZEERA (ARABIA)
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2493.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Al Arabiya
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2498.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Medi1tvmaghreb
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2454.m3u8
 
 
 
