@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,04/11/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,05/11/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -149,6 +149,8 @@ https://www.youtube.com/watch?v=bVREmAZt6i0
 https://www.youtube.com/watch?v=-OSoL74Gi0U
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8
+#EXTINF:-1 group-title="Greece" tvg-name="MEGA" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA
+https://www.youtube.com/watch?v=oJbm78ZoMj4
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI Youtube
 https://www.youtube.com/watch?v=sMYwWQHesuc
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI Youtube 2
