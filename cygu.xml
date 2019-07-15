@@ -1,62 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="" generator-info-url="11">
+<tv generator-info-name="" generator-info-url="">
+<tv generator-info-name="1" generator-info-url="">
   <channel id="rik1">
     <display-name lang="el">Rik1</display-name>
     <icon src="http://primetel.com.cy/tvg/logos/28.png" />
+    <url>http://www.primetel.com.cy</url>
   </channel>
   <channel id="rik2">
     <display-name lang="el">Rik2</display-name>
     <icon src="http://primetel.com.cy/tvg/logos/33.png" />
+    <url>http://www.primetel.com.cy</url>
   </channel>
   <channel id="Mega">
     <display-name lang="el">OMega</display-name>
     <icon src="http://primetel.com.cy/tvg/logos/32.png" />
+    <url>http://www.primetel.com.cy</url>
   </channel>
   <channel id="ANT1">
     <display-name lang="el">ANT1</display-name>
     <icon src="http://primetel.com.cy/tvg/logos/31.png" />
+    <url>http://www.primetel.com.cy</url>
   </channel>
   <channel id="Sigma">
     <display-name lang="el">Sigma</display-name>
     <icon src="http://primetel.com.cy/tvg/logos/30.png" />
+    <url>http://www.primetel.com.cy</url>
   </channel>
   <channel id="Plus TV">
     <display-name lang="el">Plus TV</display-name>
     <icon src="http://primetel.com.cy/tvg/logos/201.png" />
+    <url>http://www.primetel.com.cy</url>
   </channel>
   <channel id="Extra TV">
     <display-name lang="el">Extra TV</display-name>
     <icon src="http://primetel.com.cy/tvg/logos/777485.png" />
+    <url>http://www.primetel.com.cy</url>
   </channel>
   <channel id="Capital">
     <display-name lang="el">Capital</display-name>
     <icon src="http://primetel.com.cy/tvg/logos/219.png" />
+    <url>http://www.primetel.com.cy</url>
   </channel>
   <channel id="Alpha Cyprus">
     <display-name lang="el">Alpha Cyprus</display-name>
     <icon src="http://primetel.com.cy/tvg/logos/295.png" />
+    <url>http://www.primetel.com.cy</url>
   </channel>
   <channel id="ert">
     <display-name lang="el">ErtWorld</display-name>
     <icon src="http://primetel.com.cy/tvg/logos/255.png" />
+    <url>http://www.primetel.com.cy</url>
   </channel>
   <channel id="TV Mall">
     <display-name lang="el">TV Mall</display-name>
     <icon src="http://primetel.com.cy/tvg/logos/305.png" />
+    <url>http://www.primetel.com.cy</url>
   </channel>
   <channel id="RIK HD">
     <display-name lang="el">RIK HD</display-name>
     <icon src="http://primetel.com.cy/tvg/logos/1142718.png" />
+    <url>http://www.primetel.com.cy</url>
   </channel>
   <channel id="Euronews">
     <display-name lang="el">Euronews</display-name>
     <icon src="http://primetel.com.cy/tvg/logos/18.png" />
+    <url>http://www.primetel.com.cy</url>
   </channel>
     <channel id="smile">
     <display-name lang="el">Smile</display-name>
+    <url>http://www.cyta.com.cy</url>
   </channel>
     <channel id="ART TV">
     <display-name lang="el">ART TV</display-name>
+    <url>http://www.digea.gr</url>
   </channel>
    <programme start="20190715070000 +0300" stop="20190715080000 +0300" channel="ART TV">
     <title lang="el">Μη Μου Πεις (Ε)</title>
