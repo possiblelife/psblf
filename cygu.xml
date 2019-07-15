@@ -65,6 +65,547 @@
     <icon src="http://primetel.com.cy/tvg/logos/18.png" />
     <url>http://www.primetel.com.cy</url>
   </channel>
+  
+      <programme start="20190715014000 +0300" stop="20190715024000 +0300" channel="Mega">
+    <title lang="el">Hannibal</title>
+    <desc lang="el">Ξένη σειρα(n)</desc>
+  </programme>
+  <programme start="20190715024000 +0300" stop="20190715050000 +0300" channel="Mega">
+    <title lang="el">Dansing Junior</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή(n)</desc>
+  </programme>
+  <programme start="20190715050000 +0300" stop="20190715060000 +0300" channel="Mega">
+    <title lang="el">Una Fatsa</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή(n)</desc>
+  </programme>
+  <programme start="20190715060000 +0300" stop="20190715070000 +0300" channel="Mega">
+    <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ</title>
+    <desc lang="el">Δελτίο Ειδήσεων(n)</desc>
+  </programme>
+  <programme start="20190715070000 +0300" stop="20190715100000 +0300" channel="Mega">
+    <title lang="el">ΕΝΗΜΕΡΩΣΗ</title>
+    <desc lang="el">Ενημερωτική εκπομπή(n)</desc>
+  </programme>
+  <programme start="20190715100000 +0300" stop="20190715110000 +0300" channel="Mega">
+    <title lang="el">ΚΑΛΟΚΑΙΡΙ #NOT</title>
+    <desc lang="el">Ποιος είπε ότι το καλοκαίρι είναι μόνο παραλίες, ηλιοθεραπείες, ρακέτες και βόλτες σε γραφικά νησιώτικα σοκάκια; Υπάρχει μια παρέα που θα περάσει το δικό της διαφορετικό καλοκαίρι, ένα "Καλοκαίρι... #not", κάθε πρωί στις 10, στο OMEGA. Η Κατερίνα Ζαρίφη,  ο Παύλος Σταματόπουλος και ο Ηλίας Γκότσης, θα γίνουν τα πιο δροσερά φιλαράκια μας, σε μια εκπομπή που έχει ένα και μόνο σκοπό: Να μας φτιάχνει τη μέρα!(n)</desc>
+  </programme>
+  <programme start="20190715110000 +0300" stop="20190715133000 +0300" channel="Mega">
+    <title lang="el">ΕΝΗΜΕΡΩΣΗ ΤΩΡΑ</title>
+    <desc lang="el">Με τον Ονούφριο Σωκράτους(n)</desc>
+  </programme>
+  <programme start="20190715133000 +0300" stop="20190715150000 +0300" channel="Mega">
+    <title lang="el">ΕΛΑ ΝΑ ΔΕΙΣ</title>
+    <desc lang="el">Με τον Τάσο Θεοδώρου και τον Αλέξανδρο Ταραμουντά(n)</desc>
+  </programme>
+  <programme start="20190715150000 +0300" stop="20190715165000 +0300" channel="Mega">
+    <title lang="el">ΓΙΑ ΤΗΝ ΠΑΡΕΑ - BEST OF</title>
+    <desc lang="el">Με τον Νίκο Μουτσινά(n)</desc>
+  </programme>
+  <programme start="20190715165000 +0300" stop="20190715174000 +0300" channel="Mega">
+    <title lang="el">MONEY DROP</title>
+    <desc lang="el">Με τη Βίκυ Σταυροπούλου(n)</desc>
+  </programme>
+  <programme start="20190715174000 +0300" stop="20190715180000 +0300" channel="Mega">
+    <title lang="el">Shopping Star</title>
+    <desc lang="el">Με τη Βίκυ Καγιά(n)</desc>
+  </programme>
+  <programme start="20190715180000 +0300" stop="20190715181000 +0300" channel="Mega">
+    <title lang="el">Omega News</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων(n)</desc>
+  </programme>
+  <programme start="20190715181000 +0300" stop="20190715190000 +0300" channel="Mega">
+    <title lang="el">Shopping Star</title>
+    <desc lang="el">Με τη Βίκυ Καγιά(n)</desc>
+  </programme>
+  <programme start="20190715190000 +0300" stop="20190715201000 +0300" channel="Mega">
+    <title lang="el">Ο ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ</title>
+    <desc lang="el">Με τον Πέτρο Πολυχρονίδη(n)</desc>
+  </programme>
+  <programme start="20190715201000 +0300" stop="20190715210500 +0300" channel="Mega">
+    <title lang="el">Omega News</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων(n)</desc>
+  </programme>
+  <programme start="20190715220000 +0300" stop="20190716001000 +0300" channel="Mega">
+    <title lang="el">COUNTRY STRONG</title>
+    <desc lang="el">Μουσική ταινία - Ενας ανερχόμενος συνθέτης της κάντρι συνεργάζεται με μία άλλοτε επιτυχημένη τραγουδίστρια και μαζί βαδίζουν προς τη δόξα. Η ταινία προτάθηκε για Οσκαρ &amp; Χρυσή Σφαίρα Καλύτερου Τραγουδιού. (Γκουίνεθ Πάλτροου, Γκάρετ Χέντλαντ) 2010, 113' - A rising country music songwriter works with a fallen star and together they pave their way for a glorious comeback... The film won both an Oscar and a Golden Globe nomination for Best Song. (Gwyneth Paltrow, Garrett Hedlund) 2010, 113'(n)</desc>
+  </programme>
+  <programme start="20190715210500 +0300" stop="20190715220500 +0300" channel="Mega">
+    <title lang="el">ΠΕΝΗΝΤΑ ΠΕΝΗΝΤΑ</title>
+    <desc lang="el">Η σειρά αφηγείται τη ζωή των τριών ζευγαριών. Αυτοί είναι ο Νικηφόρος και η Ελισάβετ, ο Μίμης και η Ξανθίππη και ο Παύλος και η Ειρήνη. Επίσης, παρουσιάζονται η εξωσυζυγική σχέση του Παύλου με τη νεαρή γυμνάστρια, Μαρία, η σχέση της Ναταλίας (κόρης του Νικηφόρου και της Ελισάβετ) με τον Αχιλλέα, και η σχέση του Κίμωνα (γιου του Μίμη) με την Βίβιαν(n)</desc>
+  </programme>
+  <programme start="20190715220500 +0300" stop="20190715230500 +0300" channel="Mega">
+    <title lang="el">ΣΤΟ ΠΑΡΑ ΠΕΝΤΕ</title>
+    <desc lang="el">5 άνθρωποι, άγνωστοι μεταξύ τους, βρίσκονται τη λάθος στιγμή στο λάθος σημείο(n)</desc>
+  </programme>
+  <programme start="20190715011000 +0300" stop="20190715020000 +0300" channel="ANT1">
+    <title lang="el">ΤΡΙΧΕΣ</title>
+    <desc lang="el">Ένα κωμικό και σατυρικό σχόλιο, το οποίο μέσα από την εύθυμη πλευρά της κωμωδίας, προβάλλει όσα συμβαίνουν στο περίφημο κομμωτήριο "Sex &amp; The Hair". Εκεί όπου άντρες και γυναίκες κάθονται για ένα γρήγορο καλλωπισμό και μπροστά στο πιστολάκι των κομμωτών ανοίγουν την ψυχή τους. Έτσι, το κομμωτήριο μετατρέπεται σε "εξομολογητήριο" και γίνεται ο καθρέφτης της εποχής μας(n)</desc>
+  </programme>
+  <programme start="20190715020000 +0300" stop="20190715025000 +0300" channel="ANT1">
+    <title lang="el">ΤΑ ΜΑΧΑΙΡΩΜΑΤΑ</title>
+    <desc lang="el">H Kαίτη μια απλή λογίστρια και μάνα ενός αγοριού που μεγαλώνει μόνη της, κληρονομεί ένα καμπαρέ. Αφοσιώνεται διστακτικά στη νέα καριέρα της και βρίσκεται ανάμεσα σε δυο άντρες. Ποιος θα την κερδίσει, ο πανούργος άνθρωπος της νύχτας ή ο καλοκάγαθος αστυνομικός;(n)</desc>
+  </programme>
+  <programme start="20190715025000 +0300" stop="20190715034000 +0300" channel="ANT1">
+    <title lang="el">Ο ΓΗΤΕΥΤΗΣ</title>
+    <desc lang="el">Ο Άρης και ο Σταύρος. Δυο άντρες που η μοίρα τους έφερε αντιμέτωπους από την παιδική τους ηλικία. Στη διαδρομή της ζωής τους, ο έρωτας που αναπτύχθηκε ανάμεσα στον Άρη και την αδελφή του Σταύρου λειτούργησε σαν δυναμίτης. Ο παράξενος θάνατος της μετέτρεψε τον Σταύρο σε διώκτη και τον Άρη σε φυγά με μοναδικό σκοπό να σώσει τη ζωή της κόρης του. Και οι δύο είναι ανυποχώρητοι και το παιχνίδι σκληρό. Μοναδικό όριο, ο θάνατος(n)</desc>
+  </programme>
+  <programme start="20190715034000 +0300" stop="20190715043000 +0300" channel="ANT1">
+    <title lang="el">ΤΑ ΝΕΑ ΤΟΥ ΑΝΤΕΝΝΑ</title>
+    <desc lang="el">ΤΑ ΝΕΑ ΤΟΥ ΑΝΤΕΝΝΑ ΚΥΠΡΟΥ αποτελούν την πρώτη επιλογή ενημέρωσης των πολιτών και δίνουν τον τόνο στις εξελίξεις(n)</desc>
+  </programme>
+  <programme start="20190715043000 +0300" stop="20190715052000 +0300" channel="ANT1">
+    <title lang="el">ΠΡΕΜΙΕΡΑ</title>
+    <desc lang="el">Η Πρεμιέρα είναι η ιστορία της Αθηνάς. Μιας μεγάλης ηθοποιού, που τώρα στα τελευταία της αναπωλεί το ταξίδι που την έφερε στην καταξίωση και την αναγνώριση. Στη σειρά ξεδιπλώνεται η ζωή της θρυλικής Αθηνάς Μακρή, μια ζωή γεμάτη πόνο, έρωτα, πόθο και δόξα..(n)</desc>
+  </programme>
+  <programme start="20190715052000 +0300" stop="20190715060000 +0300" channel="ANT1">
+    <title lang="el">SUPER ΜΠΑΜΠΑΣ</title>
+    <desc lang="el">H μεγαλύτερη αδυναμία του Ανδρέα δεν είναι μια, αλλά..τρεις! Οι τρεις κόρες του, δέκα, δεκατεσσάρων και δεκαεννέα ετών, είναι ό,τι πολυτιμότερο έχει. Τις λατρεύει, αλλά με τις απαιτήσεις και τις ανησυχίες τους, τους προβληματισμούς και τις πρώτες αθώες ερωτικές ιστορίες τους, μπορούν να τον τρελάνουν(n)</desc>
+  </programme>
+  <programme start="20190715060000 +0300" stop="20190715063000 +0300" channel="ANT1">
+    <title lang="el">ΠΡΩΙΝΗ ΕΝΗΜΕΡΩΣΗ</title>
+    <desc lang="el">ΕΝΗΜΕΡΩΤΙΚΗ ΕΚΠΟΜΠΗ(n)</desc>
+  </programme>
+  <programme start="20190715063000 +0300" stop="20190715081000 +0300" channel="ANT1">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <desc lang="el">Ελληνική δραματική σειρά, παραγωγής 2013-2017(n)</desc>
+  </programme>
+  <programme start="20190715081000 +0300" stop="20190715090000 +0300" channel="ANT1">
+    <title lang="el">ΟΤΙ ΑΓΑΠΗΣΑ</title>
+    <desc lang="el">Στις 20 Ιουλίου 1974, λίγο πριν αρχίσει η τουρκική εισβολή, ο Φίλιππος Αριστοδήμου,μπήκε στο σπίτι του μεθυσμένος και άθελά του σκότωσε τη σύζυγό του. Λίγα λεπτά αργότερα άρχισαν να πέφτουν οι πρώτες τουρκικές οβίδες και από τότε η Σοφία είναι αγνοούμενη. Η συμφορά του πολέμου σκέπασε το μυστικό, μόνο ένας άνθρωπος το γνωρίζει και αυτός δεν είναι ο... Φίλιππος . Τριάντα εφτά χρόνια πέρασαν από τότε αλλά η μοίρα δεν έχει παίξει ακόμη την τελευταία πράξη του δράματος(n)</desc>
+  </programme>
+  <programme start="20190715090000 +0300" stop="20190715095000 +0300" channel="ANT1">
+    <title lang="el">ROUK ZOUK</title>
+    <desc lang="el">Τηλεπαιχνίδι, παρουσιάζει η Ζέτα Μακρυπούλια(n)</desc>
+  </programme>
+  <programme start="20190715095000 +0300" stop="20190715102000 +0300" channel="ANT1">
+    <title lang="el">ΜΑΜΜΑ ΜΙΑ</title>
+    <desc lang="el">Είναι η οικογένεια της διπλανής πόρτας. Ο πατέρας δημόσιος υπάλληλος, η μητέρα ελεύθερη επαγγελματίας, ο γιος φοιτητής όπως και το κορίτσι του, και μαζί τους η πλούσια, «αππωμένη» πεθερά μαζί με τον εκ Βουλγαρίας ... «μπάτλερ» της! Κάθε μέρα όλο κάτι θα προκύψει για να κρατά τους απλούς έως ... απλοϊκούς ήρωές μας σε ... κωμική εγρήγορση, αφού ακόμα κι οι γείτονες, ένα νεαρό, λαϊκό ζευγάρι, έρχονται να τους φορτώσουν κι αυτοί τα δικά τους «βάσανα»..(n)</desc>
+  </programme>
+  <programme start="20190715102000 +0300" stop="20190715111000 +0300" channel="ANT1">
+    <title lang="el">ΔΕΙΞΕ ΜΟΥ ΤΟ ΦΙΛΟ ΣΟΥ SUMMER EDITION</title>
+    <desc lang="el">Κυπριακή κωμική σειρά. Παίζουν: Γιώργος Ζένιος, Μάριος Δημητρίου, Κώστας Δημητρίου, Φώτης Γεωργίδης, Θέα Χριστοδουλίδου, Μαριάννα Σάντη, Πόπη Αβραάμ και Δημήτρης Ξύστρας(n)</desc>
+  </programme>
+  <programme start="20190715111000 +0300" stop="20190715114500 +0300" channel="ANT1">
+    <title lang="el">ΤΟ ΠΙΟ ΓΛΥΚΟ ΜΟΥ ΨΕΜΑ</title>
+    <desc lang="el">Μια δικηγόρος με λογοτεχνικές φιλοδοξίες και ένας γοητευτικός επαρχιώτης, είναι τα κεντρικά πρόσωπα αυτής της κωμωδίας. Η νομικός, στέλνει το βιβλίο της σε έναν εκδοτικό οίκο υπογράφοντας με αντρικό όνομα. Η εκδοτική εταιρία θέλει να "πουλήσει" την εικόνα ενός άντρα συγγραφέα-sex symbol. Έτσι η συγγραφέας αναγκάζεται να δώσει σάρκα και οστά στο ανύπαρκτο αυτό αρσενικό, με την βοήθεια του επαρχιώτη. Όταν μπαίνει στο παιχνίδι και ο έρωτας, όλα μπερδεύονται γλυκά..(n)</desc>
+  </programme>
+  <programme start="20190715114500 +0300" stop="20190715140000 +0300" channel="ANT1">
+    <title lang="el">ΜΕΡΑ ΜΕΣΗΜΕΡΙ</title>
+    <desc lang="el">Ενημερωτική εκπομπή, παρουσιάζει ο Νικήτας Κυριάκου(n)</desc>
+  </programme>
+  <programme start="20190715140000 +0300" stop="20190715145000 +0300" channel="ANT1">
+    <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title>
+    <desc lang="el">Η συνύπαρξη δύο διαφορετικών ανθρώπων είναι το θέμα της σειράς. Ο Κωνσταντίνος Κατακουζηνός είναι επίκουρος καθηγητής της Βυζαντινολογίας και γενικά μισάνθρωπος. Η Ελένη Βλαχάκου είναι μια χαρούμενη σερβιτόρα. Από τη συμβίωση των δυο άκρως αντίθετων χαρακτήρων δημιουργούνται διάφορα ευτράπελα. Τους ήρωές μας ενώνει κάτι κοινό, μια αδιόρατη ερωτική έλξη(n)</desc>
+  </programme>
+  <programme start="20190715145000 +0300" stop="20190715154000 +0300" channel="ANT1">
+    <title lang="el">ΘΑ ΒΡΕIΣ ΤΟ ΔΑΣΚΑΛΟ ΣΟΥ</title>
+    <desc lang="el">ΕΠ.1 Ο Θάνος, πρωτοδιόριστος καθηγητής-χημικός και η Μαρίζα, μαθήτρια της Γ΄ Λυκείου σε ιδιωτικό κολέγιο της Αθήνας. Στη ζωή του Θάνου υπάρχει η Μάγδα. Στην εταιρία που εργάζεται, είναι το δεξί χέρι του ιδιοκτήρη, του Ανέστη, πατέρα της Μαρίζας! Στη ζωή του Θάνου υπάρχει ακόμα και μια χήρα μάνα που μισεί τη Μάγδα. Όσο για τη Μαρίζα, στη ζωή της υπάρχει ο Φίλιππος. Υπάρχουν ακόμα η κολλητή της φίλη Άσπα, η θεοπάλαβη γιαγιά της, Λάρα και η σώφρων οικονόμος του σπιτιού, Φρόσω(n)</desc>
+  </programme>
+  <programme start="20190715154000 +0300" stop="20190715163000 +0300" channel="ANT1">
+    <title lang="el">ΟΙ ΣΥΜΜΑΘΗΤΕΣ</title>
+    <desc lang="el">Ελληνική κωμική σειρά(n)</desc>
+  </programme>
+  <programme start="20190715163000 +0300" stop="20190715172000 +0300" channel="ANT1">
+    <title lang="el">LA PASTA POMILώRI</title>
+    <desc lang="el">Ρομαντική κομεντί(n)</desc>
+  </programme>
+  <programme start="20190715172000 +0300" stop="20190715180000 +0300" channel="ANT1">
+    <title lang="el">ΕΣΥ... ΣΤΟΝ ΚΟΣΜΟ ΣΟΥ</title>
+    <desc lang="el">Ελληνική κωμική σειρά, παραγωγής 2005(n)</desc>
+  </programme>
+  <programme start="20190715180000 +0300" stop="20190715181000 +0300" channel="ANT1">
+    <title lang="el">ΤΑ ΝΕΑ ΣΕ 10'</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715181000 +0300" stop="20190715184000 +0300" channel="ANT1">
+    <title lang="el">...ΣΥΝΕΧΕΙΑ ΕΣΥ... ΣΤΟΝ ΚΟΣΜΟ ΣΟΥ</title>
+    <desc lang="el">Ελληνική κωμική σειρά, παραγωγής 2005(n)</desc>
+  </programme>
+  <programme start="20190715184000 +0300" stop="20190715202000 +0300" channel="ANT1">
+    <title lang="el">ΑΙΓΙΑ FUXIA</title>
+    <desc lang="el">Η ιστορία εκτυλίσσεται στο "Παλιοχώρι" (στη πραγματικότητα, "Φικάρδου"), ένα μικρό ορεινό χωριό της Κύπρου, 100 χρόνια πριν. Ο θεατής γίνεται μάρτυρας στις καθημερινές ιστορίες των κατοίκων, δοσμένες με κωμικό ύφος και αναφορές στη σύγχρονη κυπριακή πραγματικότητα, καυτηριάζοντας θεσμούς όπως η πολιτική και τα κόμματα, η εκκλησία-θρησκεία και τα Μέσα Μαζικής Ενημέρωσης, μέσα από διάφορους αναχρονισμούς και έμμεσες αναφορές(n)</desc>
+  </programme>
+  <programme start="20190715202000 +0300" stop="20190715212000 +0300" channel="ANT1">
+    <title lang="el">ΤΑ ΝΕΑ ΤΟΥ ΑΝΤΕΝΝΑ</title>
+    <desc lang="el">ΤΑ ΝΕΑ ΤΟΥ ΑΝΤΕΝΝΑ ΚΥΠΡΟΥ αποτελούν την πρώτη επιλογή ενημέρωσης των πολιτών και δίνουν τον τόνο στις εξελίξεις(n)</desc>
+  </programme>
+  <programme start="20190715212000 +0300" stop="20190715221500 +0300" channel="ANT1">
+    <title lang="el">LA PASTA POMILώRI</title>
+    <desc lang="el">Ρομαντική κομεντί(n)</desc>
+  </programme>
+  <programme start="20190715221500 +0300" stop="20190715231500 +0300" channel="ANT1">
+    <title lang="el">ΕΣΥ... ΣΤΟΝ ΚΟΣΜΟ ΣΟΥ</title>
+    <desc lang="el">Ελληνική κωμική σειρά, παραγωγής 2005(n)</desc>
+  </programme>
+  <programme start="20190715231500 +0300" stop="20190715232000 +0300" channel="ANT1">
+    <title lang="el">ΚΑΤΙ ΧΩΡΙΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ</title>
+    <desc lang="el">Ελληνική σειρά. Παίζουν: Μάριος Αθανασίου, Κώστας Κόκλας, Σπύρος Πούλης, Νίκος Μουτσινάς, Σταύρος Σβήγκος(n)</desc>
+  </programme>
+  <programme start="20190715232000 +0300" stop="20190716000500 +0300" channel="ANT1">
+    <title lang="el">9-1-1</title>
+    <desc lang="el">Κύκλος 2. Επ. 4. Stuck. Οι υπηρεσίες έκτακτης ανάγκης αγωνίζονται να διασώσουν θύματα από δύσκολα σημεία. Στο μεταξύ, η Athena σκέφτεται σοβαρά να δεχτεί μια πρόταση για προαγωγή που θα την βγάλει όμως από την καθημερινή δράση. Season 2. Ep. 4. Stuck. The first responders race to rescue victims trapped in various tight spots. Meanwhile, Athena contemplates accepting a promotion that will take her out of the field(n)</desc>
+  </programme>
+  <programme start="20190715012500 +0300" stop="20190715022000 +0300" channel="Plus TV">
+    <title lang="el">ΞΕΝΗ ΣΕΙΡΑ</title>
+    <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ(n)</desc>
+  </programme>
+  <programme start="20190715022000 +0300" stop="20190715031500 +0300" channel="Plus TV">
+    <title lang="el">ΞΕΝΗ ΣΕΙΡΑ</title>
+    <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ(n)</desc>
+  </programme>
+  <programme start="20190715031500 +0300" stop="20190715040000 +0300" channel="Plus TV">
+    <title lang="el">Videoclips</title>
+    <desc lang="el">Μουσικά βίντεο(n)</desc>
+  </programme>
+  <programme start="20190715040000 +0300" stop="20190715055000 +0300" channel="Plus TV">
+    <title lang="el">Annita Airlines</title>
+    <desc lang="el">Ψυχαγωγική, Κοινωνική εκπομπή. Με την Αννίτα Πάνια. Στην ομάδα της είναι η Μαρία Καλπάκη, ο Θάνος Ζερβουδάκης, η ψυχολόγος Αγγελική Κοσκερίδου, ο YouTuber Ορφέας Δούβρας αλλά και ο πολύ καλός της φίλος που θα είναι στο πλευρό της στην εκπομπή, Βασίλης Νομικός(n)</desc>
+  </programme>
+  <programme start="20190715055000 +0300" stop="20190715065500 +0300" channel="Plus TV">
+    <title lang="el">ΤΟ ΤΑΞΙΔΙ ΤΗΣ ΖΩΗΣ</title>
+    <desc lang="el">Εκπομπή Λόγου με Κοινωνικά θέματα(n)</desc>
+  </programme>
+  <programme start="20190715065500 +0300" stop="20190715073500 +0300" channel="Plus TV">
+    <title lang="el">Cook It</title>
+    <desc lang="el">Μαγειρική εκπομπή(n)</desc>
+  </programme>
+  <programme start="20190715073500 +0300" stop="20190715093000 +0300" channel="Plus TV">
+    <title lang="el">Dolce Vita</title>
+    <desc lang="el">Το Dolce Vita επιστρέφει στις οθόνες μας και μαζί με την παρουσιάστρια Ζώη Αυγουστή, μας ξεναγεί στην πιο χαρούμενη, αισιόδοξη και χαμογελαστή πλευρά της ζωής! Κάθε Σαββατοκύριακο στις 21:30 μέσα από την συχνότητα του PLUS το Dolce Vita σου δίνει ότι ακριβώς χρειάζεσαι! Γρήγορο, φρέσκο, πολυθεματικό και χρηστικό, έρχεται για να μας χαλαρώσει, να μας συμβουλέψει και να μοιραστεί μαζί μας μυστικά tips που θα κάνουν τη ζωή μας λίγο πιο...Dolce(n)</desc>
+  </programme>
+  <programme start="20190715093000 +0300" stop="20190715103000 +0300" channel="Plus TV">
+    <title lang="el">ΤΗΛΕΝΟΥΒΕΛΑ</title>
+    <desc lang="el">Τηλενουβέλα(n)</desc>
+  </programme>
+  <programme start="20190715103000 +0300" stop="20190715120000 +0300" channel="Plus TV">
+    <title lang="el">ΜΟΝΟ ΓΙΑ ΣΕΝΑ</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή με τη Φωτεινή Γεωργαντά(n)</desc>
+  </programme>
+  <programme start="20190715120000 +0300" stop="20190715143000 +0300" channel="Plus TV">
+    <title lang="el">ΜΕ ΑΛΛΗ ΜΑΤΙΑ</title>
+    <desc lang="el">Ενημερωτική εκπομπή με το δημοσιογράφο Λουκά Χριστοδουλίδη(n)</desc>
+  </programme>
+  <programme start="20190715143000 +0300" stop="20190715182000 +0300" channel="Plus TV">
+    <title lang="el">ΤΗΛΕΑΓΟΡΑ</title>
+    <desc lang="el">Τηλεοπτικός οδηγός αγορών(n)</desc>
+  </programme>
+  <programme start="20190715182000 +0300" stop="20190715184000 +0300" channel="Plus TV">
+    <title lang="el">ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ</title>
+    <desc lang="el">10λεπτο δελτίο ειδήσεων(n)</desc>
+  </programme>
+  <programme start="20190715184000 +0300" stop="20190715194000 +0300" channel="Plus TV">
+    <title lang="el">HEALTHY LIFE</title>
+    <desc lang="el">Εκπομπή Υγείας &amp; Ευεξίας. Με τους: Γιάννη Κερίμη, Κλινικός Διαιτολόγος-Διατροφολόγος και Άνθια Χριστοδούλου - Θεοφίλου, Ψυχολόγος-Ψυχοθεραπεύτρια(n)</desc>
+  </programme>
+  <programme start="20190715194000 +0300" stop="20190715203500 +0300" channel="Plus TV">
+    <title lang="el">ΤΗΛΕΝΟΥΒΕΛΑ</title>
+    <desc lang="el">Τηλενουβέλα(n)</desc>
+  </programme>
+  <programme start="20190715203500 +0300" stop="20190715211500 +0300" channel="Plus TV">
+    <title lang="el">ΕΙΔΗΣΕΙΣ ΣΤΟ PLUS</title>
+    <desc lang="el">Βραδινό δελτίο ειδήσεων. Με το Λουκά Χριστοδουλίδη(n)</desc>
+  </programme>
+  <programme start="20190715211500 +0300" stop="20190715222500 +0300" channel="Plus TV">
+    <title lang="el">ΕΠΙΚΑΙΡΑ</title>
+    <desc lang="el">Πολιτική εκπομπή με το δημοσιογράφο Μανώλη Καλατζή(n)</desc>
+  </programme>
+  <programme start="20190715224500 +0300" stop="20190716002000 +0300" channel="Plus TV">
+    <title lang="el">Operator</title>
+    <desc lang="el">Η κόρη μιας υπαλλήλου τηλεφωνικού κέντρου άμεσης βοήθειας κι ενός αξιωματικού της αστυνομίας, έχει πέσει θύμα απαγωγής. Οι γονείς είναι απελπισμένοι και δεν έχουν άλλη επιλογή από το να ακολουθήσουν τις οδηγίες του απαγωγέα. Ταινία δράσης παραγωγής 2015 σε σκηνοθεσία Αμαράια Όλσον και Όμπιν Όλσον με τους: Λουκ Γκος, Μίσα Μπάρτον, Μάικλ Παρέ, Βινγκ Ρέιμς. Director: Amariah Olson and Obin Olson.  Starring: Luke Goss, Mischa Barton, Michael Pare, Ving Rhames..  The daughter of a veteran 911 call center operator and her estranged husband, a senior police officer, is kidnapped and held hostage. The parents are left desperate, with no choice but to follow the kidnapper's rules. 2015 action directed by Amariah Olson and Obin Olson and starring: Luke Goss, Mischa Barton, Michael Pare, Ving Rhames. Director: Amariah Olson and Obin Olson.  Starring: Luke Goss, Mischa Barton, Michael Pare, Ving Rhames.(n)</desc>
+  </programme>
+  <programme start="20190715222500 +0300" stop="20190715231000 +0300" channel="Plus TV">
+    <title lang="el">ΞΕΝΗ ΣΕΙΡΑ</title>
+    <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ(n)</desc>
+  </programme>
+  <programme start="20190715031500 +0300" stop="20190715033000 +0300" channel="Extra TV">
+    <title lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715033000 +0300" stop="20190715051500 +0300" channel="Extra TV">
+    <title lang="el">ΞΕΝΗ ΤΑΙΝΙΑ ΔΡΑΣΗΣ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715051500 +0300" stop="20190715053000 +0300" channel="Extra TV">
+    <title lang="el">ΜΟΥΣΙΚΟ ΠΡΟΓΡΑΜΜΑ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715053000 +0300" stop="20190715070000 +0300" channel="Extra TV">
+    <title lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715070000 +0300" stop="20190715074000 +0300" channel="Extra TV">
+    <title lang="el">ΠΑΙΔΙΚΟ ΠΡΟΓΡΑΜΜΑ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715074000 +0300" stop="20190715080000 +0300" channel="Extra TV">
+    <title lang="el">ΔΙΕΘΝΕΙΣ ΕΙΔΗΣEIΣ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715080000 +0300" stop="20190715090000 +0300" channel="Extra TV">
+    <title lang="el">ΥΓΕΙΑ ΚΑΙ ΠΡΟΛΗΨΗ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715090000 +0300" stop="20190715101000 +0300" channel="Extra TV">
+    <title lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715101000 +0300" stop="20190715103500 +0300" channel="Extra TV">
+    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715103500 +0300" stop="20190715104500 +0300" channel="Extra TV">
+    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715104500 +0300" stop="20190715111000 +0300" channel="Extra TV">
+    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715111000 +0300" stop="20190715124000 +0300" channel="Extra TV">
+    <title lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715124000 +0300" stop="20190715131000 +0300" channel="Extra TV">
+    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715131000 +0300" stop="20190715131500 +0300" channel="Extra TV">
+    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715131500 +0300" stop="20190715134500 +0300" channel="Extra TV">
+    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715134500 +0300" stop="20190715150500 +0300" channel="Extra TV">
+    <title lang="el">Η ΒΑΣΙΛΙΣΣΑ ΤΗΣ ΝΥΧΤΑΣ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715150500 +0300" stop="20190715153500 +0300" channel="Extra TV">
+    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715153500 +0300" stop="20190715154000 +0300" channel="Extra TV">
+    <title lang="el">ΣΥΝΤΟΜΟ ΔΕΛΤΙΟ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715154000 +0300" stop="20190715160000 +0300" channel="Extra TV">
+    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715160000 +0300" stop="20190715163000 +0300" channel="Extra TV">
+    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715163000 +0300" stop="20190715170000 +0300" channel="Extra TV">
+    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715170000 +0300" stop="20190715180000 +0300" channel="Extra TV">
+    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715180000 +0300" stop="20190715194500 +0300" channel="Extra TV">
+    <title lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715194500 +0300" stop="20190715201500 +0300" channel="Extra TV">
+    <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ EXTRA</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715201500 +0300" stop="20190715220000 +0300" channel="Extra TV">
+    <title lang="el">ΞΕΝΗ ΤΑΙΝΙΑ ΚΩΜΩΔΙΑ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715224000 +0300" stop="20190716004000 +0300" channel="Extra TV">
+    <title lang="el">Indignation</title>
+    <desc lang="el">1951: ο Μάρκους Μέσνερ, ο ιδεαλιστής γιος ενός ταπεινού κρεοπώλη κοσέρ από το Νιούαρκ του Νιου Τζέρσεϊ, φεύγει για να σπουδάσει σε ένα μικρό συντηρητικό κολέγιο του Οχάιο, όπου έρχεται σε αντιπαράθεση με τη διοίκηση, παλεύει με τον αντισημιτισμό και τη σεξουαλική καταπίεση, και λαχταρά ένα κορίτσι με προβλήματα. 1951: Marcus Messner is the idealistic son of a humble kosher butcher from Newark, New Jersey. Marcus leaves for Ohio to study at a small conservative college, where he finds himself at odds with the administration, grapples with anti-Semitism and sexual repression, and pines after a troubled girl(n)</desc>
+  </programme>
+  <programme start="20190715220000 +0300" stop="20190715234500 +0300" channel="Extra TV">
+    <title lang="el">ΦΑΤΜΑΓΚΙΟΥΛ</title>
+    <desc lang="el">N/A(n)</desc>
+  </programme>
+  <programme start="20190715010000 +0300" stop="20190715013000 +0300" channel="smile">
+    <title lang="el">Sabrina</title>
+    <desc lang="el">Σε αυτή την σειρά βλέπουμε την καθημερινή ζωή της πασίγνωστης μάγισσας, Σαμπρίνα. Στο πλευρό της έχει πάντα τον πανέξυπνο γάτο της, Σάλεμ, τον φίλο της, Χάρβευ, την κακομαθημένη Τζεμ Στόουν, τον θείο Κούγκλι και φυσικά τις μάγισσες θείες, Χίλντα και Ζέλντα που την τρελαίνουν με την κριτική τους!(n)</desc>
+  </programme>
+  <programme start="20190715013000 +0300" stop="20190715020000 +0300" channel="smile">
+    <title lang="el">Sissy The Young Empress</title>
+    <desc lang="el">Η Ελισάβετ είναι μια πανέμορφη έφηβη, που λατρεύει την ιππασία, τα ζωάκια και θα θυσίαζε τα πάντα για την οικογένειά της. Είναι ένα ελεύθερο και ατίθασο πνεύμα, μια πριγκίπισσα που ακούει μόνο στο υποκοριστικό Σίσσυ και σιχαίνεται να υπακούει σε κανόνες και αυτοκρατορικά πρωτόκολλα!(n)</desc>
+  </programme>
+  <programme start="20190715020000 +0300" stop="20190715023000 +0300" channel="smile">
+    <title lang="el">Horseland</title>
+    <desc lang="el">Μια ομάδα παιδιών που κάνουν ιππασία στο HORSELAND ζει ξέγνοιαστες στιγμές αλλά και πολλές περιπέτειες(n)</desc>
+  </programme>
+  <programme start="20190715023000 +0300" stop="20190715030000 +0300" channel="smile">
+    <title lang="el">Dimitri</title>
+    <desc lang="el">Ο Ντιμίτρι, ένα μικρό αποδημητικό πουλάκι που ταξιδεύει από την Ευρώπη με την οικογένειά του, χάνει τους γονείς του και πέφτει σε μια κοιλάδα στην Αφρική. Η Μακέμπα, η καμηλοπάρδαλη, αναλαμβάνει να τον φροντίσει και να τον προστατέψει μέχρι να ξαναβρεί τους γονείς του(n)</desc>
+  </programme>
+  <programme start="20190715030000 +0300" stop="20190715033000 +0300" channel="smile">
+    <title lang="el">Sonic</title>
+    <desc lang="el">Ο Σόνικ, αγαπάει την ελευθερία, τη φιλία, την ισότητα, τα χοτ-ντογκ με τσίλι και θέλει να βοηθάει όλους τριγύρω του! Είναι ο πιο γρήγορος σκαντζόχοιρος στον κόσμο! Του αρέσει να ταξιδεύει συνεχώς έχοντας πάντα δίπλα τους φίλους του. Ορκισμένοι του εχθροί είναι ο Δρ. Ρομπότνικ και οι συνεργάτες του(n)</desc>
+  </programme>
+  <programme start="20190715033000 +0300" stop="20190715040000 +0300" channel="smile">
+    <title lang="el">Voopa</title>
+    <desc lang="el">Πρόκειται για ένα επικό παραμύθι που αναβιώνει στο μακρινό δάσος της φυλής των Γκούλας, των «λιλιπούτειων ανθρώπων». Ο πρωταγωνιστής, ο μικρός Βούπα, είναι ένα χαρισματικό και ιδιαίτερο παιδί. ο Βούπα και οι φίλοι του είναι πολύ αστείοι(n)</desc>
+  </programme>
+  <programme start="20190715040000 +0300" stop="20190715043000 +0300" channel="smile">
+    <title lang="el">Dragon Ball Z</title>
+    <desc lang="el">Αφού μάθει ότι προέρχεται από έναν άλλο πλανήτη, ένας πολεμιστής που ονομάζεται Goku και οι φίλοι του, προτρέπονται να τον υπερασπιστούν από μια επίθεση εξωγήιων εχθρών(n)</desc>
+  </programme>
+  <programme start="20190715043000 +0300" stop="20190715050000 +0300" channel="smile">
+    <title lang="el">Dragon Ball Z</title>
+    <desc lang="el">Αφού μάθει ότι προέρχεται από έναν άλλο πλανήτη, ένας πολεμιστής που ονομάζεται Goku και οι φίλοι του, προτρέπονται να τον υπερασπιστούν από μια επίθεση εξωγήιων εχθρών(n)</desc>
+  </programme>
+  <programme start="20190715050000 +0300" stop="20190715053000 +0300" channel="smile">
+    <title lang="el">Dennis</title>
+    <desc lang="el">Ο Ντένις είναι ένα αγοράκι πεντέμισι ετών, που ντύνεται μόνο με φόρμες και στην τσέπη του έχει πάντα μία σφεντόνα. Είναι αξιαγάπητος, αλλά και πολύ σκανδαλιάρης. Αυτός που την «πληρώνει» συνήθως από τα καμώματά του είναι ο ηλικιωμένος, συνταξιούχος γείτονάς του, ο κύριος Γουίλσον(n)</desc>
+  </programme>
+  <programme start="20190715053000 +0300" stop="20190715060000 +0300" channel="smile">
+    <title lang="el">Dennis</title>
+    <desc lang="el">Ο Ντένις είναι ένα αγοράκι πεντέμισι ετών, που ντύνεται μόνο με φόρμες και στην τσέπη του έχει πάντα μία σφεντόνα. Είναι αξιαγάπητος, αλλά και πολύ σκανδαλιάρης. Αυτός που την «πληρώνει» συνήθως από τα καμώματά του είναι ο ηλικιωμένος, συνταξιούχος γείτονάς του, ο κύριος Γουίλσον(n)</desc>
+  </programme>
+  <programme start="20190715060000 +0300" stop="20190715063000 +0300" channel="smile">
+    <title lang="el">Pacman</title>
+    <desc lang="el">Ο Πάκ-μαν είναι ένας έφηβος που προστατεύει τον κόσμο-Πακ από το κακό Διοικητή Μπιτρέϊους. Ο Μπιτρέϊους και ο στρατός του από τα φαντάσματα θέλουν να καταστρέψουν τον κόσμο-Πακ. Μόνο ο Πάκμαν μπορεί να σώσει τον κόσμο-Πακ(n)</desc>
+  </programme>
+  <programme start="20190715063000 +0300" stop="20190715070000 +0300" channel="smile">
+    <title lang="el">Pacman</title>
+    <desc lang="el">Ο Πάκ-μαν είναι ένας έφηβος που προστατεύει τον κόσμο-Πακ από το κακό Διοικητή Μπιτρέϊους. Ο Μπιτρέϊους και ο στρατός του από τα φαντάσματα θέλουν να καταστρέψουν τον κόσμο-Πακ. Μόνο ο Πάκμαν μπορεί να σώσει τον κόσμο-Πακ(n)</desc>
+  </programme>
+  <programme start="20190715070000 +0300" stop="20190715073000 +0300" channel="smile">
+    <title lang="el">Horseland</title>
+    <desc lang="el">Μια ομάδα παιδιών που κάνουν ιππασία στο HORSELAND ζει ξέγνοιαστες στιγμές αλλά και πολλές περιπέτειες(n)</desc>
+  </programme>
+  <programme start="20190715073000 +0300" stop="20190715080000 +0300" channel="smile">
+    <title lang="el">Zig And Sharko</title>
+    <desc lang="el">Ένα έρημο νησί, μια ύαινα που διαρκώς πεινάει, μια όμορφη γοργόνα και ένας πιστός και αφοσιωμένος καρχαρίας μπλέκουν σε μια σειρά από ξεκαρδιστικές περιπέτειες.Θα καταφέρει ο Ζιγκ να φάει τη γοργόνα ή θα γλιτώσει από τα χέρια του με τη βοήθεια του Σάρκο;(n)</desc>
+  </programme>
+  <programme start="20190715080000 +0300" stop="20190715083000 +0300" channel="smile">
+    <title lang="el">The Owl</title>
+    <desc lang="el">Σε ένα δάσος γεμάτο... "επικίνδυνα" ζώα, μια μικρή, ροζ, γκρινιάρα και οξύθυμη κουκουβάγια, αντιμετωπίζει καθημερινά πολλές προκλήσεις, προσπαθώντας να επιβιώσει από την υπερβολική αγάπη των φίλων της!(n)</desc>
+  </programme>
+  <programme start="20190715083000 +0300" stop="20190715090000 +0300" channel="smile">
+    <title lang="el">Olivia</title>
+    <desc lang="el">Η Ολίβια είναι ένα χαριτωμένο, ευφάνταστο και δημιουργικό γουρουνάκι. Κάνει τα πάντα με τους καλύτερους φίλους της, τον Τζούλιαν και τον Φρανσίν. Η Ολίβια θέλει πάντα να διασκεδάζει, είτε είναι στο σχολείο, στο σπίτι, ή στο σπίτι των φίλων της!(n)</desc>
+  </programme>
+  <programme start="20190715090000 +0300" stop="20190715093000 +0300" channel="smile">
+    <title lang="el">Gogo Dino</title>
+    <desc lang="el">Μια φανταστική ομάδα δράσης αποτελούμενη από δεινοσαυράκια ρομπότ που μεταμορφώνονται ανά πάσα στιγμή σε φοβερά οχήματα! Τα GoGo Dinos, με το θάρρος και τη δύναμή τους, μπορούν και βοηθούν, διασώζουν και βγάζουν από τρομερούς μπελάδες τους μικρούς τους φίλους και τους κατοίκους της γειτονικής πόλης(n)</desc>
+  </programme>
+  <programme start="20190715093000 +0300" stop="20190715100000 +0300" channel="smile">
+    <title lang="el">Badanamu</title>
+    <desc lang="el">Έξι δυναμικοί, δημιουργικοί και ατρόμητοι ήρωες σπουδάζουν με τη βοήθειατου καθηγητή Πιπ και μαθαίνουν όλα όσα πρέπει να γνωρίζουν για ναπροστατεύσουν την πόλη Badanamu από τις δυνάμεις του χάους(n)</desc>
+  </programme>
+  <programme start="20190715100000 +0300" stop="20190715103000 +0300" channel="smile">
+    <title lang="el">Cam &amp; Leon</title>
+    <desc lang="el">O Καμ και ο Λίον είναι δύο ιδιαίτεροι χαμαιλέοντες που ζουν σε ένα πάρκο της πόλης, μακριά από το φυσικό τους περιβάλλον. Προσπαθούν διαρκώς να βρουν φαγητό και μπλέκουν σε διασκεδαστικές ιστορίες(n)</desc>
+  </programme>
+  <programme start="20190715103000 +0300" stop="20190715110000 +0300" channel="smile">
+    <title lang="el">Timo</title>
+    <desc lang="el">Η Θεά Τάιμο προσπαθεί να προστατεύσει τα ξωτικά και τα άγρια ζώα πουκατοικούν στο βουνό Τάιμο από την καταστροφική μανία των ανθρώπων. Για να τα καταφέρει θα πρέπει να συλλέξει όλες τις αλυσίδες φωτός με τη βοήθεια της Νεράιδας του Λευκού Τσαγιού(n)</desc>
+  </programme>
+  <programme start="20190715110000 +0300" stop="20190715113000 +0300" channel="smile">
+    <title lang="el">Nonty</title>
+    <desc lang="el">Ο μικρός Νόντυ είναι ένα μικρό ξύλινο αγοράκι που ζει στη μαγική Παιχνιδούπολη. Οδηγεί το μικρό του ταξί και εμπλέκεται σε διάφορες καταστάσεις με τους φίλους του(n)</desc>
+  </programme>
+  <programme start="20190715113000 +0300" stop="20190715120000 +0300" channel="smile">
+    <title lang="el">Super Mario</title>
+    <desc lang="el">ο Μάριο μαζί με τον μικρότερο αδερφό του Λουίτζι ταξιδεύουν παντού, από τη Γη του Ηφαιστείου, ως τη χώρα του Πάγου και από το Μαγεμένο Δάσος μέχρι τον κόσμο του γνωστού παιχνιδιού Τέτρις, όπου σώζουν χαμένα ζωάκια και παιδάκια από τους κακούς και βοηθούν ο ένας στον άλλον(n)</desc>
+  </programme>
+  <programme start="20190715120000 +0300" stop="20190715123000 +0300" channel="smile">
+    <title lang="el">Οι Περιπετειες Της Betsy</title>
+    <desc lang="el">Το καλοκαίρι τελείωσε για τη μικρή Μπέτσυ και τώρα θα πρέπει να πάρει την τσάντα της και να επιστρέψει πίσω στο σχολείο(n)</desc>
+  </programme>
+  <programme start="20190715123000 +0300" stop="20190715130000 +0300" channel="smile">
+    <title lang="el">Rabbids</title>
+    <desc lang="el">Μικρά, εξωγήινα, λευκά πλάσματα που μοιάζουν με λαγουδάκια, εισβάλλουν στη Γη και φέρνουν κυριολεκτικά τα πάνω - κάτω, καταφέρνοντας πάντα στο τέλος να ξεφύγουν χωρίς γρατζουνιά(n)</desc>
+  </programme>
+  <programme start="20190715130000 +0300" stop="20190715133000 +0300" channel="smile">
+    <title lang="el">Popples</title>
+    <desc lang="el">Μια παρέα πέντε χαριτωμένων λούτρινων φίλων μπλέκει σε κάθε λογής περιπέτειες που διασκεδάζουν και εκπαιδεύουν μικρούς και μεγάλους. Βρίσκονται σε ξεκαρδιστικούς μπελάδες κάθε φορά που προσπαθούν ναβοηθήσουν τα φιλαράκια τους, τους γείτονές τους ή τους κατοίκους της Ποππλόπολης(n)</desc>
+  </programme>
+  <programme start="20190715133000 +0300" stop="20190715140000 +0300" channel="smile">
+    <title lang="el">Super Detectives</title>
+    <desc lang="el">Σ' ένα πολύ μακρινό γαλαξία, πέρα από τεράστιες μαύρες τρύπες, αψηφώντας το χωροχρόνο και τη βαρύτητα, υπάρχει ένας εξωγήινος πολιτισμός, πολύ πιο εξελιγμένος από τη Γη. Τι θα γινόταν αν οι εξωγήινοι φίλοι μας μετακόμιζαν στη Γη για να ζήσουν μαζί με τους ανθρώπους;(n)</desc>
+  </programme>
+  <programme start="20190715140000 +0300" stop="20190715143000 +0300" channel="smile">
+    <title lang="el">Hello Punebula</title>
+    <desc lang="el">Ένας μικρός εξωγήινος, ο Τάτα, έρχεται στη Γη μαζί με τον Κιούτι, το κατοικίδιό του, για να ετοιμάσει την έκθεση αποφοίτησή του, πιστεύοντας ότι εφόσον ο πλανήτης Γη βρίσκεται 1000 χρόνια πίσω σε τεχνολογία θα τα καταφέρει μια χαρά(n)</desc>
+  </programme>
+  <programme start="20190715143000 +0300" stop="20190715150000 +0300" channel="smile">
+    <title lang="el">Zig And Sharko</title>
+    <desc lang="el">Ένα έρημο νησί, μια ύαινα που διαρκώς πεινάει, μια όμορφη γοργόνα και ένας πιστός και αφοσιωμένος καρχαρίας μπλέκουν σε μια σειρά από ξεκαρδιστικές περιπέτειες.Θα καταφέρει ο Ζιγκ να φάει τη γοργόνα ή θα γλιτώσει από τα χέρια του με τη βοήθεια του Σάρκο;(n)</desc>
+  </programme>
+  <programme start="20190715150000 +0300" stop="20190715153000 +0300" channel="smile">
+    <title lang="el">Angels Friends</title>
+    <desc lang="el">Τρεις άγγελοι φοιτούν σε ένα σχολείο για φύλακες-αγγέλους. Για να τεστάρουν τις ικανότητές τους αφήνουν τον αγγελικά πλασμένο κόσμο τους και κατεβαίνουν στη Γη. Αποστολή τους είναι να συμβουλεύουν τα παιδιά που αντιμετωπίζουν προβλήματα στην καθημερινότητα τους(n)</desc>
+  </programme>
+  <programme start="20190715153000 +0300" stop="20190715160000 +0300" channel="smile">
+    <title lang="el">Heidi</title>
+    <desc lang="el">Ταξιδέψτε στις καταπράσινες Άλπεις και ζήστε αξέχαστες στιγμές παρέα με τη Χάιντι και τους φίλους της. H Xάιντι αναγκάζεται να αφήσει τη θεία της για να μείνει στην καλύβα του ερημίτη παππού της. Εκεί θα συναντήσει τον Πέτερ, το μικρό βοσκό και θα γνωρίσει μια καινούρια ζωή, γεμάτη εκπλήξεις!(n)</desc>
+  </programme>
+  <programme start="20190715160000 +0300" stop="20190715163000 +0300" channel="smile">
+    <title lang="el">Kikoriki</title>
+    <desc lang="el">Μια ομάδα κεφάτων φίλων που αποτελείται από έναν λαγό, ένα σκαντζόχοιρο και άλλα χαριτωμένα ζωάκια διασκεδάζει λύνοντας καθημερινά προβλήματα, λέγοντας ιστορίες και παίρνοντας πολύτιμα μαθήματα ζωής(n)</desc>
+  </programme>
+  <programme start="20190715163000 +0300" stop="20190715170000 +0300" channel="smile">
+    <title lang="el">Magic Blocks</title>
+    <desc lang="el">Ο Ντάνι και η οικογένειά του ζουν στη Παιχνιδούπολη. Με το μαγικό του ρολόι επικοινωνεί με τον Δρ. Πέιμποτ κάθε φορά που υπάρχει πρόβλημα στην πόλη. Ο Μπόμπο, η Λούλου και ο Κόκο, τρία ρομπότ από τουβλάκια δημιουργούν όλα τα ήδη σχημάτων για να βοηθήσουν τον Ντάνι και τους φίλους του(n)</desc>
+  </programme>
+  <programme start="20190715170000 +0300" stop="20190715173000 +0300" channel="smile">
+    <title lang="el">Three Squirrels</title>
+    <desc lang="el">Tρία σκιουράκια ζούσαν ευτυχισμένα σ' ένα υπέροχο δάσος... Ήταν ένας πραγματικός παράδεισος... αν εξαιρέσεις τον αγριόγατο που τους κυνηγούσε συνέχεια. Όταν τα σκιουράκια του έκοψαν κατά λάθος την ουρά, η εκδικητική αγριόγατα ορκίστηκε ότι θα της το πληρώσουν ακριβά(n)</desc>
+  </programme>
+  <programme start="20190715173000 +0300" stop="20190715180000 +0300" channel="smile">
+    <title lang="el">Herb Family</title>
+    <desc lang="el">Μια ομάδα υπέροχων ξωτικών μπλέκεται σε μια επική ιστορία του καλούενάντια στο κακό. Τελικός στόχος της ομάδας είναι να βρουν και τα 101θρυλικά ξωτικά και να προστατεύσουν την υγεία των ανθρώπων(n)</desc>
+  </programme>
+  <programme start="20190715180000 +0300" stop="20190715183000 +0300" channel="smile">
+    <title lang="el">Rat-A-Tat</title>
+    <desc lang="el">Ελάτε να γνωρίσετε την ξεκαρδιστική παρέα των ΡΑΤ - Α - ΤΑΤ. Οι πανούργοι ποντικοί διασκεδάζουν τους μικρούς φίλους με τις αστείες τους περιπέτειες(n)</desc>
+  </programme>
+  <programme start="20190715183000 +0300" stop="20190715190000 +0300" channel="smile">
+    <title lang="el">Pacman</title>
+    <desc lang="el">Ο Πάκ-μαν είναι ένας έφηβος που προστατεύει τον κόσμο-Πακ από το κακό Διοικητή Μπιτρέϊους. Ο Μπιτρέϊους και ο στρατός του από τα φαντάσματα θέλουν να καταστρέψουν τον κόσμο-Πακ. Μόνο ο Πάκμαν μπορεί να σώσει τον κόσμο-Πακ(n)</desc>
+  </programme>
+  <programme start="20190715190000 +0300" stop="20190715193000 +0300" channel="smile">
+    <title lang="el">Super Yizai</title>
+    <desc lang="el">Στον μακρινό και γεμάτο ζωή πλανήτη Κοκάκα κατοικούν χαριτωμένα ξωτικά και άλλα παράξενα πλάσματα, ανάμεσα τους ο Γιζάι. Όταν ο Γιζάι βρίσκεται ξαφνικά στη Γη, γνωρίζει τον Άλαν και τη Γιάμι. Με τη βοήθειά τους θ' αντιμετωπίσει τον κακό Μπος Μου και θα προσπαθήσει να γίνει Σούπερ Γιζάι(n)</desc>
+  </programme>
+  <programme start="20190715193000 +0300" stop="20190715200000 +0300" channel="smile">
+    <title lang="el">Kikoriki</title>
+    <desc lang="el">Μια ομάδα κεφάτων φίλων που αποτελείται από έναν λαγό, ένα σκαντζόχοιρο και άλλα χαριτωμένα ζωάκια διασκεδάζει λύνοντας καθημερινά προβλήματα, λέγοντας ιστορίες και παίρνοντας πολύτιμα μαθήματα ζωής(n)</desc>
+  </programme>
+  <programme start="20190715200000 +0300" stop="20190715203000 +0300" channel="smile">
+    <title lang="el">Maya The Bee</title>
+    <desc lang="el">Η μικρή σκανδαλιάρα μελισσούλα με την ξεχωριστή προσωπικότητα μπλέκει σε ένα σωρό ξεκαρδιστικές περιπέτειες κάνοντας άνω κάτω τη ζωή του μελισσιού.Ευτυχώς, με τη βοήθεια του Φιλιπ της ακρίδας και του κολλητού της φίλου Βίλλυ, καταφέρνει να γλιτώσει τους μπελάδες!(n)</desc>
+  </programme>
+  <programme start="20190715203000 +0300" stop="20190715210000 +0300" channel="smile">
+    <title lang="el">Oggy &amp; The Cockroaches</title>
+    <desc lang="el">Ο Ότζι είναι μία μπλε γάτα, που περνά τις μέρες της ευχάριστα, τρώγοντας και βλέποντας τηλεόραση. Μόνο που στο ίδιο σπίτι ζουν και τρεις κατσαρίδες, που απολαμβάνουν να αναστατώνουν τη φαινομενικά ήρεμη ζωή του(n)</desc>
+  </programme>
+  <programme start="20190715210000 +0300" stop="20190715213000 +0300" channel="smile">
+    <title lang="el">Power Ranger Dino Charge</title>
+    <desc lang="el">Ο μοχθηρός εξωγήινος Sledge προσπαθεί να κλέψει τη μεγαλύτερη δύναμη του σύμπαντος, τα ενεργειακά πετράδια. Όμως τα σχέδιά του θα ανατραπούν από μια νέα ομάδα ηρώων, τους Power Rangers, οι οποίοι καλούνται να σώσουν τα πετράδια και τον πλανήτη γη(n)</desc>
+  </programme>
+  <programme start="20190715213000 +0300" stop="20190715220000 +0300" channel="smile">
+    <title lang="el">Auto  Be Good</title>
+    <desc lang="el">Στη φανταστική πόλη των αυτοκινήτων δεν υπαρχουν άνθρωποι. Τη θέση τους έχουν πάρει αυτοκίνητα που μιλάνει, διασκεδάζουν και αντιμετωπίζουν την καθημερινότητα με τον πιο ξεκαρδιστικό τρόπο(n)</desc>
+  </programme>
+  <programme start="20190715220000 +0300" stop="20190715223000 +0300" channel="smile">
+    <title lang="el">Gormitti</title>
+    <desc lang="el">Ο νέος πρίγκιπας του Γκορμ καλείται να υπερασπιστεί το νησί του όταν ένας αρχαίος δαίμονας εμφανίζεται και πάλι για να το καταστρέψει. Η επιστροφή του Μαγκμιον είναι γεγονός! Όμως, οι αήττητοι Άρχοντες της Φύσης υπό την καθοδήγηση του Σοφού Μάγου θα αντεπιτεθούν για να σώσουν τα Βασίλειά τους(n)</desc>
+  </programme>
+  <programme start="20190715223000 +0300" stop="20190715230000 +0300" channel="smile">
+    <title lang="el">Super Mario</title>
+    <desc lang="el">ο Μάριο μαζί με τον μικρότερο αδερφό του Λουίτζι ταξιδεύουν παντού, από τη Γη του Ηφαιστείου, ως τη χώρα του Πάγου και από το Μαγεμένο Δάσος μέχρι τον κόσμο του γνωστού παιχνιδιού Τέτρις, όπου σώζουν χαμένα ζωάκια και παιδάκια από τους κακούς και βοηθούν ο ένας στον άλλον(n)</desc>
+  </programme>
+  <programme start="20190715230000 +0300" stop="20190715233000 +0300" channel="smile">
+    <title lang="el">Dragon Ball Z</title>
+    <desc lang="el">Αφού μάθει ότι προέρχεται από έναν άλλο πλανήτη, ένας πολεμιστής που ονομάζεται Goku και οι φίλοι του, προτρέπονται να τον υπερασπιστούν από μια επίθεση εξωγήιων εχθρών(n)</desc>
+  </programme>
   <programme start="20190715001500 -0300" stop="20190715033000 -0300" channel="rik1">
     <title lang="el">Πεταλούδα</title>
   </programme>
@@ -1988,544 +2529,5 @@
   <programme start="20190717050000 -0300" stop="20190717100000 -0300" channel="RIK HD">
     <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
   </programme>
-    <programme start="20190715014000 +0300" stop="20190715024000 +0300" channel="Mega">
-    <title lang="el">Hannibal</title>
-    <desc lang="el">Ξένη σειρα(n)</desc>
-  </programme>
-  <programme start="20190715024000 +0300" stop="20190715050000 +0300" channel="Mega">
-    <title lang="el">Dansing Junior</title>
-    <desc lang="el">Ψυχαγωγική εκπομπή(n)</desc>
-  </programme>
-  <programme start="20190715050000 +0300" stop="20190715060000 +0300" channel="Mega">
-    <title lang="el">Una Fatsa</title>
-    <desc lang="el">Ψυχαγωγική εκπομπή(n)</desc>
-  </programme>
-  <programme start="20190715060000 +0300" stop="20190715070000 +0300" channel="Mega">
-    <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ</title>
-    <desc lang="el">Δελτίο Ειδήσεων(n)</desc>
-  </programme>
-  <programme start="20190715070000 +0300" stop="20190715100000 +0300" channel="Mega">
-    <title lang="el">ΕΝΗΜΕΡΩΣΗ</title>
-    <desc lang="el">Ενημερωτική εκπομπή(n)</desc>
-  </programme>
-  <programme start="20190715100000 +0300" stop="20190715110000 +0300" channel="Mega">
-    <title lang="el">ΚΑΛΟΚΑΙΡΙ #NOT</title>
-    <desc lang="el">Ποιος είπε ότι το καλοκαίρι είναι μόνο παραλίες, ηλιοθεραπείες, ρακέτες και βόλτες σε γραφικά νησιώτικα σοκάκια; Υπάρχει μια παρέα που θα περάσει το δικό της διαφορετικό καλοκαίρι, ένα "Καλοκαίρι... #not", κάθε πρωί στις 10, στο OMEGA. Η Κατερίνα Ζαρίφη,  ο Παύλος Σταματόπουλος και ο Ηλίας Γκότσης, θα γίνουν τα πιο δροσερά φιλαράκια μας, σε μια εκπομπή που έχει ένα και μόνο σκοπό: Να μας φτιάχνει τη μέρα!(n)</desc>
-  </programme>
-  <programme start="20190715110000 +0300" stop="20190715133000 +0300" channel="Mega">
-    <title lang="el">ΕΝΗΜΕΡΩΣΗ ΤΩΡΑ</title>
-    <desc lang="el">Με τον Ονούφριο Σωκράτους(n)</desc>
-  </programme>
-  <programme start="20190715133000 +0300" stop="20190715150000 +0300" channel="Mega">
-    <title lang="el">ΕΛΑ ΝΑ ΔΕΙΣ</title>
-    <desc lang="el">Με τον Τάσο Θεοδώρου και τον Αλέξανδρο Ταραμουντά(n)</desc>
-  </programme>
-  <programme start="20190715150000 +0300" stop="20190715165000 +0300" channel="Mega">
-    <title lang="el">ΓΙΑ ΤΗΝ ΠΑΡΕΑ - BEST OF</title>
-    <desc lang="el">Με τον Νίκο Μουτσινά(n)</desc>
-  </programme>
-  <programme start="20190715165000 +0300" stop="20190715174000 +0300" channel="Mega">
-    <title lang="el">MONEY DROP</title>
-    <desc lang="el">Με τη Βίκυ Σταυροπούλου(n)</desc>
-  </programme>
-  <programme start="20190715174000 +0300" stop="20190715180000 +0300" channel="Mega">
-    <title lang="el">Shopping Star</title>
-    <desc lang="el">Με τη Βίκυ Καγιά(n)</desc>
-  </programme>
-  <programme start="20190715180000 +0300" stop="20190715181000 +0300" channel="Mega">
-    <title lang="el">Omega News</title>
-    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων(n)</desc>
-  </programme>
-  <programme start="20190715181000 +0300" stop="20190715190000 +0300" channel="Mega">
-    <title lang="el">Shopping Star</title>
-    <desc lang="el">Με τη Βίκυ Καγιά(n)</desc>
-  </programme>
-  <programme start="20190715190000 +0300" stop="20190715201000 +0300" channel="Mega">
-    <title lang="el">Ο ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ</title>
-    <desc lang="el">Με τον Πέτρο Πολυχρονίδη(n)</desc>
-  </programme>
-  <programme start="20190715201000 +0300" stop="20190715210500 +0300" channel="Mega">
-    <title lang="el">Omega News</title>
-    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων(n)</desc>
-  </programme>
-  <programme start="20190715220000 +0300" stop="20190716001000 +0300" channel="Mega">
-    <title lang="el">COUNTRY STRONG</title>
-    <desc lang="el">Μουσική ταινία - Ενας ανερχόμενος συνθέτης της κάντρι συνεργάζεται με μία άλλοτε επιτυχημένη τραγουδίστρια και μαζί βαδίζουν προς τη δόξα. Η ταινία προτάθηκε για Οσκαρ &amp; Χρυσή Σφαίρα Καλύτερου Τραγουδιού. (Γκουίνεθ Πάλτροου, Γκάρετ Χέντλαντ) 2010, 113' - A rising country music songwriter works with a fallen star and together they pave their way for a glorious comeback... The film won both an Oscar and a Golden Globe nomination for Best Song. (Gwyneth Paltrow, Garrett Hedlund) 2010, 113'(n)</desc>
-  </programme>
-  <programme start="20190715210500 +0300" stop="20190715220500 +0300" channel="Mega">
-    <title lang="el">ΠΕΝΗΝΤΑ ΠΕΝΗΝΤΑ</title>
-    <desc lang="el">Η σειρά αφηγείται τη ζωή των τριών ζευγαριών. Αυτοί είναι ο Νικηφόρος και η Ελισάβετ, ο Μίμης και η Ξανθίππη και ο Παύλος και η Ειρήνη. Επίσης, παρουσιάζονται η εξωσυζυγική σχέση του Παύλου με τη νεαρή γυμνάστρια, Μαρία, η σχέση της Ναταλίας (κόρης του Νικηφόρου και της Ελισάβετ) με τον Αχιλλέα, και η σχέση του Κίμωνα (γιου του Μίμη) με την Βίβιαν(n)</desc>
-  </programme>
-  <programme start="20190715220500 +0300" stop="20190715230500 +0300" channel="Mega">
-    <title lang="el">ΣΤΟ ΠΑΡΑ ΠΕΝΤΕ</title>
-    <desc lang="el">5 άνθρωποι, άγνωστοι μεταξύ τους, βρίσκονται τη λάθος στιγμή στο λάθος σημείο(n)</desc>
-  </programme>
-  <programme start="20190715011000 +0300" stop="20190715020000 +0300" channel="ANT1">
-    <title lang="el">ΤΡΙΧΕΣ</title>
-    <desc lang="el">Ένα κωμικό και σατυρικό σχόλιο, το οποίο μέσα από την εύθυμη πλευρά της κωμωδίας, προβάλλει όσα συμβαίνουν στο περίφημο κομμωτήριο "Sex &amp; The Hair". Εκεί όπου άντρες και γυναίκες κάθονται για ένα γρήγορο καλλωπισμό και μπροστά στο πιστολάκι των κομμωτών ανοίγουν την ψυχή τους. Έτσι, το κομμωτήριο μετατρέπεται σε "εξομολογητήριο" και γίνεται ο καθρέφτης της εποχής μας(n)</desc>
-  </programme>
-  <programme start="20190715020000 +0300" stop="20190715025000 +0300" channel="ANT1">
-    <title lang="el">ΤΑ ΜΑΧΑΙΡΩΜΑΤΑ</title>
-    <desc lang="el">H Kαίτη μια απλή λογίστρια και μάνα ενός αγοριού που μεγαλώνει μόνη της, κληρονομεί ένα καμπαρέ. Αφοσιώνεται διστακτικά στη νέα καριέρα της και βρίσκεται ανάμεσα σε δυο άντρες. Ποιος θα την κερδίσει, ο πανούργος άνθρωπος της νύχτας ή ο καλοκάγαθος αστυνομικός;(n)</desc>
-  </programme>
-  <programme start="20190715025000 +0300" stop="20190715034000 +0300" channel="ANT1">
-    <title lang="el">Ο ΓΗΤΕΥΤΗΣ</title>
-    <desc lang="el">Ο Άρης και ο Σταύρος. Δυο άντρες που η μοίρα τους έφερε αντιμέτωπους από την παιδική τους ηλικία. Στη διαδρομή της ζωής τους, ο έρωτας που αναπτύχθηκε ανάμεσα στον Άρη και την αδελφή του Σταύρου λειτούργησε σαν δυναμίτης. Ο παράξενος θάνατος της μετέτρεψε τον Σταύρο σε διώκτη και τον Άρη σε φυγά με μοναδικό σκοπό να σώσει τη ζωή της κόρης του. Και οι δύο είναι ανυποχώρητοι και το παιχνίδι σκληρό. Μοναδικό όριο, ο θάνατος(n)</desc>
-  </programme>
-  <programme start="20190715034000 +0300" stop="20190715043000 +0300" channel="ANT1">
-    <title lang="el">ΤΑ ΝΕΑ ΤΟΥ ΑΝΤΕΝΝΑ</title>
-    <desc lang="el">ΤΑ ΝΕΑ ΤΟΥ ΑΝΤΕΝΝΑ ΚΥΠΡΟΥ αποτελούν την πρώτη επιλογή ενημέρωσης των πολιτών και δίνουν τον τόνο στις εξελίξεις(n)</desc>
-  </programme>
-  <programme start="20190715043000 +0300" stop="20190715052000 +0300" channel="ANT1">
-    <title lang="el">ΠΡΕΜΙΕΡΑ</title>
-    <desc lang="el">Η Πρεμιέρα είναι η ιστορία της Αθηνάς. Μιας μεγάλης ηθοποιού, που τώρα στα τελευταία της αναπωλεί το ταξίδι που την έφερε στην καταξίωση και την αναγνώριση. Στη σειρά ξεδιπλώνεται η ζωή της θρυλικής Αθηνάς Μακρή, μια ζωή γεμάτη πόνο, έρωτα, πόθο και δόξα..(n)</desc>
-  </programme>
-  <programme start="20190715052000 +0300" stop="20190715060000 +0300" channel="ANT1">
-    <title lang="el">SUPER ΜΠΑΜΠΑΣ</title>
-    <desc lang="el">H μεγαλύτερη αδυναμία του Ανδρέα δεν είναι μια, αλλά..τρεις! Οι τρεις κόρες του, δέκα, δεκατεσσάρων και δεκαεννέα ετών, είναι ό,τι πολυτιμότερο έχει. Τις λατρεύει, αλλά με τις απαιτήσεις και τις ανησυχίες τους, τους προβληματισμούς και τις πρώτες αθώες ερωτικές ιστορίες τους, μπορούν να τον τρελάνουν(n)</desc>
-  </programme>
-  <programme start="20190715060000 +0300" stop="20190715063000 +0300" channel="ANT1">
-    <title lang="el">ΠΡΩΙΝΗ ΕΝΗΜΕΡΩΣΗ</title>
-    <desc lang="el">ΕΝΗΜΕΡΩΤΙΚΗ ΕΚΠΟΜΠΗ(n)</desc>
-  </programme>
-  <programme start="20190715063000 +0300" stop="20190715081000 +0300" channel="ANT1">
-    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
-    <desc lang="el">Ελληνική δραματική σειρά, παραγωγής 2013-2017(n)</desc>
-  </programme>
-  <programme start="20190715081000 +0300" stop="20190715090000 +0300" channel="ANT1">
-    <title lang="el">ΟΤΙ ΑΓΑΠΗΣΑ</title>
-    <desc lang="el">Στις 20 Ιουλίου 1974, λίγο πριν αρχίσει η τουρκική εισβολή, ο Φίλιππος Αριστοδήμου,μπήκε στο σπίτι του μεθυσμένος και άθελά του σκότωσε τη σύζυγό του. Λίγα λεπτά αργότερα άρχισαν να πέφτουν οι πρώτες τουρκικές οβίδες και από τότε η Σοφία είναι αγνοούμενη. Η συμφορά του πολέμου σκέπασε το μυστικό, μόνο ένας άνθρωπος το γνωρίζει και αυτός δεν είναι ο... Φίλιππος . Τριάντα εφτά χρόνια πέρασαν από τότε αλλά η μοίρα δεν έχει παίξει ακόμη την τελευταία πράξη του δράματος(n)</desc>
-  </programme>
-  <programme start="20190715090000 +0300" stop="20190715095000 +0300" channel="ANT1">
-    <title lang="el">ROUK ZOUK</title>
-    <desc lang="el">Τηλεπαιχνίδι, παρουσιάζει η Ζέτα Μακρυπούλια(n)</desc>
-  </programme>
-  <programme start="20190715095000 +0300" stop="20190715102000 +0300" channel="ANT1">
-    <title lang="el">ΜΑΜΜΑ ΜΙΑ</title>
-    <desc lang="el">Είναι η οικογένεια της διπλανής πόρτας. Ο πατέρας δημόσιος υπάλληλος, η μητέρα ελεύθερη επαγγελματίας, ο γιος φοιτητής όπως και το κορίτσι του, και μαζί τους η πλούσια, «αππωμένη» πεθερά μαζί με τον εκ Βουλγαρίας ... «μπάτλερ» της! Κάθε μέρα όλο κάτι θα προκύψει για να κρατά τους απλούς έως ... απλοϊκούς ήρωές μας σε ... κωμική εγρήγορση, αφού ακόμα κι οι γείτονες, ένα νεαρό, λαϊκό ζευγάρι, έρχονται να τους φορτώσουν κι αυτοί τα δικά τους «βάσανα»..(n)</desc>
-  </programme>
-  <programme start="20190715102000 +0300" stop="20190715111000 +0300" channel="ANT1">
-    <title lang="el">ΔΕΙΞΕ ΜΟΥ ΤΟ ΦΙΛΟ ΣΟΥ SUMMER EDITION</title>
-    <desc lang="el">Κυπριακή κωμική σειρά. Παίζουν: Γιώργος Ζένιος, Μάριος Δημητρίου, Κώστας Δημητρίου, Φώτης Γεωργίδης, Θέα Χριστοδουλίδου, Μαριάννα Σάντη, Πόπη Αβραάμ και Δημήτρης Ξύστρας(n)</desc>
-  </programme>
-  <programme start="20190715111000 +0300" stop="20190715114500 +0300" channel="ANT1">
-    <title lang="el">ΤΟ ΠΙΟ ΓΛΥΚΟ ΜΟΥ ΨΕΜΑ</title>
-    <desc lang="el">Μια δικηγόρος με λογοτεχνικές φιλοδοξίες και ένας γοητευτικός επαρχιώτης, είναι τα κεντρικά πρόσωπα αυτής της κωμωδίας. Η νομικός, στέλνει το βιβλίο της σε έναν εκδοτικό οίκο υπογράφοντας με αντρικό όνομα. Η εκδοτική εταιρία θέλει να "πουλήσει" την εικόνα ενός άντρα συγγραφέα-sex symbol. Έτσι η συγγραφέας αναγκάζεται να δώσει σάρκα και οστά στο ανύπαρκτο αυτό αρσενικό, με την βοήθεια του επαρχιώτη. Όταν μπαίνει στο παιχνίδι και ο έρωτας, όλα μπερδεύονται γλυκά..(n)</desc>
-  </programme>
-  <programme start="20190715114500 +0300" stop="20190715140000 +0300" channel="ANT1">
-    <title lang="el">ΜΕΡΑ ΜΕΣΗΜΕΡΙ</title>
-    <desc lang="el">Ενημερωτική εκπομπή, παρουσιάζει ο Νικήτας Κυριάκου(n)</desc>
-  </programme>
-  <programme start="20190715140000 +0300" stop="20190715145000 +0300" channel="ANT1">
-    <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title>
-    <desc lang="el">Η συνύπαρξη δύο διαφορετικών ανθρώπων είναι το θέμα της σειράς. Ο Κωνσταντίνος Κατακουζηνός είναι επίκουρος καθηγητής της Βυζαντινολογίας και γενικά μισάνθρωπος. Η Ελένη Βλαχάκου είναι μια χαρούμενη σερβιτόρα. Από τη συμβίωση των δυο άκρως αντίθετων χαρακτήρων δημιουργούνται διάφορα ευτράπελα. Τους ήρωές μας ενώνει κάτι κοινό, μια αδιόρατη ερωτική έλξη(n)</desc>
-  </programme>
-  <programme start="20190715145000 +0300" stop="20190715154000 +0300" channel="ANT1">
-    <title lang="el">ΘΑ ΒΡΕIΣ ΤΟ ΔΑΣΚΑΛΟ ΣΟΥ</title>
-    <desc lang="el">ΕΠ.1 Ο Θάνος, πρωτοδιόριστος καθηγητής-χημικός και η Μαρίζα, μαθήτρια της Γ΄ Λυκείου σε ιδιωτικό κολέγιο της Αθήνας. Στη ζωή του Θάνου υπάρχει η Μάγδα. Στην εταιρία που εργάζεται, είναι το δεξί χέρι του ιδιοκτήρη, του Ανέστη, πατέρα της Μαρίζας! Στη ζωή του Θάνου υπάρχει ακόμα και μια χήρα μάνα που μισεί τη Μάγδα. Όσο για τη Μαρίζα, στη ζωή της υπάρχει ο Φίλιππος. Υπάρχουν ακόμα η κολλητή της φίλη Άσπα, η θεοπάλαβη γιαγιά της, Λάρα και η σώφρων οικονόμος του σπιτιού, Φρόσω(n)</desc>
-  </programme>
-  <programme start="20190715154000 +0300" stop="20190715163000 +0300" channel="ANT1">
-    <title lang="el">ΟΙ ΣΥΜΜΑΘΗΤΕΣ</title>
-    <desc lang="el">Ελληνική κωμική σειρά(n)</desc>
-  </programme>
-  <programme start="20190715163000 +0300" stop="20190715172000 +0300" channel="ANT1">
-    <title lang="el">LA PASTA POMILώRI</title>
-    <desc lang="el">Ρομαντική κομεντί(n)</desc>
-  </programme>
-  <programme start="20190715172000 +0300" stop="20190715180000 +0300" channel="ANT1">
-    <title lang="el">ΕΣΥ... ΣΤΟΝ ΚΟΣΜΟ ΣΟΥ</title>
-    <desc lang="el">Ελληνική κωμική σειρά, παραγωγής 2005(n)</desc>
-  </programme>
-  <programme start="20190715180000 +0300" stop="20190715181000 +0300" channel="ANT1">
-    <title lang="el">ΤΑ ΝΕΑ ΣΕ 10'</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715181000 +0300" stop="20190715184000 +0300" channel="ANT1">
-    <title lang="el">...ΣΥΝΕΧΕΙΑ ΕΣΥ... ΣΤΟΝ ΚΟΣΜΟ ΣΟΥ</title>
-    <desc lang="el">Ελληνική κωμική σειρά, παραγωγής 2005(n)</desc>
-  </programme>
-  <programme start="20190715184000 +0300" stop="20190715202000 +0300" channel="ANT1">
-    <title lang="el">ΑΙΓΙΑ FUXIA</title>
-    <desc lang="el">Η ιστορία εκτυλίσσεται στο "Παλιοχώρι" (στη πραγματικότητα, "Φικάρδου"), ένα μικρό ορεινό χωριό της Κύπρου, 100 χρόνια πριν. Ο θεατής γίνεται μάρτυρας στις καθημερινές ιστορίες των κατοίκων, δοσμένες με κωμικό ύφος και αναφορές στη σύγχρονη κυπριακή πραγματικότητα, καυτηριάζοντας θεσμούς όπως η πολιτική και τα κόμματα, η εκκλησία-θρησκεία και τα Μέσα Μαζικής Ενημέρωσης, μέσα από διάφορους αναχρονισμούς και έμμεσες αναφορές(n)</desc>
-  </programme>
-  <programme start="20190715202000 +0300" stop="20190715212000 +0300" channel="ANT1">
-    <title lang="el">ΤΑ ΝΕΑ ΤΟΥ ΑΝΤΕΝΝΑ</title>
-    <desc lang="el">ΤΑ ΝΕΑ ΤΟΥ ΑΝΤΕΝΝΑ ΚΥΠΡΟΥ αποτελούν την πρώτη επιλογή ενημέρωσης των πολιτών και δίνουν τον τόνο στις εξελίξεις(n)</desc>
-  </programme>
-  <programme start="20190715212000 +0300" stop="20190715221500 +0300" channel="ANT1">
-    <title lang="el">LA PASTA POMILώRI</title>
-    <desc lang="el">Ρομαντική κομεντί(n)</desc>
-  </programme>
-  <programme start="20190715221500 +0300" stop="20190715231500 +0300" channel="ANT1">
-    <title lang="el">ΕΣΥ... ΣΤΟΝ ΚΟΣΜΟ ΣΟΥ</title>
-    <desc lang="el">Ελληνική κωμική σειρά, παραγωγής 2005(n)</desc>
-  </programme>
-  <programme start="20190715231500 +0300" stop="20190715232000 +0300" channel="ANT1">
-    <title lang="el">ΚΑΤΙ ΧΩΡΙΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ</title>
-    <desc lang="el">Ελληνική σειρά. Παίζουν: Μάριος Αθανασίου, Κώστας Κόκλας, Σπύρος Πούλης, Νίκος Μουτσινάς, Σταύρος Σβήγκος(n)</desc>
-  </programme>
-  <programme start="20190715232000 +0300" stop="20190716000500 +0300" channel="ANT1">
-    <title lang="el">9-1-1</title>
-    <desc lang="el">Κύκλος 2. Επ. 4. Stuck. Οι υπηρεσίες έκτακτης ανάγκης αγωνίζονται να διασώσουν θύματα από δύσκολα σημεία. Στο μεταξύ, η Athena σκέφτεται σοβαρά να δεχτεί μια πρόταση για προαγωγή που θα την βγάλει όμως από την καθημερινή δράση. Season 2. Ep. 4. Stuck. The first responders race to rescue victims trapped in various tight spots. Meanwhile, Athena contemplates accepting a promotion that will take her out of the field(n)</desc>
-  </programme>
-  <programme start="20190715012500 +0300" stop="20190715022000 +0300" channel="Plus TV">
-    <title lang="el">ΞΕΝΗ ΣΕΙΡΑ</title>
-    <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ(n)</desc>
-  </programme>
-  <programme start="20190715022000 +0300" stop="20190715031500 +0300" channel="Plus TV">
-    <title lang="el">ΞΕΝΗ ΣΕΙΡΑ</title>
-    <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ(n)</desc>
-  </programme>
-  <programme start="20190715031500 +0300" stop="20190715040000 +0300" channel="Plus TV">
-    <title lang="el">Videoclips</title>
-    <desc lang="el">Μουσικά βίντεο(n)</desc>
-  </programme>
-  <programme start="20190715040000 +0300" stop="20190715055000 +0300" channel="Plus TV">
-    <title lang="el">Annita Airlines</title>
-    <desc lang="el">Ψυχαγωγική, Κοινωνική εκπομπή. Με την Αννίτα Πάνια. Στην ομάδα της είναι η Μαρία Καλπάκη, ο Θάνος Ζερβουδάκης, η ψυχολόγος Αγγελική Κοσκερίδου, ο YouTuber Ορφέας Δούβρας αλλά και ο πολύ καλός της φίλος που θα είναι στο πλευρό της στην εκπομπή, Βασίλης Νομικός(n)</desc>
-  </programme>
-  <programme start="20190715055000 +0300" stop="20190715065500 +0300" channel="Plus TV">
-    <title lang="el">ΤΟ ΤΑΞΙΔΙ ΤΗΣ ΖΩΗΣ</title>
-    <desc lang="el">Εκπομπή Λόγου με Κοινωνικά θέματα(n)</desc>
-  </programme>
-  <programme start="20190715065500 +0300" stop="20190715073500 +0300" channel="Plus TV">
-    <title lang="el">Cook It</title>
-    <desc lang="el">Μαγειρική εκπομπή(n)</desc>
-  </programme>
-  <programme start="20190715073500 +0300" stop="20190715093000 +0300" channel="Plus TV">
-    <title lang="el">Dolce Vita</title>
-    <desc lang="el">Το Dolce Vita επιστρέφει στις οθόνες μας και μαζί με την παρουσιάστρια Ζώη Αυγουστή, μας ξεναγεί στην πιο χαρούμενη, αισιόδοξη και χαμογελαστή πλευρά της ζωής! Κάθε Σαββατοκύριακο στις 21:30 μέσα από την συχνότητα του PLUS το Dolce Vita σου δίνει ότι ακριβώς χρειάζεσαι! Γρήγορο, φρέσκο, πολυθεματικό και χρηστικό, έρχεται για να μας χαλαρώσει, να μας συμβουλέψει και να μοιραστεί μαζί μας μυστικά tips που θα κάνουν τη ζωή μας λίγο πιο...Dolce(n)</desc>
-  </programme>
-  <programme start="20190715093000 +0300" stop="20190715103000 +0300" channel="Plus TV">
-    <title lang="el">ΤΗΛΕΝΟΥΒΕΛΑ</title>
-    <desc lang="el">Τηλενουβέλα(n)</desc>
-  </programme>
-  <programme start="20190715103000 +0300" stop="20190715120000 +0300" channel="Plus TV">
-    <title lang="el">ΜΟΝΟ ΓΙΑ ΣΕΝΑ</title>
-    <desc lang="el">Ψυχαγωγική εκπομπή με τη Φωτεινή Γεωργαντά(n)</desc>
-  </programme>
-  <programme start="20190715120000 +0300" stop="20190715143000 +0300" channel="Plus TV">
-    <title lang="el">ΜΕ ΑΛΛΗ ΜΑΤΙΑ</title>
-    <desc lang="el">Ενημερωτική εκπομπή με το δημοσιογράφο Λουκά Χριστοδουλίδη(n)</desc>
-  </programme>
-  <programme start="20190715143000 +0300" stop="20190715182000 +0300" channel="Plus TV">
-    <title lang="el">ΤΗΛΕΑΓΟΡΑ</title>
-    <desc lang="el">Τηλεοπτικός οδηγός αγορών(n)</desc>
-  </programme>
-  <programme start="20190715182000 +0300" stop="20190715184000 +0300" channel="Plus TV">
-    <title lang="el">ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ</title>
-    <desc lang="el">10λεπτο δελτίο ειδήσεων(n)</desc>
-  </programme>
-  <programme start="20190715184000 +0300" stop="20190715194000 +0300" channel="Plus TV">
-    <title lang="el">HEALTHY LIFE</title>
-    <desc lang="el">Εκπομπή Υγείας &amp; Ευεξίας. Με τους: Γιάννη Κερίμη, Κλινικός Διαιτολόγος-Διατροφολόγος και Άνθια Χριστοδούλου - Θεοφίλου, Ψυχολόγος-Ψυχοθεραπεύτρια(n)</desc>
-  </programme>
-  <programme start="20190715194000 +0300" stop="20190715203500 +0300" channel="Plus TV">
-    <title lang="el">ΤΗΛΕΝΟΥΒΕΛΑ</title>
-    <desc lang="el">Τηλενουβέλα(n)</desc>
-  </programme>
-  <programme start="20190715203500 +0300" stop="20190715211500 +0300" channel="Plus TV">
-    <title lang="el">ΕΙΔΗΣΕΙΣ ΣΤΟ PLUS</title>
-    <desc lang="el">Βραδινό δελτίο ειδήσεων. Με το Λουκά Χριστοδουλίδη(n)</desc>
-  </programme>
-  <programme start="20190715211500 +0300" stop="20190715222500 +0300" channel="Plus TV">
-    <title lang="el">ΕΠΙΚΑΙΡΑ</title>
-    <desc lang="el">Πολιτική εκπομπή με το δημοσιογράφο Μανώλη Καλατζή(n)</desc>
-  </programme>
-  <programme start="20190715224500 +0300" stop="20190716002000 +0300" channel="Plus TV">
-    <title lang="el">Operator</title>
-    <desc lang="el">Η κόρη μιας υπαλλήλου τηλεφωνικού κέντρου άμεσης βοήθειας κι ενός αξιωματικού της αστυνομίας, έχει πέσει θύμα απαγωγής. Οι γονείς είναι απελπισμένοι και δεν έχουν άλλη επιλογή από το να ακολουθήσουν τις οδηγίες του απαγωγέα. Ταινία δράσης παραγωγής 2015 σε σκηνοθεσία Αμαράια Όλσον και Όμπιν Όλσον με τους: Λουκ Γκος, Μίσα Μπάρτον, Μάικλ Παρέ, Βινγκ Ρέιμς. Director: Amariah Olson and Obin Olson.  Starring: Luke Goss, Mischa Barton, Michael Pare, Ving Rhames..  The daughter of a veteran 911 call center operator and her estranged husband, a senior police officer, is kidnapped and held hostage. The parents are left desperate, with no choice but to follow the kidnapper's rules. 2015 action directed by Amariah Olson and Obin Olson and starring: Luke Goss, Mischa Barton, Michael Pare, Ving Rhames. Director: Amariah Olson and Obin Olson.  Starring: Luke Goss, Mischa Barton, Michael Pare, Ving Rhames.(n)</desc>
-  </programme>
-  <programme start="20190715222500 +0300" stop="20190715231000 +0300" channel="Plus TV">
-    <title lang="el">ΞΕΝΗ ΣΕΙΡΑ</title>
-    <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ(n)</desc>
-  </programme>
-  <programme start="20190715031500 +0300" stop="20190715033000 +0300" channel="Extra TV">
-    <title lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715033000 +0300" stop="20190715051500 +0300" channel="Extra TV">
-    <title lang="el">ΞΕΝΗ ΤΑΙΝΙΑ ΔΡΑΣΗΣ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715051500 +0300" stop="20190715053000 +0300" channel="Extra TV">
-    <title lang="el">ΜΟΥΣΙΚΟ ΠΡΟΓΡΑΜΜΑ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715053000 +0300" stop="20190715070000 +0300" channel="Extra TV">
-    <title lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715070000 +0300" stop="20190715074000 +0300" channel="Extra TV">
-    <title lang="el">ΠΑΙΔΙΚΟ ΠΡΟΓΡΑΜΜΑ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715074000 +0300" stop="20190715080000 +0300" channel="Extra TV">
-    <title lang="el">ΔΙΕΘΝΕΙΣ ΕΙΔΗΣEIΣ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715080000 +0300" stop="20190715090000 +0300" channel="Extra TV">
-    <title lang="el">ΥΓΕΙΑ ΚΑΙ ΠΡΟΛΗΨΗ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715090000 +0300" stop="20190715101000 +0300" channel="Extra TV">
-    <title lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715101000 +0300" stop="20190715103500 +0300" channel="Extra TV">
-    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715103500 +0300" stop="20190715104500 +0300" channel="Extra TV">
-    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715104500 +0300" stop="20190715111000 +0300" channel="Extra TV">
-    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715111000 +0300" stop="20190715124000 +0300" channel="Extra TV">
-    <title lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715124000 +0300" stop="20190715131000 +0300" channel="Extra TV">
-    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715131000 +0300" stop="20190715131500 +0300" channel="Extra TV">
-    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715131500 +0300" stop="20190715134500 +0300" channel="Extra TV">
-    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715134500 +0300" stop="20190715150500 +0300" channel="Extra TV">
-    <title lang="el">Η ΒΑΣΙΛΙΣΣΑ ΤΗΣ ΝΥΧΤΑΣ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715150500 +0300" stop="20190715153500 +0300" channel="Extra TV">
-    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715153500 +0300" stop="20190715154000 +0300" channel="Extra TV">
-    <title lang="el">ΣΥΝΤΟΜΟ ΔΕΛΤΙΟ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715154000 +0300" stop="20190715160000 +0300" channel="Extra TV">
-    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715160000 +0300" stop="20190715163000 +0300" channel="Extra TV">
-    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715163000 +0300" stop="20190715170000 +0300" channel="Extra TV">
-    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715170000 +0300" stop="20190715180000 +0300" channel="Extra TV">
-    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715180000 +0300" stop="20190715194500 +0300" channel="Extra TV">
-    <title lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715194500 +0300" stop="20190715201500 +0300" channel="Extra TV">
-    <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ EXTRA</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715201500 +0300" stop="20190715220000 +0300" channel="Extra TV">
-    <title lang="el">ΞΕΝΗ ΤΑΙΝΙΑ ΚΩΜΩΔΙΑ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715224000 +0300" stop="20190716004000 +0300" channel="Extra TV">
-    <title lang="el">Indignation</title>
-    <desc lang="el">1951: ο Μάρκους Μέσνερ, ο ιδεαλιστής γιος ενός ταπεινού κρεοπώλη κοσέρ από το Νιούαρκ του Νιου Τζέρσεϊ, φεύγει για να σπουδάσει σε ένα μικρό συντηρητικό κολέγιο του Οχάιο, όπου έρχεται σε αντιπαράθεση με τη διοίκηση, παλεύει με τον αντισημιτισμό και τη σεξουαλική καταπίεση, και λαχταρά ένα κορίτσι με προβλήματα. 1951: Marcus Messner is the idealistic son of a humble kosher butcher from Newark, New Jersey. Marcus leaves for Ohio to study at a small conservative college, where he finds himself at odds with the administration, grapples with anti-Semitism and sexual repression, and pines after a troubled girl(n)</desc>
-  </programme>
-  <programme start="20190715220000 +0300" stop="20190715234500 +0300" channel="Extra TV">
-    <title lang="el">ΦΑΤΜΑΓΚΙΟΥΛ</title>
-    <desc lang="el">N/A(n)</desc>
-  </programme>
-  <programme start="20190715010000 +0300" stop="20190715013000 +0300" channel="smile">
-    <title lang="el">Sabrina</title>
-    <desc lang="el">Σε αυτή την σειρά βλέπουμε την καθημερινή ζωή της πασίγνωστης μάγισσας, Σαμπρίνα. Στο πλευρό της έχει πάντα τον πανέξυπνο γάτο της, Σάλεμ, τον φίλο της, Χάρβευ, την κακομαθημένη Τζεμ Στόουν, τον θείο Κούγκλι και φυσικά τις μάγισσες θείες, Χίλντα και Ζέλντα που την τρελαίνουν με την κριτική τους!(n)</desc>
-  </programme>
-  <programme start="20190715013000 +0300" stop="20190715020000 +0300" channel="smile">
-    <title lang="el">Sissy The Young Empress</title>
-    <desc lang="el">Η Ελισάβετ είναι μια πανέμορφη έφηβη, που λατρεύει την ιππασία, τα ζωάκια και θα θυσίαζε τα πάντα για την οικογένειά της. Είναι ένα ελεύθερο και ατίθασο πνεύμα, μια πριγκίπισσα που ακούει μόνο στο υποκοριστικό Σίσσυ και σιχαίνεται να υπακούει σε κανόνες και αυτοκρατορικά πρωτόκολλα!(n)</desc>
-  </programme>
-  <programme start="20190715020000 +0300" stop="20190715023000 +0300" channel="smile">
-    <title lang="el">Horseland</title>
-    <desc lang="el">Μια ομάδα παιδιών που κάνουν ιππασία στο HORSELAND ζει ξέγνοιαστες στιγμές αλλά και πολλές περιπέτειες(n)</desc>
-  </programme>
-  <programme start="20190715023000 +0300" stop="20190715030000 +0300" channel="smile">
-    <title lang="el">Dimitri</title>
-    <desc lang="el">Ο Ντιμίτρι, ένα μικρό αποδημητικό πουλάκι που ταξιδεύει από την Ευρώπη με την οικογένειά του, χάνει τους γονείς του και πέφτει σε μια κοιλάδα στην Αφρική. Η Μακέμπα, η καμηλοπάρδαλη, αναλαμβάνει να τον φροντίσει και να τον προστατέψει μέχρι να ξαναβρεί τους γονείς του(n)</desc>
-  </programme>
-  <programme start="20190715030000 +0300" stop="20190715033000 +0300" channel="smile">
-    <title lang="el">Sonic</title>
-    <desc lang="el">Ο Σόνικ, αγαπάει την ελευθερία, τη φιλία, την ισότητα, τα χοτ-ντογκ με τσίλι και θέλει να βοηθάει όλους τριγύρω του! Είναι ο πιο γρήγορος σκαντζόχοιρος στον κόσμο! Του αρέσει να ταξιδεύει συνεχώς έχοντας πάντα δίπλα τους φίλους του. Ορκισμένοι του εχθροί είναι ο Δρ. Ρομπότνικ και οι συνεργάτες του(n)</desc>
-  </programme>
-  <programme start="20190715033000 +0300" stop="20190715040000 +0300" channel="smile">
-    <title lang="el">Voopa</title>
-    <desc lang="el">Πρόκειται για ένα επικό παραμύθι που αναβιώνει στο μακρινό δάσος της φυλής των Γκούλας, των «λιλιπούτειων ανθρώπων». Ο πρωταγωνιστής, ο μικρός Βούπα, είναι ένα χαρισματικό και ιδιαίτερο παιδί. ο Βούπα και οι φίλοι του είναι πολύ αστείοι(n)</desc>
-  </programme>
-  <programme start="20190715040000 +0300" stop="20190715043000 +0300" channel="smile">
-    <title lang="el">Dragon Ball Z</title>
-    <desc lang="el">Αφού μάθει ότι προέρχεται από έναν άλλο πλανήτη, ένας πολεμιστής που ονομάζεται Goku και οι φίλοι του, προτρέπονται να τον υπερασπιστούν από μια επίθεση εξωγήιων εχθρών(n)</desc>
-  </programme>
-  <programme start="20190715043000 +0300" stop="20190715050000 +0300" channel="smile">
-    <title lang="el">Dragon Ball Z</title>
-    <desc lang="el">Αφού μάθει ότι προέρχεται από έναν άλλο πλανήτη, ένας πολεμιστής που ονομάζεται Goku και οι φίλοι του, προτρέπονται να τον υπερασπιστούν από μια επίθεση εξωγήιων εχθρών(n)</desc>
-  </programme>
-  <programme start="20190715050000 +0300" stop="20190715053000 +0300" channel="smile">
-    <title lang="el">Dennis</title>
-    <desc lang="el">Ο Ντένις είναι ένα αγοράκι πεντέμισι ετών, που ντύνεται μόνο με φόρμες και στην τσέπη του έχει πάντα μία σφεντόνα. Είναι αξιαγάπητος, αλλά και πολύ σκανδαλιάρης. Αυτός που την «πληρώνει» συνήθως από τα καμώματά του είναι ο ηλικιωμένος, συνταξιούχος γείτονάς του, ο κύριος Γουίλσον(n)</desc>
-  </programme>
-  <programme start="20190715053000 +0300" stop="20190715060000 +0300" channel="smile">
-    <title lang="el">Dennis</title>
-    <desc lang="el">Ο Ντένις είναι ένα αγοράκι πεντέμισι ετών, που ντύνεται μόνο με φόρμες και στην τσέπη του έχει πάντα μία σφεντόνα. Είναι αξιαγάπητος, αλλά και πολύ σκανδαλιάρης. Αυτός που την «πληρώνει» συνήθως από τα καμώματά του είναι ο ηλικιωμένος, συνταξιούχος γείτονάς του, ο κύριος Γουίλσον(n)</desc>
-  </programme>
-  <programme start="20190715060000 +0300" stop="20190715063000 +0300" channel="smile">
-    <title lang="el">Pacman</title>
-    <desc lang="el">Ο Πάκ-μαν είναι ένας έφηβος που προστατεύει τον κόσμο-Πακ από το κακό Διοικητή Μπιτρέϊους. Ο Μπιτρέϊους και ο στρατός του από τα φαντάσματα θέλουν να καταστρέψουν τον κόσμο-Πακ. Μόνο ο Πάκμαν μπορεί να σώσει τον κόσμο-Πακ(n)</desc>
-  </programme>
-  <programme start="20190715063000 +0300" stop="20190715070000 +0300" channel="smile">
-    <title lang="el">Pacman</title>
-    <desc lang="el">Ο Πάκ-μαν είναι ένας έφηβος που προστατεύει τον κόσμο-Πακ από το κακό Διοικητή Μπιτρέϊους. Ο Μπιτρέϊους και ο στρατός του από τα φαντάσματα θέλουν να καταστρέψουν τον κόσμο-Πακ. Μόνο ο Πάκμαν μπορεί να σώσει τον κόσμο-Πακ(n)</desc>
-  </programme>
-  <programme start="20190715070000 +0300" stop="20190715073000 +0300" channel="smile">
-    <title lang="el">Horseland</title>
-    <desc lang="el">Μια ομάδα παιδιών που κάνουν ιππασία στο HORSELAND ζει ξέγνοιαστες στιγμές αλλά και πολλές περιπέτειες(n)</desc>
-  </programme>
-  <programme start="20190715073000 +0300" stop="20190715080000 +0300" channel="smile">
-    <title lang="el">Zig And Sharko</title>
-    <desc lang="el">Ένα έρημο νησί, μια ύαινα που διαρκώς πεινάει, μια όμορφη γοργόνα και ένας πιστός και αφοσιωμένος καρχαρίας μπλέκουν σε μια σειρά από ξεκαρδιστικές περιπέτειες.Θα καταφέρει ο Ζιγκ να φάει τη γοργόνα ή θα γλιτώσει από τα χέρια του με τη βοήθεια του Σάρκο;(n)</desc>
-  </programme>
-  <programme start="20190715080000 +0300" stop="20190715083000 +0300" channel="smile">
-    <title lang="el">The Owl</title>
-    <desc lang="el">Σε ένα δάσος γεμάτο... "επικίνδυνα" ζώα, μια μικρή, ροζ, γκρινιάρα και οξύθυμη κουκουβάγια, αντιμετωπίζει καθημερινά πολλές προκλήσεις, προσπαθώντας να επιβιώσει από την υπερβολική αγάπη των φίλων της!(n)</desc>
-  </programme>
-  <programme start="20190715083000 +0300" stop="20190715090000 +0300" channel="smile">
-    <title lang="el">Olivia</title>
-    <desc lang="el">Η Ολίβια είναι ένα χαριτωμένο, ευφάνταστο και δημιουργικό γουρουνάκι. Κάνει τα πάντα με τους καλύτερους φίλους της, τον Τζούλιαν και τον Φρανσίν. Η Ολίβια θέλει πάντα να διασκεδάζει, είτε είναι στο σχολείο, στο σπίτι, ή στο σπίτι των φίλων της!(n)</desc>
-  </programme>
-  <programme start="20190715090000 +0300" stop="20190715093000 +0300" channel="smile">
-    <title lang="el">Gogo Dino</title>
-    <desc lang="el">Μια φανταστική ομάδα δράσης αποτελούμενη από δεινοσαυράκια ρομπότ που μεταμορφώνονται ανά πάσα στιγμή σε φοβερά οχήματα! Τα GoGo Dinos, με το θάρρος και τη δύναμή τους, μπορούν και βοηθούν, διασώζουν και βγάζουν από τρομερούς μπελάδες τους μικρούς τους φίλους και τους κατοίκους της γειτονικής πόλης(n)</desc>
-  </programme>
-  <programme start="20190715093000 +0300" stop="20190715100000 +0300" channel="smile">
-    <title lang="el">Badanamu</title>
-    <desc lang="el">Έξι δυναμικοί, δημιουργικοί και ατρόμητοι ήρωες σπουδάζουν με τη βοήθειατου καθηγητή Πιπ και μαθαίνουν όλα όσα πρέπει να γνωρίζουν για ναπροστατεύσουν την πόλη Badanamu από τις δυνάμεις του χάους(n)</desc>
-  </programme>
-  <programme start="20190715100000 +0300" stop="20190715103000 +0300" channel="smile">
-    <title lang="el">Cam &amp; Leon</title>
-    <desc lang="el">O Καμ και ο Λίον είναι δύο ιδιαίτεροι χαμαιλέοντες που ζουν σε ένα πάρκο της πόλης, μακριά από το φυσικό τους περιβάλλον. Προσπαθούν διαρκώς να βρουν φαγητό και μπλέκουν σε διασκεδαστικές ιστορίες(n)</desc>
-  </programme>
-  <programme start="20190715103000 +0300" stop="20190715110000 +0300" channel="smile">
-    <title lang="el">Timo</title>
-    <desc lang="el">Η Θεά Τάιμο προσπαθεί να προστατεύσει τα ξωτικά και τα άγρια ζώα πουκατοικούν στο βουνό Τάιμο από την καταστροφική μανία των ανθρώπων. Για να τα καταφέρει θα πρέπει να συλλέξει όλες τις αλυσίδες φωτός με τη βοήθεια της Νεράιδας του Λευκού Τσαγιού(n)</desc>
-  </programme>
-  <programme start="20190715110000 +0300" stop="20190715113000 +0300" channel="smile">
-    <title lang="el">Nonty</title>
-    <desc lang="el">Ο μικρός Νόντυ είναι ένα μικρό ξύλινο αγοράκι που ζει στη μαγική Παιχνιδούπολη. Οδηγεί το μικρό του ταξί και εμπλέκεται σε διάφορες καταστάσεις με τους φίλους του(n)</desc>
-  </programme>
-  <programme start="20190715113000 +0300" stop="20190715120000 +0300" channel="smile">
-    <title lang="el">Super Mario</title>
-    <desc lang="el">ο Μάριο μαζί με τον μικρότερο αδερφό του Λουίτζι ταξιδεύουν παντού, από τη Γη του Ηφαιστείου, ως τη χώρα του Πάγου και από το Μαγεμένο Δάσος μέχρι τον κόσμο του γνωστού παιχνιδιού Τέτρις, όπου σώζουν χαμένα ζωάκια και παιδάκια από τους κακούς και βοηθούν ο ένας στον άλλον(n)</desc>
-  </programme>
-  <programme start="20190715120000 +0300" stop="20190715123000 +0300" channel="smile">
-    <title lang="el">Οι Περιπετειες Της Betsy</title>
-    <desc lang="el">Το καλοκαίρι τελείωσε για τη μικρή Μπέτσυ και τώρα θα πρέπει να πάρει την τσάντα της και να επιστρέψει πίσω στο σχολείο(n)</desc>
-  </programme>
-  <programme start="20190715123000 +0300" stop="20190715130000 +0300" channel="smile">
-    <title lang="el">Rabbids</title>
-    <desc lang="el">Μικρά, εξωγήινα, λευκά πλάσματα που μοιάζουν με λαγουδάκια, εισβάλλουν στη Γη και φέρνουν κυριολεκτικά τα πάνω - κάτω, καταφέρνοντας πάντα στο τέλος να ξεφύγουν χωρίς γρατζουνιά(n)</desc>
-  </programme>
-  <programme start="20190715130000 +0300" stop="20190715133000 +0300" channel="smile">
-    <title lang="el">Popples</title>
-    <desc lang="el">Μια παρέα πέντε χαριτωμένων λούτρινων φίλων μπλέκει σε κάθε λογής περιπέτειες που διασκεδάζουν και εκπαιδεύουν μικρούς και μεγάλους. Βρίσκονται σε ξεκαρδιστικούς μπελάδες κάθε φορά που προσπαθούν ναβοηθήσουν τα φιλαράκια τους, τους γείτονές τους ή τους κατοίκους της Ποππλόπολης(n)</desc>
-  </programme>
-  <programme start="20190715133000 +0300" stop="20190715140000 +0300" channel="smile">
-    <title lang="el">Super Detectives</title>
-    <desc lang="el">Σ' ένα πολύ μακρινό γαλαξία, πέρα από τεράστιες μαύρες τρύπες, αψηφώντας το χωροχρόνο και τη βαρύτητα, υπάρχει ένας εξωγήινος πολιτισμός, πολύ πιο εξελιγμένος από τη Γη. Τι θα γινόταν αν οι εξωγήινοι φίλοι μας μετακόμιζαν στη Γη για να ζήσουν μαζί με τους ανθρώπους;(n)</desc>
-  </programme>
-  <programme start="20190715140000 +0300" stop="20190715143000 +0300" channel="smile">
-    <title lang="el">Hello Punebula</title>
-    <desc lang="el">Ένας μικρός εξωγήινος, ο Τάτα, έρχεται στη Γη μαζί με τον Κιούτι, το κατοικίδιό του, για να ετοιμάσει την έκθεση αποφοίτησή του, πιστεύοντας ότι εφόσον ο πλανήτης Γη βρίσκεται 1000 χρόνια πίσω σε τεχνολογία θα τα καταφέρει μια χαρά(n)</desc>
-  </programme>
-  <programme start="20190715143000 +0300" stop="20190715150000 +0300" channel="smile">
-    <title lang="el">Zig And Sharko</title>
-    <desc lang="el">Ένα έρημο νησί, μια ύαινα που διαρκώς πεινάει, μια όμορφη γοργόνα και ένας πιστός και αφοσιωμένος καρχαρίας μπλέκουν σε μια σειρά από ξεκαρδιστικές περιπέτειες.Θα καταφέρει ο Ζιγκ να φάει τη γοργόνα ή θα γλιτώσει από τα χέρια του με τη βοήθεια του Σάρκο;(n)</desc>
-  </programme>
-  <programme start="20190715150000 +0300" stop="20190715153000 +0300" channel="smile">
-    <title lang="el">Angels Friends</title>
-    <desc lang="el">Τρεις άγγελοι φοιτούν σε ένα σχολείο για φύλακες-αγγέλους. Για να τεστάρουν τις ικανότητές τους αφήνουν τον αγγελικά πλασμένο κόσμο τους και κατεβαίνουν στη Γη. Αποστολή τους είναι να συμβουλεύουν τα παιδιά που αντιμετωπίζουν προβλήματα στην καθημερινότητα τους(n)</desc>
-  </programme>
-  <programme start="20190715153000 +0300" stop="20190715160000 +0300" channel="smile">
-    <title lang="el">Heidi</title>
-    <desc lang="el">Ταξιδέψτε στις καταπράσινες Άλπεις και ζήστε αξέχαστες στιγμές παρέα με τη Χάιντι και τους φίλους της. H Xάιντι αναγκάζεται να αφήσει τη θεία της για να μείνει στην καλύβα του ερημίτη παππού της. Εκεί θα συναντήσει τον Πέτερ, το μικρό βοσκό και θα γνωρίσει μια καινούρια ζωή, γεμάτη εκπλήξεις!(n)</desc>
-  </programme>
-  <programme start="20190715160000 +0300" stop="20190715163000 +0300" channel="smile">
-    <title lang="el">Kikoriki</title>
-    <desc lang="el">Μια ομάδα κεφάτων φίλων που αποτελείται από έναν λαγό, ένα σκαντζόχοιρο και άλλα χαριτωμένα ζωάκια διασκεδάζει λύνοντας καθημερινά προβλήματα, λέγοντας ιστορίες και παίρνοντας πολύτιμα μαθήματα ζωής(n)</desc>
-  </programme>
-  <programme start="20190715163000 +0300" stop="20190715170000 +0300" channel="smile">
-    <title lang="el">Magic Blocks</title>
-    <desc lang="el">Ο Ντάνι και η οικογένειά του ζουν στη Παιχνιδούπολη. Με το μαγικό του ρολόι επικοινωνεί με τον Δρ. Πέιμποτ κάθε φορά που υπάρχει πρόβλημα στην πόλη. Ο Μπόμπο, η Λούλου και ο Κόκο, τρία ρομπότ από τουβλάκια δημιουργούν όλα τα ήδη σχημάτων για να βοηθήσουν τον Ντάνι και τους φίλους του(n)</desc>
-  </programme>
-  <programme start="20190715170000 +0300" stop="20190715173000 +0300" channel="smile">
-    <title lang="el">Three Squirrels</title>
-    <desc lang="el">Tρία σκιουράκια ζούσαν ευτυχισμένα σ' ένα υπέροχο δάσος... Ήταν ένας πραγματικός παράδεισος... αν εξαιρέσεις τον αγριόγατο που τους κυνηγούσε συνέχεια. Όταν τα σκιουράκια του έκοψαν κατά λάθος την ουρά, η εκδικητική αγριόγατα ορκίστηκε ότι θα της το πληρώσουν ακριβά(n)</desc>
-  </programme>
-  <programme start="20190715173000 +0300" stop="20190715180000 +0300" channel="smile">
-    <title lang="el">Herb Family</title>
-    <desc lang="el">Μια ομάδα υπέροχων ξωτικών μπλέκεται σε μια επική ιστορία του καλούενάντια στο κακό. Τελικός στόχος της ομάδας είναι να βρουν και τα 101θρυλικά ξωτικά και να προστατεύσουν την υγεία των ανθρώπων(n)</desc>
-  </programme>
-  <programme start="20190715180000 +0300" stop="20190715183000 +0300" channel="smile">
-    <title lang="el">Rat-A-Tat</title>
-    <desc lang="el">Ελάτε να γνωρίσετε την ξεκαρδιστική παρέα των ΡΑΤ - Α - ΤΑΤ. Οι πανούργοι ποντικοί διασκεδάζουν τους μικρούς φίλους με τις αστείες τους περιπέτειες(n)</desc>
-  </programme>
-  <programme start="20190715183000 +0300" stop="20190715190000 +0300" channel="smile">
-    <title lang="el">Pacman</title>
-    <desc lang="el">Ο Πάκ-μαν είναι ένας έφηβος που προστατεύει τον κόσμο-Πακ από το κακό Διοικητή Μπιτρέϊους. Ο Μπιτρέϊους και ο στρατός του από τα φαντάσματα θέλουν να καταστρέψουν τον κόσμο-Πακ. Μόνο ο Πάκμαν μπορεί να σώσει τον κόσμο-Πακ(n)</desc>
-  </programme>
-  <programme start="20190715190000 +0300" stop="20190715193000 +0300" channel="smile">
-    <title lang="el">Super Yizai</title>
-    <desc lang="el">Στον μακρινό και γεμάτο ζωή πλανήτη Κοκάκα κατοικούν χαριτωμένα ξωτικά και άλλα παράξενα πλάσματα, ανάμεσα τους ο Γιζάι. Όταν ο Γιζάι βρίσκεται ξαφνικά στη Γη, γνωρίζει τον Άλαν και τη Γιάμι. Με τη βοήθειά τους θ' αντιμετωπίσει τον κακό Μπος Μου και θα προσπαθήσει να γίνει Σούπερ Γιζάι(n)</desc>
-  </programme>
-  <programme start="20190715193000 +0300" stop="20190715200000 +0300" channel="smile">
-    <title lang="el">Kikoriki</title>
-    <desc lang="el">Μια ομάδα κεφάτων φίλων που αποτελείται από έναν λαγό, ένα σκαντζόχοιρο και άλλα χαριτωμένα ζωάκια διασκεδάζει λύνοντας καθημερινά προβλήματα, λέγοντας ιστορίες και παίρνοντας πολύτιμα μαθήματα ζωής(n)</desc>
-  </programme>
-  <programme start="20190715200000 +0300" stop="20190715203000 +0300" channel="smile">
-    <title lang="el">Maya The Bee</title>
-    <desc lang="el">Η μικρή σκανδαλιάρα μελισσούλα με την ξεχωριστή προσωπικότητα μπλέκει σε ένα σωρό ξεκαρδιστικές περιπέτειες κάνοντας άνω κάτω τη ζωή του μελισσιού.Ευτυχώς, με τη βοήθεια του Φιλιπ της ακρίδας και του κολλητού της φίλου Βίλλυ, καταφέρνει να γλιτώσει τους μπελάδες!(n)</desc>
-  </programme>
-  <programme start="20190715203000 +0300" stop="20190715210000 +0300" channel="smile">
-    <title lang="el">Oggy &amp; The Cockroaches</title>
-    <desc lang="el">Ο Ότζι είναι μία μπλε γάτα, που περνά τις μέρες της ευχάριστα, τρώγοντας και βλέποντας τηλεόραση. Μόνο που στο ίδιο σπίτι ζουν και τρεις κατσαρίδες, που απολαμβάνουν να αναστατώνουν τη φαινομενικά ήρεμη ζωή του(n)</desc>
-  </programme>
-  <programme start="20190715210000 +0300" stop="20190715213000 +0300" channel="smile">
-    <title lang="el">Power Ranger Dino Charge</title>
-    <desc lang="el">Ο μοχθηρός εξωγήινος Sledge προσπαθεί να κλέψει τη μεγαλύτερη δύναμη του σύμπαντος, τα ενεργειακά πετράδια. Όμως τα σχέδιά του θα ανατραπούν από μια νέα ομάδα ηρώων, τους Power Rangers, οι οποίοι καλούνται να σώσουν τα πετράδια και τον πλανήτη γη(n)</desc>
-  </programme>
-  <programme start="20190715213000 +0300" stop="20190715220000 +0300" channel="smile">
-    <title lang="el">Auto  Be Good</title>
-    <desc lang="el">Στη φανταστική πόλη των αυτοκινήτων δεν υπαρχουν άνθρωποι. Τη θέση τους έχουν πάρει αυτοκίνητα που μιλάνει, διασκεδάζουν και αντιμετωπίζουν την καθημερινότητα με τον πιο ξεκαρδιστικό τρόπο(n)</desc>
-  </programme>
-  <programme start="20190715220000 +0300" stop="20190715223000 +0300" channel="smile">
-    <title lang="el">Gormitti</title>
-    <desc lang="el">Ο νέος πρίγκιπας του Γκορμ καλείται να υπερασπιστεί το νησί του όταν ένας αρχαίος δαίμονας εμφανίζεται και πάλι για να το καταστρέψει. Η επιστροφή του Μαγκμιον είναι γεγονός! Όμως, οι αήττητοι Άρχοντες της Φύσης υπό την καθοδήγηση του Σοφού Μάγου θα αντεπιτεθούν για να σώσουν τα Βασίλειά τους(n)</desc>
-  </programme>
-  <programme start="20190715223000 +0300" stop="20190715230000 +0300" channel="smile">
-    <title lang="el">Super Mario</title>
-    <desc lang="el">ο Μάριο μαζί με τον μικρότερο αδερφό του Λουίτζι ταξιδεύουν παντού, από τη Γη του Ηφαιστείου, ως τη χώρα του Πάγου και από το Μαγεμένο Δάσος μέχρι τον κόσμο του γνωστού παιχνιδιού Τέτρις, όπου σώζουν χαμένα ζωάκια και παιδάκια από τους κακούς και βοηθούν ο ένας στον άλλον(n)</desc>
-  </programme>
-  <programme start="20190715230000 +0300" stop="20190715233000 +0300" channel="smile">
-    <title lang="el">Dragon Ball Z</title>
-    <desc lang="el">Αφού μάθει ότι προέρχεται από έναν άλλο πλανήτη, ένας πολεμιστής που ονομάζεται Goku και οι φίλοι του, προτρέπονται να τον υπερασπιστούν από μια επίθεση εξωγήιων εχθρών(n)</desc>
-  </programme>
+
 </tv>
