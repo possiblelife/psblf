@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="" generator-info-url="">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="rik1">
     <display-name lang="el">Rik1</display-name>
     <icon src="http://primetel.com.cy/tvg/logos/28.png" />
@@ -65,203 +65,15 @@
     <icon src="http://primetel.com.cy/tvg/logos/18.png" />
     <url>http://www.primetel.com.cy</url>
   </channel>
-    <channel id="smile">
-    <display-name lang="el">Smile</display-name>
-    <url>http://www.cyta.com.cy</url>
-  </channel>
-    <channel id="ART TV">
+  <channel id="ART TV">
     <display-name lang="el">ART TV</display-name>
     <url>http://www.digea.gr</url>
   </channel>
-   <programme start="20190715070000 +0300" stop="20190715080000 +0300" channel="ART TV">
-    <title lang="el">Μη Μου Πεις (Ε)</title>
-    <desc lang="el">Μια εκπομπή με πολύ μεράκι και κέφι, πολλά θέματα, ξεχωριστές στήλες, μοναδικούς καλεσμένους, εντυπωσιακά εφέ. Ένα ποικίλο καθημερινό ψυχαγωγικό πρόγραμμα με πολλούς καλεσμένους από την Ελληνική show biz αλλά και πάρα πολλά βίντεο από την Ελλάδα και το εξωτερικό. (ΤΠ) Παρουσίαση: Αλέξανδρος Πετρίδης(n)</desc>
-  </programme>
-  <programme start="20190715080000 +0300" stop="20190715090000 +0300" channel="ART TV">
-    <title lang="el">Παιδικό Πρόγραμμα</title>
-    <desc lang="el">Παιδικό πρόγραμμα με εκπομπές κινουμένων σχεδίων(n)</desc>
-  </programme>
-  <programme start="20190715090000 +0300" stop="20190715100000 +0300" channel="ART TV">
-    <title lang="el">Χρώματα Ελλάδας</title>
-    <desc lang="el">Ενημερωτική εκπομπή με ειδήσεις από την περιφέρεια, ιατρικά θέματα, μαγειρική, μόδα, μουσική, κινηματογράφο(n)</desc>
-  </programme>
-  <programme start="20190715100000 +0300" stop="20190715103000 +0300" channel="ART TV">
-    <title lang="el">Πρωινό Δελτίο ειδήσεων</title>
-    <desc lang="el">Δελτίο ειδήσεων με έγκριτους και καταξιωμένους δημοσιογράφους και σχολιαστές που φωτίζει κάθε πτυχή της επικαιρότητας(n)</desc>
-  </programme>
-  <programme start="20190715103000 +0300" stop="20190715113000 +0300" channel="ART TV">
-    <title lang="el">Ντοκιμαντέρ</title>
-    <desc lang="el">Η φύση, η κοινωνία, η τεχνολογία. Ένας κόσμος γνώσεων σε τηλεοπτική μεταφορά(n)</desc>
-  </programme>
-  <programme start="20190715113000 +0300" stop="20190715123000 +0300" channel="ART TV">
-    <title lang="el">Ιδέες Και Λύσεις Για Το Σπίτι</title>
-    <desc lang="el">Τηλεπωλήσεις(n)</desc>
-  </programme>
-  <programme start="20190715123000 +0300" stop="20190715133500 +0300" channel="ART TV">
-    <title lang="el">Ντοκιμαντέρ</title>
-    <desc lang="el">Η φύση, η κοινωνία, η τεχνολογία. Ένας κόσμος γνώσεων σε τηλεοπτική μεταφορά(n)</desc>
-  </programme>
-  <programme start="20190715133500 +0300" stop="20190715134000 +0300" channel="ART TV">
-    <title lang="el">Εικόνες Από Όλο Τον Κόσμο</title>
-    <desc lang="el">Παρουσίαση πόλεων, τοπίων από όλο τον κόσμο(n)</desc>
-  </programme>
-  <programme start="20190715134000 +0300" stop="20190715144500 +0300" channel="ART TV">
-    <title lang="el">Ιδέες Και Λύσεις Για Το Σπίτι</title>
-    <desc lang="el">Τηλεπωλήσεις(n)</desc>
-  </programme>
-  <programme start="20190715144500 +0300" stop="20190715152000 +0300" channel="ART TV">
-    <title lang="el">Μεσημεριανό Δελτίο Ειδήσεων</title>
-    <desc lang="el">Δελτίο ειδήσεων με έγκριτους και καταξιωμένους δημοσιογράφους και σχολιαστές που φωτίζει κάθε πτυχή της επικαιρότητας(n)</desc>
-  </programme>
-  <programme start="20190715152000 +0300" stop="20190715162000 +0300" channel="ART TV">
-    <title lang="el">Ιδέες Και Λύσεις Για Το Σπίτι</title>
-    <desc lang="el">Τηλεπωλήσεις(n)</desc>
-  </programme>
-  <programme start="20190715162000 +0300" stop="20190715171000 +0300" channel="ART TV">
-    <title lang="el">Παιδικό Πρόγραμμα</title>
-    <desc lang="el">Παιδικό πρόγραμμα με εκπομπές κινουμένων σχεδίων(n)</desc>
-  </programme>
-  <programme start="20190715171000 +0300" stop="20190715180000 +0300" channel="ART TV">
-    <title lang="el">Ίασις</title>
-    <desc lang="el">Ιατρική εκπομπή(n)</desc>
-  </programme>
-  <programme start="20190715180000 +0300" stop="20190715183000 +0300" channel="ART TV">
-    <title lang="el">Απογευματινό Δελτίο Ειδήσεων</title>
-    <desc lang="el">Δελτίο ειδήσεων με έγκριτους και καταξιωμένους δημοσιογράφους και σχολιαστές που φωτίζει κάθε πτυχή της επικαιρότητας(n)</desc>
-  </programme>
-  <programme start="20190715183000 +0300" stop="20190715191000 +0300" channel="ART TV">
-    <title lang="el">Ντοκιμαντέρ</title>
-    <desc lang="el">Η φύση, η κοινωνία, η τεχνολογία. Ένας κόσμος γνώσεων σε τηλεοπτική μεταφορά(n)</desc>
-  </programme>
-  <programme start="20190715191000 +0300" stop="20190715210000 +0300" channel="ART TV">
-    <title lang="el">Ποδόσφαιρο Γ' Εθνική Πρωτάθλημα</title>
-    <desc lang="el">Ποδοσφαιρικός Αγώνας(n)</desc>
-  </programme>
-  <programme start="20190715210000 +0300" stop="20190715220000 +0300" channel="ART TV">
-    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
-    <desc lang="el">Δελτίο ειδήσεων με έγκριτους και καταξιωμένους δημοσιογράφους και σχολιαστές που φωτίζει κάθε πτυχή της επικαιρότητας(n)</desc>
-  </programme>
-  <programme start="20190715220000 +0300" stop="20190716002000 +0300" channel="ART TV">
-    <title lang="el">Ο Κόσμος Των Σπορ</title>
-    <desc lang="el">Αθλητική Εκπομπή με όλα τα αθλητικά γεγονότα και ζωντανές συνδέσεις από όλη την περιφέρεια με τον Βαγγέλη Μουσούντα και τον Βασίλη Βασιλείου(n)</desc>
-  </programme>
-  <programme start="20190716002000 +0300" stop="20190716011000 +0300" channel="ART TV">
-    <title lang="el">Βραδινό Δελτίο Ειδήσεων</title>
-    <desc lang="el">Δελτίο ειδήσεων με έγκριτους και καταξιωμένους δημοσιογράφους και σχολιαστές που φωτίζει κάθε πτυχή της επικαιρότητας(n)</desc>
-  </programme>
-  <programme start="20190716011000 +0300" stop="20190716020000 +0300" channel="ART TV">
-    <title lang="el">Μη Μου Πεις</title>
-    <desc lang="el">Μια εκπομπή με πολύ μεράκι και κέφι, πολλά θέματα, ξεχωριστές στήλες, μοναδικούς καλεσμένους, εντυπωσιακά εφέ. Ένα ποικίλο καθημερινό ψυχαγωγικό πρόγραμμα με πολλούς καλεσμένους από την Ελληνική show biz αλλά και πάρα πολλά βίντεο από την Ελλάδα και το εξωτερικό. (ΤΠ) Παρουσίαση: Αλέξανδρος Πετρίδης(n)</desc>
-  </programme>
-  <programme start="20190716020000 +0300" stop="20190716041000 +0300" channel="ART TV">
-    <title lang="el">Ξένη Ταινία</title>
-    <desc lang="el">Παρακολουθήστε επιλεγμένες, ξένες ταινίες(n)</desc>
-  </programme>
-  <programme start="20190716041000 +0300" stop="20190716060000 +0300" channel="ART TV">
-    <title lang="el">Επανάληψη Εκπομπών Της Ημέρας</title>
-    <desc lang="el">Παρακολουθήστε επαναλήψεις από το πρόγραμμα της ημέρας(n)</desc>
-  </programme>
-  <programme start="20190716060000 +0300" stop="20190716120000 +0300" channel="ART TV">
-    <title lang="el">Axelwos TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος(n)</desc>
-  </programme>
-  <programme start="20190716120000 +0300" stop="20190716180000 +0300" channel="ART TV">
-    <title lang="el">Axelwos TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος(n)</desc>
-  </programme>
-  <programme start="20190716180000 +0300" stop="20190717000000 +0300" channel="ART TV">
-    <title lang="el">Axelwos TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος(n)</desc>
-  </programme>
-  <programme start="20190717000000 +0300" stop="20190717060000 +0300" channel="ART TV">
-    <title lang="el">Axelwos TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος(n)</desc>
-  </programme>
-  <programme start="20190717060000 +0300" stop="20190717120000 +0300" channel="ART TV">
-    <title lang="el">BHMA TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος(n)</desc>
-  </programme>
-  <programme start="20190717120000 +0300" stop="20190717180000 +0300" channel="ART TV">
-    <title lang="el">BHMA TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος(n)</desc>
-  </programme>
-  <programme start="20190717180000 +0300" stop="20190718000000 +0300" channel="ART TV">
-    <title lang="el">BHMA TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος(n)</desc>
-  </programme>
-  <programme start="20190718000000 +0300" stop="20190718063000 +0300" channel="ART TV">
-    <title lang="el">BHMA TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος(n)</desc>
-  </programme>
-  <programme start="20190718063000 +0300" stop="20190718073000 +0300" channel="ART TV">
-    <title lang="el">Κεντρικό Δελτίο Ειδήσεων (Ε)</title>
-    <desc lang="el">Παρακολουθήστε τα τελευταία γεγονότα από την Ελλάδα και τον κόσμο. Παρουσίαση: Σπύρος Ρίκος(n)</desc>
-  </programme>
-  <programme start="20190718073000 +0300" stop="20190718083000 +0300" channel="ART TV">
-    <title lang="el">Λόγος Αντίλογος (Ε)</title>
-    <desc lang="el">Δημοσιογραφική εκπομπή με θέματα επικαιρότητας με τον Σπύρο Ρίκο και τον Διονύση Μάμαλο(n)</desc>
-  </programme>
-  <programme start="20190718083000 +0300" stop="20190718093000 +0300" channel="ART TV">
-    <title lang="el">Χρώματα Ελλάδας</title>
-    <desc lang="el">Τηλεοπτικό μαγκαζίνο ποικίλης ύλης που περιλαμβάνει πλούσια θεματολογία με υγεία, μαγειρική, διακοπές, διατροφή, γυμναστική, παιδιά, κατοικίδια, αυτοκίνητα, διακόσμηση, τέχνη, περιβάλλον και τεχνολογία. Με τους: Μαρία Σπυριδάκη. (ΤΠ)(n)</desc>
-  </programme>
-  <programme start="20190718093000 +0300" stop="20190718101500 +0300" channel="ART TV">
-    <title lang="el">Telemarketing</title>
-    <desc lang="el">Telemarketing(n)</desc>
-  </programme>
-  <programme start="20190718101500 +0300" stop="20190718121500 +0300" channel="ART TV">
-    <title lang="el">Άρωμα Ελλάδας</title>
-    <desc lang="el">Μαγκαζίνο ποικίλης ύλης(n)</desc>
-  </programme>
-  <programme start="20190718121500 +0300" stop="20190718130000 +0300" channel="ART TV">
-    <title lang="el">Telemarketing</title>
-    <desc lang="el">Telemarketing(n)</desc>
-  </programme>
-  <programme start="20190718130000 +0300" stop="20190718140000 +0300" channel="ART TV">
-    <title lang="el">Λόγος Αντίλογος (Ε)</title>
-    <desc lang="el">Δημοσιογραφική εκπομπή με θέματα επικαιρότητας με τον Σπύρο Ρίκο και τον Διονύση Μάμαλο(n)</desc>
-  </programme>
-  <programme start="20190718140000 +0300" stop="20190718160000 +0300" channel="ART TV">
-    <title lang="el">Μαζί Το Μεσημέρι</title>
-    <desc lang="el">Εκπομπή με θέματα ποικίλης ύλης και επικαιρότητας. Παρουσίαση: Σπύρος Ρίκος(n)</desc>
-  </programme>
-  <programme start="20190718160000 +0300" stop="20190718173000 +0300" channel="ART TV">
-    <title lang="el">Μύθος Και Πραγματικότητα (Ε)</title>
-    <desc lang="el">Εκπομπή με τον Γιάννη Ρεβύθη(n)</desc>
-  </programme>
-  <programme start="20190718173000 +0300" stop="20190718180000 +0300" channel="ART TV">
-    <title lang="el">Ντοκιμαντέρ</title>
-    <desc lang="el">Το Corfu TV σας παρουσιάζει επιλεγμένα ντοκιμαντέρ(n)</desc>
-  </programme>
-  <programme start="20190718180000 +0300" stop="20190718190000 +0300" channel="ART TV">
-    <title lang="el">Ίασις</title>
-    <desc lang="el">Ιατρική εκπομπή(n)</desc>
-  </programme>
-  <programme start="20190718190000 +0300" stop="20190718193000 +0300" channel="ART TV">
-    <title lang="el">Δελτίο Ειδήσεων</title>
-    <desc lang="el">Παρακολουθήστε τις τελευταίες ειδήσεις(n)</desc>
-  </programme>
-  <programme start="20190718193000 +0300" stop="20190718210000 +0300" channel="ART TV">
-    <title lang="el">Αθλολογίες</title>
-    <desc lang="el">Εκπομπή με την Μ. Ανδριώτη(n)</desc>
-  </programme>
-  <programme start="20190718210000 +0300" stop="20190718220000 +0300" channel="ART TV">
-    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
-    <desc lang="el">Παρακολουθήστε τα τελευταία γεγονότα από την Ελλάδα και τον κόσμο. Παρουσίαση: Σπύρος Ρίκος και Διονύσης Μάμαλος(n)</desc>
-  </programme>
-  <programme start="20190718220000 +0300" stop="20190718230000 +0300" channel="ART TV">
-    <title lang="el">Λόγος Αντίλογος</title>
-    <desc lang="el">Δημοσιογραφική εκπομπή με θέματα επικαιρότητας με τον Σπύρο Ρίκο και τον Διονύση Μάμαλο(n)</desc>
-  </programme>
-  <programme start="20190718230000 +0300" stop="20190718230500 +0300" channel="ART TV">
-    <title lang="el">Καιρός</title>
-    <desc lang="el">Παρακολουθήστε το δελτίο πρόγνωσης του καιρού. Με την Αγγελική Αυλωνίτη(n)</desc>
-  </programme>
-  <programme start="20190718230500 +0300" stop="20190719005000 +0300" channel="ART TV">
-    <title lang="el">Αθλητική Ατζέντα</title>
-    <desc lang="el">Αθλητικό μαγκαζίνο με τους Βίκυ Παργινού και Γιώργο Θεοδώρου(n)</desc>
-  </programme>
-      <programme start="20190715014000 +0300" stop="20190715024000 +0300" channel="Mega">
+  <channel id="smile">
+    <display-name lang="el">Smile</display-name>
+    <url>http://www.cyta.com.cy</url>
+  </channel>
+  <programme start="20190715014000 +0300" stop="20190715024000 +0300" channel="Mega">
     <title lang="el">Hannibal</title>
     <desc lang="el">Ξένη σειρα(n)</desc>
   </programme>
@@ -320,7 +132,7 @@
   <programme start="20190715201000 +0300" stop="20190715210500 +0300" channel="Mega">
     <title lang="el">Omega News</title>
     <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων(n)</desc>
-
+  </programme>
   <programme start="20190715210500 +0300" stop="20190715220500 +0300" channel="Mega">
     <title lang="el">ΠΕΝΗΝΤΑ ΠΕΝΗΝΤΑ</title>
     <desc lang="el">Η σειρά αφηγείται τη ζωή των τριών ζευγαριών. Αυτοί είναι ο Νικηφόρος και η Ελισάβετ, ο Μίμης και η Ξανθίππη και ο Παύλος και η Ειρήνη. Επίσης, παρουσιάζονται η εξωσυζυγική σχέση του Παύλου με τη νεαρή γυμνάστρια, Μαρία, η σχέση της Ναταλίας (κόρης του Νικηφόρου και της Ελισάβετ) με τον Αχιλλέα, και η σχέση του Κίμωνα (γιου του Μίμη) με την Βίβιαν(n)</desc>
@@ -785,7 +597,7 @@
     <title lang="el">Dragon Ball Z</title>
     <desc lang="el">Αφού μάθει ότι προέρχεται από έναν άλλο πλανήτη, ένας πολεμιστής που ονομάζεται Goku και οι φίλοι του, προτρέπονται να τον υπερασπιστούν από μια επίθεση εξωγήιων εχθρών(n)</desc>
   </programme>
-  <programme start="20190715001500 -0300" stop="20190715033000 -0300" channel="rik1">
+    <programme start="20190715001500 -0300" stop="20190715033000 -0300" channel="rik1">
     <title lang="el">Πεταλούδα</title>
   </programme>
   <programme start="20190715033000 -0300" stop="20190715052000 -0300" channel="rik1">
@@ -2708,5 +2520,120 @@
   <programme start="20190717050000 -0300" stop="20190717100000 -0300" channel="RIK HD">
     <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
   </programme>
-
+  <programme start="20190715070000 +0300" stop="20190715080000 +0300" channel="ART TV">
+    <title lang="el">Μη Μου Πεις (Ε)</title>
+    <desc lang="el">Μια εκπομπή με πολύ μεράκι και κέφι, πολλά θέματα, ξεχωριστές στήλες, μοναδικούς καλεσμένους, εντυπωσιακά εφέ. Ένα ποικίλο καθημερινό ψυχαγωγικό πρόγραμμα με πολλούς καλεσμένους από την Ελληνική show biz αλλά και πάρα πολλά βίντεο από την Ελλάδα και το εξωτερικό. (ΤΠ) Παρουσίαση: Αλέξανδρος Πετρίδης(n)</desc>
+  </programme>
+  <programme start="20190715080000 +0300" stop="20190715090000 +0300" channel="ART TV">
+    <title lang="el">Παιδικό Πρόγραμμα</title>
+    <desc lang="el">Παιδικό πρόγραμμα με εκπομπές κινουμένων σχεδίων(n)</desc>
+  </programme>
+  <programme start="20190715090000 +0300" stop="20190715100000 +0300" channel="ART TV">
+    <title lang="el">Χρώματα Ελλάδας</title>
+    <desc lang="el">Ενημερωτική εκπομπή με ειδήσεις από την περιφέρεια, ιατρικά θέματα, μαγειρική, μόδα, μουσική, κινηματογράφο(n)</desc>
+  </programme>
+  <programme start="20190715100000 +0300" stop="20190715103000 +0300" channel="ART TV">
+    <title lang="el">Πρωινό Δελτίο ειδήσεων</title>
+    <desc lang="el">Δελτίο ειδήσεων με έγκριτους και καταξιωμένους δημοσιογράφους και σχολιαστές που φωτίζει κάθε πτυχή της επικαιρότητας(n)</desc>
+  </programme>
+  <programme start="20190715103000 +0300" stop="20190715113000 +0300" channel="ART TV">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Η φύση, η κοινωνία, η τεχνολογία. Ένας κόσμος γνώσεων σε τηλεοπτική μεταφορά(n)</desc>
+  </programme>
+  <programme start="20190715113000 +0300" stop="20190715123000 +0300" channel="ART TV">
+    <title lang="el">Ιδέες Και Λύσεις Για Το Σπίτι</title>
+    <desc lang="el">Τηλεπωλήσεις(n)</desc>
+  </programme>
+  <programme start="20190715123000 +0300" stop="20190715133500 +0300" channel="ART TV">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Η φύση, η κοινωνία, η τεχνολογία. Ένας κόσμος γνώσεων σε τηλεοπτική μεταφορά(n)</desc>
+  </programme>
+  <programme start="20190715133500 +0300" stop="20190715134000 +0300" channel="ART TV">
+    <title lang="el">Εικόνες Από Όλο Τον Κόσμο</title>
+    <desc lang="el">Παρουσίαση πόλεων, τοπίων από όλο τον κόσμο(n)</desc>
+  </programme>
+  <programme start="20190715134000 +0300" stop="20190715144500 +0300" channel="ART TV">
+    <title lang="el">Ιδέες Και Λύσεις Για Το Σπίτι</title>
+    <desc lang="el">Τηλεπωλήσεις(n)</desc>
+  </programme>
+  <programme start="20190715144500 +0300" stop="20190715152000 +0300" channel="ART TV">
+    <title lang="el">Μεσημεριανό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Δελτίο ειδήσεων με έγκριτους και καταξιωμένους δημοσιογράφους και σχολιαστές που φωτίζει κάθε πτυχή της επικαιρότητας(n)</desc>
+  </programme>
+  <programme start="20190715152000 +0300" stop="20190715162000 +0300" channel="ART TV">
+    <title lang="el">Ιδέες Και Λύσεις Για Το Σπίτι</title>
+    <desc lang="el">Τηλεπωλήσεις(n)</desc>
+  </programme>
+  <programme start="20190715162000 +0300" stop="20190715171000 +0300" channel="ART TV">
+    <title lang="el">Παιδικό Πρόγραμμα</title>
+    <desc lang="el">Παιδικό πρόγραμμα με εκπομπές κινουμένων σχεδίων(n)</desc>
+  </programme>
+  <programme start="20190715171000 +0300" stop="20190715180000 +0300" channel="ART TV">
+    <title lang="el">Ίασις</title>
+    <desc lang="el">Ιατρική εκπομπή(n)</desc>
+  </programme>
+  <programme start="20190715180000 +0300" stop="20190715183000 +0300" channel="ART TV">
+    <title lang="el">Απογευματινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Δελτίο ειδήσεων με έγκριτους και καταξιωμένους δημοσιογράφους και σχολιαστές που φωτίζει κάθε πτυχή της επικαιρότητας(n)</desc>
+  </programme>
+  <programme start="20190715183000 +0300" stop="20190715191000 +0300" channel="ART TV">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Η φύση, η κοινωνία, η τεχνολογία. Ένας κόσμος γνώσεων σε τηλεοπτική μεταφορά(n)</desc>
+  </programme>
+  <programme start="20190715191000 +0300" stop="20190715210000 +0300" channel="ART TV">
+    <title lang="el">Ποδόσφαιρο Γ' Εθνική Πρωτάθλημα</title>
+    <desc lang="el">Ποδοσφαιρικός Αγώνας(n)</desc>
+  </programme>
+  <programme start="20190715210000 +0300" stop="20190715220000 +0300" channel="ART TV">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Δελτίο ειδήσεων με έγκριτους και καταξιωμένους δημοσιογράφους και σχολιαστές που φωτίζει κάθε πτυχή της επικαιρότητας(n)</desc>
+  </programme>
+  <programme start="20190715220000 +0300" stop="20190716002000 +0300" channel="ART TV">
+    <title lang="el">Ο Κόσμος Των Σπορ</title>
+    <desc lang="el">Αθλητική Εκπομπή με όλα τα αθλητικά γεγονότα και ζωντανές συνδέσεις από όλη την περιφέρεια με τον Βαγγέλη Μουσούντα και τον Βασίλη Βασιλείου(n)</desc>
+  </programme>
+  <programme start="20190716002000 +0300" stop="20190716011000 +0300" channel="ART TV">
+    <title lang="el">Βραδινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Δελτίο ειδήσεων με έγκριτους και καταξιωμένους δημοσιογράφους και σχολιαστές που φωτίζει κάθε πτυχή της επικαιρότητας(n)</desc>
+  </programme>
+  <programme start="20190716011000 +0300" stop="20190716020000 +0300" channel="ART TV">
+    <title lang="el">Μη Μου Πεις</title>
+    <desc lang="el">Μια εκπομπή με πολύ μεράκι και κέφι, πολλά θέματα, ξεχωριστές στήλες, μοναδικούς καλεσμένους, εντυπωσιακά εφέ. Ένα ποικίλο καθημερινό ψυχαγωγικό πρόγραμμα με πολλούς καλεσμένους από την Ελληνική show biz αλλά και πάρα πολλά βίντεο από την Ελλάδα και το εξωτερικό. (ΤΠ) Παρουσίαση: Αλέξανδρος Πετρίδης(n)</desc>
+  </programme>
+  <programme start="20190716020000 +0300" stop="20190716041000 +0300" channel="ART TV">
+    <title lang="el">Ξένη Ταινία</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένες, ξένες ταινίες(n)</desc>
+  </programme>
+  <programme start="20190716041000 +0300" stop="20190716060000 +0300" channel="ART TV">
+    <title lang="el">Επανάληψη Εκπομπών Της Ημέρας</title>
+    <desc lang="el">Παρακολουθήστε επαναλήψεις από το πρόγραμμα της ημέρας(n)</desc>
+  </programme>
+  <programme start="20190716060000 +0300" stop="20190716120000 +0300" channel="ART TV">
+    <title lang="el">Axelwos TV</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος(n)</desc>
+  </programme>
+  <programme start="20190716120000 +0300" stop="20190716180000 +0300" channel="ART TV">
+    <title lang="el">Axelwos TV</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος(n)</desc>
+  </programme>
+  <programme start="20190716180000 +0300" stop="20190717000000 +0300" channel="ART TV">
+    <title lang="el">Axelwos TV</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος(n)</desc>
+  </programme>
+  <programme start="20190717000000 +0300" stop="20190717060000 +0300" channel="ART TV">
+    <title lang="el">Axelwos TV</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος(n)</desc>
+  </programme>
+  <programme start="20190717060000 +0300" stop="20190717120000 +0300" channel="ART TV">
+    <title lang="el">BHMA TV</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος(n)</desc>
+  </programme>
+  <programme start="20190717120000 +0300" stop="20190717180000 +0300" channel="ART TV">
+    <title lang="el">BHMA TV</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος(n)</desc>
+  </programme>
+  <programme start="20190717180000 +0300" stop="20190718000000 +0300" channel="ART TV">
+    <title lang="el">BHMA TV</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος(n)</desc>
+  </programme>
 </tv>
