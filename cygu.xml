@@ -65,7 +65,10 @@
     <icon src="http://primetel.com.cy/tvg/logos/18.png" />
     <url>http://www.primetel.com.cy</url>
   </channel>
-  
+    <channel id="smile">
+    <display-name lang="el">Smile</display-name>
+    <url>http://www.cyta.com.cy</url>
+  </channel>
       <programme start="20190715014000 +0300" stop="20190715024000 +0300" channel="Mega">
     <title lang="el">Hannibal</title>
     <desc lang="el">Ξένη σειρα(n)</desc>
