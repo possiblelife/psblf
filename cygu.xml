@@ -31,7 +31,6 @@
   <channel id="Capital">
     <display-name lang="el">Capital</display-name>
     <icon src="http://primetel.com.cy/tvg/logos/219.png" />
-
   </channel>
   <channel id="Alpha Cyprus">
     <display-name lang="el">Alpha Cyprus</display-name>
@@ -55,7 +54,6 @@
   </channel>
   <channel id="ART TV">
     <display-name lang="el">ART TV</display-name>
-    <url>http://www.digea.gr</url>
   </channel>
     <channel id="smile">
     <display-name lang="el">Smile</display-name>
