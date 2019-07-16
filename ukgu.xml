@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="uktv" generator-info-url="">
   <channel id="BBC1">
     <display-name lang="en">BBC1</display-name>
     <url>http://www.m.tvguide.co.uk-index</url>
