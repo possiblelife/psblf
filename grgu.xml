@@ -69,6 +69,28 @@
   <channel id="SYROS TV1">
     <display-name lang="el">SYROS TV1</display-name>
   </channel>
+  <channel id="HIGH TV">
+    <display-name lang="el">HIGH TV</display-name>
+  </channel>
+  <channel id="vouli">
+    <display-name lang="el">Βουλή</display-name>
+    <icon src="http://www.novaguide.gr/files/1/Channels/VOULI_new_logo/VOULI-85x80.png" />
+  </channel>
+  <channel id="ert1">
+    <display-name lang="el">ΕΡΤ1</display-name>
+    <icon src="http://www.novaguide.gr/files/1/channels/ert1.png" />
+  </channel>
+  <channel id="ert2">
+    <display-name lang="el">ΕΡΤ2</display-name>
+    <icon src="http://www.novaguide.gr/files/1/channels/ert2.png" />
+  </channel>
+  <channel id="ert3">
+    <display-name lang="el">ΕΡΤ3</display-name>
+    <icon src="http://www.novaguide.gr/files/1/channels/ert3.png" />
+  </channel>
+  <channel id="Mega">
+    <display-name lang="el">Mega</display-name>
+  </channel>
   <programme start="20190806060000 +0300" stop="20190806063000 +0300" channel="ALPHA">
     <title lang="el">Θυρίδα Τηλεπώλησης</title>
     <desc lang="el">Τηλεαγορά(n)</desc>
@@ -3480,5 +3502,1312 @@
   <programme start="20190808230000 +0300" stop="20190809000000 +0300" channel="AIGAIOTV">
     <title lang="el">Δυνατά Και Ελληνικά</title>
     <desc lang="el">Ο συγγραφέας και εκδότης Δημοσθένης Λιακόπουλος σχολιάζει την πολιτική επικαιρότητα και τα βιβλία του(n)</desc>
+  </programme>
+  <programme start="20190806063000 +0300" stop="20190806070000 +0300" channel="HIGH TV">
+    <title lang="el">Μουσικό Πρόγραμμα</title>
+    <desc lang="el">Μουσικό Πρόγραμμα(n)</desc>
+  </programme>
+  <programme start="20190806070000 +0300" stop="20190806080000 +0300" channel="HIGH TV">
+    <title lang="el">Δοκάρι Και Μέσα</title>
+    <desc lang="el">Αθλητική εκπομπή με τον Γιάννη Καρατζαφέρη και τον Νίκο Αλέφαντο(n)</desc>
+  </programme>
+  <programme start="20190806080000 +0300" stop="20190806083000 +0300" channel="HIGH TV">
+    <title lang="el">Τα Νέα Της Αγοράς</title>
+    <desc lang="el">Παρακολουθήστε έναν έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές, υπόσχονται να αλλάξουν τη ζωή σας(n)</desc>
+  </programme>
+  <programme start="20190806083000 +0300" stop="20190806093000 +0300" channel="HIGH TV">
+    <title lang="el">Κοντά Στην Παράδοση</title>
+    <desc lang="el">Εκπομπή με παραδοσιακή μουσική απ' όλα τα μέρη της Ελλάδας(n)</desc>
+  </programme>
+  <programme start="20190806093000 +0300" stop="20190806100000 +0300" channel="HIGH TV">
+    <title lang="el">Τα Νέα Της Αγοράς</title>
+    <desc lang="el">Παρακολουθήστε έναν έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές, υπόσχονται να αλλάξουν τη ζωή σας(n)</desc>
+  </programme>
+  <programme start="20190806100000 +0300" stop="20190806120000 +0300" channel="HIGH TV">
+    <title lang="el">Εντός, Εκτός &amp; Εναλλάξ</title>
+    <desc lang="el">Ψυχαγωγικό μαγκαζίνο(n)</desc>
+  </programme>
+  <programme start="20190806120000 +0300" stop="20190806133000 +0300" channel="HIGH TV">
+    <title lang="el">Τα Νέα Της Αγοράς</title>
+    <desc lang="el">Παρακολουθήστε έναν έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές, υπόσχονται να αλλάξουν τη ζωή σας(n)</desc>
+  </programme>
+  <programme start="20190806133000 +0300" stop="20190806153000 +0300" channel="HIGH TV">
+    <title lang="el">Στη Φόρα</title>
+    <desc lang="el">Ενημερωτικό μαγκαζίνο με τον Φίλιππο Καμπούρη(n)</desc>
+  </programme>
+  <programme start="20190806153000 +0300" stop="20190806163000 +0300" channel="HIGH TV">
+    <title lang="el">Εν Κατακλείδι</title>
+    <desc lang="el">Εκπομπή που αναλύει την πολιτική επικαιρότητα με τον Γιώργο Καρατζαφερη(n)</desc>
+  </programme>
+  <programme start="20190806163000 +0300" stop="20190806183000 +0300" channel="HIGH TV">
+    <title lang="el">TV Brands</title>
+    <desc lang="el">Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας(n)</desc>
+  </programme>
+  <programme start="20190806183000 +0300" stop="20190806193000 +0300" channel="HIGH TV">
+    <title lang="el">Τα Νέα Της Αγοράς</title>
+    <desc lang="el">Παρακολουθήστε έναν έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές, υπόσχονται να αλλάξουν τη ζωή σας(n)</desc>
+  </programme>
+  <programme start="20190806193000 +0300" stop="20190806200000 +0300" channel="HIGH TV">
+    <title lang="el">Αθλητικό Αφιέρωμα</title>
+    <desc lang="el">Εκπομπή(n)</desc>
+  </programme>
+  <programme start="20190806200000 +0300" stop="20190806203000 +0300" channel="HIGH TV">
+    <title lang="el">Τα Νέα Της Αγοράς</title>
+    <desc lang="el">Παρακολουθήστε έναν έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές, υπόσχονται να αλλάξουν τη ζωή σας(n)</desc>
+  </programme>
+  <programme start="20190806203000 +0300" stop="20190806220000 +0300" channel="HIGH TV">
+    <title lang="el">Εκρηκτικό Δελτίο</title>
+    <desc lang="el">Ενημερωτική εκπομπή με την Σοφία Παραδείση και τον Σπύρο Σταθάκη(n)</desc>
+  </programme>
+  <programme start="20190806220000 +0300" stop="20190806233000 +0300" channel="HIGH TV">
+    <title lang="el">Αρτηρία - 7ος Κύκλος</title>
+    <desc lang="el">Ενημερωτική εκπομπή με την Φρατζέσκα Σαββοργινάκη(n)</desc>
+  </programme>
+  <programme start="20190806233000 +0300" stop="20190807003000 +0300" channel="HIGH TV">
+    <title lang="el">Εν Κατακλείδι (Ε)</title>
+    <desc lang="el">Εκπομπή που αναλύει την πολιτική επικαιρότητα με τον Γιώργο Καρατζαφερη(n)</desc>
+  </programme>
+  <programme start="20190807003000 +0300" stop="20190807010000 +0300" channel="HIGH TV">
+    <title lang="el">Τα Νέα Της Αγοράς</title>
+    <desc lang="el">Παρακολουθήστε έναν έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές, υπόσχονται να αλλάξουν τη ζωή σας(n)</desc>
+  </programme>
+  <programme start="20190807010000 +0300" stop="20190807030000 +0300" channel="HIGH TV">
+    <title lang="el">Στη Φόρα (Ε)</title>
+    <desc lang="el">Ενημερωτικό μαγκαζίνο με τον Φίλιππο Καμπούρη(n)</desc>
+  </programme>
+  <programme start="20190807030000 +0300" stop="20190807050000 +0300" channel="HIGH TV">
+    <title lang="el">Εντός, Εκτός &amp; Εναλλάξ (Ε)</title>
+    <desc lang="el">Ψυχαγωγικό μαγκαζίνο(n)</desc>
+  </programme>
+  <programme start="20190807050000 +0300" stop="20190807080000 +0300" channel="HIGH TV">
+    <title lang="el">Εκρηκτικό Δελτίο (Ε)</title>
+    <desc lang="el">Ενημερωτική εκπομπή με την Σοφία Παραδείση και τον Σπύρο Σταθάκη(n)</desc>
+  </programme>
+  <programme start="20190807080000 +0300" stop="20190807160000 +0300" channel="HIGH TV">
+    <title lang="el">Τηλεαγορές</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος(n)</desc>
+  </programme>
+  <programme start="20190807160000 +0300" stop="20190808000000 +0300" channel="HIGH TV">
+    <title lang="el">Τηλεαγορές</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος(n)</desc>
+  </programme>
+  <programme start="20190808000000 +0300" stop="20190808070000 +0300" channel="HIGH TV">
+    <title lang="el">Τηλεαγορές</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος(n)</desc>
+  </programme>
+  <programme start="20190808070000 +0300" stop="20190808090000 +0300" channel="HIGH TV">
+    <title lang="el">Hammer Series</title>
+    <desc lang="el">Η σειρά αγώνων ποδηλασίας σε ανοικτό δρόμο με την συμμετοχή των κορυφαίων ποδηλατικών ομάδων στον κόσμο(n)</desc>
+  </programme>
+  <programme start="20190808090000 +0300" stop="20190808100000 +0300" channel="HIGH TV">
+    <title lang="el">World Sailing Cup</title>
+    <desc lang="el">Ειδική εκπομπή ιστιοπλοίας(n)</desc>
+  </programme>
+  <programme start="20190808100000 +0300" stop="20190808120000 +0300" channel="HIGH TV">
+    <title lang="el">Εκπομπή Tηλεπώλησης</title>
+    <desc lang="el">Εκπομπή τηλεπώλησης(n)</desc>
+  </programme>
+  <programme start="20190808120000 +0300" stop="20190808140000 +0300" channel="HIGH TV">
+    <title lang="el">Tour Of Norway</title>
+    <desc lang="el">Ποδηλατικός γύρος της Νορβηγίας(n)</desc>
+  </programme>
+  <programme start="20190808140000 +0300" stop="20190808150000 +0300" channel="HIGH TV">
+    <title lang="el">Εκπομπή Tηλεπώλησης</title>
+    <desc lang="el">Εκπομπή τηλεπώλησης(n)</desc>
+  </programme>
+  <programme start="20190808150000 +0300" stop="20190808160000 +0300" channel="HIGH TV">
+    <title lang="el">Triathlon Series</title>
+    <desc lang="el">Αθλητική εκπομπή τριάθλου(n)</desc>
+  </programme>
+  <programme start="20190808160000 +0300" stop="20190808170000 +0300" channel="HIGH TV">
+    <title lang="el">Gillette World Sports</title>
+    <desc lang="el">Αθλητικό μαγκαζίνο με τα σημαντικότερα event σε όλον τον κόσμο(n)</desc>
+  </programme>
+  <programme start="20190808170000 +0300" stop="20190808180000 +0300" channel="HIGH TV">
+    <title lang="el">FIA WEC</title>
+    <desc lang="el">H Super Season του WEC, με 37 αυτοκίνητα να δίνουν την μάχη τους στην πίστα του Spa-Francochamps, σε έναν αγώνα που διαρκεί 6 ώρες!(n)</desc>
+  </programme>
+  <programme start="20190808180000 +0300" stop="20190808183000 +0300" channel="HIGH TV">
+    <title lang="el">Formula E</title>
+    <desc lang="el">Highlights, συνεντευξεις και ειδικά θέματα από τους πρωτότυπους αγώνες αυτοκινήτων(n)</desc>
+  </programme>
+  <programme start="20190808183000 +0300" stop="20190808190000 +0300" channel="HIGH TV">
+    <title lang="el">Morocco Desert Chalenge</title>
+    <desc lang="el">Αγώνες αυτοκινήτων στην έρημο του Μαρόκο(n)</desc>
+  </programme>
+  <programme start="20190808190000 +0300" stop="20190808200000 +0300" channel="HIGH TV">
+    <title lang="el">Οι Αντίζηλοι</title>
+    <desc lang="el">Ξένη vintage σειρά περιπέτειας του Robert S. Baker. Πρωταγωνιστούν Tony Curtis, Roger Moore, Laurence Naismith(n)</desc>
+  </programme>
+  <programme start="20190808200000 +0300" stop="20190808210000 +0300" channel="HIGH TV">
+    <title lang="el">Sport News Best Of</title>
+    <desc lang="el">Αθλητική εκπομπή με τον Σταύρο Κουράκο(n)</desc>
+  </programme>
+  <programme start="20190808210000 +0300" stop="20190808220000 +0300" channel="HIGH TV">
+    <title lang="el">Δικαστίνα Τζούντη</title>
+    <desc lang="el">Η Δικαστίνα Τζούντη είναι ένα σχεδόν ριάλιτι καθώς βασίζεται σε αληθινές υποθέσεις αντιδικίας καθημερινής φύσης. Την δικαστίνα Τζούντη υποδείεται η συνταξιούχος δικαστής οικογενειακού δικαίου Judy Sheindlin(n)</desc>
+  </programme>
+  <programme start="20190808220000 +0300" stop="20190808230000 +0300" channel="HIGH TV">
+    <title lang="el">Dr Bull</title>
+    <desc lang="el">Δικαστική σειρά του CBS των Paul Attanasio και Phil McGraw. Επεισόδιο 16. Υπόθεση: O Δρ Τζέισον Μπουλ είναι Ιδιοφυής, αυθάδης και γοητευτικός. Είναι ο απόλυτος «μαριονετίστας», καθώς συνδυάζει την ψυχολογία, την ανθρώπινη διαίσθηση και δεδομένα υψηλής τεχνολογίας για να μάθει τα ευάλωτα σημεία των ενόρκων, των δικηγόρων, των μαρτύρων και των κατηγορούμενων. Ο Bull συνεργάζεται με μία αξιοζήλευτη ομάδα ειδικών στην Trial Analysis Corporation, ώστε να πλάσει επιτυχείς αφηγήσεις, μέχρι και την τελευταία λεπτομέρεια. Πρωταγωνιστούν: Michael Weatherly, Freddy Rodríguez, Geneva Carr(n)</desc>
+  </programme>
+  <programme start="20190808230000 +0300" stop="20190809010000 +0300" channel="HIGH TV">
+    <title lang="el">Επιθεωρητής Κολιάντρο</title>
+    <desc lang="el">Ιταλική αστυνομική σειρά εγκλημάτων σε σκηνοθεσία Μάρκο και Αντώνιο Μανέτι. Επεισόδιο 21: Ο Coliandro είναι ένας επιθεωρητής στα κεντρικά της αστυνομίας της Μπολόνια, ο οποίος βρίσκεται πάντα μπλεγμένος, χωρίς να το θέλει, σε καταστάσεις δύσκολες για εκείνον. Αλλά ο Coliandro ποτέ δεν τα παρατάει, ακόμα και αν η ανικανότητά του να ερευνήσει αναπόφευκτα τον βάζει σε μπελάδες. Πρωταγωνιστούν Τζιανπάολο Μορέλι, Βερόνικα Λόγκαν, Αλεσσάντρο Ρόσσι και Τζιουζέπε Σολέρι(n)</desc>
+  </programme>
+  <programme start="20190806010000 +0300" stop="20190806050000 +0300" channel="vouli">
+    <title lang="el">ΕΠΑΝΑΛΗΨΗ ΠΡΟΓΡΑΜΜΑΤΟΣ</title>
+    <desc lang="el">Παρακολουθήστε το πρόγραμμα σε επανάληψη(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;01:00</category>
+  </programme>
+  <programme start="20190806050000 +0300" stop="20190806060000 +0300" channel="vouli">
+    <title lang="el">ΕΠΑΝΑΛΗΨΗ ΠΡΟΓΡΑΜΜΑΤΟΣ</title>
+    <desc lang="el">Παρακολουθήστε το πρόγραμμα σε επανάληψη(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;05:00</category>
+  </programme>
+  <programme start="20190806090000 +0300" stop="20190806100000 +0300" channel="vouli">
+    <title lang="el">ΠΡΩΙΝΗ ΑΝΑΓΝΩΣΗ</title>
+    <desc lang="el">Ενημερωτική εκπομπή για την κοινοβουλευτική δραστηριότητα της ημέρας(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;09:00</category>
+  </programme>
+  <programme start="20190806100000 +0300" stop="20190806113000 +0300" channel="vouli">
+    <title lang="el">ΕΛΕΥΘΕΡΟ ΠΑΝΕΠΙΣΤΗΜΙΟ</title>
+    <desc lang="el">Μια συνεργασία της Τηλεόρασης της Βουλής με το Ελεύθερο Πανεπιστήμιο. Οδυσσέας Ελύτης: Η ποίηση, η γλώσσα, η τέχνη του - Μαρίνα Λαμπράκη-Πλάκα: Η εικαστική δημιουργία τού Οδυσσέα Ελύτη(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;10:00</category>
+  </programme>
+  <programme start="20190806113000 +0300" stop="20190806120000 +0300" channel="vouli">
+    <title lang="el">ΣΤΟ ΑΚΑΔΗΜΑΪΚΟ ΤΕΤΑΡΤΟ 3</title>
+    <desc lang="el">Σειρά πορτρέτων για τη φοιτητική ζωή στην Ελλάδα σήμερα, εντός κι εκτός Πανεπιστημίου. Παραγωγή: Βουλή-Τηλεόραση 2017(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;11:30</category>
+  </programme>
+  <programme start="20190806120000 +0300" stop="20190806130000 +0300" channel="vouli">
+    <title lang="el">ΚΟΙΝΟΒΟΥΛΕΥΤΙΚΕΣ ΙΣΤΟΡΙΕΣ</title>
+    <desc lang="el">Τεκμηριωμένα γεγονότα της νεότερης και σύγχρονης ιστορίας από ιδρύσεως του Ελληνικού κράτους ως σήμερα, που διαδραματίστηκαν στο χώρο του Κοινοβουλίου. Παρουσίαση: Τάκης Κάμπρας. Παραγωγή: Βουλή - Τηλεόραση 2016(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;12:00</category>
+  </programme>
+  <programme start="20190806130000 +0300" stop="20190806140000 +0300" channel="vouli">
+    <title lang="el">ΕΚΠΑΙΔΕΥΤΙΚΗ ΤΗΛΕΟΡΑΣΗ</title>
+    <desc lang="el">Μια σειρά από μορφωτικές και εκπαιδευτικές εκπομπές που αποτελεί μια εναλλακτική, οπτικοακουστική εκπαιδευτική πρόταση και απευθύνεται σε μαθητές και εκπαιδευτικούς όλων των βαθμίδων, καθώς και στο ευρύτερο κοινό(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;13:00</category>
+  </programme>
+  <programme start="20190806140000 +0300" stop="20190806143000 +0300" channel="vouli">
+    <title lang="el">ΦΟΙΤΗΤΙΒΙΣΜΑΤΑ</title>
+    <desc lang="el">Συλλογικές δημιουργίες 28 φοιτητών και φοιτητριών από 11 Τμήματα Οπτικοακουστικών Σπουδών και Επικοινωνίας 7 Ελληνικών Πανεπιστημίων, στο πλαίσιο πρακτικής άσκησής τους στην Τηλεόραση της Βουλή(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;14:00</category>
+  </programme>
+  <programme start="20190806143000 +0300" stop="20190806150000 +0300" channel="vouli">
+    <title lang="el">ΣΤΟ ΑΚΑΔΗΜΑΪΚΟ ΤΕΤΑΡΤΟ</title>
+    <desc lang="el">Η ενασχόληση της Δήμητρας, φοιτήτριας της Ιατρικής Σχολής, με την Εθελοντική Ομάδα της HelMSIC. Παραγωγή: Βουλή-Τηλεόραση 2015(n)</desc>
+    <credits>
+      <director>Γιώργος Μανδελένης</director>
+    </credits>
+    <category lang="el">&lt;div class="time"&gt;14:30</category>
+  </programme>
+  <programme start="20190806150000 +0300" stop="20190806160000 +0300" channel="vouli">
+    <title lang="el">ΕΛΛΗΝΕΣ ΑΕΙΝΑΥΤΕΣ</title>
+    <desc lang="el">Ο Ευάγγελος Γρυπιώτης εδώ και 25 χρόνια μελετά και αποτυπώνει με την τέχνη της μικροναυπηγικής πλοία-σταθμούς στην ιστορία της ναυσιπλοϊας και της ναυπηγικής με απόλυτο σεβασμό στην κουλτούρα της κάθε περιόδου(n)</desc>
+    <credits>
+      <director>Γιάννης Καραμπίνης</director>
+    </credits>
+    <category lang="el">&lt;div class="time"&gt;15:00</category>
+  </programme>
+  <programme start="20190806160000 +0300" stop="20190806170000 +0300" channel="vouli">
+    <title lang="el">ΑΣΤΙΚΟ ΤΟΠΙΟ</title>
+    <desc lang="el">Εργο του Μ. Σουβατζίδη με μια αξιόλογη επέμβαση στον ιστό της πόλης. Μια αρκετά επιτυχημένη προσπάθεια τέχνης και μηχανικής, δηλαδή της αρχιτεκτονικής, μέσα από ένα μοντέρνο κτήριο(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;16:00</category>
+  </programme>
+  <programme start="20190806170000 +0300" stop="20190806180000 +0300" channel="vouli">
+    <title lang="el">ΚΑΙΝΟΤΟΜΙΑ</title>
+    <desc lang="el">Ντοκιμαντέρ με ειδήσεις, πληροφορίες, γνώμες που αφορούν σε start up επιχειρήσεις και ερευνητικές ομάδες εργαστηρίων Πανεπιστημίου(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;17:00</category>
+  </programme>
+  <programme start="20190806180000 +0300" stop="20190806190000 +0300" channel="vouli">
+    <title lang="el">Ο ΛΟΓΟΣ ΤΗΣ ΓΡΑΦΗΣ 2</title>
+    <desc lang="el">Σειρά ντοκιμαντέρ για το βιβλίο και την ανάγνωση, που φιλοδοξεί να δημιουργήσει ένα διαχρονικό λογοτεχνικό αρχείο Ελλήνων πεζογράφων και ποιητών(n)</desc>
+    <credits>
+      <director>Μιχάλης Αναστασίου</director>
+    </credits>
+    <category lang="el">&lt;div class="time"&gt;18:00</category>
+  </programme>
+  <programme start="20190806190000 +0300" stop="20190806200000 +0300" channel="vouli">
+    <title lang="el">ΧΑΡΙΝ ΕΥΦΩΝΙΑΣ</title>
+    <desc lang="el">Σειρά μουσικών εκπομπών που παρουσιάζει σημαντικούς Ελληνες δημιουργούς με μεγάλη προσφορά στην ελληνική μουσική και το σύγχρονο ελληνικό τραγούδι(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;19:00</category>
+  </programme>
+  <programme start="20190806200000 +0300" stop="20190806213000 +0300" channel="vouli">
+    <title lang="el">ΡΑΦΑΗΛ</title>
+    <desc lang="el">Σειρά ντοκιμαντέρ. Για τέσσερις αιώνες μετά το θάνατό του, ο Ραφαήλ θεωρείται ακόμη ιδιοφυϊα, όμως οι αρχές που διέπουν το έργο του αμφισβητούνται(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;20:00</category>
+  </programme>
+  <programme start="20190806213000 +0300" stop="20190806220000 +0300" channel="vouli">
+    <title lang="el">MIEKO</title>
+    <desc lang="el">Μια γυναίκα που πενθεί ξεκινά ένα ταξίδι με λεωφορείο προς άγνωστο προορισμό. Το ντοκιμαντέρ ερευνά το αίσθημα που προκαλεί ο ξεριζωμός(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;21:30</category>
+  </programme>
+  <programme start="20190806220000 +0300" stop="20190806230000 +0300" channel="vouli">
+    <title lang="el">ΑΝΑΚΑΛΥΠΤΟΝΤΑΣ ΤΟΝ ΣΑΙΞΠΗΡ</title>
+    <desc lang="el">Ντοκιμαντέρ(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;22:00</category>
+  </programme>
+  <programme start="20190806230000 +0300" stop="20190807000000 +0300" channel="vouli">
+    <title lang="el">ΜΟΥΣΙΚΟΙ ΔΙΑΛΟΓΟΙ</title>
+    <desc lang="el">Μουσική σειρά εκπομπών του Αλέξανδρου - Δράκου Κτιστάκη, στις οποίες σκιαγραφεί τις προσωπικότητες των μουσικών της ελληνικής τζαζ σκηνής μέσα από μια δημιουργική αλλά και βιωματική σκοπιά(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;23:00</category>
+  </programme>
+  <programme start="20190807000000 +0300" stop="20190807003000 +0300" channel="vouli">
+    <title lang="el">ΘΕΑΤΡΟΣΚΟΠΙΟ</title>
+    <desc lang="el">Μια περιήγηση στον κόσμο του Θεάτρου, στα πρόσωπα και τις παραστάσεις(n)</desc>
+    <credits>
+      <director>Σωκράτης Σπανός</director>
+    </credits>
+    <category lang="el">&lt;div class="time"&gt;00:00</category>
+  </programme>
+  <programme start="20190807003000 +0300" stop="20190807030000 +0300" channel="vouli">
+    <title lang="el">ΤΕΤΑΡΤΗ 04:45</title>
+    <desc lang="el">Ο Στέλιος έχει προθεσμία 32 ωρών για να επιστρέψει ένα τεράστιο ποσό που χρωστά σε έναν γκάνγκστερ. Σα να μην του έφτανε αυτό, η γυναίκα του σκέφτεται να τον εγκαταλείψει. Καθώς ο χρόνος περνά, ο Στέλιος αποφασίζει να αντιδράσει(n)</desc>
+    <credits>
+      <director>Αλέξης Αλεξίου</director>
+    </credits>
+    <date>2015</date>
+    <category lang="el">&lt;div class="time"&gt;00:30</category>
+    <icon src="http://cache-forthnet.secure.footprint.net/external/1/9/1976246portrait_472x700.jpg" />
+  </programme>
+  <programme start="20190807030000 +0300" stop="20190807060000 +0300" channel="vouli">
+    <title lang="el">ΕΠΑΝΑΛΗΨΗ ΠΡΟΓΡΑΜΜΑΤΟΣ</title>
+    <desc lang="el">Παρακολουθήστε το πρόγραμμα σε επανάληψη(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;03:00</category>
+  </programme>
+  <programme start="20190807090000 +0300" stop="20190807100000 +0300" channel="vouli">
+    <title lang="el">ΠΡΩΙΝΗ ΑΝΑΓΝΩΣΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;09:00</category>
+  </programme>
+  <programme start="20190807100000 +0300" stop="20190807113000 +0300" channel="vouli">
+    <title lang="el">ΕΛΕΥΘΕΡΟ ΠΑΝΕΠΙΣΤΗΜΙΟ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;10:00</category>
+  </programme>
+  <programme start="20190807113000 +0300" stop="20190807120000 +0300" channel="vouli">
+    <title lang="el">ΣΤΟ ΑΚΑΔΗΜΑΪΚΟ ΤΕΤΑΡΤΟ 3 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;11:30</category>
+  </programme>
+  <programme start="20190807120000 +0300" stop="20190807130000 +0300" channel="vouli">
+    <title lang="el">ΚΑΜΕΡΑ ΖΙΖΑΝΙΟ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;12:00</category>
+  </programme>
+  <programme start="20190807130000 +0300" stop="20190807140000 +0300" channel="vouli">
+    <title lang="el">ΕΚΠΑΙΔΕΥΤΙΚΗ ΤΗΛΕΟΡΑΣΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;13:00</category>
+  </programme>
+  <programme start="20190807143000 +0300" stop="20190807150000 +0300" channel="vouli">
+    <title lang="el">ΣΤΟ ΑΚΑΔΗΜΑΪΚΟ ΤΕΤΑΡΤΟ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;14:30</category>
+  </programme>
+  <programme start="20190807150000 +0300" stop="20190807153000 +0300" channel="vouli">
+    <title lang="el">ΕΛΛΗΝΕΣ ΑΕΙΝΑΥΤΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;15:00</category>
+  </programme>
+  <programme start="20190807153000 +0300" stop="20190807160000 +0300" channel="vouli">
+    <title lang="el">ΕΛΛΗΝΕΣ ΑΕΙΝΑΥΤΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;15:30</category>
+  </programme>
+  <programme start="20190807160000 +0300" stop="20190807170000 +0300" channel="vouli">
+    <title lang="el">ΑΣΤΙΚΟ ΤΟΠΙΟ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;16:00</category>
+  </programme>
+  <programme start="20190807170000 +0300" stop="20190807180000 +0300" channel="vouli">
+    <title lang="el">ΚΑΙΝΟΤΟΜΙΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;17:00</category>
+  </programme>
+  <programme start="20190807180000 +0300" stop="20190807190000 +0300" channel="vouli">
+    <title lang="el">Ο ΛΟΓΟΣ ΤΗΣ ΓΡΑΦΗΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;18:00</category>
+  </programme>
+  <programme start="20190807190000 +0300" stop="20190807200000 +0300" channel="vouli">
+    <title lang="el">ΙΣΤΟΡΙΕΣ ΚΑΘΗΜΕΡΙΝΩΝ ΑΝΘΡΩΠΩΝ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;19:00</category>
+  </programme>
+  <programme start="20190807200000 +0300" stop="20190807210000 +0300" channel="vouli">
+    <title lang="el">DAN GEORGAKAS (?)</title>
+    <category lang="el">&lt;div class="time"&gt;20:00</category>
+  </programme>
+  <programme start="20190807210000 +0300" stop="20190807220000 +0300" channel="vouli">
+    <title lang="el">ΤΑ ΑΡΧΕΙΑ ΑΠΟΚΑΛΥΠΤΟΥΝ 2 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;21:00</category>
+  </programme>
+  <programme start="20190807220000 +0300" stop="20190807233000 +0300" channel="vouli">
+    <title lang="el">ΚΑΡΤΑ ΜΕΛΟΥΣ / ΔΙΑΒΟΥΛΕΥΣΕΙΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;22:00</category>
+  </programme>
+  <programme start="20190807233000 +0300" stop="20190808013000 +0300" channel="vouli">
+    <title lang="el">ΘΡΕΨΕ ΚΟΡΑΚΙΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;23:30</category>
+  </programme>
+  <programme start="20190808013000 +0300" stop="20190808060000 +0300" channel="vouli">
+    <title lang="el">ΕΠΑΝΑΛΗΨΗ ΠΡΟΓΡΑΜΜΑΤΟΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;01:30</category>
+  </programme>
+  <programme start="20190808090000 +0300" stop="20190808100000 +0300" channel="vouli">
+    <title lang="el">ΠΡΩΙΝΗ ΑΝΑΓΝΩΣΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;09:00</category>
+  </programme>
+  <programme start="20190808100000 +0300" stop="20190808113000 +0300" channel="vouli">
+    <title lang="el">ΤΕΤΡΑΔΙΑ ΚΟΙΝΟΒΟΥΛΕΥΤΙΚΟΥ ΛΟΓΟΥ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;10:00</category>
+  </programme>
+  <programme start="20190808113000 +0300" stop="20190808120000 +0300" channel="vouli">
+    <title lang="el">ΣΤΟ ΑΚΑΔΗΜΑΪΚΟ ΤΕΤΑΡΤΟ 3 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;11:30</category>
+  </programme>
+  <programme start="20190808120000 +0300" stop="20190808130000 +0300" channel="vouli">
+    <title lang="el">ΚΑΜΕΡΑ ΖΙΖΑΝΙΟ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;12:00</category>
+  </programme>
+  <programme start="20190808130000 +0300" stop="20190808140000 +0300" channel="vouli">
+    <title lang="el">ΕΚΠΑΙΔΕΥΤΙΚΗ ΤΗΛΕΟΡΑΣΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;13:00</category>
+  </programme>
+  <programme start="20190808143000 +0300" stop="20190808150000 +0300" channel="vouli">
+    <title lang="el">ΣΤΟ ΑΚΑΔΗΜΑΪΚΟ ΤΕΤΑΡΤΟ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;14:30</category>
+  </programme>
+  <programme start="20190808150000 +0300" stop="20190808160000 +0300" channel="vouli">
+    <title lang="el">ΕΛΛΗΝΕΣ ΑΕΙΝΑΥΤΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;15:00</category>
+  </programme>
+  <programme start="20190808160000 +0300" stop="20190808170000 +0300" channel="vouli">
+    <title lang="el">ΑΣΤΙΚΟ ΤΟΠΙΟ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;16:00</category>
+  </programme>
+  <programme start="20190808170000 +0300" stop="20190808180000 +0300" channel="vouli">
+    <title lang="el">ΚΑΙΝΟΤΟΜΙΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;17:00</category>
+  </programme>
+  <programme start="20190808180000 +0300" stop="20190808190000 +0300" channel="vouli">
+    <title lang="el">Ο ΛΟΓΟΣ ΤΗΣ ΓΡΑΦΗΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;18:00</category>
+  </programme>
+  <programme start="20190808190000 +0300" stop="20190808203000 +0300" channel="vouli">
+    <title lang="el">ΧΑΡΙΝ ΕΥΦΩΝΙΑΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;19:00</category>
+  </programme>
+  <programme start="20190808203000 +0300" stop="20190808210000 +0300" channel="vouli">
+    <title lang="el">ΜΑΓΙΚΟΣ ΦΑΝΟΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;20:30</category>
+  </programme>
+  <programme start="20190808210000 +0300" stop="20190808230000 +0300" channel="vouli">
+    <title lang="el">Ο ΚΥΡΙΟΣ ΑΡΚΑΝΤΙΝ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;21:00</category>
+  </programme>
+  <programme start="20190808230000 +0300" stop="20190809003000 +0300" channel="vouli">
+    <title lang="el">ΤΙ ΛΕΕΙ Ο ΝΟΜΟΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;23:00</category>
+  </programme>
+  <programme start="20190806001500 +0300" stop="20190806011000 +0300" channel="ert1">
+    <title lang="el">ΤΗΝ ΗΜΕΡΑ ΠΟΥ...</title>
+    <desc lang="el">Στις 28 Μαϊου 1940, μετά τη συντριβή των συμμαχικών δυνάμεων από τη Βέρμαχτ στη Γαλλία, ο Τσόρτσιλ, έπεισε τους συνεργάτες του να πολεμήσουν τον Χίτλερ, αλλάζοντας έτσι την πορεία του Β' Παγκοσμίου Πολέμου για τη Βρετανία(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;00:15</category>
+  </programme>
+  <programme start="20190806011000 +0300" stop="20190806014000 +0300" channel="ert1">
+    <title lang="el">JAMIE'S 30' MEALS</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή αγγλικής παραγωγής 2010. Ο Τζέιμι Ολιβερ δημιουργεί εκλεπτυσμένα γεύματα μέσα σε 30' και δίνει τις δικές του συμβουλές για το πώς να ετοιμάσουμε ένα γευστικό πιάτο μέσα σε τόσο στενά περιθώρια(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;01:10</category>
+  </programme>
+  <programme start="20190806014000 +0300" stop="20190806030000 +0300" channel="ert1">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΤΟΥ ΚΟΣΜΟΥ</title>
+    <desc lang="el">Ποια είναι η καθημερινότητα μιας εργαζόμενης στην Τυνησία; Πώς μοιάζει η ζωή μιας νοικοκυράς στην Ινδία; Και μιας συνταξιούχου στη Βραζιλία; Σ' αυτή τη σειρά θα ανακαλύψουμε γυναίκες πολύ διαφορετικές τη μία από την άλλη(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;01:40</category>
+  </programme>
+  <programme start="20190806030000 +0300" stop="20190806033000 +0300" channel="ert1">
+    <title lang="el">ΑΠΟ ΠΕΤΡΑ ΚΑΙ ΧΡΟΝΟ</title>
+    <desc lang="el">Οροπέδιο με τραχείς οροσειρές γύρω, κοντά στο φαράγγι της Σαμαριάς. Παντού βοσκοί και μητάτα σκορπισμένα στις γύρω πλαγιές. Ανθρωποι και πρόβατα συνυπάρχουν αρμονικά με συνήθειες που είναι ριζωμένες στις παραδόσεις από γενιά σε γενιά(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;03:00</category>
+  </programme>
+  <programme start="20190806033000 +0300" stop="20190806040000 +0300" channel="ert1">
+    <title lang="el">ΕΛΛΗΝΙΚΟΙ ΠΑΡΑΔΟΣΙΑΚΟΙ ΟΙΚΙΣΜΟΙ</title>
+    <desc lang="el">Σπάνια συναντάμε στην Ελλάδα έναν οικισμό που διατηρεί τόσο καλά την αρχιτεκτονική παράδοση, όπως στη Μονεμβασιά. Τα 'μυστικά' του αποκαλύπτουν η Χάρις και ο Αλέξανδρος Καλλιγάς, που αφιέρωσαν τη ζωή τους στην αναπαλαίωσή του(n)</desc>
+    <credits>
+      <director>Μάχη Λιδωρικιώτη</director>
+    </credits>
+    <category lang="el">&lt;div class="time"&gt;03:30</category>
+  </programme>
+  <programme start="20190806040000 +0300" stop="20190806045000 +0300" channel="ert1">
+    <title lang="el">ΑΠΟ ΑΓΚΑΘΙ ΡΟΔΟ</title>
+    <desc lang="el">Η γκαλερίστα Ελένη Μαρτίνου μάς εξηγεί τι κάνει ένα αντικείμενο αντίκα, ο ζωγράφος Τάσος Μαντζαβίνος μάς μιλάει για το 'μάτι' του συλλέκτη και οι άνθρωποι του Οίκου Βέργου μάς ξεναγούν στο συναρπαστικό κόσμο των δημοπρασιών(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;04:00</category>
+  </programme>
+  <programme start="20190806045000 +0300" stop="20190806060000 +0300" channel="ert1">
+    <title lang="el">ΤΑΞΙΔΕΥΟΝΤΑΣ ΣΤΗΝ ΕΛΛΑΔΑ</title>
+    <desc lang="el">Σημερινός προορισμός η Κρήτη. Η Μάγια Τσόκλη φτάνει στο Ηράκλειο και αφού περιηγηθεί στο λιμάνι του Χάνδακα που έζησε τις μεγάλες του δόξες την περίοδο της Ενετοκρατίας, φεύγει για τον διάσημο αρχαιολογικό χώρο της Κνωσού(n)</desc>
+    <credits>
+      <director>Χρόνης Πεχλιβανίδης</director>
+    </credits>
+    <category lang="el">&lt;div class="time"&gt;04:50</category>
+  </programme>
+  <programme start="20190806060000 +0300" stop="20190806065000 +0300" channel="ert1">
+    <title lang="el">ΓΕΥΣΕΙΣ ΑΠΟ ΕΛΛΑΔΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;06:00</category>
+  </programme>
+  <programme start="20190806065000 +0300" stop="20190806100000 +0300" channel="ert1">
+    <title lang="el">ΚΑΛΟΚΑΙΡΙΝΗ ΕΝΗΜΕΡΩΣΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;06:50</category>
+  </programme>
+  <programme start="20190806100000 +0300" stop="20190806103000 +0300" channel="ert1">
+    <title lang="el">ΑΠΟ ΠΕΤΡΑ ΚΑΙ ΧΡΟΝΟ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;10:00</category>
+  </programme>
+  <programme start="20190806103000 +0300" stop="20190806110000 +0300" channel="ert1">
+    <title lang="el">ΕΛΛΗΝΙΚΟΙ ΠΑΡΑΔΟΣΙΑΚΟΙ ΟΙΚΙΣΜΟΙ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;10:30</category>
+  </programme>
+  <programme start="20190806110000 +0300" stop="20190806120000 +0300" channel="ert1">
+    <title lang="el">ΑΠΟ ΑΓΚΑΘΙ ΡΟΔΟ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;11:00</category>
+  </programme>
+  <programme start="20190806120000 +0300" stop="20190806130000 +0300" channel="ert1">
+    <title lang="el">ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός (?)</title>
+    <category lang="el">&lt;div class="time"&gt;12:00</category>
+  </programme>
+  <programme start="20190806130000 +0300" stop="20190806140000 +0300" channel="ert1">
+    <title lang="el">ΤΑΞΙΔΕΥΟΝΤΑΣ ΣΤΗΝ ΕΛΛΑΔΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;13:00</category>
+  </programme>
+  <programme start="20190806140000 +0300" stop="20190806144500 +0300" channel="ert1">
+    <title lang="el">ΓΕΥΣΕΙΣ ΑΠΟ ΕΛΛΑΔΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;14:00</category>
+  </programme>
+  <programme start="20190806150000 +0300" stop="20190806160000 +0300" channel="ert1">
+    <title lang="el">ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός (?)</title>
+    <category lang="el">&lt;div class="time"&gt;15:00</category>
+  </programme>
+  <programme start="20190806160000 +0300" stop="20190806163000 +0300" channel="ert1">
+    <title lang="el">JAMIE'S 30' MEALS (?)</title>
+    <category lang="el">&lt;div class="time"&gt;16:00</category>
+  </programme>
+  <programme start="20190806163000 +0300" stop="20190806180000 +0300" channel="ert1">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΤΟΥ ΚΟΣΜΟΥ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;16:30</category>
+  </programme>
+  <programme start="20190806184500 +0300" stop="20190806191500 +0300" channel="ert1">
+    <title lang="el">ΠΡΟΒΑ ΓΑΜΟΥ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;18:45</category>
+  </programme>
+  <programme start="20190806191500 +0300" stop="20190806205000 +0300" channel="ert1">
+    <title lang="el">ΕΡΩΤΙΚΕΣ ΙΣΤΟΡΙΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;19:15</category>
+  </programme>
+  <programme start="20190806205000 +0300" stop="20190806220000 +0300" channel="ert1">
+    <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;20:50</category>
+  </programme>
+  <programme start="20190806220000 +0300" stop="20190806230000 +0300" channel="ert1">
+    <title lang="el">ΛΟΥΦΑ ΚΑΙ ΠΑΡΑΛΛΑΓΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;22:00</category>
+  </programme>
+  <programme start="20190806230000 +0300" stop="20190807000000 +0300" channel="ert1">
+    <title lang="el">ΛΟΥΦΑ ΚΑΙ ΠΑΡΑΛΛΑΓΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;23:00</category>
+  </programme>
+  <programme start="20190807001500 +0300" stop="20190807011000 +0300" channel="ert1">
+    <title lang="el">Η ΙΣΤΟΡΙΑ ΠΙΣΩ ΑΠΟ ΤΟΝ ΜΥΘΟ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;00:15</category>
+  </programme>
+  <programme start="20190807011000 +0300" stop="20190807014000 +0300" channel="ert1">
+    <title lang="el">JAMIE'S 30' MEALS (?)</title>
+    <category lang="el">&lt;div class="time"&gt;01:10</category>
+  </programme>
+  <programme start="20190807014000 +0300" stop="20190807030000 +0300" channel="ert1">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΤΟΥ ΚΟΣΜΟΥ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;01:40</category>
+  </programme>
+  <programme start="20190807030000 +0300" stop="20190807040000 +0300" channel="ert1">
+    <title lang="el">Η ΙΣΤΟΡΙΑ ΠΙΣΩ ΑΠΟ ΤΟΝ ΜΥΘΟ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;03:00</category>
+  </programme>
+  <programme start="20190807040000 +0300" stop="20190807050000 +0300" channel="ert1">
+    <title lang="el">ΑΠΟ ΑΓΚΑΘΙ ΡΟΔΟ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;04:00</category>
+  </programme>
+  <programme start="20190807050000 +0300" stop="20190807060000 +0300" channel="ert1">
+    <title lang="el">ΤΑΞΙΔΕΥΟΝΤΑΣ ΣΤΗΝ ΕΛΛΑΔΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;05:00</category>
+  </programme>
+  <programme start="20190807060000 +0300" stop="20190807065000 +0300" channel="ert1">
+    <title lang="el">ΓΕΥΣΕΙΣ ΑΠΟ ΕΛΛΑΔΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;06:00</category>
+  </programme>
+  <programme start="20190807065000 +0300" stop="20190807100000 +0300" channel="ert1">
+    <title lang="el">ΚΑΛΟΚΑΙΡΙΝΗ ΕΝΗΜΕΡΩΣΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;06:50</category>
+  </programme>
+  <programme start="20190807100000 +0300" stop="20190807103000 +0300" channel="ert1">
+    <title lang="el">ΑΠΟ ΠΕΤΡΑ ΚΑΙ ΧΡΟΝΟ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;10:00</category>
+  </programme>
+  <programme start="20190807103000 +0300" stop="20190807110500 +0300" channel="ert1">
+    <title lang="el">ΕΛΛΗΝΙΚΟΙ ΠΑΡΑΔΟΣΙΑΚΟΙ ΟΙΚΙΣΜΟΙ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;10:30</category>
+  </programme>
+  <programme start="20190807110500 +0300" stop="20190807120000 +0300" channel="ert1">
+    <title lang="el">ΑΠΟ ΑΓΚΑΘΙ ΡΟΔΟ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;11:05</category>
+  </programme>
+  <programme start="20190807120000 +0300" stop="20190807130000 +0300" channel="ert1">
+    <title lang="el">ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός (?)</title>
+    <category lang="el">&lt;div class="time"&gt;12:00</category>
+  </programme>
+  <programme start="20190807130000 +0300" stop="20190807140000 +0300" channel="ert1">
+    <title lang="el">ΤΑΞΙΔΕΥΟΝΤΑΣ ΣΤΗΝ ΕΛΛΑΔΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;13:00</category>
+  </programme>
+  <programme start="20190807140000 +0300" stop="20190807144500 +0300" channel="ert1">
+    <title lang="el">ΓΕΥΣΕΙΣ ΑΠΟ ΕΛΛΑΔΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;14:00</category>
+  </programme>
+  <programme start="20190807150000 +0300" stop="20190807160000 +0300" channel="ert1">
+    <title lang="el">ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός (?)</title>
+    <category lang="el">&lt;div class="time"&gt;15:00</category>
+  </programme>
+  <programme start="20190807160000 +0300" stop="20190807163000 +0300" channel="ert1">
+    <title lang="el">JAMIE'S 30' MEALS (?)</title>
+    <category lang="el">&lt;div class="time"&gt;16:00</category>
+  </programme>
+  <programme start="20190807163000 +0300" stop="20190807180000 +0300" channel="ert1">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΤΟΥ ΚΟΣΜΟΥ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;16:30</category>
+  </programme>
+  <programme start="20190807184500 +0300" stop="20190807192000 +0300" channel="ert1">
+    <title lang="el">ΠΡΟΒΑ ΓΑΜΟΥ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;18:45</category>
+  </programme>
+  <programme start="20190807192000 +0300" stop="20190807205000 +0300" channel="ert1">
+    <title lang="el">ΠΡΟΔΟΜΕΝΗ ΑΓΑΠΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;19:20</category>
+  </programme>
+  <programme start="20190807205000 +0300" stop="20190807220000 +0300" channel="ert1">
+    <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;20:50</category>
+  </programme>
+  <programme start="20190807220000 +0300" stop="20190807230000 +0300" channel="ert1">
+    <title lang="el">ΛΟΥΦΑ ΚΑΙ ΠΑΡΑΛΛΑΓΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;22:00</category>
+  </programme>
+  <programme start="20190807230000 +0300" stop="20190808000000 +0300" channel="ert1">
+    <title lang="el">ΛΟΥΦΑ ΚΑΙ ΠΑΡΑΛΛΑΓΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;23:00</category>
+  </programme>
+  <programme start="20190808001500 +0300" stop="20190808011000 +0300" channel="ert1">
+    <title lang="el">Η ΙΣΤΟΡΙΑ ΠΙΣΩ ΑΠΟ ΤΟΝ ΜΥΘΟ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;00:15</category>
+  </programme>
+  <programme start="20190808011000 +0300" stop="20190808014000 +0300" channel="ert1">
+    <title lang="el">JAMIE'S 30' MEALS (?)</title>
+    <category lang="el">&lt;div class="time"&gt;01:10</category>
+  </programme>
+  <programme start="20190808014000 +0300" stop="20190808030500 +0300" channel="ert1">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΤΟΥ ΚΟΣΜΟΥ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;01:40</category>
+  </programme>
+  <programme start="20190808030500 +0300" stop="20190808040000 +0300" channel="ert1">
+    <title lang="el">Η ΙΣΤΟΡΙΑ ΠΙΣΩ ΑΠΟ ΤΟΝ ΜΥΘΟ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;03:05</category>
+  </programme>
+  <programme start="20190808040000 +0300" stop="20190808050000 +0300" channel="ert1">
+    <title lang="el">ΑΠΟ ΑΓΚΑΘΙ ΡΟΔΟ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;04:00</category>
+  </programme>
+  <programme start="20190808050000 +0300" stop="20190808060000 +0300" channel="ert1">
+    <title lang="el">ΤΑΞΙΔΕΥΟΝΤΑΣ ΣΤΗΝ ΕΛΛΑΔΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;05:00</category>
+  </programme>
+  <programme start="20190808060000 +0300" stop="20190808065000 +0300" channel="ert1">
+    <title lang="el">ΓΕΥΣΕΙΣ ΑΠΟ ΕΛΛΑΔΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;06:00</category>
+  </programme>
+  <programme start="20190808065000 +0300" stop="20190808100000 +0300" channel="ert1">
+    <title lang="el">ΚΑΛΟΚΑΙΡΙΝΗ ΕΝΗΜΕΡΩΣΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;06:50</category>
+  </programme>
+  <programme start="20190808100000 +0300" stop="20190808110500 +0300" channel="ert1">
+    <title lang="el">ΑΠΟ ΠΕΤΡΑ ΚΑΙ ΧΡΟΝΟ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;10:00</category>
+  </programme>
+  <programme start="20190808110500 +0300" stop="20190808120000 +0300" channel="ert1">
+    <title lang="el">ΑΠΟ ΑΓΚΑΘΙ ΡΟΔΟ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;11:05</category>
+  </programme>
+  <programme start="20190808120000 +0300" stop="20190808130000 +0300" channel="ert1">
+    <title lang="el">ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός (?)</title>
+    <category lang="el">&lt;div class="time"&gt;12:00</category>
+  </programme>
+  <programme start="20190808130000 +0300" stop="20190808140000 +0300" channel="ert1">
+    <title lang="el">ΤΑΞΙΔΕΥΟΝΤΑΣ ΣΤΗΝ ΕΛΛΑΔΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;13:00</category>
+  </programme>
+  <programme start="20190808140000 +0300" stop="20190808144500 +0300" channel="ert1">
+    <title lang="el">ΓΕΥΣΕΙΣ ΑΠΟ ΕΛΛΑΔΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;14:00</category>
+  </programme>
+  <programme start="20190808150000 +0300" stop="20190808160000 +0300" channel="ert1">
+    <title lang="el">ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός (?)</title>
+    <category lang="el">&lt;div class="time"&gt;15:00</category>
+  </programme>
+  <programme start="20190808160000 +0300" stop="20190808163000 +0300" channel="ert1">
+    <title lang="el">JAMIE'S 30' MEALS (?)</title>
+    <category lang="el">&lt;div class="time"&gt;16:00</category>
+  </programme>
+  <programme start="20190808163000 +0300" stop="20190808180000 +0300" channel="ert1">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΤΟΥ ΚΟΣΜΟΥ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;16:30</category>
+  </programme>
+  <programme start="20190808183000 +0300" stop="20190808193000 +0300" channel="ert1">
+    <title lang="el">ΑΡΛΕΤΑ &amp; FRIENDS (?)</title>
+    <category lang="el">&lt;div class="time"&gt;18:30</category>
+  </programme>
+  <programme start="20190808193000 +0300" stop="20190808205000 +0300" channel="ert1">
+    <title lang="el">ΠΙΑΣΑΜΕ ΤΗΝ ΚΑΛΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;19:30</category>
+  </programme>
+  <programme start="20190808205000 +0300" stop="20190808220000 +0300" channel="ert1">
+    <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;20:50</category>
+  </programme>
+  <programme start="20190808220000 +0300" stop="20190808230000 +0300" channel="ert1">
+    <title lang="el">ΛΟΥΦΑ ΚΑΙ ΠΑΡΑΛΛΑΓΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;22:00</category>
+  </programme>
+  <programme start="20190808230000 +0300" stop="20190809000000 +0300" channel="ert1">
+    <title lang="el">ΛΟΥΦΑ ΚΑΙ ΠΑΡΑΛΛΑΓΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;23:00</category>
+  </programme>
+  <programme start="20190806004500 +0300" stop="20190806013000 +0300" channel="ert2">
+    <title lang="el">Ο ΠΑΡΑΔΕΙΣΟΣ ΤΩΝ ΚΥΡΙΩΝ 3</title>
+    <desc lang="el">Βασισμένη στο μυθιστόρημα του Εμίλ Ζολά 'Στην Ευτυχία των Κυριών', η ιστορία μας διαδραματίζεται στη δεκαετία του '50, όπου υπάρχει δουλειά για όλους και η χώρα είναι όλο ελπίδα για το μέλλον(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;00:45</category>
+  </programme>
+  <programme start="20190806013000 +0300" stop="20190806030000 +0300" channel="ert2">
+    <title lang="el">ΒΙΒΑΛΝΤΙΑΝΟ</title>
+    <desc lang="el">Ενα συγκλονιστικό υπερθέαμα με μπαρόκ μουσική σε συνδυασμό με σύγχρονο ήχο, στο οποίο συμμετέχουν σαράντα μουσικοί, χορευτές και τραγουδιστές από όλο τον κόσμο και είναι αφιερωμένο στον τιτάνα της μπαρόκ μουσικής Αντόνιο Βιβάλντι(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;01:30</category>
+  </programme>
+  <programme start="20190806030000 +0300" stop="20190806034500 +0300" channel="ert2">
+    <title lang="el">MASSA FRESCA</title>
+    <desc lang="el">Ο Γκούγα περιμένει με ανυπομονησία τη συζήτηση που θα κάνει με το κορίτσι των ονείρων του, αλλά η Λεονόρ παραμένει επιφυλακτική. Η Σέλια εξακολουθεί να ελπίζει ότι θα μείνει έγκυος από τον Φρανσίσκο(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;03:00</category>
+  </programme>
+  <programme start="20190806034500 +0300" stop="20190806043000 +0300" channel="ert2">
+    <title lang="el">MASSA FRESCA</title>
+    <desc lang="el">Ο Φρανσίσκο πίνει παραπάνω και η Μαρία αναγκάζεται να τον γυρίσει σπίτι. Αυτός δεν μπορεί ν' αντισταθεί στα αισθήματά του γι' αυτήν και τη φιλάει. Η Σέλια τα βλέπει και ψάχνει τρόπο να ανατρέψει την κατάσταση προς όφελός της(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;03:45</category>
+  </programme>
+  <programme start="20190806043000 +0300" stop="20190806052000 +0300" channel="ert2">
+    <title lang="el">ΕΞΙ ΑΔΕΛΦΕΣ</title>
+    <desc lang="el">Η Αντέλα και η Μπιάνκα πρέπει να αποφασίσουν ανάμεσα σ' αυτό που τους υπαγορεύουν οι επιθυμίες και η λογική τους, σε σχέση με τον Χερμάν και τον Κριστόμπαλ. Στο μεταξύ ο Ροδόλφο, κρυφά από την Μπιάνκα, υποκύπτει στη γοητεία της Βικτόρια(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;04:30</category>
+  </programme>
+  <programme start="20190806052000 +0300" stop="20190806060000 +0300" channel="ert2">
+    <title lang="el">ΕΞΙ ΑΔΕΛΦΕΣ</title>
+    <desc lang="el">Η Ντιάνα και ο Σαλβαδόρ αποφασίζουν να δράσουν για να αποτρέψουν τα σχέδια του Δον Ρικάρντο για το εργοστάσιο: πρέπει να τον κάνουν να πιστέψει ότι τα 'Υφάσματα Σίλβα' παρουσιάζουν σημαντική μείωση στις παραγγελίες(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;05:20</category>
+  </programme>
+  <programme start="20190806061500 +0300" stop="20190806070000 +0300" channel="ert2">
+    <title lang="el">ΕΞΙ ΑΔΕΛΦΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;06:15</category>
+  </programme>
+  <programme start="20190806070000 +0300" stop="20190806073000 +0300" channel="ert2">
+    <title lang="el">Αειναύτες, οι Ελληνες και η Θάλασσα (?)</title>
+    <category lang="el">&lt;div class="time"&gt;07:00</category>
+  </programme>
+  <programme start="20190806073000 +0300" stop="20190806080000 +0300" channel="ert2">
+    <title lang="el">Τα Μυστικά του Απόλυτου Γαλάζιου (?)</title>
+    <category lang="el">&lt;div class="time"&gt;07:30</category>
+  </programme>
+  <programme start="20190806080000 +0300" stop="20190806083000 +0300" channel="ert2">
+    <title lang="el">ΑΝΙΜΑΛΙΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;08:00</category>
+  </programme>
+  <programme start="20190806100000 +0300" stop="20190806103000 +0300" channel="ert2">
+    <title lang="el">JAMIE'S 30' MEALS (?)</title>
+    <category lang="el">&lt;div class="time"&gt;10:00</category>
+  </programme>
+  <programme start="20190806103000 +0300" stop="20190806120000 +0300" channel="ert2">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΤΟΥ ΚΟΣΜΟΥ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;10:30</category>
+  </programme>
+  <programme start="20190806120000 +0300" stop="20190806124500 +0300" channel="ert2">
+    <title lang="el">MASSA FRESCA (?)</title>
+    <category lang="el">&lt;div class="time"&gt;12:00</category>
+  </programme>
+  <programme start="20190806124500 +0300" stop="20190806133000 +0300" channel="ert2">
+    <title lang="el">MASSA FRESCA (?)</title>
+    <category lang="el">&lt;div class="time"&gt;12:45</category>
+  </programme>
+  <programme start="20190806133000 +0300" stop="20190806140000 +0300" channel="ert2">
+    <title lang="el">ΑΝΙΜΑΛΙΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;13:30</category>
+  </programme>
+  <programme start="20190806140000 +0300" stop="20190806143000 +0300" channel="ert2">
+    <title lang="el">ΡΟΖ ΠΑΝΘΗΡΑΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;14:00</category>
+  </programme>
+  <programme start="20190806143000 +0300" stop="20190806150000 +0300" channel="ert2">
+    <title lang="el">1.000 ΧΡΩΜΑΤΑ ΤΟΥ ΧΡΗΣΤΟΥ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;14:30</category>
+  </programme>
+  <programme start="20190806150000 +0300" stop="20190806155500 +0300" channel="ert2">
+    <title lang="el">ΕΞΙ ΑΔΕΛΦΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;15:00</category>
+  </programme>
+  <programme start="20190806155500 +0300" stop="20190806165000 +0300" channel="ert2">
+    <title lang="el">ΕΞΙ ΑΔΕΛΦΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;15:55</category>
+  </programme>
+  <programme start="20190806165000 +0300" stop="20190806174500 +0300" channel="ert2">
+    <title lang="el">ΕΞΙ ΑΔΕΛΦΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;16:50</category>
+  </programme>
+  <programme start="20190806174500 +0300" stop="20190806191500 +0300" channel="ert2">
+    <title lang="el">ΔΟΛΑΡΙΑ ΚΑΙ ΟΝΕΙΡΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;17:45</category>
+  </programme>
+  <programme start="20190806191500 +0300" stop="20190806200000 +0300" channel="ert2">
+    <title lang="el">Ο ΠΑΡΑΔΕΙΣΟΣ ΤΩΝ ΚΥΡΙΩΝ 3 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;19:15</category>
+  </programme>
+  <programme start="20190806200000 +0300" stop="20190806210000 +0300" channel="ert2">
+    <title lang="el">ΜΟΝΟ ΕΣΥ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;20:00</category>
+  </programme>
+  <programme start="20190806210000 +0300" stop="20190806220000 +0300" channel="ert2">
+    <title lang="el">ΝΤΕΤΕΚΤΙΒ ΜΕΡΝΤΟΧ 5 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;21:00</category>
+  </programme>
+  <programme start="20190806220000 +0300" stop="20190806230000 +0300" channel="ert2">
+    <title lang="el">PEAKY BLINDERS 4 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;22:00</category>
+  </programme>
+  <programme start="20190806230000 +0300" stop="20190807003000 +0300" channel="ert2">
+    <title lang="el">ΚΑΥΣΩΝΑΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;23:00</category>
+  </programme>
+  <programme start="20190807003000 +0300" stop="20190807011500 +0300" channel="ert2">
+    <title lang="el">Ο ΠΑΡΑΔΕΙΣΟΣ ΤΩΝ ΚΥΡΙΩΝ 3 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;00:30</category>
+  </programme>
+  <programme start="20190807011500 +0300" stop="20190807021500 +0300" channel="ert2">
+    <title lang="el">PEAKY BLINDERS 4 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;01:15</category>
+  </programme>
+  <programme start="20190807021500 +0300" stop="20190807030000 +0300" channel="ert2">
+    <title lang="el">ΜΟΝΟ ΕΣΥ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;02:15</category>
+  </programme>
+  <programme start="20190807030000 +0300" stop="20190807034500 +0300" channel="ert2">
+    <title lang="el">MASSA FRESCA (?)</title>
+    <category lang="el">&lt;div class="time"&gt;03:00</category>
+  </programme>
+  <programme start="20190807034500 +0300" stop="20190807043000 +0300" channel="ert2">
+    <title lang="el">MASSA FRESCA (?)</title>
+    <category lang="el">&lt;div class="time"&gt;03:45</category>
+  </programme>
+  <programme start="20190807043000 +0300" stop="20190807052000 +0300" channel="ert2">
+    <title lang="el">ΕΞΙ ΑΔΕΛΦΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;04:30</category>
+  </programme>
+  <programme start="20190807052000 +0300" stop="20190807060000 +0300" channel="ert2">
+    <title lang="el">ΕΞΙ ΑΔΕΛΦΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;05:20</category>
+  </programme>
+  <programme start="20190807061500 +0300" stop="20190807070000 +0300" channel="ert2">
+    <title lang="el">ΕΞΙ ΑΔΕΛΦΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;06:15</category>
+  </programme>
+  <programme start="20190807070000 +0300" stop="20190807073000 +0300" channel="ert2">
+    <title lang="el">Αειναύτες, οι Ελληνες και η Θάλασσα (?)</title>
+    <category lang="el">&lt;div class="time"&gt;07:00</category>
+  </programme>
+  <programme start="20190807073000 +0300" stop="20190807080000 +0300" channel="ert2">
+    <title lang="el">Τα Μυστικά του Απόλυτου Γαλάζιου (?)</title>
+    <category lang="el">&lt;div class="time"&gt;07:30</category>
+  </programme>
+  <programme start="20190807080000 +0300" stop="20190807083000 +0300" channel="ert2">
+    <title lang="el">ΑΝΙΜΑΛΙΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;08:00</category>
+  </programme>
+  <programme start="20190807100000 +0300" stop="20190807103000 +0300" channel="ert2">
+    <title lang="el">JAMIE'S 30' MEALS (?)</title>
+    <category lang="el">&lt;div class="time"&gt;10:00</category>
+  </programme>
+  <programme start="20190807103000 +0300" stop="20190807120000 +0300" channel="ert2">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΤΟΥ ΚΟΣΜΟΥ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;10:30</category>
+  </programme>
+  <programme start="20190807120000 +0300" stop="20190807124500 +0300" channel="ert2">
+    <title lang="el">MASSA FRESCA (?)</title>
+    <category lang="el">&lt;div class="time"&gt;12:00</category>
+  </programme>
+  <programme start="20190807124500 +0300" stop="20190807133000 +0300" channel="ert2">
+    <title lang="el">MASSA FRESCA (?)</title>
+    <category lang="el">&lt;div class="time"&gt;12:45</category>
+  </programme>
+  <programme start="20190807133000 +0300" stop="20190807140000 +0300" channel="ert2">
+    <title lang="el">ΑΝΙΜΑΛΙΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;13:30</category>
+  </programme>
+  <programme start="20190807140000 +0300" stop="20190807143000 +0300" channel="ert2">
+    <title lang="el">ΡΟΖ ΠΑΝΘΗΡΑΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;14:00</category>
+  </programme>
+  <programme start="20190807143000 +0300" stop="20190807150000 +0300" channel="ert2">
+    <title lang="el">1.000 ΧΡΩΜΑΤΑ ΤΟΥ ΧΡΗΣΤΟΥ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;14:30</category>
+  </programme>
+  <programme start="20190807150000 +0300" stop="20190807155500 +0300" channel="ert2">
+    <title lang="el">ΕΞΙ ΑΔΕΛΦΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;15:00</category>
+  </programme>
+  <programme start="20190807155500 +0300" stop="20190807165000 +0300" channel="ert2">
+    <title lang="el">ΕΞΙ ΑΔΕΛΦΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;15:55</category>
+  </programme>
+  <programme start="20190807165000 +0300" stop="20190807174500 +0300" channel="ert2">
+    <title lang="el">ΕΞΙ ΑΔΕΛΦΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;16:50</category>
+  </programme>
+  <programme start="20190807174500 +0300" stop="20190807191500 +0300" channel="ert2">
+    <title lang="el">Η ΠΡΩΤΗ ΑΓΑΠΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;17:45</category>
+  </programme>
+  <programme start="20190807191500 +0300" stop="20190807200000 +0300" channel="ert2">
+    <title lang="el">Ο ΠΑΡΑΔΕΙΣΟΣ ΤΩΝ ΚΥΡΙΩΝ 3 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;19:15</category>
+  </programme>
+  <programme start="20190807200000 +0300" stop="20190807210000 +0300" channel="ert2">
+    <title lang="el">ΜΟΝΟ ΕΣΥ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;20:00</category>
+  </programme>
+  <programme start="20190807210000 +0300" stop="20190807220000 +0300" channel="ert2">
+    <title lang="el">ΝΤΕΤΕΚΤΙΒ ΜΕΡΝΤΟΧ 5 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;21:00</category>
+  </programme>
+  <programme start="20190807220000 +0300" stop="20190807230000 +0300" channel="ert2">
+    <title lang="el">BIG LITTLE LIES (?)</title>
+    <category lang="el">&lt;div class="time"&gt;22:00</category>
+  </programme>
+  <programme start="20190807230000 +0300" stop="20190808003000 +0300" channel="ert2">
+    <title lang="el">ΝΕΥΡΙΚΟΣ ΕΡΑΣΤΗΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;23:00</category>
+  </programme>
+  <programme start="20190808003000 +0300" stop="20190808011500 +0300" channel="ert2">
+    <title lang="el">Ο ΠΑΡΑΔΕΙΣΟΣ ΤΩΝ ΚΥΡΙΩΝ 3 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;00:30</category>
+  </programme>
+  <programme start="20190808011500 +0300" stop="20190808021500 +0300" channel="ert2">
+    <title lang="el">BIG LITTLE LIES (?)</title>
+    <category lang="el">&lt;div class="time"&gt;01:15</category>
+  </programme>
+  <programme start="20190808021500 +0300" stop="20190808030000 +0300" channel="ert2">
+    <title lang="el">ΜΟΝΟ ΕΣΥ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;02:15</category>
+  </programme>
+  <programme start="20190808030000 +0300" stop="20190808034500 +0300" channel="ert2">
+    <title lang="el">MASSA FRESCA (?)</title>
+    <category lang="el">&lt;div class="time"&gt;03:00</category>
+  </programme>
+  <programme start="20190808034500 +0300" stop="20190808043000 +0300" channel="ert2">
+    <title lang="el">MASSA FRESCA (?)</title>
+    <category lang="el">&lt;div class="time"&gt;03:45</category>
+  </programme>
+  <programme start="20190808043000 +0300" stop="20190808052000 +0300" channel="ert2">
+    <title lang="el">ΕΞΙ ΑΔΕΛΦΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;04:30</category>
+  </programme>
+  <programme start="20190808052000 +0300" stop="20190808060000 +0300" channel="ert2">
+    <title lang="el">ΕΞΙ ΑΔΕΛΦΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;05:20</category>
+  </programme>
+  <programme start="20190808061500 +0300" stop="20190808070000 +0300" channel="ert2">
+    <title lang="el">ΕΞΙ ΑΔΕΛΦΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;06:15</category>
+  </programme>
+  <programme start="20190808070000 +0300" stop="20190808073000 +0300" channel="ert2">
+    <title lang="el">Αειναύτες, οι Ελληνες και η Θάλασσα (?)</title>
+    <category lang="el">&lt;div class="time"&gt;07:00</category>
+  </programme>
+  <programme start="20190808073000 +0300" stop="20190808080000 +0300" channel="ert2">
+    <title lang="el">Τα Μυστικά του Απόλυτου Γαλάζιου (?)</title>
+    <category lang="el">&lt;div class="time"&gt;07:30</category>
+  </programme>
+  <programme start="20190808080000 +0300" stop="20190808083000 +0300" channel="ert2">
+    <title lang="el">ΑΝΙΜΑΛΙΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;08:00</category>
+  </programme>
+  <programme start="20190808100000 +0300" stop="20190808103000 +0300" channel="ert2">
+    <title lang="el">JAMIE'S 30' MEALS (?)</title>
+    <category lang="el">&lt;div class="time"&gt;10:00</category>
+  </programme>
+  <programme start="20190808103000 +0300" stop="20190808120000 +0300" channel="ert2">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΤΟΥ ΚΟΣΜΟΥ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;10:30</category>
+  </programme>
+  <programme start="20190808120000 +0300" stop="20190808124500 +0300" channel="ert2">
+    <title lang="el">MASSA FRESCA (?)</title>
+    <category lang="el">&lt;div class="time"&gt;12:00</category>
+  </programme>
+  <programme start="20190808124500 +0300" stop="20190808133000 +0300" channel="ert2">
+    <title lang="el">MASSA FRESCA (?)</title>
+    <category lang="el">&lt;div class="time"&gt;12:45</category>
+  </programme>
+  <programme start="20190808133000 +0300" stop="20190808140000 +0300" channel="ert2">
+    <title lang="el">ΑΝΙΜΑΛΙΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;13:30</category>
+  </programme>
+  <programme start="20190808140000 +0300" stop="20190808143000 +0300" channel="ert2">
+    <title lang="el">ΡΟΖ ΠΑΝΘΗΡΑΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;14:00</category>
+  </programme>
+  <programme start="20190808143000 +0300" stop="20190808150000 +0300" channel="ert2">
+    <title lang="el">1.000 ΧΡΩΜΑΤΑ ΤΟΥ ΧΡΗΣΤΟΥ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;14:30</category>
+  </programme>
+  <programme start="20190808150000 +0300" stop="20190808155500 +0300" channel="ert2">
+    <title lang="el">ΕΞΙ ΑΔΕΛΦΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;15:00</category>
+  </programme>
+  <programme start="20190808155500 +0300" stop="20190808165000 +0300" channel="ert2">
+    <title lang="el">ΕΞΙ ΑΔΕΛΦΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;15:55</category>
+  </programme>
+  <programme start="20190808165000 +0300" stop="20190808174500 +0300" channel="ert2">
+    <title lang="el">ΕΞΙ ΑΔΕΛΦΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;16:50</category>
+  </programme>
+  <programme start="20190808174500 +0300" stop="20190808191500 +0300" channel="ert2">
+    <title lang="el">ΠΙΚΡΗ ΜΟΥ ΑΓΑΠΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;17:45</category>
+  </programme>
+  <programme start="20190808191500 +0300" stop="20190808200000 +0300" channel="ert2">
+    <title lang="el">Ο ΠΑΡΑΔΕΙΣΟΣ ΤΩΝ ΚΥΡΙΩΝ 3 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;19:15</category>
+  </programme>
+  <programme start="20190808200000 +0300" stop="20190808220000 +0300" channel="ert2">
+    <title lang="el">Η ΑΥΛΗ ΤΩΝ ΧΡΩΜΑΤΩΝ 2 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;20:00</category>
+  </programme>
+  <programme start="20190808220000 +0300" stop="20190808230000 +0300" channel="ert2">
+    <title lang="el">BIG LITTLE LIES (?)</title>
+    <category lang="el">&lt;div class="time"&gt;22:00</category>
+  </programme>
+  <programme start="20190808230000 +0300" stop="20190809010000 +0300" channel="ert2">
+    <title lang="el">ΟΤΑΝ Ο ΧΑΡΙ ΓΝΩΡΙΣΕ ΤΗ ΣΑΛΙ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;23:00</category>
+  </programme>
+  <programme start="20190806010000 +0300" stop="20190806020000 +0300" channel="ert3">
+    <title lang="el">ΣΟΦΙΑ</title>
+    <desc lang="el">Η σειρά ξετυλίγει την ιστορία της Σοφίας Παλαιολογίνας, η οποία ίδρυσε τη Μόσχα. Η νεαρή απόγονος του Κωνσταντίνου Παλαιολόγου ζει ως προστατευόμενη του Πάπα, ο οποίος την προσφέρει ως νύφη στον πρίγκιπα Ιβάν του Δουκάτου της Μοσχοβίας(n)</desc>
+    <credits>
+      <director>Αλεξέι Αντριάνοφ</director>
+    </credits>
+    <category lang="el">&lt;div class="time"&gt;01:00</category>
+  </programme>
+  <programme start="20190806020000 +0300" stop="20190806030000 +0300" channel="ert3">
+    <title lang="el">8 ΜΕΡΕΣ ΠΟΥ ΕΦΤΙΑΞΑΝ ΤΗ ΡΩΜΗ</title>
+    <desc lang="el">Η σειρά διερευνά οκτώ μέρες που καθόρισαν τη Ρωμαϊκή Αυτοκρατορία και βοηθούν να κατανοήσουμε την αξιομνημόνευτη επιτυχία της. Ταξιδεύει στο ρωμαϊκό κόσμο, αναζητώντας την ψυχή του και αποκαλύπτοντας αρχαιολογικά ευρήματα(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;02:00</category>
+  </programme>
+  <programme start="20190806030000 +0300" stop="20190806040000 +0300" channel="ert3">
+    <title lang="el">ALLERT3</title>
+    <desc lang="el">Κοινωνία, πολιτισμός, περιβάλλον, επιστήμες, τεχνολογία και κάθε είδους ανθρώπινες προσπάθειες, βρίσκονται στη σκαλέτα της εκπομπής, με συνεντεύξεις στο στούντιο, έρευνα και ρεπορτάζ που παρουσιάζει η Χριστίνα Σιγανίδου(n)</desc>
+    <credits>
+      <director>Νίκος Γκούλιος</director>
+    </credits>
+    <category lang="el">&lt;div class="time"&gt;03:00</category>
+  </programme>
+  <programme start="20190806040000 +0300" stop="20190806050000 +0300" channel="ert3">
+    <title lang="el">ΩΡΑ ΘΕΡΙΝΗ</title>
+    <desc lang="el">Μια ανάσα ενημέρωσης με επίκεντρο την περιφέρεια και μια πιο νηφάλια ματιά στην επικαιρότητα. Επίσης, μαθαίνουμε τα μεγάλα πολιτιστικά γεγονότα της εποχής, όχι μόνο στη Θεσσαλονίκη και την Αθήνα, αλλά σε ολόκληρη την Ελλάδα(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;04:00</category>
+  </programme>
+  <programme start="20190806050000 +0300" stop="20190806060000 +0300" channel="ert3">
+    <title lang="el">ΜΙΛΑΜΕ ΕΛΕΥΘΕΡΑ</title>
+    <desc lang="el">Μία εκ βαθέων συζήτηση με δημοφιλείς προσωπικότητες αλλά και ανθρώπους που έχουν να 'αποκαλύψουν' πολλές και άγνωστες πτυχές για το έργο και την πορεία της ζωής τους(n)</desc>
+    <credits>
+      <director>Νίκος Βερζυγιάννης</director>
+    </credits>
+    <category lang="el">&lt;div class="time"&gt;05:00</category>
+  </programme>
+  <programme start="20190806060000 +0300" stop="20190806070000 +0300" channel="ert3">
+    <title lang="el">ΣΤΟ ΝΗΣΙ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;06:00</category>
+  </programme>
+  <programme start="20190806070000 +0300" stop="20190806080000 +0300" channel="ert3">
+    <title lang="el">Φωνή Ελευθερίας, Ελενίτα Βάργκας (?)</title>
+    <category lang="el">&lt;div class="time"&gt;07:00</category>
+  </programme>
+  <programme start="20190806080000 +0300" stop="20190806090000 +0300" channel="ert3">
+    <title lang="el">ΟΙ ΑΠΙΘΑΝΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;08:00</category>
+  </programme>
+  <programme start="20190806090000 +0300" stop="20190806100000 +0300" channel="ert3">
+    <title lang="el">ΠΑΡΑΔΕΙΣΕΝΙΟΙ ΚΗΠΟΙ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;09:00</category>
+  </programme>
+  <programme start="20190806100000 +0300" stop="20190806110000 +0300" channel="ert3">
+    <title lang="el">ΣΤΟ ΝΗΣΙ 2 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;10:00</category>
+  </programme>
+  <programme start="20190806110000 +0300" stop="20190806120000 +0300" channel="ert3">
+    <title lang="el">ΖΗΣΕ ΤΗΝ ΕΛΛΑΔΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;11:00</category>
+  </programme>
+  <programme start="20190806120000 +0300" stop="20190806130000 +0300" channel="ert3">
+    <title lang="el">ΑΝΤΙΔΡΑΣΤΗΡΙΟ 4 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;12:00</category>
+  </programme>
+  <programme start="20190806130000 +0300" stop="20190806133000 +0300" channel="ert3">
+    <title lang="el">ΕΙΔΗΣΕΙΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;13:00</category>
+  </programme>
+  <programme start="20190806133000 +0300" stop="20190806140000 +0300" channel="ert3">
+    <title lang="el">ΠΡΑΣΙΝΟΣ ΟΔΗΓΟΣ ΓΙΑ ΤΑΞΙΔΙΩΤΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;13:30</category>
+  </programme>
+  <programme start="20190806140000 +0300" stop="20190806150000 +0300" channel="ert3">
+    <title lang="el">ΠΑΡΑΔΕΙΣΕΝΙΟΙ ΚΗΠΟΙ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;14:00</category>
+  </programme>
+  <programme start="20190806150000 +0300" stop="20190806160000 +0300" channel="ert3">
+    <title lang="el">Φωνή Ελευθερίας, Ελενίτα Βάργκας (?)</title>
+    <category lang="el">&lt;div class="time"&gt;15:00</category>
+  </programme>
+  <programme start="20190806160000 +0300" stop="20190806170000 +0300" channel="ert3">
+    <title lang="el">ΩΡΑ ΘΕΡΙΝΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;16:00</category>
+  </programme>
+  <programme start="20190806171500 +0300" stop="20190806180000 +0300" channel="ert3">
+    <title lang="el">Ο ΚΟΣΜΟΣ ΤΩΝ ΣΠΟΡ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;17:15</category>
+  </programme>
+  <programme start="20190806180000 +0300" stop="20190806185500 +0300" channel="ert3">
+    <title lang="el">ΣΤΟ ΝΗΣΙ 2 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;18:00</category>
+  </programme>
+  <programme start="20190806190000 +0300" stop="20190806193000 +0300" channel="ert3">
+    <title lang="el">ΕΙΔΗΣΕΙΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;19:00</category>
+  </programme>
+  <programme start="20190806193000 +0300" stop="20190806203000 +0300" channel="ert3">
+    <title lang="el">ΣΟΥΚΟΥΤΟΥ ΤΟΥ ΑΠΟΥΘΟΥ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;19:30</category>
+  </programme>
+  <programme start="20190806203000 +0300" stop="20190806213000 +0300" channel="ert3">
+    <title lang="el">8 ΜΕΡΕΣ ΠΟΥ ΕΦΤΙΑΞΑΝ ΤΗ ΡΩΜΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;20:30</category>
+  </programme>
+  <programme start="20190806213000 +0300" stop="20190806230000 +0300" channel="ert3">
+    <title lang="el">ΑΠΟ ΣΤΟΜΑ ΣΕ ΣΤΟΜΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;21:30</category>
+  </programme>
+  <programme start="20190806230000 +0300" stop="20190807003000 +0300" channel="ert3">
+    <title lang="el">ΟΛΑ ΓΙΑ ΤΗ ΖΩΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;23:00</category>
+  </programme>
+  <programme start="20190807003000 +0300" stop="20190807010000 +0300" channel="ert3">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΣΤΗΝ ΤΕΧΝΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;00:30</category>
+  </programme>
+  <programme start="20190807010000 +0300" stop="20190807020000 +0300" channel="ert3">
+    <title lang="el">ΣΟΦΙΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;01:00</category>
+  </programme>
+  <programme start="20190807020000 +0300" stop="20190807030000 +0300" channel="ert3">
+    <title lang="el">8 ΜΕΡΕΣ ΠΟΥ ΕΦΤΙΑΞΑΝ ΤΗ ΡΩΜΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;02:00</category>
+  </programme>
+  <programme start="20190807030000 +0300" stop="20190807040000 +0300" channel="ert3">
+    <title lang="el">ΑΝΤΙΔΡΑΣΤΗΡΙΟ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;03:00</category>
+  </programme>
+  <programme start="20190807040000 +0300" stop="20190807050000 +0300" channel="ert3">
+    <title lang="el">ΩΡΑ ΘΕΡΙΝΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;04:00</category>
+  </programme>
+  <programme start="20190807050000 +0300" stop="20190807060000 +0300" channel="ert3">
+    <title lang="el">ΣΟΥΚΟΥΤΟΥ ΤΟΥ ΑΠΟΥΘΟΥ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;05:00</category>
+  </programme>
+  <programme start="20190807060000 +0300" stop="20190807070000 +0300" channel="ert3">
+    <title lang="el">ΣΤΟ ΝΗΣΙ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;06:00</category>
+  </programme>
+  <programme start="20190807070000 +0300" stop="20190807080000 +0300" channel="ert3">
+    <title lang="el">Φωνή Ελευθερίας, Ελενίτα Βάργκας (?)</title>
+    <category lang="el">&lt;div class="time"&gt;07:00</category>
+  </programme>
+  <programme start="20190807080000 +0300" stop="20190807090000 +0300" channel="ert3">
+    <title lang="el">ΟΙ ΑΠΙΘΑΝΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;08:00</category>
+  </programme>
+  <programme start="20190807090000 +0300" stop="20190807100000 +0300" channel="ert3">
+    <title lang="el">ΠΑΡΑΔΕΙΣΕΝΙΟΙ ΚΗΠΟΙ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;09:00</category>
+  </programme>
+  <programme start="20190807100000 +0300" stop="20190807110000 +0300" channel="ert3">
+    <title lang="el">ΣΤΟ ΝΗΣΙ 2 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;10:00</category>
+  </programme>
+  <programme start="20190807110000 +0300" stop="20190807120000 +0300" channel="ert3">
+    <title lang="el">24 ΩΡΕΣ ΕΛΛΑΔΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;11:00</category>
+  </programme>
+  <programme start="20190807120000 +0300" stop="20190807130000 +0300" channel="ert3">
+    <title lang="el">ΑΛΤΕΡΝΑΤΙΒΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;12:00</category>
+  </programme>
+  <programme start="20190807130000 +0300" stop="20190807133000 +0300" channel="ert3">
+    <title lang="el">ΕΙΔΗΣΕΙΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;13:00</category>
+  </programme>
+  <programme start="20190807133000 +0300" stop="20190807140000 +0300" channel="ert3">
+    <title lang="el">ΠΡΑΣΙΝΟΣ ΟΔΗΓΟΣ ΓΙΑ ΤΑΞΙΔΙΩΤΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;13:30</category>
+  </programme>
+  <programme start="20190807140000 +0300" stop="20190807150000 +0300" channel="ert3">
+    <title lang="el">ΠΑΡΑΔΕΙΣΕΝΙΟΙ ΚΗΠΟΙ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;14:00</category>
+  </programme>
+  <programme start="20190807150000 +0300" stop="20190807160000 +0300" channel="ert3">
+    <title lang="el">Φωνή Ελευθερίας, Ελενίτα Βάργκας (?)</title>
+    <category lang="el">&lt;div class="time"&gt;15:00</category>
+  </programme>
+  <programme start="20190807160000 +0300" stop="20190807170000 +0300" channel="ert3">
+    <title lang="el">ΩΡΑ ΘΕΡΙΝΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;16:00</category>
+  </programme>
+  <programme start="20190807171500 +0300" stop="20190807180000 +0300" channel="ert3">
+    <title lang="el">Ο ΚΟΣΜΟΣ ΤΩΝ ΣΠΟΡ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;17:15</category>
+  </programme>
+  <programme start="20190807180000 +0300" stop="20190807185500 +0300" channel="ert3">
+    <title lang="el">ΣΤΟ ΝΗΣΙ 2 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;18:00</category>
+  </programme>
+  <programme start="20190807190000 +0300" stop="20190807193000 +0300" channel="ert3">
+    <title lang="el">ΕΙΔΗΣΕΙΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;19:00</category>
+  </programme>
+  <programme start="20190807193000 +0300" stop="20190807203000 +0300" channel="ert3">
+    <title lang="el">ΔΙΓΑΜΜΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;19:30</category>
+  </programme>
+  <programme start="20190807203000 +0300" stop="20190807213000 +0300" channel="ert3">
+    <title lang="el">8 ΜΕΡΕΣ ΠΟΥ ΕΦΤΙΑΞΑΝ ΤΗ ΡΩΜΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;20:30</category>
+  </programme>
+  <programme start="20190807213000 +0300" stop="20190807230000 +0300" channel="ert3">
+    <title lang="el">ΑΠΟ ΣΤΟΜΑ ΣΕ ΣΤΟΜΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;21:30</category>
+  </programme>
+  <programme start="20190807230000 +0300" stop="20190808004500 +0300" channel="ert3">
+    <title lang="el">Ο ΚΑΛΟΣΤΕΚΟΥΜΕΝΟΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;23:00</category>
+  </programme>
+  <programme start="20190808004500 +0300" stop="20190808011500 +0300" channel="ert3">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΣΤΗΝ ΤΕΧΝΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;00:45</category>
+  </programme>
+  <programme start="20190808011500 +0300" stop="20190808021000 +0300" channel="ert3">
+    <title lang="el">ΣΟΦΙΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;01:15</category>
+  </programme>
+  <programme start="20190808021000 +0300" stop="20190808030000 +0300" channel="ert3">
+    <title lang="el">8 ΜΕΡΕΣ ΠΟΥ ΕΦΤΙΑΞΑΝ ΤΗ ΡΩΜΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;02:10</category>
+  </programme>
+  <programme start="20190808030000 +0300" stop="20190808040000 +0300" channel="ert3">
+    <title lang="el">24 ΩΡΕΣ ΕΛΛΑΔΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;03:00</category>
+  </programme>
+  <programme start="20190808040000 +0300" stop="20190808050000 +0300" channel="ert3">
+    <title lang="el">ΩΡΑ ΘΕΡΙΝΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;04:00</category>
+  </programme>
+  <programme start="20190808050000 +0300" stop="20190808060000 +0300" channel="ert3">
+    <title lang="el">ΔΙΓΑΜΜΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;05:00</category>
+  </programme>
+  <programme start="20190808060000 +0300" stop="20190808070000 +0300" channel="ert3">
+    <title lang="el">ΣΤΟ ΝΗΣΙ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;06:00</category>
+  </programme>
+  <programme start="20190808070000 +0300" stop="20190808080000 +0300" channel="ert3">
+    <title lang="el">Φωνή Ελευθερίας, Ελενίτα Βάργκας (?)</title>
+    <category lang="el">&lt;div class="time"&gt;07:00</category>
+  </programme>
+  <programme start="20190808080000 +0300" stop="20190808090000 +0300" channel="ert3">
+    <title lang="el">ΟΙ ΑΠΙΘΑΝΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;08:00</category>
+  </programme>
+  <programme start="20190808090000 +0300" stop="20190808100000 +0300" channel="ert3">
+    <title lang="el">ΠΑΡΑΔΕΙΣΕΝΙΟΙ ΚΗΠΟΙ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;09:00</category>
+  </programme>
+  <programme start="20190808100000 +0300" stop="20190808110000 +0300" channel="ert3">
+    <title lang="el">ΣΤΟ ΝΗΣΙ 2 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;10:00</category>
+  </programme>
+  <programme start="20190808110000 +0300" stop="20190808120000 +0300" channel="ert3">
+    <title lang="el">ΒΟΤΑΝΑ, ΚΑΡΠΟΙ ΤΗΣ ΓΗΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;11:00</category>
+  </programme>
+  <programme start="20190808120000 +0300" stop="20190808130000 +0300" channel="ert3">
+    <title lang="el">ΑΝΘΡΩΠΩΝ ΠΡΑΞΕΙΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;12:00</category>
+  </programme>
+  <programme start="20190808130000 +0300" stop="20190808133000 +0300" channel="ert3">
+    <title lang="el">ΕΙΔΗΣΕΙΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;13:00</category>
+  </programme>
+  <programme start="20190808133000 +0300" stop="20190808140000 +0300" channel="ert3">
+    <title lang="el">ΠΡΑΣΙΝΟΣ ΟΔΗΓΟΣ ΓΙΑ ΤΑΞΙΔΙΩΤΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;13:30</category>
+  </programme>
+  <programme start="20190808140000 +0300" stop="20190808150000 +0300" channel="ert3">
+    <title lang="el">ΠΑΡΑΔΕΙΣΕΝΙΟΙ ΚΗΠΟΙ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;14:00</category>
+  </programme>
+  <programme start="20190808150000 +0300" stop="20190808160000 +0300" channel="ert3">
+    <title lang="el">Φωνή Ελευθερίας, Ελενίτα Βάργκας (?)</title>
+    <category lang="el">&lt;div class="time"&gt;15:00</category>
+  </programme>
+  <programme start="20190808160000 +0300" stop="20190808170000 +0300" channel="ert3">
+    <title lang="el">ΩΡΑ ΘΕΡΙΝΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;16:00</category>
+  </programme>
+  <programme start="20190808171500 +0300" stop="20190808180000 +0300" channel="ert3">
+    <title lang="el">Ο ΚΟΣΜΟΣ ΤΩΝ ΣΠΟΡ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;17:15</category>
+  </programme>
+  <programme start="20190808180000 +0300" stop="20190808185500 +0300" channel="ert3">
+    <title lang="el">ΣΤΟ ΝΗΣΙ 2 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;18:00</category>
+  </programme>
+  <programme start="20190808190000 +0300" stop="20190808193000 +0300" channel="ert3">
+    <title lang="el">ΕΙΔΗΣΕΙΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;19:00</category>
+  </programme>
+  <programme start="20190808193000 +0300" stop="20190808203000 +0300" channel="ert3">
+    <title lang="el">ΕΝΑΛΛΑΚΤΙΚΑ ART-Ο-ΠΟΙΗΜΑΤΑ 2 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;19:30</category>
+  </programme>
+  <programme start="20190808203000 +0300" stop="20190808213000 +0300" channel="ert3">
+    <title lang="el">8 ΜΕΡΕΣ ΠΟΥ ΕΦΤΙΑΞΑΝ ΤΗ ΡΩΜΗ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;20:30</category>
+  </programme>
+  <programme start="20190808213000 +0300" stop="20190808230000 +0300" channel="ert3">
+    <title lang="el">ΑΠΟ ΣΤΟΜΑ ΣΕ ΣΤΟΜΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;21:30</category>
+  </programme>
+  <programme start="20190808230000 +0300" stop="20190809003000 +0300" channel="ert3">
+    <title lang="el">Η ΣΥΓΓΕΝΕΙΑ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;23:00</category>
   </programme>
 </tv>
