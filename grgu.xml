@@ -91,6 +91,174 @@
   <channel id="Mega">
     <display-name lang="el">Mega</display-name>
   </channel>
+   <channel id="ertsports">
+    <display-name lang="el">ertsports</display-name>
+    <icon src="http://www.novaguide.gr/files/1/Channels/LOGOS90X85/07_greek/ert-sports-logo.png" />
+  </channel>
+  <programme start="20190806000000 +0300" stop="20190806020000 +0300" channel="ertsports">
+    <title lang="el">Ευρωπαϊκό Πρωτάθλημα Μπάσκετ K18 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;00:00</category>
+  </programme>
+  <programme start="20190806020000 +0300" stop="20190806041500 +0300" channel="ertsports">
+    <title lang="el">Ευρωπαϊκό Πρωτάθλημα Μπάσκετ K18 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;02:00</category>
+  </programme>
+  <programme start="20190806041500 +0300" stop="20190806060000 +0300" channel="ertsports">
+    <title lang="el">30 FOR 30 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;04:15</category>
+  </programme>
+  <programme start="20190806060000 +0300" stop="20190806080000 +0300" channel="ertsports">
+    <title lang="el">ΣΤΙΒΟΣ: IAAF DIAMOND LEAGUE (?)</title>
+    <category lang="el">&lt;div class="time"&gt;06:00</category>
+  </programme>
+  <programme start="20190806080000 +0300" stop="20190806100000 +0300" channel="ertsports">
+    <title lang="el">MASTERS 2019 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;08:00</category>
+  </programme>
+  <programme start="20190806100000 +0300" stop="20190806120000 +0300" channel="ertsports">
+    <title lang="el">Αρης: Οι Καλύτεροι Αγώνες της Σεζόν (?)</title>
+    <category lang="el">&lt;div class="time"&gt;10:00</category>
+  </programme>
+  <programme start="20190806120000 +0300" stop="20190806140000 +0300" channel="ertsports">
+    <title lang="el">ΠΑΝΑΘΗΝΑΪΚΟΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;12:00</category>
+  </programme>
+  <programme start="20190806140000 +0300" stop="20190806150000 +0300" channel="ertsports">
+    <title lang="el">30 FOR 30 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;14:00</category>
+  </programme>
+  <programme start="20190806150000 +0300" stop="20190806160000 +0300" channel="ertsports">
+    <title lang="el">AUTO MOTO ΕΡΤ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;15:00</category>
+  </programme>
+  <programme start="20190806160000 +0300" stop="20190806180000 +0300" channel="ertsports">
+    <title lang="el">Formula 1 2019 - Grand Prix Ουγγαρίας (?)</title>
+    <category lang="el">&lt;div class="time"&gt;16:00</category>
+  </programme>
+  <programme start="20190806180000 +0300" stop="20190806201500 +0300" channel="ertsports">
+    <title lang="el">Ευρωπαϊκό Πρωτάθλημα Μπάσκετ K18 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;18:00</category>
+  </programme>
+  <programme start="20190806201500 +0300" stop="20190806210000 +0300" channel="ertsports">
+    <title lang="el">30 FOR 30 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;20:15</category>
+  </programme>
+  <programme start="20190806210000 +0300" stop="20190806231500 +0300" channel="ertsports">
+    <title lang="el">Ευρωπαϊκό Πρωτάθλημα Μπάσκετ K18 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;21:00</category>
+  </programme>
+  <programme start="20190806233000 +0300" stop="20190807003000 +0300" channel="ertsports">
+    <title lang="el">Η Ιστορία του Ελληνικού Ποδοσφαίρου (?)</title>
+    <category lang="el">&lt;div class="time"&gt;23:30</category>
+  </programme>
+  <programme start="20190807003000 +0300" stop="20190807013000 +0300" channel="ertsports">
+    <title lang="el">Η Ιστορία του Ελληνικού Ποδοσφαίρου (?)</title>
+    <category lang="el">&lt;div class="time"&gt;00:30</category>
+  </programme>
+  <programme start="20190807013000 +0300" stop="20190807040000 +0300" channel="ertsports">
+    <title lang="el">COPA AMERICA 2019 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;01:30</category>
+  </programme>
+  <programme start="20190807040000 +0300" stop="20190807060000 +0300" channel="ertsports">
+    <title lang="el">Ευρωπαϊκό Πρωτάθλημα Μπάσκετ K18 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;04:00</category>
+  </programme>
+  <programme start="20190807060000 +0300" stop="20190807080000 +0300" channel="ertsports">
+    <title lang="el">ΣΤΙΒΟΣ: IAAF DIAMOND LEAGUE (?)</title>
+    <category lang="el">&lt;div class="time"&gt;06:00</category>
+  </programme>
+  <programme start="20190807080000 +0300" stop="20190807100000 +0300" channel="ertsports">
+    <title lang="el">MASTERS 2019 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;08:00</category>
+  </programme>
+  <programme start="20190807100000 +0300" stop="20190807120000 +0300" channel="ertsports">
+    <title lang="el">Αρης: Οι Καλύτεροι Αγώνες της Σεζόν (?)</title>
+    <category lang="el">&lt;div class="time"&gt;10:00</category>
+  </programme>
+  <programme start="20190807120000 +0300" stop="20190807140000 +0300" channel="ertsports">
+    <title lang="el">ΠΑΝΑΘΗΝΑΪΚΟΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;12:00</category>
+  </programme>
+  <programme start="20190807140000 +0300" stop="20190807160000 +0300" channel="ertsports">
+    <title lang="el">Formula 1 2019 - Grand Prix Ουγγαρίας (?)</title>
+    <category lang="el">&lt;div class="time"&gt;14:00</category>
+  </programme>
+  <programme start="20190807160000 +0300" stop="20190807190000 +0300" channel="ertsports">
+    <title lang="el">BAYERN TV (?)</title>
+    <category lang="el">&lt;div class="time"&gt;16:00</category>
+  </programme>
+  <programme start="20190807190000 +0300" stop="20190807200000 +0300" channel="ertsports">
+    <title lang="el">30 FOR 30 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;19:00</category>
+  </programme>
+  <programme start="20190807200000 +0300" stop="20190807210000 +0300" channel="ertsports">
+    <title lang="el">AUTO MOTO ΕΡΤ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;20:00</category>
+  </programme>
+  <programme start="20190807210000 +0300" stop="20190807225000 +0300" channel="ertsports">
+    <title lang="el">ΣΠΟΡ ΙΣΤΟΡΙΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;21:00</category>
+  </programme>
+  <programme start="20190807225000 +0300" stop="20190808003000 +0300" channel="ertsports">
+    <title lang="el">ΣΠΟΡ ΙΣΤΟΡΙΕΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;22:50</category>
+  </programme>
+  <programme start="20190808003000 +0300" stop="20190808020000 +0300" channel="ertsports">
+    <title lang="el">EURO 2004 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;00:30</category>
+  </programme>
+  <programme start="20190808020000 +0300" stop="20190808030000 +0300" channel="ertsports">
+    <title lang="el">30 FOR 30 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;02:00</category>
+  </programme>
+  <programme start="20190808030000 +0300" stop="20190808050000 +0300" channel="ertsports">
+    <title lang="el">Ευρωπαϊκό Πρωτάθλημα Μπάσκετ K18 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;03:00</category>
+  </programme>
+  <programme start="20190808050000 +0300" stop="20190808060000 +0300" channel="ertsports">
+    <title lang="el">Η Ιστορία του Ελληνικού Ποδοσφαίρου (?)</title>
+    <category lang="el">&lt;div class="time"&gt;05:00</category>
+  </programme>
+  <programme start="20190808060000 +0300" stop="20190808080000 +0300" channel="ertsports">
+    <title lang="el">ΣΤΙΒΟΣ: IAAF DIAMOND LEAGUE (?)</title>
+    <category lang="el">&lt;div class="time"&gt;06:00</category>
+  </programme>
+  <programme start="20190808080000 +0300" stop="20190808100000 +0300" channel="ertsports">
+    <title lang="el">FIVB WORLD CHAMPIONSHIPS 2019 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;08:00</category>
+  </programme>
+  <programme start="20190808100000 +0300" stop="20190808120000 +0300" channel="ertsports">
+    <title lang="el">Αρης: Οι Καλύτεροι Αγώνες της Σεζόν (?)</title>
+    <category lang="el">&lt;div class="time"&gt;10:00</category>
+  </programme>
+  <programme start="20190808120000 +0300" stop="20190808140000 +0300" channel="ertsports">
+    <title lang="el">ΠΑΝΑΘΗΝΑΪΚΟΣ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;12:00</category>
+  </programme>
+  <programme start="20190808140000 +0300" stop="20190808160000 +0300" channel="ertsports">
+    <title lang="el">ΣΤΙΒΟΣ: IAAF DIAMOND LEAGUE (?)</title>
+    <category lang="el">&lt;div class="time"&gt;14:00</category>
+  </programme>
+  <programme start="20190808160000 +0300" stop="20190808180000 +0300" channel="ertsports">
+    <title lang="el">ΣΤΙΒΟΣ: IAAF DIAMOND LEAGUE (?)</title>
+    <category lang="el">&lt;div class="time"&gt;16:00</category>
+  </programme>
+  <programme start="20190808180000 +0300" stop="20190808200000 +0300" channel="ertsports">
+    <title lang="el">Ευρωπαϊκό Πρωτάθλημα Μπάσκετ K18 (?)</title>
+    <category lang="el">&lt;div class="time"&gt;18:00</category>
+  </programme>
+  <programme start="20190808200000 +0300" stop="20190808220000 +0300" channel="ertsports">
+    <title lang="el">UEFA EUROPA LEAGUE (?)</title>
+    <category lang="el">&lt;div class="time"&gt;20:00</category>
+  </programme>
+  <programme start="20190808220000 +0300" stop="20190808230000 +0300" channel="ertsports">
+    <title lang="el">AUTO MOTO ΕΡΤ (?)</title>
+    <category lang="el">&lt;div class="time"&gt;22:00</category>
+  </programme>
+  <programme start="20190808230000 +0300" stop="20190809023000 +0300" channel="ertsports">
+    <title lang="el">BAYERN TV (?)</title>
+    <category lang="el">&lt;div class="time"&gt;23:00</category>
+  </programme>
   <programme start="20190806060000 +0300" stop="20190806063000 +0300" channel="ALPHA">
     <title lang="el">Θυρίδα Τηλεπώλησης</title>
     <desc lang="el">Τηλεαγορά(n)</desc>
