@@ -162,10 +162,15 @@
   </channel>
   <channel id="Euronews">
     <display-name lang="el">Euronews</display-name>
+    <icon src="http://www.novaguide.gr/files/1/Channels/LOGOS90X85/06_news/EURONEWS-90x85.jpg" />
   </channel>
   <channel id="ertsports">
     <display-name lang="el">ertsports</display-name>
     <icon src="http://www.novaguide.gr/files/1/Channels/LOGOS90X85/07_greek/ert-sports-logo.png" />
+  </channel>
+  <channel id="ONE Channel">
+    <display-name lang="el">ONE Channel</display-name>
+    <icon src="http://www.novaguide.gr/files/1/ONE_90x90.jpg" />
   </channel>
   <programme start="20190807060000 +0300" stop="20190807063000 +0300" channel="ALPHA">
     <title lang="el">Θυρίδα Τηλεπώλησης</title>
@@ -11662,6 +11667,141 @@
     <category lang="el">&lt;div class="time"&gt;23:00</category>
     <icon src="http://cache-forthnet.secure.footprint.net/external/1/9/1990838portrait_472x700.jpg" />
   </programme>
+  <programme start="20190807050000 +0300" stop="20190807060000 +0300" channel="Euronews">
+    <title lang="el">EURONEWS TONIGHT</title>
+    <desc lang="el">Παρακολουθήστε ζωντανά όλες τις τελευταίες ειδήσεις, την έκτακτη επικαιρότητα, καθώς και αναλύσεις και συνεντεύξεις από το Ειδησεογραφικό Κέντρο της Ευρώπης(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;05:00</category>
+  </programme>
+  <programme start="20190807080000 +0300" stop="20190807130000 +0300" channel="Euronews">
+    <title lang="el">GOOD MORNING EUROPE</title>
+    <desc lang="el">Μια εκπομπή που φιλοδοξεί να γίνει η... κεντρική πλατεία της Ευρώπης. Κάθε πρωί οι σημαντικότερες ιστορίες ζωντανεύουν, σε μία εκπομπή που καταπιάνεται με όλα τα θέματα, από όπου κι αν προέρχονται(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;08:00</category>
+  </programme>
+  <programme start="20190807130000 +0300" stop="20190807210000 +0300" channel="Euronews">
+    <title lang="el">EURONEWS NOW</title>
+    <desc lang="el">Παρακολουθήστε όλα τα νέα από την έκτακτη επικαιρότητα, καθώς και εις βάθος ανάλυση των πιο σημαντικών ζητημάτων που μονοπωλούν τα πρωτοσέλιδα στην Ευρώπη και τον κόσμο(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;13:00</category>
+  </programme>
+  <programme start="20190807210000 +0300" stop="20190808050000 +0300" channel="Euronews">
+    <title lang="el">EURONEWS TONIGHT</title>
+    <desc lang="el">Παρακολουθήστε ζωντανά όλες τις τελευταίες ειδήσεις, την έκτακτη επικαιρότητα, καθώς και αναλύσεις και συνεντεύξεις από το Ειδησεογραφικό Κέντρο της Ευρώπης(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;21:00</category>
+  </programme>
+  <programme start="20190808050000 +0300" stop="20190808060000 +0300" channel="Euronews">
+    <title lang="el">EURONEWS TONIGHT</title>
+    <desc lang="el">Παρακολουθήστε ζωντανά όλες τις τελευταίες ειδήσεις, την έκτακτη επικαιρότητα, καθώς και αναλύσεις και συνεντεύξεις από το Ειδησεογραφικό Κέντρο της Ευρώπης(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;05:00</category>
+  </programme>
+  <programme start="20190808080000 +0300" stop="20190808130000 +0300" channel="Euronews">
+    <title lang="el">GOOD MORNING EUROPE</title>
+    <desc lang="el">Μια εκπομπή που φιλοδοξεί να γίνει η... κεντρική πλατεία της Ευρώπης. Κάθε πρωί οι σημαντικότερες ιστορίες ζωντανεύουν, σε μία εκπομπή που καταπιάνεται με όλα τα θέματα, από όπου κι αν προέρχονται(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;08:00</category>
+  </programme>
+  <programme start="20190808130000 +0300" stop="20190808210000 +0300" channel="Euronews">
+    <title lang="el">EURONEWS NOW</title>
+    <desc lang="el">Παρακολουθήστε όλα τα νέα από την έκτακτη επικαιρότητα, καθώς και εις βάθος ανάλυση των πιο σημαντικών ζητημάτων που μονοπωλούν τα πρωτοσέλιδα στην Ευρώπη και τον κόσμο(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;13:00</category>
+  </programme>
+  <programme start="20190808210000 +0300" stop="20190809050000 +0300" channel="Euronews">
+    <title lang="el">EURONEWS TONIGHT</title>
+    <desc lang="el">Παρακολουθήστε ζωντανά όλες τις τελευταίες ειδήσεις, την έκτακτη επικαιρότητα, καθώς και αναλύσεις και συνεντεύξεις από το Ειδησεογραφικό Κέντρο της Ευρώπης(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;21:00</category>
+  </programme>
+  <programme start="20190809050000 +0300" stop="20190809060000 +0300" channel="Euronews">
+    <title lang="el">EURONEWS TONIGHT</title>
+    <desc lang="el">Παρακολουθήστε ζωντανά όλες τις τελευταίες ειδήσεις, την έκτακτη επικαιρότητα, καθώς και αναλύσεις και συνεντεύξεις από το Ειδησεογραφικό Κέντρο της Ευρώπης(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;05:00</category>
+  </programme>
+  <programme start="20190809080000 +0300" stop="20190809130000 +0300" channel="Euronews">
+    <title lang="el">GOOD MORNING EUROPE</title>
+    <desc lang="el">Μια εκπομπή που φιλοδοξεί να γίνει η... κεντρική πλατεία της Ευρώπης. Κάθε πρωί οι σημαντικότερες ιστορίες ζωντανεύουν, σε μία εκπομπή που καταπιάνεται με όλα τα θέματα, από όπου κι αν προέρχονται(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;08:00</category>
+  </programme>
+  <programme start="20190809130000 +0300" stop="20190809200000 +0300" channel="Euronews">
+    <title lang="el">EURONEWS NOW</title>
+    <desc lang="el">Παρακολουθήστε όλα τα νέα από την έκτακτη επικαιρότητα, καθώς και εις βάθος ανάλυση των πιο σημαντικών ζητημάτων που μονοπωλούν τα πρωτοσέλιδα στην Ευρώπη και τον κόσμο(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;13:00</category>
+  </programme>
+  <programme start="20190809200000 +0300" stop="20190809224500 +0300" channel="Euronews">
+    <title lang="el">EURONEWS TONIGHT</title>
+    <desc lang="el">Παρακολουθήστε ζωντανά όλες τις τελευταίες ειδήσεις, την έκτακτη επικαιρότητα, καθώς και αναλύσεις και συνεντεύξεις από το Ειδησεογραφικό Κέντρο της Ευρώπης(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;20:00</category>
+  </programme>
+  <programme start="20190809224500 +0300" stop="20190810000000 +0300" channel="Euronews">
+    <title lang="el">INSPIRE MIDDLE EAST</title>
+    <desc lang="el">Παρακολουθήστε μία εκπομπή για τη Μέση Ανατολή. Νέες φωνές μοιράζονται μαζί μας συναρπαστικές ιστορίες από το φάσμα των επιχειρήσεων αλλά και του πολιτισμού(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;22:45</category>
+  </programme>
+  <programme start="20190810000000 +0300" stop="20190810005000 +0300" channel="Euronews">
+    <title lang="el">EURONEWS NOW</title>
+    <desc lang="el">Παρακολουθήστε όλα τα νέα από την έκτακτη επικαιρότητα, καθώς και εις βάθος ανάλυση των πιο σημαντικών ζητημάτων που μονοπωλούν τα πρωτοσέλιδα στην Ευρώπη και τον κόσμο(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;00:00</category>
+  </programme>
+  <programme start="20190810010000 +0300" stop="20190810015000 +0300" channel="Euronews">
+    <title lang="el">EURONEWS NOW</title>
+    <desc lang="el">Παρακολουθήστε όλα τα νέα από την έκτακτη επικαιρότητα, καθώς και εις βάθος ανάλυση των πιο σημαντικών ζητημάτων που μονοπωλούν τα πρωτοσέλιδα στην Ευρώπη και τον κόσμο(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;01:00</category>
+  </programme>
+  <programme start="20190810020000 +0300" stop="20190810034500 +0300" channel="Euronews">
+    <title lang="el">EURONEWS NOW</title>
+    <desc lang="el">Παρακολουθήστε όλα τα νέα από την έκτακτη επικαιρότητα, καθώς και εις βάθος ανάλυση των πιο σημαντικών ζητημάτων που μονοπωλούν τα πρωτοσέλιδα στην Ευρώπη και τον κόσμο(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;02:00</category>
+  </programme>
+  <programme start="20190810035500 +0300" stop="20190810054500 +0300" channel="Euronews">
+    <title lang="el">EURONEWS NOW</title>
+    <desc lang="el">Παρακολουθήστε όλα τα νέα από την έκτακτη επικαιρότητα, καθώς και εις βάθος ανάλυση των πιο σημαντικών ζητημάτων που μονοπωλούν τα πρωτοσέλιδα στην Ευρώπη και τον κόσμο(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;03:55</category>
+  </programme>
+  <programme start="20190810075500 +0300" stop="20190810094000 +0300" channel="Euronews">
+    <title lang="el">EURONEWS NOW</title>
+    <desc lang="el">Παρακολουθήστε όλα τα νέα από την έκτακτη επικαιρότητα, καθώς και εις βάθος ανάλυση των πιο σημαντικών ζητημάτων που μονοπωλούν τα πρωτοσέλιδα στην Ευρώπη και τον κόσμο(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;07:55</category>
+  </programme>
+  <programme start="20190810095500 +0300" stop="20190810110000 +0300" channel="Euronews">
+    <title lang="el">EURONEWS NOW</title>
+    <desc lang="el">Παρακολουθήστε όλα τα νέα από την έκτακτη επικαιρότητα, καθώς και εις βάθος ανάλυση των πιο σημαντικών ζητημάτων που μονοπωλούν τα πρωτοσέλιδα στην Ευρώπη και τον κόσμο(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;09:55</category>
+  </programme>
+  <programme start="20190810110000 +0300" stop="20190810115500 +0300" channel="Euronews">
+    <title lang="el">EURONEWS WEEKEND</title>
+    <desc lang="el">Παρακολουθήστε όλα τα τελευταία ειδησεογραφικά νέα, καθώς και ενημερωτικά μαγκαζίνο: Ευρωπαϊκή πολιτική, επιχειρηματικά και οικονομικά νέα, αθλητισμός, επιστήμη και τεχνολογία, πολιτιστικές και lifestyle ενότητες, ταξίδια και ανακαλύψεις(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;11:00</category>
+  </programme>
+  <programme start="20190810120000 +0300" stop="20190810141500 +0300" channel="Euronews">
+    <title lang="el">EURONEWS WEEKEND</title>
+    <desc lang="el">Παρακολουθήστε όλα τα τελευταία ειδησεογραφικά νέα, καθώς και ενημερωτικά μαγκαζίνο: Ευρωπαϊκή πολιτική, επιχειρηματικά και οικονομικά νέα, αθλητισμός, επιστήμη και τεχνολογία, πολιτιστικές και lifestyle ενότητες, ταξίδια και ανακαλύψεις(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;12:00</category>
+  </programme>
+  <programme start="20190810143500 +0300" stop="20190810171000 +0300" channel="Euronews">
+    <title lang="el">EURONEWS WEEKEND</title>
+    <desc lang="el">Παρακολουθήστε όλα τα τελευταία ειδησεογραφικά νέα, καθώς και ενημερωτικά μαγκαζίνο: Ευρωπαϊκή πολιτική, επιχειρηματικά και οικονομικά νέα, αθλητισμός, επιστήμη και τεχνολογία, πολιτιστικές και lifestyle ενότητες, ταξίδια και ανακαλύψεις(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;14:35</category>
+  </programme>
+  <programme start="20190810171500 +0300" stop="20190810174500 +0300" channel="Euronews">
+    <title lang="el">EURONEWS WEEKEND</title>
+    <desc lang="el">Παρακολουθήστε όλα τα τελευταία ειδησεογραφικά νέα, καθώς και ενημερωτικά μαγκαζίνο: Ευρωπαϊκή πολιτική, επιχειρηματικά και οικονομικά νέα, αθλητισμός, επιστήμη και τεχνολογία, πολιτιστικές και lifestyle ενότητες, ταξίδια και ανακαλύψεις(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;17:15</category>
+  </programme>
+  <programme start="20190810180000 +0300" stop="20190810194500 +0300" channel="Euronews">
+    <title lang="el">EURONEWS WEEKEND</title>
+    <desc lang="el">Παρακολουθήστε όλα τα τελευταία ειδησεογραφικά νέα, καθώς και ενημερωτικά μαγκαζίνο: Ευρωπαϊκή πολιτική, επιχειρηματικά και οικονομικά νέα, αθλητισμός, επιστήμη και τεχνολογία, πολιτιστικές και lifestyle ενότητες, ταξίδια και ανακαλύψεις(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;18:00</category>
+  </programme>
+  <programme start="20190810200000 +0300" stop="20190810205000 +0300" channel="Euronews">
+    <title lang="el">PRIME EDITION WEEKEND</title>
+    <desc lang="el">Παρακολουθήστε όλα τα τελευταία ειδησεογραφικά νέα, καθώς και ενημερωτικά μαγκαζίνο: Ευρωπαϊκή πολιτική, επιχειρηματικά και οικονομικά νέα, αθλητισμός, επιστήμη και τεχνολογία, πολιτιστικές και lifestyle ενότητες, ταξίδια και ανακαλύψεις(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;20:00</category>
+  </programme>
+  <programme start="20190810210000 +0300" stop="20190810222500 +0300" channel="Euronews">
+    <title lang="el">PRIME EDITION WEEKEND</title>
+    <desc lang="el">Παρακολουθήστε όλα τα τελευταία ειδησεογραφικά νέα, καθώς και ενημερωτικά μαγκαζίνο: Ευρωπαϊκή πολιτική, επιχειρηματικά και οικονομικά νέα, αθλητισμός, επιστήμη και τεχνολογία, πολιτιστικές και lifestyle ενότητες, ταξίδια και ανακαλύψεις(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;21:00</category>
+  </programme>
+  <programme start="20190810223000 +0300" stop="20190811004500 +0300" channel="Euronews">
+    <title lang="el">PRIME EDITION WEEKEND</title>
+    <desc lang="el">Παρακολουθήστε όλα τα τελευταία ειδησεογραφικά νέα, καθώς και ενημερωτικά μαγκαζίνο: Ευρωπαϊκή πολιτική, επιχειρηματικά και οικονομικά νέα, αθλητισμός, επιστήμη και τεχνολογία, πολιτιστικές και lifestyle ενότητες, ταξίδια και ανακαλύψεις(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;22:30</category>
+  </programme>
   <programme start="20190807003000 +0300" stop="20190807013000 +0300" channel="ertsports">
     <title lang="el">Η Ιστορία του Ελληνικού Ποδοσφαίρου</title>
     <desc lang="el">Ολη η ιστορία του επαγγελματικού ελληνικού ποδοσφαίρου, από τη γέννησή του τη σεζόν 1979/80 μέχρι τις μέρες μας, έτσι όπως ζωντανεύει μέσα από το πολύτιμο αθλητικό αρχείο της ΕΡΤ και το αποκλειστικό υλικό των καναλιών Novasports(n)</desc>
@@ -11879,6 +12019,411 @@
   </programme>
   <programme start="20190810230000 +0300" stop="20190811010000 +0300" channel="ertsports">
     <title lang="el">AJAX TV (?)</title>
+    <category lang="el">&lt;div class="time"&gt;23:00</category>
+  </programme>
+  <programme start="20190807000000 +0300" stop="20190807010000 +0300" channel="ONE Channel">
+    <title lang="el">SPIN</title>
+    <desc lang="el">Μετά τη δολοφονία του Γάλλου προέδρου, ξεκινά ένα κυνηγητό για τον εντοπισμό του δολοφόνου του παράλληλα με παιχνίδια εξουσίας, μίσους και διαφθοράς(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;00:00</category>
+  </programme>
+  <programme start="20190807010000 +0300" stop="20190807020000 +0300" channel="ONE Channel">
+    <title lang="el">UNREAL</title>
+    <desc lang="el">'Οι κακοί άνθρωποι κάνουν καλή τηλεόραση': Το παρασκήνιο ενός διαγωνισμού ριάλιτι όπου διαγωνιζόμενοι και παράγωγοι παίζουν ένα σκληρό παιχνίδι χειραγώγησης και αποπλάνησης οπού κάθε ηθική αναστολή θυσιάζεται στο βωμό της τηλεθέασης(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;01:00</category>
+  </programme>
+  <programme start="20190807020000 +0300" stop="20190807030000 +0300" channel="ONE Channel">
+    <title lang="el">THE TRAFFICKERS</title>
+    <desc lang="el">Κάθε επεισόδιο παρακολουθεί αντίστροφα, από τον καταναλωτή προς την πηγή, είδη προς εξαφάνιση, πολύτιμα ορυκτά, φάρμακα, ανθρώπινα όργανα, όπλα, ανθρώπους μέχρι και παιδιά. Ενα σκοτεινό ταξίδι στις παγκόσμιες παράνομες αγορές(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;02:00</category>
+  </programme>
+  <programme start="20190807030000 +0300" stop="20190807040000 +0300" channel="ONE Channel">
+    <title lang="el">ANTHONY BOURDAIN: NO RESERVATIONS</title>
+    <desc lang="el">Ο σεφ Anthony Bourdain επισκέπτεται πόλεις σε όλο τον κόσμο, αλλά και στην Αμερική, για να δοκιμάσει την τοπική κουζίνα και να εξερευνήσει την κουλτούρα του κάθε τόπου(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;03:00</category>
+  </programme>
+  <programme start="20190807040000 +0300" stop="20190807060000 +0300" channel="ONE Channel">
+    <title lang="el">ONE DIRECT</title>
+    <desc lang="el">Μία καθημερινή πολιτική εκπομπή με τον Γιώργο Παπαχρήστο, τη Τζίνα Μοσχολιού και τη συμμετοχή της Τζωρτζίνας Μαλλιαρόζη που παρουσιάζει και αναλύει τι συμβαίνει πίσω από τα γεγονότα και πίσω από τις κλειστές πόρτες στα κέντρα εξουσίας(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;04:00</category>
+  </programme>
+  <programme start="20190807060000 +0300" stop="20190807080000 +0300" channel="ONE Channel">
+    <title lang="el">ONE TALK</title>
+    <desc lang="el">Ενα μοντέρνο πολιτικό talk show με τον Δημήτρη Μανιάτη και τη συμμετοχή της Ηλιάνας Κουλαρμάνη, που συναντά τους πρωταγωνιστές της επικαιρότητας και σχολιάζει τα γεγονότα άλλοτε με χιούμορ και άλλοτε με αιχμή(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;06:00</category>
+  </programme>
+  <programme start="20190807080000 +0300" stop="20190807090000 +0300" channel="ONE Channel">
+    <title lang="el">MANKIND: THE STORY OF ALL OF US</title>
+    <desc lang="el">Η ιστορία του ανθρώπινου είδους με έναν τρόπο που δεν έχουμε ξαναδεί, μέσα από παγκόσμιους συσχετισμούς και αλληλένδετες ιστορίες που ξεπερνούν τα σύνορα και την πολιτική(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;08:00</category>
+  </programme>
+  <programme start="20190807090000 +0300" stop="20190807100000 +0300" channel="ONE Channel">
+    <title lang="el">THE EIGHTIES</title>
+    <desc lang="el">Η σειρά εστιάζει στην προεδρία του Reagan, την κρίση του AIDS, το τέλος του Ψυχρού Πολέμου, τη διαφθορά της Wall Street, την τεχνολογική έκρηξη, την επέκταση της τηλεόρασης και την εξελισσόμενη μουσική βιομηχανία(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;09:00</category>
+  </programme>
+  <programme start="20190807100000 +0300" stop="20190807110000 +0300" channel="ONE Channel">
+    <title lang="el">DIVIDED STATES</title>
+    <desc lang="el">Αντισημιτισμός, ομοφοβία, ρατσισμός στη σύγχρονη Αμερική. Ιστορίες ανθρώπων που ξεπέρασαν το μίσος για να διαδώσουν ένα θετικό μήνυμα(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;10:00</category>
+  </programme>
+  <programme start="20190807110000 +0300" stop="20190807120000 +0300" channel="ONE Channel">
+    <title lang="el">JAMIE'S QUICK AND EASY FOOD</title>
+    <desc lang="el">Ο Jamie Oliver παρουσιάζει το απόλυτο σύνολο συνταγών για γρήγορο και εύκολο στη χρήση μαγείρεμα. Εάν νομίζετε ότι δεν έχετε χρόνο να μαγειρέψετε, ξανασκεφτείτε το!(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;11:00</category>
+  </programme>
+  <programme start="20190807120000 +0300" stop="20190807130000 +0300" channel="ONE Channel">
+    <title lang="el">ANTHONY BOURDAIN: NO RESERVATIONS</title>
+    <desc lang="el">Ο σεφ Anthony Bourdain επισκέπτεται πόλεις σε όλο τον κόσμο, αλλά και στην Αμερική, για να δοκιμάσει την τοπική κουζίνα και να εξερευνήσει την κουλτούρα του κάθε τόπου(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;12:00</category>
+  </programme>
+  <programme start="20190807130000 +0300" stop="20190807140000 +0300" channel="ONE Channel">
+    <title lang="el">THE TRAFFICKERS</title>
+    <desc lang="el">Κάθε επεισόδιο παρακολουθεί αντίστροφα, από τον καταναλωτή προς την πηγή, είδη προς εξαφάνιση, πολύτιμα ορυκτά, φάρμακα, ανθρώπινα όργανα, όπλα, ανθρώπους μέχρι και παιδιά. Ενα σκοτεινό ταξίδι στις παγκόσμιες παράνομες αγορές(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;13:00</category>
+  </programme>
+  <programme start="20190807140000 +0300" stop="20190807150000 +0300" channel="ONE Channel">
+    <title lang="el">MAN MADE PLANET</title>
+    <desc lang="el">Χρησιμοποιώντας εικόνες της Γης που έχουν ληφθεί από το διάστημα τα τελευταία 45 χρόνια, οι αστροναύτες αποκαλύπτουν πώς η ανθρωπότητα μεταμορφώνει τον κόσμο - τόσο προς το καλύτερο, όσο και προς το χειρότερο(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;14:00</category>
+  </programme>
+  <programme start="20190807150000 +0300" stop="20190807160000 +0300" channel="ONE Channel">
+    <title lang="el">FOOTBALL'S GREATEST MOMENTS</title>
+    <desc lang="el">Το παρασκήνιο των πιο σημαντικών στιγμών του ποδοσφαίρου των τελευταίων 70 ετών(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;15:00</category>
+  </programme>
+  <programme start="20190807160000 +0300" stop="20190807180000 +0300" channel="ONE Channel">
+    <title lang="el">ONE LINE</title>
+    <desc lang="el">Δίωρο ενημερωτικό μαγκαζίνο με τη Δήμητρα Κρουστάλλη και τους Ανδρέα Παπαδόπουλο και Θανάση Φουσκίδη. Η απογευματινή ενημέρωση με ζωντανές συνδέσεις από την καρδιά των γεγονότων, αναλύσεις, συζητήσεις και ρεπορτάζ(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;16:00</category>
+  </programme>
+  <programme start="20190807180000 +0300" stop="20190807200000 +0300" channel="ONE Channel">
+    <title lang="el">ONE DIRECT</title>
+    <desc lang="el">Μία καθημερινή πολιτική εκπομπή με τον Γιώργο Παπαχρήστο, τη Τζίνα Μοσχολιού και τη συμμετοχή της Τζωρτζίνας Μαλλιαρόζη που παρουσιάζει και αναλύει τι συμβαίνει πίσω από τα γεγονότα και πίσω από τις κλειστές πόρτες στα κέντρα εξουσίας(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;18:00</category>
+  </programme>
+  <programme start="20190807200000 +0300" stop="20190807203000 +0300" channel="ONE Channel">
+    <title lang="el">VITA</title>
+    <desc lang="el">Ενα ημίωρο μαγκαζίνο για την υγεία και την ευζωία με τη Ζωή Δημητράκου. Οι νέες τάσεις στη διατροφή, τη γυμναστική, την ψυχολογία, την ομορφιά και όλα εκείνα που κάνουν τη ζωή μας καλύτερη έχουν θέση στις τηλεοπτικές 'σελίδες' του VITA(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;20:00</category>
+  </programme>
+  <programme start="20190807203000 +0300" stop="20190807213000 +0300" channel="ONE Channel">
+    <title lang="el">ONE NEWS</title>
+    <desc lang="el">Η καρδιά της ενημέρωσης χτυπά στο ONE NEWS με τον Γιάννη Μούτσο. Ενα πολυθεματικό δελτίο με σύγχρονη αισθητική το οποίο ανοίγει 'παράθυρα' ενημέρωσης και γνώσης για όσα συμβαίνουν στην Ελλάδα και τον κόσμο(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;20:30</category>
+  </programme>
+  <programme start="20190807213000 +0300" stop="20190807220000 +0300" channel="ONE Channel">
+    <title lang="el">ΑΝΑΠΤΥΞΗ</title>
+    <desc lang="el">Ενα δυναμικό μαγκαζίνο με την Ελενα Λάσκαρη με οικονομικές, επιχειρηματικές και τεχνολογικές ειδήσεις για όσα κινούν την οικονομία σήμερα. Στην ΑΝΑΠΤΥΞΗ παρουσιάζουμε όλα εκείνα τα στοιχεία που φέρνουν την πραγματική ανάπτυξη(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;21:30</category>
+  </programme>
+  <programme start="20190807220000 +0300" stop="20190808000000 +0300" channel="ONE Channel">
+    <title lang="el">ONE TALK</title>
+    <desc lang="el">Ενα μοντέρνο πολιτικό talk show με τον Δημήτρη Μανιάτη και τη συμμετοχή της Ηλιάνας Κουλαρμάνη, που συναντά τους πρωταγωνιστές της επικαιρότητας και σχολιάζει τα γεγονότα άλλοτε με χιούμορ και άλλοτε με αιχμή(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;22:00</category>
+  </programme>
+  <programme start="20190808000000 +0300" stop="20190808010000 +0300" channel="ONE Channel">
+    <title lang="el">SPIN</title>
+    <desc lang="el">Μετά τη δολοφονία του Γάλλου προέδρου, ξεκινά ένα κυνηγητό για τον εντοπισμό του δολοφόνου του παράλληλα με παιχνίδια εξουσίας, μίσους και διαφθοράς(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;00:00</category>
+  </programme>
+  <programme start="20190808010000 +0300" stop="20190808020000 +0300" channel="ONE Channel">
+    <title lang="el">UNREAL</title>
+    <desc lang="el">'Οι κακοί άνθρωποι κάνουν καλή τηλεόραση': Το παρασκήνιο ενός διαγωνισμού ριάλιτι όπου διαγωνιζόμενοι και παράγωγοι παίζουν ένα σκληρό παιχνίδι χειραγώγησης και αποπλάνησης οπού κάθε ηθική αναστολή θυσιάζεται στο βωμό της τηλεθέασης(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;01:00</category>
+  </programme>
+  <programme start="20190808020000 +0300" stop="20190808030000 +0300" channel="ONE Channel">
+    <title lang="el">THE TRAFFICKERS</title>
+    <desc lang="el">Κάθε επεισόδιο παρακολουθεί αντίστροφα, από τον καταναλωτή προς την πηγή, είδη προς εξαφάνιση, πολύτιμα ορυκτά, φάρμακα, ανθρώπινα όργανα, όπλα, ανθρώπους μέχρι και παιδιά. Ενα σκοτεινό ταξίδι στις παγκόσμιες παράνομες αγορές(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;02:00</category>
+  </programme>
+  <programme start="20190808030000 +0300" stop="20190808040000 +0300" channel="ONE Channel">
+    <title lang="el">ANTHONY BOURDAIN: NO RESERVATIONS</title>
+    <desc lang="el">Ο σεφ Anthony Bourdain επισκέπτεται πόλεις σε όλο τον κόσμο, αλλά και στην Αμερική, για να δοκιμάσει την τοπική κουζίνα και να εξερευνήσει την κουλτούρα του κάθε τόπου(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;03:00</category>
+  </programme>
+  <programme start="20190808040000 +0300" stop="20190808060000 +0300" channel="ONE Channel">
+    <title lang="el">ONE DIRECT</title>
+    <desc lang="el">Μία καθημερινή πολιτική εκπομπή με τον Γιώργο Παπαχρήστο, τη Τζίνα Μοσχολιού και τη συμμετοχή της Τζωρτζίνας Μαλλιαρόζη που παρουσιάζει και αναλύει τι συμβαίνει πίσω από τα γεγονότα και πίσω από τις κλειστές πόρτες στα κέντρα εξουσίας(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;04:00</category>
+  </programme>
+  <programme start="20190808060000 +0300" stop="20190808080000 +0300" channel="ONE Channel">
+    <title lang="el">ONE TALK</title>
+    <desc lang="el">Ενα μοντέρνο πολιτικό talk show με τον Δημήτρη Μανιάτη και τη συμμετοχή της Ηλιάνας Κουλαρμάνη, που συναντά τους πρωταγωνιστές της επικαιρότητας και σχολιάζει τα γεγονότα άλλοτε με χιούμορ και άλλοτε με αιχμή(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;06:00</category>
+  </programme>
+  <programme start="20190808080000 +0300" stop="20190808090000 +0300" channel="ONE Channel">
+    <title lang="el">MANKIND: THE STORY OF ALL OF US</title>
+    <desc lang="el">Η ιστορία του ανθρώπινου είδους με έναν τρόπο που δεν έχουμε ξαναδεί, μέσα από παγκόσμιους συσχετισμούς και αλληλένδετες ιστορίες που ξεπερνούν τα σύνορα και την πολιτική(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;08:00</category>
+  </programme>
+  <programme start="20190808090000 +0300" stop="20190808100000 +0300" channel="ONE Channel">
+    <title lang="el">THE EIGHTIES</title>
+    <desc lang="el">Η σειρά εστιάζει στην προεδρία του Reagan, την κρίση του AIDS, το τέλος του Ψυχρού Πολέμου, τη διαφθορά της Wall Street, την τεχνολογική έκρηξη, την επέκταση της τηλεόρασης και την εξελισσόμενη μουσική βιομηχανία(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;09:00</category>
+  </programme>
+  <programme start="20190808100000 +0300" stop="20190808110000 +0300" channel="ONE Channel">
+    <title lang="el">DIVIDED STATES</title>
+    <desc lang="el">Αντισημιτισμός, ομοφοβία, ρατσισμός στη σύγχρονη Αμερική. Ιστορίες ανθρώπων που ξεπέρασαν το μίσος για να διαδώσουν ένα θετικό μήνυμα(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;10:00</category>
+  </programme>
+  <programme start="20190808110000 +0300" stop="20190808120000 +0300" channel="ONE Channel">
+    <title lang="el">JAMIE'S QUICK AND EASY FOOD</title>
+    <desc lang="el">Ο Jamie Oliver παρουσιάζει το απόλυτο σύνολο συνταγών για γρήγορο και εύκολο στη χρήση μαγείρεμα. Εάν νομίζετε ότι δεν έχετε χρόνο να μαγειρέψετε, ξανασκεφτείτε το!(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;11:00</category>
+  </programme>
+  <programme start="20190808120000 +0300" stop="20190808130000 +0300" channel="ONE Channel">
+    <title lang="el">ANTHONY BOURDAIN: NO RESERVATIONS</title>
+    <desc lang="el">Ο σεφ Anthony Bourdain επισκέπτεται πόλεις σε όλο τον κόσμο, αλλά και στην Αμερική, για να δοκιμάσει την τοπική κουζίνα και να εξερευνήσει την κουλτούρα του κάθε τόπου(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;12:00</category>
+  </programme>
+  <programme start="20190808130000 +0300" stop="20190808140000 +0300" channel="ONE Channel">
+    <title lang="el">THE TRAFFICKERS</title>
+    <desc lang="el">Κάθε επεισόδιο παρακολουθεί αντίστροφα, από τον καταναλωτή προς την πηγή, είδη προς εξαφάνιση, πολύτιμα ορυκτά, φάρμακα, ανθρώπινα όργανα, όπλα, ανθρώπους μέχρι και παιδιά. Ενα σκοτεινό ταξίδι στις παγκόσμιες παράνομες αγορές(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;13:00</category>
+  </programme>
+  <programme start="20190808140000 +0300" stop="20190808150000 +0300" channel="ONE Channel">
+    <title lang="el">WASTED! THE STORY OF FOOD WASTE</title>
+    <desc lang="el">Ενα ντοκιμαντέρ που θα αλλάξει τον τρόπο που αγοράζουμε, μαγειρεύουμε και καταναλώνουμε το φαγητό(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;14:00</category>
+  </programme>
+  <programme start="20190808150000 +0300" stop="20190808160000 +0300" channel="ONE Channel">
+    <title lang="el">FOOTBALL'S GREATEST MOMENTS</title>
+    <desc lang="el">Το παρασκήνιο των πιο σημαντικών στιγμών του ποδοσφαίρου των τελευταίων 70 ετών(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;15:00</category>
+  </programme>
+  <programme start="20190808160000 +0300" stop="20190808180000 +0300" channel="ONE Channel">
+    <title lang="el">ONE LINE</title>
+    <desc lang="el">Δίωρο ενημερωτικό μαγκαζίνο με τη Δήμητρα Κρουστάλλη και τους Ανδρέα Παπαδόπουλο και Θανάση Φουσκίδη. Η απογευματινή ενημέρωση με ζωντανές συνδέσεις από την καρδιά των γεγονότων, αναλύσεις, συζητήσεις και ρεπορτάζ(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;16:00</category>
+  </programme>
+  <programme start="20190808180000 +0300" stop="20190808200000 +0300" channel="ONE Channel">
+    <title lang="el">ONE DIRECT</title>
+    <desc lang="el">Μία καθημερινή πολιτική εκπομπή με τον Γιώργο Παπαχρήστο, τη Τζίνα Μοσχολιού και τη συμμετοχή της Τζωρτζίνας Μαλλιαρόζη που παρουσιάζει και αναλύει τι συμβαίνει πίσω από τα γεγονότα και πίσω από τις κλειστές πόρτες στα κέντρα εξουσίας(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;18:00</category>
+  </programme>
+  <programme start="20190808200000 +0300" stop="20190808203000 +0300" channel="ONE Channel">
+    <title lang="el">ΒΗΜΑGAZINO</title>
+    <desc lang="el">Ενα τηλε-περιοδικό ποικίλης ύλης με τον Λευτέρη Τρίγκα που δίνει ΒΗΜΑ σε σπουδαίους ανθρώπους και καινοτόμες ιδέες που διαμορφώνουν τη σύγχρονη κουλτούρα, φέρνοντας στην οθόνη μας μια διαφορετική ματιά σε πρόσωπα και πράγματα(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;20:00</category>
+  </programme>
+  <programme start="20190808203000 +0300" stop="20190808213000 +0300" channel="ONE Channel">
+    <title lang="el">ONE NEWS</title>
+    <desc lang="el">Η καρδιά της ενημέρωσης χτυπά στο ONE NEWS με τον Γιάννη Μούτσο. Ενα πολυθεματικό δελτίο με σύγχρονη αισθητική το οποίο ανοίγει 'παράθυρα' ενημέρωσης και γνώσης για όσα συμβαίνουν στην Ελλάδα και τον κόσμο(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;20:30</category>
+  </programme>
+  <programme start="20190808213000 +0300" stop="20190808220000 +0300" channel="ONE Channel">
+    <title lang="el">ΣΙΝΕΜΑ ΣΤΗ ΣΕΝΤΡΑ</title>
+    <desc lang="el">Ο Αντώνης Καρπετόπουλος ξέρει από μπάλα. Ο Γιάννης Ζουμπουλάκης ξέρει από σινεμά. Οι δυο τους κάθε Πέμπτη βάζουν το 'Σινεμά στη Σέντρα'(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;21:30</category>
+  </programme>
+  <programme start="20190808220000 +0300" stop="20190809000000 +0300" channel="ONE Channel">
+    <title lang="el">ONE TALK</title>
+    <desc lang="el">Ενα μοντέρνο πολιτικό talk show με τον Δημήτρη Μανιάτη και τη συμμετοχή της Ηλιάνας Κουλαρμάνη, που συναντά τους πρωταγωνιστές της επικαιρότητας και σχολιάζει τα γεγονότα άλλοτε με χιούμορ και άλλοτε με αιχμή(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;22:00</category>
+  </programme>
+  <programme start="20190809000000 +0300" stop="20190809010000 +0300" channel="ONE Channel">
+    <title lang="el">SPIN</title>
+    <desc lang="el">Μετά τη δολοφονία του Γάλλου προέδρου, ξεκινά ένα κυνηγητό για τον εντοπισμό του δολοφόνου του παράλληλα με παιχνίδια εξουσίας, μίσους και διαφθοράς(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;00:00</category>
+  </programme>
+  <programme start="20190809010000 +0300" stop="20190809020000 +0300" channel="ONE Channel">
+    <title lang="el">UNREAL</title>
+    <desc lang="el">'Οι κακοί άνθρωποι κάνουν καλή τηλεόραση': Το παρασκήνιο ενός διαγωνισμού ριάλιτι όπου διαγωνιζόμενοι και παράγωγοι παίζουν ένα σκληρό παιχνίδι χειραγώγησης και αποπλάνησης οπού κάθε ηθική αναστολή θυσιάζεται στο βωμό της τηλεθέασης(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;01:00</category>
+  </programme>
+  <programme start="20190809020000 +0300" stop="20190809030000 +0300" channel="ONE Channel">
+    <title lang="el">THE TRAFFICKERS</title>
+    <desc lang="el">Κάθε επεισόδιο παρακολουθεί αντίστροφα, από τον καταναλωτή προς την πηγή, είδη προς εξαφάνιση, πολύτιμα ορυκτά, φάρμακα, ανθρώπινα όργανα, όπλα, ανθρώπους μέχρι και παιδιά. Ενα σκοτεινό ταξίδι στις παγκόσμιες παράνομες αγορές(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;02:00</category>
+  </programme>
+  <programme start="20190809030000 +0300" stop="20190809040000 +0300" channel="ONE Channel">
+    <title lang="el">ANTHONY BOURDAIN: NO RESERVATIONS</title>
+    <desc lang="el">Ο σεφ Anthony Bourdain επισκέπτεται πόλεις σε όλο τον κόσμο, αλλά και στην Αμερική, για να δοκιμάσει την τοπική κουζίνα και να εξερευνήσει την κουλτούρα του κάθε τόπου(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;03:00</category>
+  </programme>
+  <programme start="20190809040000 +0300" stop="20190809060000 +0300" channel="ONE Channel">
+    <title lang="el">ONE DIRECT</title>
+    <desc lang="el">Μία καθημερινή πολιτική εκπομπή με τον Γιώργο Παπαχρήστο, τη Τζίνα Μοσχολιού και τη συμμετοχή της Τζωρτζίνας Μαλλιαρόζη που παρουσιάζει και αναλύει τι συμβαίνει πίσω από τα γεγονότα και πίσω από τις κλειστές πόρτες στα κέντρα εξουσίας(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;04:00</category>
+  </programme>
+  <programme start="20190809060000 +0300" stop="20190809080000 +0300" channel="ONE Channel">
+    <title lang="el">ONE TALK</title>
+    <desc lang="el">Ενα μοντέρνο πολιτικό talk show με τον Δημήτρη Μανιάτη και τη συμμετοχή της Ηλιάνας Κουλαρμάνη, που συναντά τους πρωταγωνιστές της επικαιρότητας και σχολιάζει τα γεγονότα άλλοτε με χιούμορ και άλλοτε με αιχμή(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;06:00</category>
+  </programme>
+  <programme start="20190809080000 +0300" stop="20190809090000 +0300" channel="ONE Channel">
+    <title lang="el">MANKIND: THE STORY OF ALL OF US</title>
+    <desc lang="el">Η ιστορία του ανθρώπινου είδους με έναν τρόπο που δεν έχουμε ξαναδεί, μέσα από παγκόσμιους συσχετισμούς και αλληλένδετες ιστορίες που ξεπερνούν τα σύνορα και την πολιτική(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;08:00</category>
+  </programme>
+  <programme start="20190809090000 +0300" stop="20190809100000 +0300" channel="ONE Channel">
+    <title lang="el">THE SIXTIES</title>
+    <desc lang="el">H δεκαετία του εξήντα έφερε τις μεγαλύτερες αλλαγές στην πολιτική, τα ανθρώπινα δικαιώματα, τις τέχνες, την επιστήμη και την τεχνολογία μεταμορφώνοντας περισσότερο από κάθε άλλη περίοδο την Αμερική αλλά και τον κόσμο(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;09:00</category>
+  </programme>
+  <programme start="20190809100000 +0300" stop="20190809110000 +0300" channel="ONE Channel">
+    <title lang="el">WE'LL MEET AGAIN</title>
+    <desc lang="el">Η σειρά παρακολουθεί την επανένωση ανθρώπων των οποίων οι ζωές διασταυρώθηκαν στη διάρκεια ιστορικών γεγονότων. Συγκλονιστικές ιστορίες ηρωισμού, ελπίδας και δημιουργίας άρρηκτων δεσμών(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;10:00</category>
+  </programme>
+  <programme start="20190809110000 +0300" stop="20190809120000 +0300" channel="ONE Channel">
+    <title lang="el">JAMIE'S QUICK AND EASY FOOD</title>
+    <desc lang="el">Ο Jamie Oliver παρουσιάζει το απόλυτο σύνολο συνταγών για γρήγορο και εύκολο στη χρήση μαγείρεμα. Εάν νομίζετε ότι δεν έχετε χρόνο να μαγειρέψετε, ξανασκεφτείτε το!(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;11:00</category>
+  </programme>
+  <programme start="20190809120000 +0300" stop="20190809130000 +0300" channel="ONE Channel">
+    <title lang="el">ANTHONY BOURDAIN: NO RESERVATIONS</title>
+    <desc lang="el">Ο σεφ Anthony Bourdain επισκέπτεται πόλεις σε όλο τον κόσμο, αλλά και στην Αμερική, για να δοκιμάσει την τοπική κουζίνα και να εξερευνήσει την κουλτούρα του κάθε τόπου(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;12:00</category>
+  </programme>
+  <programme start="20190809130000 +0300" stop="20190809140000 +0300" channel="ONE Channel">
+    <title lang="el">THE TRAFFICKERS</title>
+    <desc lang="el">Κάθε επεισόδιο παρακολουθεί αντίστροφα, από τον καταναλωτή προς την πηγή, είδη προς εξαφάνιση, πολύτιμα ορυκτά, φάρμακα, ανθρώπινα όργανα, όπλα, ανθρώπους μέχρι και παιδιά. Ενα σκοτεινό ταξίδι στις παγκόσμιες παράνομες αγορές(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;13:00</category>
+  </programme>
+  <programme start="20190809140000 +0300" stop="20190809150000 +0300" channel="ONE Channel">
+    <title lang="el">WASTED! THE STORY OF FOOD WASTE</title>
+    <desc lang="el">Ενα ντοκιμαντέρ που θα αλλάξει τον τρόπο που αγοράζουμε, μαγειρεύουμε και καταναλώνουμε το φαγητό(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;14:00</category>
+  </programme>
+  <programme start="20190809150000 +0300" stop="20190809160000 +0300" channel="ONE Channel">
+    <title lang="el">FOOTBALL'S GREATEST MOMENTS</title>
+    <desc lang="el">Το παρασκήνιο των πιο σημαντικών στιγμών του ποδοσφαίρου των τελευταίων 70 ετών(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;15:00</category>
+  </programme>
+  <programme start="20190809160000 +0300" stop="20190809180000 +0300" channel="ONE Channel">
+    <title lang="el">ONE LINE</title>
+    <desc lang="el">Δίωρο ενημερωτικό μαγκαζίνο με τη Δήμητρα Κρουστάλλη και τους Ανδρέα Παπαδόπουλο και Θανάση Φουσκίδη. Η απογευματινή ενημέρωση με ζωντανές συνδέσεις από την καρδιά των γεγονότων, αναλύσεις, συζητήσεις και ρεπορτάζ(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;16:00</category>
+  </programme>
+  <programme start="20190809180000 +0300" stop="20190809200000 +0300" channel="ONE Channel">
+    <title lang="el">ONE DIRECT</title>
+    <desc lang="el">Μία καθημερινή πολιτική εκπομπή με τον Γιώργο Παπαχρήστο, τη Τζίνα Μοσχολιού και τη συμμετοχή της Τζωρτζίνας Μαλλιαρόζη που παρουσιάζει και αναλύει τι συμβαίνει πίσω από τα γεγονότα και πίσω από τις κλειστές πόρτες στα κέντρα εξουσίας(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;18:00</category>
+  </programme>
+  <programme start="20190809200000 +0300" stop="20190809203000 +0300" channel="ONE Channel">
+    <title lang="el">VITA</title>
+    <desc lang="el">Ενα ημίωρο μαγκαζίνο για την υγεία και την ευζωία με τη Ζωή Δημητράκου. Οι νέες τάσεις στη διατροφή, τη γυμναστική, την ψυχολογία, την ομορφιά και όλα εκείνα που κάνουν τη ζωή μας καλύτερη έχουν θέση στις τηλεοπτικές 'σελίδες' του VITA(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;20:00</category>
+  </programme>
+  <programme start="20190809203000 +0300" stop="20190809213000 +0300" channel="ONE Channel">
+    <title lang="el">ONE NEWS</title>
+    <desc lang="el">Η καρδιά της ενημέρωσης χτυπά στο ONE NEWS με τον Γιάννη Μούτσο. Ενα πολυθεματικό δελτίο με σύγχρονη αισθητική το οποίο ανοίγει 'παράθυρα' ενημέρωσης και γνώσης για όσα συμβαίνουν στην Ελλάδα και τον κόσμο(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;20:30</category>
+  </programme>
+  <programme start="20190809213000 +0300" stop="20190809220000 +0300" channel="ONE Channel">
+    <title lang="el">ΝΕΕΣ ΕΠΟΧΕΣ</title>
+    <desc lang="el">Ο Γιάννης Διαμαντής συναντά ανθρώπους που ξεχωρίζουν με το έργο τους στον κόσμο της διανόησης, των γραμμάτων, των τεχνών και των επιστημών και εμβαθύνει σε ιδέες ή και γεγονότα του παρόντος και του παρελθόντος(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;21:30</category>
+  </programme>
+  <programme start="20190809220000 +0300" stop="20190810000000 +0300" channel="ONE Channel">
+    <title lang="el">CITIZEN ONE</title>
+    <desc lang="el">Ενα late night talk show με τον Κώστα Γιαννακίδη που θέτει τα καίρια ερωτήματα στα πρόσωπα της επικαιρότητας. Πολιτικοί, καλλιτέχνες και άτομα που απασχολούν το δημόσιο ενδιαφέρον δίνουν απαντήσεις σε όλα τα ζητήματα που τους αφορούν(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;22:00</category>
+  </programme>
+  <programme start="20190810000000 +0300" stop="20190810010000 +0300" channel="ONE Channel">
+    <title lang="el">SPIN</title>
+    <desc lang="el">Μετά τη δολοφονία του Γάλλου προέδρου, ξεκινά ένα κυνηγητό για τον εντοπισμό του δολοφόνου του παράλληλα με παιχνίδια εξουσίας, μίσους και διαφθοράς(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;00:00</category>
+  </programme>
+  <programme start="20190810010000 +0300" stop="20190810020000 +0300" channel="ONE Channel">
+    <title lang="el">UNREAL</title>
+    <desc lang="el">'Οι κακοί άνθρωποι κάνουν καλή τηλεόραση': Το παρασκήνιο ενός διαγωνισμού ριάλιτι όπου διαγωνιζόμενοι και παράγωγοι παίζουν ένα σκληρό παιχνίδι χειραγώγησης και αποπλάνησης οπού κάθε ηθική αναστολή θυσιάζεται στο βωμό της τηλεθέασης(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;01:00</category>
+  </programme>
+  <programme start="20190810020000 +0300" stop="20190810030000 +0300" channel="ONE Channel">
+    <title lang="el">THE TRAFFICKERS</title>
+    <desc lang="el">Κάθε επεισόδιο παρακολουθεί αντίστροφα, από τον καταναλωτή προς την πηγή, είδη προς εξαφάνιση, πολύτιμα ορυκτά, φάρμακα, ανθρώπινα όργανα, όπλα, ανθρώπους μέχρι και παιδιά. Ενα σκοτεινό ταξίδι στις παγκόσμιες παράνομες αγορές(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;02:00</category>
+  </programme>
+  <programme start="20190810030000 +0300" stop="20190810040000 +0300" channel="ONE Channel">
+    <title lang="el">ANTHONY BOURDAIN: NO RESERVATIONS</title>
+    <desc lang="el">Ο σεφ Anthony Bourdain επισκέπτεται πόλεις σε όλο τον κόσμο, αλλά και στην Αμερική, για να δοκιμάσει την τοπική κουζίνα και να εξερευνήσει την κουλτούρα του κάθε τόπου(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;03:00</category>
+  </programme>
+  <programme start="20190810040000 +0300" stop="20190810060000 +0300" channel="ONE Channel">
+    <title lang="el">ONE DIRECT</title>
+    <desc lang="el">Μία καθημερινή πολιτική εκπομπή με τον Γιώργο Παπαχρήστο, τη Τζίνα Μοσχολιού και τη συμμετοχή της Τζωρτζίνας Μαλλιαρόζη που παρουσιάζει και αναλύει τι συμβαίνει πίσω από τα γεγονότα και πίσω από τις κλειστές πόρτες στα κέντρα εξουσίας(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;04:00</category>
+  </programme>
+  <programme start="20190810060000 +0300" stop="20190810080000 +0300" channel="ONE Channel">
+    <title lang="el">CITIZEN ONE</title>
+    <desc lang="el">Ενα late night talk show με τον Κώστα Γιαννακίδη που θέτει τα καίρια ερωτήματα στα πρόσωπα της επικαιρότητας. Πολιτικοί, καλλιτέχνες και άτομα που απασχολούν το δημόσιο ενδιαφέρον δίνουν απαντήσεις σε όλα τα ζητήματα που τους αφορούν(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;06:00</category>
+  </programme>
+  <programme start="20190810080000 +0300" stop="20190810090000 +0300" channel="ONE Channel">
+    <title lang="el">MANKIND: THE STORY OF ALL OF US</title>
+    <desc lang="el">Η ιστορία του ανθρώπινου είδους με έναν τρόπο που δεν έχουμε ξαναδεί, μέσα από παγκόσμιους συσχετισμούς και αλληλένδετες ιστορίες που ξεπερνούν τα σύνορα και την πολιτική(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;08:00</category>
+  </programme>
+  <programme start="20190810090000 +0300" stop="20190810100000 +0300" channel="ONE Channel">
+    <title lang="el">THE SIXTIES</title>
+    <desc lang="el">H δεκαετία του εξήντα έφερε τις μεγαλύτερες αλλαγές στην πολιτική, τα ανθρώπινα δικαιώματα, τις τέχνες, την επιστήμη και την τεχνολογία μεταμορφώνοντας περισσότερο από κάθε άλλη περίοδο την Αμερική αλλά και τον κόσμο(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;09:00</category>
+  </programme>
+  <programme start="20190810100000 +0300" stop="20190810110000 +0300" channel="ONE Channel">
+    <title lang="el">WE'LL MEET AGAIN</title>
+    <desc lang="el">Η σειρά παρακολουθεί την επανένωση ανθρώπων των οποίων οι ζωές διασταυρώθηκαν στη διάρκεια ιστορικών γεγονότων. Συγκλονιστικές ιστορίες ηρωισμού, ελπίδας και δημιουργίας άρρηκτων δεσμών(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;10:00</category>
+  </programme>
+  <programme start="20190810110000 +0300" stop="20190810120000 +0300" channel="ONE Channel">
+    <title lang="el">JAMIE'S QUICK AND EASY FOOD</title>
+    <desc lang="el">Ο Jamie Oliver παρουσιάζει το απόλυτο σύνολο συνταγών για γρήγορο και εύκολο στη χρήση μαγείρεμα. Εάν νομίζετε ότι δεν έχετε χρόνο να μαγειρέψετε, ξανασκεφτείτε το!(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;11:00</category>
+  </programme>
+  <programme start="20190810120000 +0300" stop="20190810130000 +0300" channel="ONE Channel">
+    <title lang="el">ANTHONY BOURDAIN: NO RESERVATIONS</title>
+    <desc lang="el">Ο σεφ Anthony Bourdain επισκέπτεται πόλεις σε όλο τον κόσμο, αλλά και στην Αμερική, για να δοκιμάσει την τοπική κουζίνα και να εξερευνήσει την κουλτούρα του κάθε τόπου(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;12:00</category>
+  </programme>
+  <programme start="20190810130000 +0300" stop="20190810140000 +0300" channel="ONE Channel">
+    <title lang="el">THE TRAFFICKERS</title>
+    <desc lang="el">Κάθε επεισόδιο παρακολουθεί αντίστροφα, από τον καταναλωτή προς την πηγή, είδη προς εξαφάνιση, πολύτιμα ορυκτά, φάρμακα, ανθρώπινα όργανα, όπλα, ανθρώπους μέχρι και παιδιά. Ενα σκοτεινό ταξίδι στις παγκόσμιες παράνομες αγορές(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;13:00</category>
+  </programme>
+  <programme start="20190810140000 +0300" stop="20190810150000 +0300" channel="ONE Channel">
+    <title lang="el">I AM HEATH LEDGER</title>
+    <desc lang="el">Οι φίλοι και η οικογένεια του ηθοποιού Heath Ledger θυμούνται τη ζωή και την καριέρα του(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;14:00</category>
+  </programme>
+  <programme start="20190810150000 +0300" stop="20190810160000 +0300" channel="ONE Channel">
+    <title lang="el">I AM HEATH LEDGER</title>
+    <desc lang="el">Οι φίλοι και η οικογένεια του ηθοποιού Heath Ledger θυμούνται τη ζωή και την καριέρα του(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;15:00</category>
+  </programme>
+  <programme start="20190810160000 +0300" stop="20190810180000 +0300" channel="ONE Channel">
+    <title lang="el">ONE LINE WEEKEND</title>
+    <desc lang="el">Mαγκαζίνο με τη Στέλλα Παπαμιχαήλ, την Ελένη Στεργίου και την Τζωρτζίνα Μαλλιαρόζη. Κάθε Σάββατο και Κυριακή στις 16:00 ενημερώνεστε για όσα έγιναν την εβδομάδα που πέρασε και όσα αναμένεται να μας απασχολήσουν την εβδομάδα που έρχεται(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;16:00</category>
+  </programme>
+  <programme start="20190810180000 +0300" stop="20190810200000 +0300" channel="ONE Channel">
+    <title lang="el">ONE DIRECT WEEKEND</title>
+    <desc lang="el">Ο Νικήτας Κορωνάκης, η Μαρία Κατσή και η Ολίνα Τσαουσέλου σας παρουσιάζουν μια διαφορετική πτυχή της πολιτικής επικαιρότητας με θέματα και συνεντεύξεις από την εγχώρια και διεθνή ειδησεογραφία, σε ένα σύγχρονο μαγκαζίνο(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;18:00</category>
+  </programme>
+  <programme start="20190810200000 +0300" stop="20190810203000 +0300" channel="ONE Channel">
+    <title lang="el">VITA</title>
+    <desc lang="el">Ενα ημίωρο μαγκαζίνο για την υγεία και την ευζωία με τη Ζωή Δημητράκου. Οι νέες τάσεις στη διατροφή, τη γυμναστική, την ψυχολογία, την ομορφιά και όλα εκείνα που κάνουν τη ζωή μας καλύτερη έχουν θέση στις τηλεοπτικές 'σελίδες' του VITA(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;20:00</category>
+  </programme>
+  <programme start="20190810203000 +0300" stop="20190810213000 +0300" channel="ONE Channel">
+    <title lang="el">ONE NEWS WEEKEND</title>
+    <desc lang="el">Τα Σαββατοκύριακα η καρδιά της ενημέρωσης χτυπά στο ONE NEWS με την Ηλιάνα Κουλαρμάνη. Ενα πολυθεματικό δελτίο ειδήσεων με σύγχρονη αισθητική το οποίο ανοίγει 'παράθυρα' ενημέρωσης και γνώσης για όσα συμβαίνουν στην Ελλάδα και τον κόσμο(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;20:30</category>
+  </programme>
+  <programme start="20190810213000 +0300" stop="20190810220000 +0300" channel="ONE Channel">
+    <title lang="el">ΒΗΜΑGAZINO</title>
+    <desc lang="el">Ενα τηλε-περιοδικό ποικίλης ύλης με τον Λευτέρη Τρίγκα που δίνει ΒΗΜΑ σε σπουδαίους ανθρώπους και καινοτόμες ιδέες που διαμορφώνουν τη σύγχρονη κουλτούρα, φέρνοντας στην οθόνη μας μια διαφορετική ματιά σε πρόσωπα και πράγματα(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;21:30</category>
+  </programme>
+  <programme start="20190810220000 +0300" stop="20190810230000 +0300" channel="ONE Channel">
+    <title lang="el">THE WITNESS FOR THE PROSECUTION</title>
+    <desc lang="el">Σειρά εποχής βασισμένη στο ομώνυμο διήγημα της Αγκαθα Κρίστι του 1925. Μια ιστορία αγάπης και εγκλήματος με τους Toby Jones, Kim Katrall, Andrea Riseborough(n)</desc>
+    <category lang="el">&lt;div class="time"&gt;22:00</category>
+  </programme>
+  <programme start="20190810230000 +0300" stop="20190811000000 +0300" channel="ONE Channel">
+    <title lang="el">THE WITNESS FOR THE PROSECUTION</title>
+    <desc lang="el">Σειρά εποχής βασισμένη στο ομώνυμο διήγημα της Αγκαθα Κρίστι του 1925. Μια ιστορία αγάπης και εγκλήματος με τους Toby Jones, Kim Katrall, Andrea Riseborough(n)</desc>
     <category lang="el">&lt;div class="time"&gt;23:00</category>
   </programme>
 </tv>
