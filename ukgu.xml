@@ -147,6 +147,9 @@
   <channel id="Sky News">
     <display-name lang="en">Sky News</display-name>
   </channel>
+  <channel id="Challenge">
+    <display-name lang="en">Challenge</display-name>
+  </channel>
   <programme start="20190807060000 +0100" stop="20190807091500 +0100" channel="BBC1 HD">
     <title lang="en">Breakfast</title>
     <sub-title lang="en">07/08/2019</sub-title>
@@ -29779,6 +29782,775 @@
     <desc lang="en">A preview of the stories appearing in tomorrow's national newspapers(n)</desc>
     <star-rating>
       <value>6.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807060000 +0100" stop="20190807063000 +0100" channel="Challenge">
+    <title lang="en">Teleshopping</title>
+    <sub-title lang="en">Jml Chill Air Max</sub-title>
+    <desc lang="en">Teleshopping.(n)</desc>
+    <star-rating>
+      <value>2.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807063000 +0100" stop="20190807070000 +0100" channel="Challenge">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">A chance for viewers to purchase goods from the comfort of home(n)</desc>
+    <star-rating>
+      <value>2.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807070000 +0100" stop="20190807073000 +0100" channel="Challenge">
+    <title lang="en">Family Fortunes</title>
+    <desc lang="en">Another two families compete for spot prizes and a cash jackpot of £3,000. Hosted by Les Dennis(n)</desc>
+    <episode-num system="onscreen">S18 E7/28</episode-num>
+    <star-rating>
+      <value>4.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807073000 +0100" stop="20190807080000 +0100" channel="Challenge">
+    <title lang="en">Family Fortunes</title>
+    <desc lang="en">Another two families compete for spot prizes and a cash jackpot of £3,000. Hosted by Les Dennis(n)</desc>
+    <episode-num system="onscreen">S18 E8/28</episode-num>
+    <star-rating>
+      <value>4.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807080000 +0100" stop="20190807083000 +0100" channel="Challenge">
+    <title lang="en">Dale's Supermarket Sweep</title>
+    <desc lang="en">Members of the public go wild in the aisles in the high-speed trolley-dash quiz, competing for prizes including £5,000 in cash. Dale Winton hosts(n)</desc>
+    <episode-num system="onscreen">S8 E29/60</episode-num>
+    <star-rating>
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807083000 +0100" stop="20190807090000 +0100" channel="Challenge">
+    <title lang="en">Dale's Supermarket Sweep</title>
+    <desc lang="en">Members of the public go wild in the aisles in the high-speed trolley-dash quiz, competing for prizes including £5,000 in cash. Dale Winton hosts(n)</desc>
+    <episode-num system="onscreen">S8 E30/60</episode-num>
+    <star-rating>
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807090000 +0100" stop="20190807100000 +0100" channel="Challenge">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh presents as four contestants pit their wits against ruthless quiz genius the Chaser in the hope of winning a potential prize pot worth thousands of pounds. They work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught(n)</desc>
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807100000 +0100" stop="20190807103000 +0100" channel="Challenge">
+    <title lang="en">Bruce's Price Is Right</title>
+    <desc lang="en">Bruce Forsyth invites audience members to come on down and compete for prizes including cars, caravans and all-expenses-paid holidays in the sun(n)</desc>
+    <episode-num system="onscreen">S15 E2/17</episode-num>
+    <star-rating>
+      <value>3.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807103000 +0100" stop="20190807110000 +0100" channel="Challenge">
+    <title lang="en">Bruce's Price Is Right</title>
+    <desc lang="en">Bruce Forsyth invites audience members to come on down and compete for prizes including cars, caravans and all-expenses-paid holidays in the sun(n)</desc>
+    <episode-num system="onscreen">S15 E3/17</episode-num>
+    <star-rating>
+      <value>3.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807110000 +0100" stop="20190807113000 +0100" channel="Challenge">
+    <title lang="en">Stake Out</title>
+    <desc lang="en">Game show hosted by Anthony Davis in which contestants bankrupt other players in an attempt to win up to £25,000.(n)</desc>
+    <star-rating>
+      <value>6.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807113000 +0100" stop="20190807120000 +0100" channel="Challenge">
+    <title lang="en">Stake Out</title>
+    <desc lang="en">Game show hosted by Anthony Davis in which contestants bankrupt other players in an attempt to win up to £25,000.(n)</desc>
+    <star-rating>
+      <value>6.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807120000 +0100" stop="20190807123000 +0100" channel="Challenge">
+    <title lang="en">Wheel of Fortune</title>
+    <desc lang="en">Spin-the-wheel game show, presented by Bradley Walsh and Jenny Powell(n)</desc>
+    <star-rating>
+      <value>4.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807123000 +0100" stop="20190807130000 +0100" channel="Challenge">
+    <title lang="en">Wheel of Fortune</title>
+    <desc lang="en">Spin-the-wheel game show, presented by Bradley Walsh and Jenny Powell(n)</desc>
+    <star-rating>
+      <value>4.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807130000 +0100" stop="20190807133000 +0100" channel="Challenge">
+    <title lang="en">Catchphrase</title>
+    <desc lang="en">Game show in which contestants try to deduce everyday phrases and sayings from visual clues(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807133000 +0100" stop="20190807140000 +0100" channel="Challenge">
+    <title lang="en">Catchphrase</title>
+    <desc lang="en">Game show in which contestants try to deduce everyday phrases and sayings from visual clues(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807140000 +0100" stop="20190807143000 +0100" channel="Challenge">
+    <title lang="en">Family Fortunes</title>
+    <desc lang="en">Another two families compete for spot prizes and a cash jackpot of £3,000. Hosted by Les Dennis(n)</desc>
+    <episode-num system="onscreen">S18 E25/28</episode-num>
+    <star-rating>
+      <value>4.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807143000 +0100" stop="20190807150000 +0100" channel="Challenge">
+    <title lang="en">Family Fortunes</title>
+    <desc lang="en">Another two families compete for spot prizes and a cash jackpot of £3,000. Hosted by Les Dennis(n)</desc>
+    <episode-num system="onscreen">S18 E26/28</episode-num>
+    <star-rating>
+      <value>4.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807150000 +0100" stop="20190807160000 +0100" channel="Challenge">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh presents as four contestants pit their wits against ruthless quiz genius the Chaser in the hope of winning a potential prize pot worth thousands of pounds. They work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught(n)</desc>
+    <episode-num system="onscreen">S6 E52/155</episode-num>
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807160000 +0100" stop="20190807163000 +0100" channel="Challenge">
+    <title lang="en">Bullseye</title>
+    <desc lang="en">Quiz that tests contestants' skill at darts and their general knowledge(n)</desc>
+    <episode-num system="onscreen">S12 E7/26</episode-num>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807163000 +0100" stop="20190807170000 +0100" channel="Challenge">
+    <title lang="en">Bullseye</title>
+    <desc lang="en">Quiz that tests contestants' skill at darts and their general knowledge(n)</desc>
+    <episode-num system="onscreen">S12 E8/26</episode-num>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807170000 +0100" stop="20190807173000 +0100" channel="Challenge">
+    <title lang="en">Bullseye</title>
+    <desc lang="en">Quiz that tests contestants' skill at darts and their general knowledge(n)</desc>
+    <episode-num system="onscreen">S12 E9/26</episode-num>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807173000 +0100" stop="20190807180000 +0100" channel="Challenge">
+    <title lang="en">Bullseye</title>
+    <desc lang="en">Quiz that tests contestants' skill at darts and their general knowledge(n)</desc>
+    <episode-num system="onscreen">S12 E10/26</episode-num>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807180000 +0100" stop="20190807190000 +0100" channel="Challenge">
+    <title lang="en">Total Wipeout</title>
+    <desc lang="en">Adventure game show in which 20 men and women travel to Argentina to compete in physically demanding challenges on a purpose-built obstacle course. Richard Hammond presents from the safety of the studio, while Amanda Byram meets the contestants on the course itself(n)</desc>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807190000 +0100" stop="20190807200000 +0100" channel="Challenge">
+    <title lang="en">Pointless</title>
+    <desc lang="en">Quiz show in which pairs of contestants try to score the fewest points possible by giving the least obvious correct answers to questions posed to 100 people before the show. At the end of each round, the team with the most points is eliminated until the final two pairs battle for the chance to compete for a cash prize. Presented by Alexander Armstrong and Richard Osman(n)</desc>
+    <episode-num system="onscreen">S16 E28/55</episode-num>
+    <star-rating>
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807200000 +0100" stop="20190807210000 +0100" channel="Challenge">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh presents as four contestants pit their wits against ruthless quiz genius the Chaser in the hope of winning a potential prize pot worth thousands of pounds. They work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught(n)</desc>
+    <episode-num system="onscreen">S6 E30/155</episode-num>
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807210000 +0100" stop="20190807220000 +0100" channel="Challenge">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh presents as four contestants pit their wits against ruthless quiz genius the Chaser in the hope of winning a potential prize pot worth thousands of pounds. They work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught(n)</desc>
+    <episode-num system="onscreen">S3 E26/40</episode-num>
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807220000 +0100" stop="20190807230000 +0100" channel="Challenge">
+    <title lang="en">Who Wants to Be a Millionaire?</title>
+    <desc lang="en">A celebrity couple special episode of the of the award-winning quiz show presented by Chris Tarrant in which contestants can win up to one million pounds(n)</desc>
+    <star-rating>
+      <value>4.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807230000 +0100" stop="20190807233000 +0100" channel="Challenge">
+    <title lang="en">Bullseye</title>
+    <desc lang="en">Quiz that tests contestants' skill at darts and their general knowledge(n)</desc>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190807233000 +0100" stop="20190808000000 +0100" channel="Challenge">
+    <title lang="en">Bullseye</title>
+    <desc lang="en">Quiz that tests contestants' skill at darts and their general knowledge(n)</desc>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808000000 +0100" stop="20190808003000 +0100" channel="Challenge">
+    <title lang="en">Bullseye</title>
+    <desc lang="en">Quiz that tests contestants' skill at darts and their general knowledge(n)</desc>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808003000 +0100" stop="20190808010000 +0100" channel="Challenge">
+    <title lang="en">Bullseye</title>
+    <desc lang="en">Quiz that tests contestants' skill at darts and their general knowledge(n)</desc>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808010000 +0100" stop="20190808020000 +0100" channel="Challenge">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh presents as four contestants pit their wits against ruthless quiz genius the Chaser in the hope of winning a potential prize pot worth thousands of pounds. They work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught(n)</desc>
+    <episode-num system="onscreen">S6 E52/155</episode-num>
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808020000 +0100" stop="20190808030000 +0100" channel="Challenge">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh presents as four contestants pit their wits against ruthless quiz genius the Chaser in the hope of winning a potential prize pot worth thousands of pounds. They work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught(n)</desc>
+    <episode-num system="onscreen">S6 E27/155</episode-num>
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808030000 +0100" stop="20190808040000 +0100" channel="Challenge">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh presents as four contestants pit their wits against ruthless quiz genius the Chaser in the hope of winning a potential prize pot worth thousands of pounds. They work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught(n)</desc>
+    <episode-num system="onscreen">S3 E26/40</episode-num>
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808040000 +0100" stop="20190808050000 +0100" channel="Challenge">
+    <title lang="en">Pointless</title>
+    <desc lang="en">Quiz show in which pairs of contestants try to score the fewest points possible by giving the least obvious correct answers to questions posed to 100 people before the show. At the end of each round, the team with the most points is eliminated until the final two pairs battle for the chance to compete for a cash prize. Presented by Alexander Armstrong and Richard Osman(n)</desc>
+    <episode-num system="onscreen">S13 E3/51</episode-num>
+    <star-rating>
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808050000 +0100" stop="20190808060000 +0100" channel="Challenge">
+    <title lang="en">Golden Balls</title>
+    <desc lang="en">Jasper Carrott hosts the show in which four contestants enter a game of truth and bluff to find life-changing amounts of cash hidden inside a set of golden balls(n)</desc>
+    <episode-num system="onscreen">S3 E6/80</episode-num>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808060000 +0100" stop="20190808063000 +0100" channel="Challenge">
+    <title lang="en">Teleshopping</title>
+    <sub-title lang="en">Dormeo Memory: Rvt/Dmcm67/1800 Challenge Only</sub-title>
+    <desc lang="en">Teleshopping.(n)</desc>
+    <star-rating>
+      <value>2.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808063000 +0100" stop="20190808070000 +0100" channel="Challenge">
+    <title lang="en">Teleshopping</title>
+    <sub-title lang="en">Jml Chill Air Max</sub-title>
+    <desc lang="en">Teleshopping.(n)</desc>
+    <star-rating>
+      <value>2.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808070000 +0100" stop="20190808073000 +0100" channel="Challenge">
+    <title lang="en">Family Fortunes</title>
+    <desc lang="en">Another two families compete for spot prizes and a cash jackpot of £3,000. Hosted by Les Dennis(n)</desc>
+    <episode-num system="onscreen">S18 E9/28</episode-num>
+    <star-rating>
+      <value>4.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808073000 +0100" stop="20190808080000 +0100" channel="Challenge">
+    <title lang="en">Family Fortunes</title>
+    <desc lang="en">Another two families compete for spot prizes and a cash jackpot of £3,000. Hosted by Les Dennis(n)</desc>
+    <episode-num system="onscreen">S18 E10/28</episode-num>
+    <star-rating>
+      <value>4.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808080000 +0100" stop="20190808083000 +0100" channel="Challenge">
+    <title lang="en">Dale's Supermarket Sweep</title>
+    <desc lang="en">Members of the public go wild in the aisles in the high-speed trolley-dash quiz, competing for prizes including £5,000 in cash. Dale Winton hosts(n)</desc>
+    <episode-num system="onscreen">S8 E31/60</episode-num>
+    <star-rating>
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808083000 +0100" stop="20190808090000 +0100" channel="Challenge">
+    <title lang="en">Dale's Supermarket Sweep</title>
+    <desc lang="en">Members of the public go wild in the aisles in the high-speed trolley-dash quiz, competing for prizes including £5,000 in cash. Dale Winton hosts(n)</desc>
+    <episode-num system="onscreen">S8 E32/60</episode-num>
+    <star-rating>
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808090000 +0100" stop="20190808100000 +0100" channel="Challenge">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh presents as four contestants pit their wits against ruthless quiz genius the Chaser in the hope of winning a potential prize pot worth thousands of pounds. They work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught(n)</desc>
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808100000 +0100" stop="20190808103000 +0100" channel="Challenge">
+    <title lang="en">Bruce's Price Is Right</title>
+    <desc lang="en">Bruce Forsyth invites audience members to come on down and compete for prizes including cars, caravans and all-expenses-paid holidays in the sun(n)</desc>
+    <episode-num system="onscreen">S15 E4/17</episode-num>
+    <star-rating>
+      <value>3.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808103000 +0100" stop="20190808110000 +0100" channel="Challenge">
+    <title lang="en">Bruce's Price Is Right</title>
+    <desc lang="en">Bruce Forsyth invites audience members to come on down and compete for prizes including cars, caravans and all-expenses-paid holidays in the sun(n)</desc>
+    <episode-num system="onscreen">S15 E5/17</episode-num>
+    <star-rating>
+      <value>3.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808110000 +0100" stop="20190808113000 +0100" channel="Challenge">
+    <title lang="en">Stake Out</title>
+    <desc lang="en">Ruthless game show in which contestants bankrupt other players in an attempt to win up to £25,000, hosted by Anthony Davis(n)</desc>
+    <star-rating>
+      <value>6.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808113000 +0100" stop="20190808120000 +0100" channel="Challenge">
+    <title lang="en">Stake Out</title>
+    <desc lang="en">Ruthless game show in which contestants bankrupt other players in an attempt to win up to £25,000, hosted by Anthony Davis(n)</desc>
+    <star-rating>
+      <value>6.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808120000 +0100" stop="20190808123000 +0100" channel="Challenge">
+    <title lang="en">Wheel of Fortune</title>
+    <desc lang="en">Spin-the-wheel game show, presented by Bradley Walsh and Jenny Powell(n)</desc>
+    <star-rating>
+      <value>4.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808123000 +0100" stop="20190808130000 +0100" channel="Challenge">
+    <title lang="en">Wheel of Fortune</title>
+    <desc lang="en">Spin-the-wheel game show, presented by Bradley Walsh and Jenny Powell(n)</desc>
+    <star-rating>
+      <value>4.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808130000 +0100" stop="20190808133000 +0100" channel="Challenge">
+    <title lang="en">Catchphrase</title>
+    <desc lang="en">Game show in which contestants try to deduce everyday phrases and sayings from visual clues(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808133000 +0100" stop="20190808140000 +0100" channel="Challenge">
+    <title lang="en">Catchphrase</title>
+    <desc lang="en">Game show in which contestants try to deduce everyday phrases and sayings from visual clues(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808140000 +0100" stop="20190808143000 +0100" channel="Challenge">
+    <title lang="en">Family Fortunes</title>
+    <desc lang="en">Another two families compete for spot prizes and a cash jackpot of £3,000. Hosted by Les Dennis(n)</desc>
+    <episode-num system="onscreen">S21 E1/70</episode-num>
+    <star-rating>
+      <value>4.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808143000 +0100" stop="20190808150000 +0100" channel="Challenge">
+    <title lang="en">Family Fortunes</title>
+    <desc lang="en">Another two families compete for spot prizes and a cash jackpot of £3,000. Hosted by Les Dennis(n)</desc>
+    <episode-num system="onscreen">S21 E2/70</episode-num>
+    <star-rating>
+      <value>4.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808150000 +0100" stop="20190808160000 +0100" channel="Challenge">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh presents as four contestants pit their wits against ruthless quiz genius the Chaser in the hope of winning a potential prize pot worth thousands of pounds. They work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught(n)</desc>
+    <episode-num system="onscreen">S6 E53/155</episode-num>
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808160000 +0100" stop="20190808163000 +0100" channel="Challenge">
+    <title lang="en">Bullseye</title>
+    <desc lang="en">Quiz that tests contestants' skill at darts and their general knowledge(n)</desc>
+    <episode-num system="onscreen">S12 E11/26</episode-num>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808163000 +0100" stop="20190808170000 +0100" channel="Challenge">
+    <title lang="en">Bullseye</title>
+    <desc lang="en">Quiz that tests contestants' skill at darts and their general knowledge(n)</desc>
+    <episode-num system="onscreen">S12 E12/26</episode-num>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808170000 +0100" stop="20190808173000 +0100" channel="Challenge">
+    <title lang="en">Bullseye</title>
+    <desc lang="en">Quiz that tests contestants' skill at darts and their general knowledge(n)</desc>
+    <episode-num system="onscreen">S12 E13/26</episode-num>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808173000 +0100" stop="20190808180000 +0100" channel="Challenge">
+    <title lang="en">Bullseye</title>
+    <desc lang="en">Quiz that tests contestants' skill at darts and their general knowledge(n)</desc>
+    <episode-num system="onscreen">S12 E16/26</episode-num>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808180000 +0100" stop="20190808190000 +0100" channel="Challenge">
+    <title lang="en">Total Wipeout</title>
+    <desc lang="en">Adventure game show in which 20 men and women travel to Argentina to compete in physically demanding challenges on a purpose-built obstacle course. Richard Hammond presents from the safety of the studio, while Amanda Byram meets the contestants on the course itself(n)</desc>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808190000 +0100" stop="20190808200000 +0100" channel="Challenge">
+    <title lang="en">Pointless</title>
+    <desc lang="en">Quiz show in which pairs of contestants try to score the fewest points possible by giving the least obvious correct answers to questions posed to 100 people before the show. At the end of each round, the team with the most points is eliminated until the final two pairs battle for the chance to compete for a cash prize. Presented by Alexander Armstrong and Richard Osman(n)</desc>
+    <episode-num system="onscreen">S16 E29/55</episode-num>
+    <star-rating>
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808200000 +0100" stop="20190808210000 +0100" channel="Challenge">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh presents as four contestants pit their wits against ruthless quiz genius the Chaser in the hope of winning a potential prize pot worth thousands of pounds. They work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught(n)</desc>
+    <episode-num system="onscreen">S6 E31/155</episode-num>
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808210000 +0100" stop="20190808220000 +0100" channel="Challenge">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh presents as four contestants pit their wits against ruthless quiz genius the Chaser in the hope of winning a potential prize pot worth thousands of pounds. They work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught(n)</desc>
+    <episode-num system="onscreen">S3 E27/40</episode-num>
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808220000 +0100" stop="20190808230000 +0100" channel="Challenge">
+    <title lang="en">Who Wants to Be a Millionaire?</title>
+    <desc lang="en">A celebrity couple special episode of the of the award-winning quiz show presented by Chris Tarrant in which contestants can win up to one million pounds(n)</desc>
+    <star-rating>
+      <value>4.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808230000 +0100" stop="20190808233000 +0100" channel="Challenge">
+    <title lang="en">Bullseye</title>
+    <desc lang="en">Quiz that tests contestants' skill at darts and their general knowledge(n)</desc>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190808233000 +0100" stop="20190809000000 +0100" channel="Challenge">
+    <title lang="en">Bullseye</title>
+    <desc lang="en">Quiz that tests contestants' skill at darts and their general knowledge(n)</desc>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809000000 +0100" stop="20190809003000 +0100" channel="Challenge">
+    <title lang="en">Bullseye</title>
+    <desc lang="en">Quiz that tests contestants' skill at darts and their general knowledge(n)</desc>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809003000 +0100" stop="20190809010000 +0100" channel="Challenge">
+    <title lang="en">Bullseye</title>
+    <desc lang="en">Quiz that tests contestants' skill at darts and their general knowledge(n)</desc>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809010000 +0100" stop="20190809020000 +0100" channel="Challenge">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh presents as four contestants pit their wits against ruthless quiz genius the Chaser in the hope of winning a potential prize pot worth thousands of pounds. They work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught(n)</desc>
+    <episode-num system="onscreen">S6 E53/155</episode-num>
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809020000 +0100" stop="20190809030000 +0100" channel="Challenge">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh presents as four contestants pit their wits against ruthless quiz genius the Chaser in the hope of winning a potential prize pot worth thousands of pounds. They work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught(n)</desc>
+    <episode-num system="onscreen">S6 E28/155</episode-num>
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809030000 +0100" stop="20190809040000 +0100" channel="Challenge">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh presents as four contestants pit their wits against ruthless quiz genius the Chaser in the hope of winning a potential prize pot worth thousands of pounds. They work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught(n)</desc>
+    <episode-num system="onscreen">S3 E27/40</episode-num>
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809040000 +0100" stop="20190809050000 +0100" channel="Challenge">
+    <title lang="en">Pointless</title>
+    <desc lang="en">Quiz show in which pairs of contestants try to score the fewest points possible by giving the least obvious correct answers to questions posed to 100 people before the show. At the end of each round, the team with the most points is eliminated until the final two pairs battle for the chance to compete for a cash prize. Presented by Alexander Armstrong and Richard Osman(n)</desc>
+    <episode-num system="onscreen">S13 E4/51</episode-num>
+    <star-rating>
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809050000 +0100" stop="20190809060000 +0100" channel="Challenge">
+    <title lang="en">Golden Balls</title>
+    <desc lang="en">Jasper Carrott hosts the show in which four contestants enter a game of truth and bluff to find life-changing amounts of cash hidden inside a set of golden balls(n)</desc>
+    <episode-num system="onscreen">S3 E7/80</episode-num>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809060000 +0100" stop="20190809063000 +0100" channel="Challenge">
+    <title lang="en">Teleshopping</title>
+    <sub-title lang="en">Jml Chill Air Max</sub-title>
+    <desc lang="en">Teleshopping.(n)</desc>
+    <star-rating>
+      <value>2.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809063000 +0100" stop="20190809070000 +0100" channel="Challenge">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">A chance for viewers to purchase goods from the comfort of home(n)</desc>
+    <star-rating>
+      <value>2.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809070000 +0100" stop="20190809073000 +0100" channel="Challenge">
+    <title lang="en">Family Fortunes</title>
+    <desc lang="en">Another two families compete for spot prizes and a cash jackpot of £3,000. Hosted by Les Dennis(n)</desc>
+    <episode-num system="onscreen">S18 E11/28</episode-num>
+    <star-rating>
+      <value>4.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809073000 +0100" stop="20190809080000 +0100" channel="Challenge">
+    <title lang="en">Family Fortunes</title>
+    <desc lang="en">Another two families compete for spot prizes and a cash jackpot of £3,000. Hosted by Les Dennis(n)</desc>
+    <episode-num system="onscreen">S18 E12/28</episode-num>
+    <star-rating>
+      <value>4.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809080000 +0100" stop="20190809083000 +0100" channel="Challenge">
+    <title lang="en">Dale's Supermarket Sweep</title>
+    <desc lang="en">Members of the public go wild in the aisles in the high-speed trolley-dash quiz, competing for prizes including £5,000 in cash. Dale Winton hosts(n)</desc>
+    <episode-num system="onscreen">S8 E33/60</episode-num>
+    <star-rating>
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809083000 +0100" stop="20190809090000 +0100" channel="Challenge">
+    <title lang="en">Dale's Supermarket Sweep</title>
+    <desc lang="en">Members of the public go wild in the aisles in the high-speed trolley-dash quiz, competing for prizes including £5,000 in cash. Dale Winton hosts(n)</desc>
+    <episode-num system="onscreen">S8 E34/60</episode-num>
+    <star-rating>
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809090000 +0100" stop="20190809100000 +0100" channel="Challenge">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh presents as four contestants pit their wits against ruthless quiz genius the Chaser in the hope of winning a potential prize pot worth thousands of pounds. They work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught(n)</desc>
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809100000 +0100" stop="20190809103000 +0100" channel="Challenge">
+    <title lang="en">Bruce's Price Is Right</title>
+    <desc lang="en">Bruce Forsyth invites audience members to come on down and compete for prizes including cars, caravans and all-expenses-paid holidays in the sun(n)</desc>
+    <episode-num system="onscreen">S15 E6/17</episode-num>
+    <star-rating>
+      <value>3.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809103000 +0100" stop="20190809110000 +0100" channel="Challenge">
+    <title lang="en">Bruce's Price Is Right</title>
+    <desc lang="en">Bruce Forsyth invites audience members to come on down and compete for prizes including cars, caravans and all-expenses-paid holidays in the sun(n)</desc>
+    <episode-num system="onscreen">S15 E7/17</episode-num>
+    <star-rating>
+      <value>3.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809110000 +0100" stop="20190809113000 +0100" channel="Challenge">
+    <title lang="en">Stake Out</title>
+    <desc lang="en">Ruthless game show in which contestants bankrupt other players in an attempt to win up to £25,000, hosted by Anthony Davis(n)</desc>
+    <star-rating>
+      <value>6.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809113000 +0100" stop="20190809120000 +0100" channel="Challenge">
+    <title lang="en">Stake Out</title>
+    <desc lang="en">Ruthless game show in which contestants bankrupt other players in an attempt to win up to £25,000, hosted by Anthony Davis(n)</desc>
+    <star-rating>
+      <value>6.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809120000 +0100" stop="20190809123000 +0100" channel="Challenge">
+    <title lang="en">Wheel of Fortune</title>
+    <desc lang="en">Spin-the-wheel game show, presented by Bradley Walsh and Jenny Powell(n)</desc>
+    <star-rating>
+      <value>4.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809123000 +0100" stop="20190809130000 +0100" channel="Challenge">
+    <title lang="en">Wheel of Fortune</title>
+    <desc lang="en">Spin-the-wheel game show, presented by Bradley Walsh and Jenny Powell(n)</desc>
+    <star-rating>
+      <value>4.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809130000 +0100" stop="20190809133000 +0100" channel="Challenge">
+    <title lang="en">Catchphrase</title>
+    <desc lang="en">Game show in which contestants try to deduce everyday phrases and sayings from visual clues(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809133000 +0100" stop="20190809140000 +0100" channel="Challenge">
+    <title lang="en">Catchphrase</title>
+    <desc lang="en">Game show in which contestants try to deduce everyday phrases and sayings from visual clues(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809140000 +0100" stop="20190809143000 +0100" channel="Challenge">
+    <title lang="en">Family Fortunes</title>
+    <desc lang="en">Another two families compete for spot prizes and a cash jackpot of £3,000. Hosted by Les Dennis(n)</desc>
+    <episode-num system="onscreen">S21 E3/70</episode-num>
+    <star-rating>
+      <value>4.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809143000 +0100" stop="20190809150000 +0100" channel="Challenge">
+    <title lang="en">Family Fortunes</title>
+    <desc lang="en">Another two families compete for spot prizes and a cash jackpot of £3,000. Hosted by Les Dennis(n)</desc>
+    <episode-num system="onscreen">S21 E4/70</episode-num>
+    <star-rating>
+      <value>4.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809150000 +0100" stop="20190809160000 +0100" channel="Challenge">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh presents as four contestants pit their wits against ruthless quiz genius the Chaser in the hope of winning a potential prize pot worth thousands of pounds. They work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught(n)</desc>
+    <episode-num system="onscreen">S6 E54/155</episode-num>
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809160000 +0100" stop="20190809163000 +0100" channel="Challenge">
+    <title lang="en">Bullseye</title>
+    <desc lang="en">Quiz that tests contestants' skill at darts and their general knowledge(n)</desc>
+    <episode-num system="onscreen">S12 E17/26</episode-num>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809163000 +0100" stop="20190809170000 +0100" channel="Challenge">
+    <title lang="en">Bullseye</title>
+    <desc lang="en">Quiz that tests contestants' skill at darts and their general knowledge(n)</desc>
+    <episode-num system="onscreen">S12 E18/26</episode-num>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809170000 +0100" stop="20190809173000 +0100" channel="Challenge">
+    <title lang="en">Bullseye</title>
+    <desc lang="en">Quiz that tests contestants' skill at darts and their general knowledge(n)</desc>
+    <episode-num system="onscreen">S12 E19/26</episode-num>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809173000 +0100" stop="20190809180000 +0100" channel="Challenge">
+    <title lang="en">Bullseye</title>
+    <desc lang="en">Quiz that tests contestants' skill at darts and their general knowledge(n)</desc>
+    <episode-num system="onscreen">S12 E20/26</episode-num>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809180000 +0100" stop="20190809190000 +0100" channel="Challenge">
+    <title lang="en">Total Wipeout</title>
+    <desc lang="en">Adventure game show in which 20 men and women travel to Argentina to compete in physically demanding challenges on a purpose-built obstacle course. Richard Hammond presents from the safety of the studio, while Amanda Byram meets the contestants on the course itself(n)</desc>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809190000 +0100" stop="20190809200000 +0100" channel="Challenge">
+    <title lang="en">Pointless</title>
+    <desc lang="en">Quiz show in which pairs of contestants try to score the fewest points possible by giving the least obvious correct answers to questions posed to 100 people before the show. At the end of each round, the team with the most points is eliminated until the final two pairs battle for the chance to compete for a cash prize. Presented by Alexander Armstrong and Richard Osman(n)</desc>
+    <episode-num system="onscreen">S16 E30/55</episode-num>
+    <star-rating>
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809200000 +0100" stop="20190809210000 +0100" channel="Challenge">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh presents as four contestants pit their wits against ruthless quiz genius the Chaser in the hope of winning a potential prize pot worth thousands of pounds. They work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught(n)</desc>
+    <episode-num system="onscreen">S6 E32/155</episode-num>
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809210000 +0100" stop="20190809220000 +0100" channel="Challenge">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh presents as four contestants pit their wits against ruthless quiz genius the Chaser in the hope of winning a potential prize pot worth thousands of pounds. They must work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught(n)</desc>
+    <episode-num system="onscreen">S3 E28/40</episode-num>
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809220000 +0100" stop="20190809230000 +0100" channel="Challenge">
+    <title lang="en">Who Wants to Be a Millionaire?</title>
+    <desc lang="en">A celebrity couple special episode of the of the award-winning quiz show presented by Chris Tarrant in which contestants can win up to one million pounds(n)</desc>
+    <star-rating>
+      <value>4.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809230000 +0100" stop="20190809233000 +0100" channel="Challenge">
+    <title lang="en">Bullseye</title>
+    <desc lang="en">Quiz that tests contestants' skill at darts and their general knowledge(n)</desc>
+    <star-rating>
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190809233000 +0100" stop="20190810000000 +0100" channel="Challenge">
+    <title lang="en">Bullseye</title>
+    <desc lang="en">Quiz that tests contestants' skill at darts and their general knowledge(n)</desc>
+    <star-rating>
+      <value>5.6</value>
     </star-rating>
   </programme>
 </tv>
