@@ -180,6 +180,32 @@
   <channel id="smile">
     <display-name lang="el">Smile</display-name>
   </channel>
+    <channel id="ETV">
+    <display-name lang="el">ETV</display-name>
+  </channel>
+    <programme start="20190909080000 +0300" stop="20190909160000 +0300" channel="ETV">
+    <title lang="el">E TV</title>
+  </programme>
+  <programme start="20190909160000 +0300" stop="20190909000000 +0300" channel="ETV">
+    <title lang="el">E TV</title>
+  <programme start="20190910080000 +0300" stop="20190910160000 +0300" channel="ETV">
+    <title lang="el">E TV</title>
+  </programme>
+  <programme start="20190910160000 +0300" stop="20190910000000 +0300" channel="ETV">
+    <title lang="el">E TV</title>
+  </programme>
+    <programme start="20190911080000 +0300" stop="20190911160000 +0300" channel="ETV">
+    <title lang="el">E TV</title>
+  </programme>
+  <programme start="20190911160000 +0300" stop="20190911000000 +0300" channel="ETV">
+    <title lang="el">E TV</title>
+  </programme>
+    <programme start="20190912080000 +0300" stop="20190912160000 +0300" channel="ETV">
+    <title lang="el">E TV</title>
+  </programme>
+  <programme start="20190912160000 +0300" stop="20190912000000 +0300" channel="ETV">
+    <title lang="el">E TV</title>
+  </programme>
   <programme start="20190909020000 +0300" stop="20190909053000 +0300" channel="EPSILON">
     <title lang="el">Fair Hair</title>
   </programme>
