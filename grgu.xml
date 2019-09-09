@@ -188,6 +188,7 @@
   </programme>
   <programme start="20190909160000 +0300" stop="20190909000000 +0300" channel="ETV">
     <title lang="el">E TV</title>
+	  </programme>
   <programme start="20190910080000 +0300" stop="20190910160000 +0300" channel="ETV">
     <title lang="el">E TV</title>
   </programme>
