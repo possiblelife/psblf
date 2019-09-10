@@ -42,6 +42,150 @@
   <channel id="smile">
     <display-name lang="el">Smile</display-name>
   </channel>
+    <channel id="ALPHA">
+    <display-name lang="el">ALPHA</display-name>
+  </channel>
+  <channel id="STAR">
+    <display-name lang="el">STAR</display-name>
+  </channel>
+  <channel id="ALFA">
+    <display-name lang="el">ALFA</display-name>
+  </channel>
+  <channel id="DELTA TV">
+    <display-name lang="el">DELTA TV</display-name>
+  </channel>
+  <channel id="DIKTYO TV">
+    <display-name lang="el">DIKTYO TV</display-name>
+  </channel>
+  <channel id="ENA CHANNEL">
+    <display-name lang="el">ENA CHANNEL</display-name>
+  </channel>
+  <channel id="TV RODOPI">
+    <display-name lang="el">TV RODOPI</display-name>
+  </channel>
+  <channel id="STAR B. ELLADOS">
+    <display-name lang="el">STAR B. ELLADOS</display-name>
+  </channel>
+  <channel id="THRAKINET">
+    <display-name lang="el">THRAKINET</display-name>
+  </channel>
+  <channel id="TILE EPILOGES">
+    <display-name lang="el">TILE EPILOGES</display-name>
+  </channel>
+  <channel id="4Ε">
+    <display-name lang="el">4Ε</display-name>
+  </channel>
+  <channel id="BERGINA">
+    <display-name lang="el">BERGINA</display-name>
+  </channel>
+  <channel id="DION TV">
+    <display-name lang="el">DION TV</display-name>
+  </channel>
+  <channel id="TV 100">
+    <display-name lang="el">TV 100</display-name>
+  </channel>
+  <channel id="TOP CHANNEL">
+    <display-name lang="el">TOP CHANNEL</display-name>
+  </channel>
+  <channel id="ART TV">
+    <display-name lang="el">ART TV</display-name>
+  </channel>
+  <channel id="AXELWOS TV">
+    <display-name lang="el">AXELWOS TV</display-name>
+  </channel>
+  <channel id="CORFU TV">
+    <display-name lang="el">CORFU TV</display-name>
+  </channel>
+  <channel id="EPIRUS TV1">
+    <display-name lang="el">EPIRUS TV1</display-name>
+  </channel>
+  <channel id="START TV">
+    <display-name lang="el">START TV</display-name>
+  </channel>
+  <channel id="BEST TV">
+    <display-name lang="el">BEST TV</display-name>
+  </channel>
+  <channel id="HLEKTRA TV">
+    <display-name lang="el">HLEKTRA TV</display-name>
+  </channel>
+  <channel id="IONIAN CHANNEL">
+    <display-name lang="el">IONIAN CHANNEL</display-name>
+  </channel>
+  <channel id="LYCHNOS">
+    <display-name lang="el">LYCHNOS</display-name>
+  </channel>
+  <channel id="MESOGEIOS TV">
+    <display-name lang="el">MESOGEIOS TV</display-name>
+  </channel>
+  <channel id="PLP">
+    <display-name lang="el">PLP</display-name>
+  </channel>
+  <channel id="SUPER B">
+    <display-name lang="el">SUPER B</display-name>
+  </channel>
+  <channel id="ASTRA TV">
+    <display-name lang="el">ASTRA TV</display-name>
+  </channel>
+  <channel id="TRT">
+    <display-name lang="el">TRT</display-name>
+  </channel>
+  <channel id="ETV">
+    <display-name lang="el">ETV</display-name>
+  </channel>
+  <channel id="STAR K.E.">
+    <display-name lang="el">STAR K.E.</display-name>
+  </channel>
+  <channel id="ART">
+    <display-name lang="el">ART</display-name>
+  </channel>
+  <channel id="EXTRA CHANNEL">
+    <display-name lang="el">EXTRA CHANNEL</display-name>
+  </channel>
+  <channel id="ATTICA TV">
+    <display-name lang="el">ATTICA TV</display-name>
+  </channel>
+  <channel id="BLUE SKY">
+    <display-name lang="el">BLUE SKY</display-name>
+  </channel>
+  <channel id="CHANNEL 9">
+    <display-name lang="el">CHANNEL 9</display-name>
+  </channel>
+  <channel id="HIGH TV">
+    <display-name lang="el">HIGH TV</display-name>
+  </channel>
+  <channel id="RISE TV">
+    <display-name lang="el">RISE TV</display-name>
+  </channel>
+  <channel id="ALERT">
+    <display-name lang="el">ALERT</display-name>
+  </channel>
+  <channel id="CRETA">
+    <display-name lang="el">CRETA</display-name>
+  </channel>
+  <channel id="KPHTH TV">
+    <display-name lang="el">KPHTH TV</display-name>
+  </channel>
+  <channel id="NEA TV CRETE">
+    <display-name lang="el">NEA TV CRETE</display-name>
+  </channel>
+  <channel id="AE TV">
+    <display-name lang="el">AE TV</display-name>
+  </channel>
+  <channel id="AIGAIOTV">
+    <display-name lang="el">AIGAIOTV</display-name>
+  </channel>
+  <channel id="IRIDA TV">
+    <display-name lang="el">IRIDA TV</display-name>
+  </channel>
+  <channel id="SAMIAKI TV">
+    <display-name lang="el">SAMIAKI TV</display-name>
+  </channel>
+  <channel id="KOSMOS">
+    <display-name lang="el">KOSMOS</display-name>
+  </channel>
+  <channel id="SYROS TV1 ">
+    <display-name lang="el">SYROS TV1 </display-name>
+  </channel>
     <programme start="20190910060000 +0300" stop="20190910063000 +0300" channel="ALPHA">
     <title lang="el">Θυρίδα Τηλεπώλησης</title>
   </programme>
