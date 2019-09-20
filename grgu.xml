@@ -6576,4 +6576,73 @@
   <programme start="20190921031500 +0300" stop="20190921053000 +0300" channel="SYROS TV1 ">
     <title lang="el">Ζώνη Ξένων Ταινιών</title>
   </programme>
+  <programme start="20190921060000 +0300" stop="20190921063000 +0300" channel="ALPHA">
+    <title lang="el">Θυρίδα Τηλεπώλησης</title>
+  </programme>
+  <programme start="20190921063000 +0300" stop="20190921070000 +0300" channel="ALPHA">
+    <title lang="el">Μου Το Κρατάς Μανιάτικο (Ε)</title>
+  </programme>
+  <programme start="20190921070000 +0300" stop="20190921080000 +0300" channel="ALPHA">
+    <title lang="el">Πήρα Κόκκινα Γυαλιά (Ε)</title>
+  </programme>
+  <programme start="20190921080000 +0300" stop="20190921090000 +0300" channel="ALPHA">
+    <title lang="el">Total Dreamer</title>
+  </programme>
+  <programme start="20190921090000 +0300" stop="20190921100000 +0300" channel="ALPHA">
+    <title lang="el">Νόστιμη Γη (Ε)</title>
+  </programme>
+  <programme start="20190921100000 +0300" stop="20190921130000 +0300" channel="ALPHA">
+    <title lang="el">Σαββατοκύριακο Με Τον Μάνεση, ΙΙΙ</title>
+  </programme>
+  <programme start="20190921130000 +0300" stop="20190921135000 +0300" channel="ALPHA">
+    <title lang="el">Ειδήσεις</title>
+  </programme>
+  <programme start="20190921135000 +0300" stop="20190921165000 +0300" channel="ALPHA">
+    <title lang="el">Καλύτερα Δε Γίνεται, II</title>
+  </programme>
+  <programme start="20190921165000 +0300" stop="20190921175000 +0300" channel="ALPHA">
+    <title lang="el">Kitchen Lab (Ε)</title>
+  </programme>
+  <programme start="20190921175000 +0300" stop="20190921180000 +0300" channel="ALPHA">
+    <title lang="el">Δελτίο Ειδήσεων Στη Νοηματική Γλώσσα</title>
+  </programme>
+  <programme start="20190921180000 +0300" stop="20190921190000 +0300" channel="ALPHA">
+    <title lang="el">Οικογενειακές Ιστορίες (Ε)</title>
+  </programme>
+  <programme start="20190921190000 +0300" stop="20190921200000 +0300" channel="ALPHA">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων </title>
+  </programme>
+  <programme start="20190921200000 +0300" stop="20190921210000 +0300" channel="ALPHA">
+    <title lang="el">Το Σόι Σου, ΙΙ (Ε)</title>
+  </programme>
+  <programme start="20190921210000 +0300" stop="20190921225000 +0300" channel="ALPHA">
+    <title lang="el">Ο Ξυπόλητος Πρίγκηπψ</title>
+  </programme>
+  <programme start="20190921225000 +0300" stop="20190921230000 +0300" channel="ALPHA">
+    <title lang="el">Έρωτας Μετά (Ε)</title>
+  </programme>
+  <programme start="20190921230000 +0300" stop="20190922003000 +0300" channel="ALPHA">
+    <title lang="el">Πώς Να Γίνεις Λατίνος Εραστής (How To Be A Latin Lover)</title>
+  </programme>
+  <programme start="20190922003000 +0300" stop="20190922012000 +0300" channel="ALPHA">
+    <title lang="el">Πυροσβεστικός Σταθμός 49 (Ladder 49)</title>
+  </programme>
+  <programme start="20190922012000 +0300" stop="20190922024500 +0300" channel="ALPHA">
+    <title lang="el">Πυροσβεστικός Σταθμός 49 (Ladder 49)</title>
+  </programme>
+  <programme start="20190922024500 +0300" stop="20190922033000 +0300" channel="ALPHA">
+    <title lang="el">World Party, I (Ε)</title>
+  </programme>
+  <programme start="20190922033000 +0300" stop="20190922034500 +0300" channel="ALPHA">
+    <title lang="el">World Party (Ε)</title>
+  </programme>
+  <programme start="20190922034500 +0300" stop="20190922043000 +0300" channel="ALPHA">
+    <title lang="el">Φύγε Εσύ, Έλα Εσύ, I (Ε)</title>
+  </programme>
+  <programme start="20190922043000 +0300" stop="20190922044000 +0300" channel="ALPHA">
+    <title lang="el">Φύγε Εσύ, Έλα Εσύ (Ε)</title>
+  </programme>
+  <programme start="20190922044000 +0300" stop="20190922053000 +0300" channel="ALPHA">
+    <title lang="el">Θυρίδα Τηλεπώλησης</title>
+  </programme>
 </tv>
