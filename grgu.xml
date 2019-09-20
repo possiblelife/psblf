@@ -189,6 +189,99 @@
   <channel id="SYROS TV1 ">
     <display-name lang="el">SYROS TV1 </display-name>
   </channel>
+   <programme start="20190920060000 +0300" stop="20190920063000 +0300" channel="ALPHA">
+    <title lang="el">Θυρίδα Τηλεπώλησης</title>
+  </programme>
+  <programme start="20190920063000 +0300" stop="20190920073000 +0300" channel="ALPHA">
+    <title lang="el">Σοφία Η Πριγκίπισσα (Sofia The First)</title>
+  </programme>
+  <programme start="20190920073000 +0300" stop="20190920080000 +0300" channel="ALPHA">
+    <title lang="el">Η Μικρή Γιατρός: Νοσοκομείο Παιχνιδιών (Doc McStuffins: Toy Hospital)</title>
+  </programme>
+  <programme start="20190920080000 +0300" stop="20190920103000 +0300" channel="ALPHA">
+    <title lang="el">Happy Day Στον Alpha</title>
+  </programme>
+  <programme start="20190920103000 +0300" stop="20190920121500 +0300" channel="ALPHA">
+    <title lang="el">Εκτός Γραμμής Στον Alpha</title>
+  </programme>
+  <programme start="20190920121500 +0300" stop="20190920130000 +0300" channel="ALPHA">
+    <title lang="el">Ειδήσεις</title>
+  </programme>
+  <programme start="20190920130000 +0300" stop="20190920150000 +0300" channel="ALPHA">
+    <title lang="el">Ψηλός, Λιγνός Και Ψεύταρος</title>
+  </programme>
+  <programme start="20190920150000 +0300" stop="20190920154000 +0300" channel="ALPHA">
+    <title lang="el">Μην Αρχίζεις Τη Μουρμούρα, II (Ε)</title>
+  </programme>
+  <programme start="20190920154000 +0300" stop="20190920163000 +0300" channel="ALPHA">
+    <title lang="el">Μην Αρχίζεις Τη Μουρμούρα, II (Ε)</title>
+  </programme>
+  <programme start="20190920163000 +0300" stop="20190920174000 +0300" channel="ALPHA">
+    <title lang="el">Αστέρια Στην Άμμο</title>
+  </programme>
+  <programme start="20190920174000 +0300" stop="20190920175000 +0300" channel="ALPHA">
+    <title lang="el">Δελτίο Ειδήσεων Στη Νοηματική Γλώσσα</title>
+  </programme>
+  <programme start="20190920175000 +0300" stop="20190920190000 +0300" channel="ALPHA">
+    <title lang="el">Πάνω Κάτω</title>
+  </programme>
+  <programme start="20190920190000 +0300" stop="20190920200000 +0300" channel="ALPHA">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων </title>
+  </programme>
+  <programme start="20190920200000 +0300" stop="20190920210000 +0300" channel="ALPHA">
+    <title lang="el">Έλα Στη Θέση Μου ΙV</title>
+  </programme>
+  <programme start="20190920210000 +0300" stop="20190920215000 +0300" channel="ALPHA">
+    <title lang="el">Μην Αρχίζεις Τη Μουρμούρα, VI (Ε)</title>
+  </programme>
+  <programme start="20190920215000 +0300" stop="20190920223000 +0300" channel="ALPHA">
+    <title lang="el">Το Σόι Σου, IΙ (Ε)</title>
+  </programme>
+  <programme start="20190920223000 +0300" stop="20190920225000 +0300" channel="ALPHA">
+    <title lang="el">Μην Αρχίζεις Τη Μουρμούρα, VI (Ε)</title>
+  </programme>
+  <programme start="20190920225000 +0300" stop="20190920233000 +0300" channel="ALPHA">
+    <title lang="el">Έρωτας Μετά (Ε)</title>
+  </programme>
+  <programme start="20190920233000 +0300" stop="20190920234000 +0300" channel="ALPHA">
+    <title lang="el">Grey's Anatomy, XIΙ</title>
+  </programme>
+  <programme start="20190920234000 +0300" stop="20190921003000 +0300" channel="ALPHA">
+    <title lang="el">Grey's Anatomy, XIΙ</title>
+  </programme>
+  <programme start="20190921003000 +0300" stop="20190921012000 +0300" channel="ALPHA">
+    <title lang="el">Grey's Anatomy, XIΙ</title>
+  </programme>
+  <programme start="20190921012000 +0300" stop="20190921013000 +0300" channel="ALPHA">
+    <title lang="el">Μετά Τα Μεσάνυχτα (Ε)</title>
+  </programme>
+  <programme start="20190921013000 +0300" stop="20190921023000 +0300" channel="ALPHA">
+    <title lang="el">Αστέρια Στην Άμμο (Ε)</title>
+  </programme>
+  <programme start="20190921023000 +0300" stop="20190921024000 +0300" channel="ALPHA">
+    <title lang="el">Μετά Τα Μεσάνυχτα (Ε)</title>
+  </programme>
+  <programme start="20190921024000 +0300" stop="20190921025000 +0300" channel="ALPHA">
+    <title lang="el">Πάνω Κάτω (Ε)</title>
+  </programme>
+  <programme start="20190921025000 +0300" stop="20190921030000 +0300" channel="ALPHA">
+    <title lang="el">Υπέροχα Πλάσματα (Ε)</title>
+  </programme>
+  <programme start="20190921030000 +0300" stop="20190921034000 +0300" channel="ALPHA">
+    <title lang="el">Υπέροχα Πλάσματα (Ε)</title>
+  </programme>
+  <programme start="20190921034000 +0300" stop="20190921035000 +0300" channel="ALPHA">
+    <title lang="el">Υπέροχα Πλάσματα (Ε)</title>
+  </programme>
+  <programme start="20190921035000 +0300" stop="20190921043000 +0300" channel="ALPHA">
+    <title lang="el">Υπέροχα Πλάσματα (Ε)</title>
+  </programme>
+  <programme start="20190921043000 +0300" stop="20190921044000 +0300" channel="ALPHA">
+    <title lang="el">Πάνω Κάτω (Ε)</title>
+  </programme>
+  <programme start="20190921044000 +0300" stop="20190921053000 +0300" channel="ALPHA">
+    <title lang="el">Θυρίδα Τηλεπώλησης</title>
+  </programme>
   <programme start="20190920000000 +0300" stop="20190920003000 +0300" channel="vouli">
     <title lang="el">ΙΣΤΟΡΙΕΣ ΚΑΘΗΜΕΡΙΝΩΝ ΑΝΘΡΩΠΩΝ</title>
     <desc lang="el">Σειρά ντοκιμαντέρ με θέμα τα σημερινά κοινωνικά προβλήματα(n)</desc>
