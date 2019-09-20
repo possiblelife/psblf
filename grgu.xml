@@ -10444,7 +10444,7 @@
     <title lang="el">Παιδικό Πρόγραμμα</title>
   </programme>
   <programme start="20190922123000 +0300" stop="20190922143000 +0300" channel="STAR K.E.">
-    <title lang="el">Ταξίδι Στην Παράδοση Από Τον Πολιτιστικό Αθλητικό Σύλλογο Λαμίας &lt;&lt;Χοροστάτες&gt;&gt;</title>
+    <title lang="el">Ταξίδι Στην Παράδοση Από Τον Πολιτιστικό Αθλητικό Σύλλογο Λαμίας</title>
   </programme>
   <programme start="20190922143000 +0300" stop="20190922150000 +0300" channel="STAR K.E.">
     <title lang="el">Μεσημβρινό Δελτίο Ειδήσεων</title>
@@ -13363,6 +13363,6 @@
     <title lang="el">ΤαΓεγονότα Της Εβδομάδας</title>
   </programme>
   <programme start="20190924050000 +0300" stop="20190924053000 +0300" channel="KOSMOS">
-    <title lang="el">Κοσμοδιαδρομές</title>
+    <title lang="el">Κοσμοδιαδρομές.</title>
   </programme>
 </tv>
