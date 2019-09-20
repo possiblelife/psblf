@@ -7485,4 +7485,598 @@
   <programme start="20190922000000 +0300" stop="20190922053000 +0300" channel="AXELWOS TV">
     <title lang="el">Axelwos TV</title>
   </programme>
+    <programme start="20190921063000 +0300" stop="20190921073000 +0300" channel="CORFU TV">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων (Ε)</title>
+  </programme>
+  <programme start="20190921073000 +0300" stop="20190921083000 +0300" channel="CORFU TV">
+    <title lang="el">Λόγος Αντίλογος (Ε)</title>
+  </programme>
+  <programme start="20190921083000 +0300" stop="20190921103000 +0300" channel="CORFU TV">
+    <title lang="el">Παιδικό Πρόγραμμα</title>
+  </programme>
+  <programme start="20190921103000 +0300" stop="20190921120000 +0300" channel="CORFU TV">
+    <title lang="el">Telemarketing</title>
+  </programme>
+  <programme start="20190921120000 +0300" stop="20190921130000 +0300" channel="CORFU TV">
+    <title lang="el">Travel Guide</title>
+  </programme>
+  <programme start="20190921130000 +0300" stop="20190921140000 +0300" channel="CORFU TV">
+    <title lang="el">Travel Guide</title>
+  </programme>
+  <programme start="20190921140000 +0300" stop="20190921150000 +0300" channel="CORFU TV">
+    <title lang="el">Λόγος Αντίλογος (Ε)</title>
+  </programme>
+  <programme start="20190921150000 +0300" stop="20190921160000 +0300" channel="CORFU TV">
+    <title lang="el">Άνθρωποι</title>
+  </programme>
+  <programme start="20190921160000 +0300" stop="20190921180000 +0300" channel="CORFU TV">
+    <title lang="el">Μονοπάτια Πολιτισμού</title>
+  </programme>
+  <programme start="20190921180000 +0300" stop="20190921190000 +0300" channel="CORFU TV">
+    <title lang="el">Μίνι Σειρές</title>
+  </programme>
+  <programme start="20190921190000 +0300" stop="20190921193000 +0300" channel="CORFU TV">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+  </programme>
+  <programme start="20190921193000 +0300" stop="20190921210000 +0300" channel="CORFU TV">
+    <title lang="el">Μονοπάτια Πολιτισμού</title>
+  </programme>
+  <programme start="20190921210000 +0300" stop="20190921220000 +0300" channel="CORFU TV">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων </title>
+  </programme>
+  <programme start="20190921220000 +0300" stop="20190921230000 +0300" channel="CORFU TV">
+    <title lang="el">Λόγος Αντίλογος </title>
+  </programme>
+  <programme start="20190921230000 +0300" stop="20190921230500 +0300" channel="CORFU TV">
+    <title lang="el">Καιρός</title>
+  </programme>
+  <programme start="20190921230500 +0300" stop="20190922010000 +0300" channel="CORFU TV">
+    <title lang="el">Μονοπάτια Πολιτισμού</title>
+  </programme>
+  <programme start="20190922010000 +0300" stop="20190922020000 +0300" channel="CORFU TV">
+    <title lang="el">Λόγος Αντίλογος (Ε)</title>
+  </programme>
+  <programme start="20190922020000 +0300" stop="20190922033000 +0300" channel="CORFU TV">
+    <title lang="el">Ξένη Ταινία</title>
+  </programme>
+  <programme start="20190922033000 +0300" stop="20190922050000 +0300" channel="CORFU TV">
+    <title lang="el">Ξένη Ταινία</title>
+  </programme>
+  <programme start="20190922050000 +0300" stop="20190922053000 +0300" channel="CORFU TV">
+    <title lang="el">Ντοκιμαντέρ</title>
+  </programme>
+  <programme start="20190921070000 +0300" stop="20190921083000 +0300" channel="EPIRUS TV1">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+  </programme>
+  <programme start="20190921083000 +0300" stop="20190921093000 +0300" channel="EPIRUS TV1">
+    <title lang="el">Τηλεαγορές</title>
+  </programme>
+  <programme start="20190921093000 +0300" stop="20190921103000 +0300" channel="EPIRUS TV1">
+    <title lang="el">Travel Guide</title>
+  </programme>
+  <programme start="20190921103000 +0300" stop="20190921113000 +0300" channel="EPIRUS TV1">
+    <title lang="el">Ταξιδεύοντας Στην Ελλάδα</title>
+  </programme>
+  <programme start="20190921113000 +0300" stop="20190921140000 +0300" channel="EPIRUS TV1">
+    <title lang="el">Στο Πανηγύρι Του Χωριού</title>
+  </programme>
+  <programme start="20190921140000 +0300" stop="20190921160000 +0300" channel="EPIRUS TV1">
+    <title lang="el">Χοροί Της Ηπείρου</title>
+  </programme>
+  <programme start="20190921160000 +0300" stop="20190921170000 +0300" channel="EPIRUS TV1">
+    <title lang="el">Τηλεαγορές</title>
+  </programme>
+  <programme start="20190921170000 +0300" stop="20190921180000 +0300" channel="EPIRUS TV1">
+    <title lang="el">Απογευματινό Δελτίο Ειδήσεων</title>
+  </programme>
+  <programme start="20190921180000 +0300" stop="20190921190000 +0300" channel="EPIRUS TV1">
+    <title lang="el">Think</title>
+  </programme>
+  <programme start="20190921190000 +0300" stop="20190921194500 +0300" channel="EPIRUS TV1">
+    <title lang="el">Ειδήσεις Των Επτά</title>
+  </programme>
+  <programme start="20190921194500 +0300" stop="20190921203000 +0300" channel="EPIRUS TV1">
+    <title lang="el">Στο Πανηγύρι Του Χωριού</title>
+  </programme>
+  <programme start="20190921203000 +0300" stop="20190921213000 +0300" channel="EPIRUS TV1">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+  </programme>
+  <programme start="20190921213000 +0300" stop="20190921230000 +0300" channel="EPIRUS TV1">
+    <title lang="el">Παρέα Με Την Αθηνά</title>
+  </programme>
+  <programme start="20190921230000 +0300" stop="20190922000000 +0300" channel="EPIRUS TV1">
+    <title lang="el">Ταξιδεύοντας Στην Ελλάδα</title>
+  </programme>
+  <programme start="20190922000000 +0300" stop="20190922010000 +0300" channel="EPIRUS TV1">
+    <title lang="el">Βραδινό Δελτίο Ειδήσεων</title>
+  </programme>
+  <programme start="20190922010000 +0300" stop="20190922023000 +0300" channel="EPIRUS TV1">
+    <title lang="el">Παρέα Με Την Αθηνά (Ε)</title>
+  </programme>
+  <programme start="20190922023000 +0300" stop="20190922053000 +0300" channel="EPIRUS TV1">
+    <title lang="el">Ταξιδεύοντας Στην Ελλάδα</title>
+  </programme>
+  <programme start="20190921063000 +0300" stop="20190921080000 +0300" channel="START TV">
+    <title lang="el">Υπάρχει Θέμα</title>
+  </programme>
+  <programme start="20190921080000 +0300" stop="20190921090000 +0300" channel="START TV">
+    <title lang="el">Εκπομπή Τηλεπώλησης</title>
+  </programme>
+  <programme start="20190921090000 +0300" stop="20190921100000 +0300" channel="START TV">
+    <title lang="el">Εκπομπή Τηλεπώλησης</title>
+  </programme>
+  <programme start="20190921100000 +0300" stop="20190921110000 +0300" channel="START TV">
+    <title lang="el">Παιδικό Πρόγραμμα</title>
+  </programme>
+  <programme start="20190921110000 +0300" stop="20190921120000 +0300" channel="START TV">
+    <title lang="el">Εκπομπή Τηλεπώλησης</title>
+  </programme>
+  <programme start="20190921120000 +0300" stop="20190921130000 +0300" channel="START TV">
+    <title lang="el">Εκπομπή Τηλεπώλησης</title>
+  </programme>
+  <programme start="20190921130000 +0300" stop="20190921140000 +0300" channel="START TV">
+    <title lang="el">Ντοκιμαντέρ</title>
+  </programme>
+  <programme start="20190921140000 +0300" stop="20190921150000 +0300" channel="START TV">
+    <title lang="el">Πρώτο Βήμα</title>
+  </programme>
+  <programme start="20190921150000 +0300" stop="20190921160000 +0300" channel="START TV">
+    <title lang="el">Πρώτο Βήμα</title>
+  </programme>
+  <programme start="20190921160000 +0300" stop="20190921170000 +0300" channel="START TV">
+    <title lang="el">Εκπομπή Τηλεπώλησης</title>
+  </programme>
+  <programme start="20190921170000 +0300" stop="20190921180000 +0300" channel="START TV">
+    <title lang="el">Εκπομπή Τηλεπώλησης</title>
+  </programme>
+  <programme start="20190921180000 +0300" stop="20190921190000 +0300" channel="START TV">
+    <title lang="el">Η Ζωή Θέλει Ταλέντο (Ε)</title>
+  </programme>
+  <programme start="20190921190000 +0300" stop="20190921200000 +0300" channel="START TV">
+    <title lang="el">Ντοκιμαντέρ</title>
+  </programme>
+  <programme start="20190921200000 +0300" stop="20190921213000 +0300" channel="START TV">
+    <title lang="el">Δελτίο Ειδήσεων </title>
+  </programme>
+  <programme start="20190921213000 +0300" stop="20190921230000 +0300" channel="START TV">
+    <title lang="el">Υπάρχει Θέμα</title>
+  </programme>
+  <programme start="20190921230000 +0300" stop="20190922000000 +0300" channel="START TV">
+    <title lang="el">Περιγράμματα</title>
+  </programme>
+  <programme start="20190922000000 +0300" stop="20190922013000 +0300" channel="START TV">
+    <title lang="el">Δελτίο Ειδήσεων (Ε)</title>
+  </programme>
+  <programme start="20190922013000 +0300" stop="20190922023000 +0300" channel="START TV">
+    <title lang="el">Ταινία</title>
+  </programme>
+  <programme start="20190922023000 +0300" stop="20190922033000 +0300" channel="START TV">
+    <title lang="el">Ταινία</title>
+  </programme>
+  <programme start="20190922033000 +0300" stop="20190922043000 +0300" channel="START TV">
+    <title lang="el">Ταινία</title>
+  </programme>
+  <programme start="20190922043000 +0300" stop="20190922053000 +0300" channel="START TV">
+    <title lang="el">Πρώτο Βήμα (E)</title>
+  </programme>
+  <programme start="20190921060000 +0300" stop="20190921070000 +0300" channel="BEST TV">
+    <title lang="el">Δελτίο Ειδήσεων (Ε)</title>
+  </programme>
+  <programme start="20190921070000 +0300" stop="20190921080000 +0300" channel="BEST TV">
+    <title lang="el">Best News Αχαΐα (Ε)</title>
+  </programme>
+  <programme start="20190921080000 +0300" stop="20190921083000 +0300" channel="BEST TV">
+    <title lang="el">Best News Αργολίδα (Ε)</title>
+  </programme>
+  <programme start="20190921083000 +0300" stop="20190921090000 +0300" channel="BEST TV">
+    <title lang="el">Best News Λακωνία (E)</title>
+  </programme>
+  <programme start="20190921090000 +0300" stop="20190921110000 +0300" channel="BEST TV">
+    <title lang="el">Παιδικό Πρόγραμμα</title>
+  </programme>
+  <programme start="20190921110000 +0300" stop="20190921150000 +0300" channel="BEST TV">
+    <title lang="el">Τηλεμάρκετινγκ</title>
+  </programme>
+  <programme start="20190921150000 +0300" stop="20190921154500 +0300" channel="BEST TV">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+  </programme>
+  <programme start="20190921154500 +0300" stop="20190921173000 +0300" channel="BEST TV">
+    <title lang="el">Τηλεμάρκετινγκ</title>
+  </programme>
+  <programme start="20190921173000 +0300" stop="20190921181500 +0300" channel="BEST TV">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+  </programme>
+  <programme start="20190921181500 +0300" stop="20190921183000 +0300" channel="BEST TV">
+    <title lang="el">Τηλεμάρκετινγκ</title>
+  </programme>
+  <programme start="20190921183000 +0300" stop="20190921193000 +0300" channel="BEST TV">
+    <title lang="el">Πανεπιστημιακές Διαλέξεις Φιλοσοφίας</title>
+  </programme>
+  <programme start="20190921193000 +0300" stop="20190921200000 +0300" channel="BEST TV">
+    <title lang="el">Λακωνική Ζώνη</title>
+  </programme>
+  <programme start="20190921200000 +0300" stop="20190921210000 +0300" channel="BEST TV">
+    <title lang="el">Πάτρα Στο Προσκήνιο</title>
+  </programme>
+  <programme start="20190921210000 +0300" stop="20190921220000 +0300" channel="BEST TV">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+  </programme>
+  <programme start="20190921220000 +0300" stop="20190921230000 +0300" channel="BEST TV">
+    <title lang="el">Κόντρα &amp; Ρήξη </title>
+  </programme>
+  <programme start="20190921230000 +0300" stop="20190921234500 +0300" channel="BEST TV">
+    <title lang="el">Μαχητικά</title>
+  </programme>
+  <programme start="20190921234500 +0300" stop="20190922003000 +0300" channel="BEST TV">
+    <title lang="el">Η Παλιά Καλαμάτα (Ε)</title>
+  </programme>
+  <programme start="20190922003000 +0300" stop="20190922013000 +0300" channel="BEST TV">
+    <title lang="el">Δελτίο Ειδήσεων (Ε)</title>
+  </programme>
+  <programme start="20190922013000 +0300" stop="20190922023000 +0300" channel="BEST TV">
+    <title lang="el">Πάτρα Στο Προσκήνιο (Ε)</title>
+  </programme>
+  <programme start="20190922023000 +0300" stop="20190922030000 +0300" channel="BEST TV">
+    <title lang="el">Λακωνική Ζώνη (Ε)</title>
+  </programme>
+  <programme start="20190922030000 +0300" stop="20190922043000 +0300" channel="BEST TV">
+    <title lang="el">Ξένη Ταινία</title>
+  </programme>
+  <programme start="20190922043000 +0300" stop="20190922053000 +0300" channel="BEST TV">
+    <title lang="el">Ξένη Ταινία</title>
+  </programme>
+  <programme start="20190921063000 +0300" stop="20190921080000 +0300" channel="HLEKTRA TV">
+    <title lang="el">HLEKTRA TV</title>
+  </programme>
+  <programme start="20190921080000 +0300" stop="20190921103000 +0300" channel="HLEKTRA TV">
+    <title lang="el">HLEKTRA TV</title>
+  </programme>
+  <programme start="20190921103000 +0300" stop="20190921120000 +0300" channel="HLEKTRA TV">
+    <title lang="el">HLEKTRA TV</title>
+  </programme>
+  <programme start="20190921120000 +0300" stop="20190921140000 +0300" channel="HLEKTRA TV">
+    <title lang="el">HLEKTRA TV</title>
+  </programme>
+  <programme start="20190921140000 +0300" stop="20190921160000 +0300" channel="HLEKTRA TV">
+    <title lang="el">HLEKTRA TV</title>
+  </programme>
+  <programme start="20190921160000 +0300" stop="20190921180000 +0300" channel="HLEKTRA TV">
+    <title lang="el">HLEKTRA TV</title>
+  </programme>
+  <programme start="20190921180000 +0300" stop="20190921184000 +0300" channel="HLEKTRA TV">
+    <title lang="el">HLEKTRA TV</title>
+  </programme>
+  <programme start="20190921184000 +0300" stop="20190921210000 +0300" channel="HLEKTRA TV">
+    <title lang="el">HLEKTRA TV</title>
+  </programme>
+  <programme start="20190921210000 +0300" stop="20190921223000 +0300" channel="HLEKTRA TV">
+    <title lang="el">HLEKTRA TV</title>
+  </programme>
+  <programme start="20190921223000 +0300" stop="20190922000000 +0300" channel="HLEKTRA TV">
+    <title lang="el">HLEKTRA TV</title>
+  </programme>
+  <programme start="20190922000000 +0300" stop="20190922003000 +0300" channel="HLEKTRA TV">
+    <title lang="el">HLEKTRA TV</title>
+  </programme>
+  <programme start="20190922003000 +0300" stop="20190922020000 +0300" channel="HLEKTRA TV">
+    <title lang="el">HLEKTRA TV</title>
+  </programme>
+  <programme start="20190922020000 +0300" stop="20190922033000 +0300" channel="HLEKTRA TV">
+    <title lang="el">HLEKTRA TV</title>
+  </programme>
+  <programme start="20190922033000 +0300" stop="20190922053000 +0300" channel="HLEKTRA TV">
+    <title lang="el">HLEKTRA TV</title>
+  </programme>
+  <programme start="20190921060000 +0300" stop="20190921070000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Ντοκιμαντέρ</title>
+  </programme>
+  <programme start="20190921070000 +0300" stop="20190921080000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Δελτίο Ειδήσεων (Ε)</title>
+  </programme>
+  <programme start="20190921080000 +0300" stop="20190921090000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Χαμηλή Πτήση (Ε)</title>
+  </programme>
+  <programme start="20190921090000 +0300" stop="20190921100000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Mediterranean Beach Games</title>
+  </programme>
+  <programme start="20190921100000 +0300" stop="20190921110000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Metropolis</title>
+  </programme>
+  <programme start="20190921110000 +0300" stop="20190921120000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Παιδικό Πρόγραμμα</title>
+  </programme>
+  <programme start="20190921120000 +0300" stop="20190921130000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Beach Games In Action</title>
+  </programme>
+  <programme start="20190921130000 +0300" stop="20190921133000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Μια Ενημέρωση</title>
+  </programme>
+  <programme start="20190921133000 +0300" stop="20190921143000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Η Άλλη Άποψη</title>
+  </programme>
+  <programme start="20190921143000 +0300" stop="20190921150000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Ντοκιμαντέρ</title>
+  </programme>
+  <programme start="20190921150000 +0300" stop="20190921170000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Ταινιοθήκη</title>
+  </programme>
+  <programme start="20190921170000 +0300" stop="20190921180000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Business Stories</title>
+  </programme>
+  <programme start="20190921180000 +0300" stop="20190921190000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Υγείας Θέματα</title>
+  </programme>
+  <programme start="20190921190000 +0300" stop="20190921200000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Σε Χαμηλή Φωτιά</title>
+  </programme>
+  <programme start="20190921200000 +0300" stop="20190921203000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+  </programme>
+  <programme start="20190921203000 +0300" stop="20190921210000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Travel Life</title>
+  </programme>
+  <programme start="20190921210000 +0300" stop="20190921213000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Beach Games In Action</title>
+  </programme>
+  <programme start="20190921213000 +0300" stop="20190921220000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Τρέχα Γύρευε</title>
+  </programme>
+  <programme start="20190921220000 +0300" stop="20190921223000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Travel Life</title>
+  </programme>
+  <programme start="20190921223000 +0300" stop="20190921230000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Βράδυ Σαββάτου</title>
+  </programme>
+  <programme start="20190921230000 +0300" stop="20190922000000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Τρέχα Γύρευε</title>
+  </programme>
+  <programme start="20190922000000 +0300" stop="20190922003000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+  </programme>
+  <programme start="20190922003000 +0300" stop="20190922010000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Ξένη Ταινία</title>
+  </programme>
+  <programme start="20190922010000 +0300" stop="20190922020000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Ξένη Ταινία</title>
+  </programme>
+  <programme start="20190922020000 +0300" stop="20190922023000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+  </programme>
+  <programme start="20190922023000 +0300" stop="20190922033000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Tele Shop - Αστρολογία</title>
+  </programme>
+  <programme start="20190922033000 +0300" stop="20190922043000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Η Άλλη Άποψη</title>
+  </programme>
+  <programme start="20190922043000 +0300" stop="20190922050000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">7 Ημέρες Σινεμά</title>
+  </programme>
+  <programme start="20190922050000 +0300" stop="20190922053000 +0300" channel="IONIAN CHANNEL">
+    <title lang="el">Χρώματα Ελλάδας</title>
+  </programme>
+  <programme start="20190921060000 +0300" stop="20190921120000 +0300" channel="LEPANTO">
+    <title lang="el">Lepanto TV</title>
+  </programme>
+  <programme start="20190921120000 +0300" stop="20190921180000 +0300" channel="LEPANTO">
+    <title lang="el">Lepanto TV</title>
+  </programme>
+  <programme start="20190921180000 +0300" stop="20190922000000 +0300" channel="LEPANTO">
+    <title lang="el">Lepanto TV</title>
+  </programme>
+  <programme start="20190922000000 +0300" stop="20190922053000 +0300" channel="LEPANTO">
+    <title lang="el">Lepanto TV</title>
+  </programme>
+  <programme start="20190921060000 +0300" stop="20190921120000 +0300" channel="LYCHNOS">
+    <title lang="el">Lychnos</title>
+  </programme>
+  <programme start="20190921120000 +0300" stop="20190921180000 +0300" channel="LYCHNOS">
+    <title lang="el">Lychnos</title>
+  </programme>
+  <programme start="20190921180000 +0300" stop="20190922000000 +0300" channel="LYCHNOS">
+    <title lang="el">Lychnos</title>
+  </programme>
+  <programme start="20190922000000 +0300" stop="20190922053000 +0300" channel="LYCHNOS">
+    <title lang="el">Lychnos</title>
+  </programme>
+  <programme start="20190921060000 +0300" stop="20190921120000 +0300" channel="MESOGEIOS TV">
+    <title lang="el">Mesogeios TV</title>
+  </programme>
+  <programme start="20190921120000 +0300" stop="20190921180000 +0300" channel="MESOGEIOS TV">
+    <title lang="el">Mesogeios TV</title>
+  </programme>
+  <programme start="20190921180000 +0300" stop="20190922000000 +0300" channel="MESOGEIOS TV">
+    <title lang="el">Mesogeios TV</title>
+  </programme>
+  <programme start="20190922000000 +0300" stop="20190922053000 +0300" channel="MESOGEIOS TV">
+    <title lang="el">Mesogeios TV</title>
+  </programme>
+  <programme start="20190921060000 +0300" stop="20190921070000 +0300" channel="PLP">
+    <title lang="el">News (Ε)</title>
+  </programme>
+  <programme start="20190921070000 +0300" stop="20190921080000 +0300" channel="PLP">
+    <title lang="el">Πας Μαγειρεύοντας (Ε)</title>
+  </programme>
+  <programme start="20190921080000 +0300" stop="20190921090000 +0300" channel="PLP">
+    <title lang="el">The Greatest Journeys On Earth</title>
+  </programme>
+  <programme start="20190921090000 +0300" stop="20190921110000 +0300" channel="PLP">
+    <title lang="el">Τα Παντελόνια Είναι Περίεργα Ρούχα (Ε)</title>
+  </programme>
+  <programme start="20190921110000 +0300" stop="20190921160000 +0300" channel="PLP">
+    <title lang="el">Τηλεαγορές</title>
+  </programme>
+  <programme start="20190921160000 +0300" stop="20190921170000 +0300" channel="PLP">
+    <title lang="el">Κόντρα Και Ρήξη</title>
+  </programme>
+  <programme start="20190921170000 +0300" stop="20190921190000 +0300" channel="PLP">
+    <title lang="el">Τηλεαγορές</title>
+  </programme>
+  <programme start="20190921190000 +0300" stop="20190921200000 +0300" channel="PLP">
+    <title lang="el">Κοινωνία Και Πολιτισμός</title>
+  </programme>
+  <programme start="20190921200000 +0300" stop="20190921210000 +0300" channel="PLP">
+    <title lang="el">Πας Μαγειρεύοντας</title>
+  </programme>
+  <programme start="20190921210000 +0300" stop="20190921220000 +0300" channel="PLP">
+    <title lang="el">Κόντρα Και Ρήξη</title>
+  </programme>
+  <programme start="20190921220000 +0300" stop="20190921230000 +0300" channel="PLP">
+    <title lang="el">Wild African Track</title>
+  </programme>
+  <programme start="20190921230000 +0300" stop="20190922000000 +0300" channel="PLP">
+    <title lang="el">Δυνατά Και Ελληνικά</title>
+  </programme>
+  <programme start="20190922000000 +0300" stop="20190922020000 +0300" channel="PLP">
+    <title lang="el">Τα Παντελόνια Είναι Περίεργα Ρούχα (Ε)</title>
+  </programme>
+  <programme start="20190922020000 +0300" stop="20190922030000 +0300" channel="PLP">
+    <title lang="el">Σεργιάνι Στην Κρήτη (Ε)</title>
+  </programme>
+  <programme start="20190922030000 +0300" stop="20190922050000 +0300" channel="PLP">
+    <title lang="el">Ραγισμένες Καρδιές (Ε)</title>
+  </programme>
+  <programme start="20190922050000 +0300" stop="20190922053000 +0300" channel="PLP">
+    <title lang="el">Be A Predator</title>
+  </programme>
+  <programme start="20190921060000 +0300" stop="20190921070000 +0300" channel="SUPER B">
+    <title lang="el">Υγιώς Σκεπτόμενοι (Ε)</title>
+  </programme>
+  <programme start="20190921070000 +0300" stop="20190921083000 +0300" channel="SUPER B">
+    <title lang="el">Παρεμβάσεις (Ε)</title>
+  </programme>
+  <programme start="20190921083000 +0300" stop="20190921090000 +0300" channel="SUPER B">
+    <title lang="el">Super B News (Ε)</title>
+  </programme>
+  <programme start="20190921090000 +0300" stop="20190921110000 +0300" channel="SUPER B">
+    <title lang="el">Cartoon</title>
+  </programme>
+  <programme start="20190921110000 +0300" stop="20190921120000 +0300" channel="SUPER B">
+    <title lang="el">Erenthia</title>
+  </programme>
+  <programme start="20190921120000 +0300" stop="20190921133000 +0300" channel="SUPER B">
+    <title lang="el">Ασπρόμαυρος Κινηματογράφος</title>
+  </programme>
+  <programme start="20190921133000 +0300" stop="20190921150000 +0300" channel="SUPER B">
+    <title lang="el">Cartoon</title>
+  </programme>
+  <programme start="20190921150000 +0300" stop="20190921160000 +0300" channel="SUPER B">
+    <title lang="el">Κόντρα &amp; Ρήξη</title>
+  </programme>
+  <programme start="20190921160000 +0300" stop="20190921170000 +0300" channel="SUPER B">
+    <title lang="el">Sales</title>
+  </programme>
+  <programme start="20190921170000 +0300" stop="20190921180000 +0300" channel="SUPER B">
+    <title lang="el">Erenthia</title>
+  </programme>
+  <programme start="20190921180000 +0300" stop="20190921200000 +0300" channel="SUPER B">
+    <title lang="el">Seitanidis Home</title>
+  </programme>
+  <programme start="20190921200000 +0300" stop="20190921210000 +0300" channel="SUPER B">
+    <title lang="el">Υγιώς Σκεπτόμενοι</title>
+  </programme>
+  <programme start="20190921210000 +0300" stop="20190921213000 +0300" channel="SUPER B">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+  </programme>
+  <programme start="20190921213000 +0300" stop="20190921223000 +0300" channel="SUPER B">
+    <title lang="el">Κόντρα &amp; Ρήξη</title>
+  </programme>
+  <programme start="20190921223000 +0300" stop="20190922000000 +0300" channel="SUPER B">
+    <title lang="el">Ξένη Ταινία</title>
+  </programme>
+  <programme start="20190922000000 +0300" stop="20190922003000 +0300" channel="SUPER B">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων (Ε)</title>
+  </programme>
+  <programme start="20190922003000 +0300" stop="20190922013000 +0300" channel="SUPER B">
+    <title lang="el">Επωνύμως (Ε)</title>
+  </programme>
+  <programme start="20190922013000 +0300" stop="20190922030000 +0300" channel="SUPER B">
+    <title lang="el">Ξένη Ταινία</title>
+  </programme>
+  <programme start="20190922030000 +0300" stop="20190922050000 +0300" channel="SUPER B">
+    <title lang="el">Ντοκιμαντέρ</title>
+  </programme>
+  <programme start="20190922050000 +0300" stop="20190922053000 +0300" channel="SUPER B">
+    <title lang="el">Video Clip</title>
+  </programme>
+  <programme start="20190921060000 +0300" stop="20190921163000 +0300" channel="ASTRA TV">
+    <title lang="el">Αstra Market </title>
+  </programme>
+  <programme start="20190921163000 +0300" stop="20190921170000 +0300" channel="ASTRA TV">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+  </programme>
+  <programme start="20190921170000 +0300" stop="20190921180000 +0300" channel="ASTRA TV">
+    <title lang="el">Κόντρα Και Ρήξη</title>
+  </programme>
+  <programme start="20190921180000 +0300" stop="20190921233000 +0300" channel="ASTRA TV">
+    <title lang="el">Αstra Market </title>
+  </programme>
+  <programme start="20190921233000 +0300" stop="20190922013000 +0300" channel="ASTRA TV">
+    <title lang="el">Κώδικας Μυστηρίων</title>
+  </programme>
+  <programme start="20190922013000 +0300" stop="20190922040000 +0300" channel="ASTRA TV">
+    <title lang="el">Night Zone</title>
+  </programme>
+  <programme start="20190922040000 +0300" stop="20190922053000 +0300" channel="ASTRA TV">
+    <title lang="el">Αstra Market </title>
+  </programme>
+  <programme start="20190921061500 +0300" stop="20190921070000 +0300" channel="TRT">
+    <title lang="el">News (Ε)</title>
+  </programme>
+  <programme start="20190921070000 +0300" stop="20190921080000 +0300" channel="TRT">
+    <title lang="el">Πας Μαγειρεύοντας (Ε)</title>
+  </programme>
+  <programme start="20190921080000 +0300" stop="20190921090000 +0300" channel="TRT">
+    <title lang="el">The Greatest Journeys On Earth</title>
+  </programme>
+  <programme start="20190921090000 +0300" stop="20190921110000 +0300" channel="TRT">
+    <title lang="el">Τα Παντελόνια Είναι Περίεργα Ρούχα (Ε)</title>
+  </programme>
+  <programme start="20190921110000 +0300" stop="20190921160000 +0300" channel="TRT">
+    <title lang="el">Τηλεαγορές</title>
+  </programme>
+  <programme start="20190921160000 +0300" stop="20190921170000 +0300" channel="TRT">
+    <title lang="el">Κόντρα Kαι Ρήξη</title>
+  </programme>
+  <programme start="20190921170000 +0300" stop="20190921190000 +0300" channel="TRT">
+    <title lang="el">Τηλεαγορές</title>
+  </programme>
+  <programme start="20190921190000 +0300" stop="20190921200000 +0300" channel="TRT">
+    <title lang="el">Μύθος Και Αλήθεια</title>
+  </programme>
+  <programme start="20190921200000 +0300" stop="20190921210000 +0300" channel="TRT">
+    <title lang="el">Πας Μαγειρεύοντας (Ε)</title>
+  </programme>
+  <programme start="20190921210000 +0300" stop="20190921211000 +0300" channel="TRT">
+    <title lang="el">Δελτίο Ειδήσεων </title>
+  </programme>
+  <programme start="20190921211000 +0300" stop="20190921221000 +0300" channel="TRT">
+    <title lang="el">Κόντρα Kαι Ρήξη</title>
+  </programme>
+  <programme start="20190921221000 +0300" stop="20190921234500 +0300" channel="TRT">
+    <title lang="el">Αχ Πατρίδα Mου Γλυκιά (Ε)</title>
+  </programme>
+  <programme start="20190921234500 +0300" stop="20190922004500 +0300" channel="TRT">
+    <title lang="el">Δυνατά Kαι Ελληνικά</title>
+  </programme>
+  <programme start="20190922004500 +0300" stop="20190922021500 +0300" channel="TRT">
+    <title lang="el">Μαξίμου Aκούει;</title>
+  </programme>
+  <programme start="20190922021500 +0300" stop="20190922030000 +0300" channel="TRT">
+    <title lang="el">Αγροτόραμα (Ε)</title>
+  </programme>
+  <programme start="20190922030000 +0300" stop="20190922040000 +0300" channel="TRT">
+    <title lang="el">Be A Predator (Ε)</title>
+  </programme>
+  <programme start="20190922040000 +0300" stop="20190922053000 +0300" channel="TRT">
+    <title lang="el">Ραγισμένες Καρδιές (Ε)</title>
+  </programme>
+  <programme start="20190921080000 +0300" stop="20190921160000 +0300" channel="ETV">
+    <title lang="el">E TV</title>
+  </programme>
+  <programme start="20190921160000 +0300" stop="20190922000000 +0300" channel="ETV">
+    <title lang="el">E TV</title>
+  </programme>
+  <programme start="20190922000000 +0300" stop="20190922053000 +0300" channel="ETV">
+    <title lang="el">E TV</title>
+  </programme>
 </tv>
