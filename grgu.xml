@@ -189,6 +189,9 @@
   <channel id="SYROS TV1 ">
     <display-name lang="el">SYROS TV1 </display-name>
   </channel>
+    <channel id="Mega">
+    <display-name lang="el">Mega</display-name>
+  </channel>
   <programme start="20190922060000 +0300" stop="20190922063000 +0300" channel="ALPHA">
     <title lang="el">Θυρίδα Τηλεπώλησης</title>
   </programme>
@@ -14680,5 +14683,413 @@
   </programme>
   <programme start="20190925233000 +0000" stop="20190926000000 +0000" channel="smile">
     <title lang="el">\</title>
+  </programme>
+    <programme start="20190923055000 +0300" stop="20190923064000 +0300" channel="Mega">
+    <title lang="el">Η ΑΓΑΠΗ ΤΗΣ ΓΑΤΑΣ Επεισόδιο : 17</title>
+  </programme>
+  <programme start="20190923064000 +0300" stop="20190923072000 +0300" channel="Mega">
+    <title lang="el">ΓΗ ΚΑΙ ΟΥΡΑΝΟΣ Επεισόδιο : 23</title>
+  </programme>
+  <programme start="20190923072000 +0300" stop="20190923081000 +0300" channel="Mega">
+    <title lang="el">ΛΕΝΗ Επεισόδιο : 1</title>
+  </programme>
+  <programme start="20190923081000 +0300" stop="20190923084000 +0300" channel="Mega">
+    <title lang="el">ΣΕ ΛΑ ΒΙ (ΖΩΗ ΠΟΔΗΛΑΤΟ) Επεισόδιο : 1</title>
+  </programme>
+  <programme start="20190923084000 +0300" stop="20190923091000 +0300" channel="Mega">
+    <title lang="el">ΕΠΤΑ ΚΑΚΑ ΤΗΣ ΜΟΙΡΑΣ ΜΟΥ Επεισόδιο : 167</title>
+  </programme>
+  <programme start="20190923091000 +0300" stop="20190923094000 +0300" channel="Mega">
+    <title lang="el">ΑΥΘΑΙΡΕΤΟΙ Επεισόδιο : 20</title>
+  </programme>
+  <programme start="20190923094000 +0300" stop="20190923101000 +0300" channel="Mega">
+    <title lang="el">ΕΝΑΣ ΑΞΙΟΛΑΤΡΕΥΤΟΣ ΜΠΕΛΑΣ Επεισόδιο : 29</title>
+  </programme>
+  <programme start="20190923101000 +0300" stop="20190923105000 +0300" channel="Mega">
+    <title lang="el">ΧΑΙ ΡΟΚ Επεισόδιο : 75</title>
+  </programme>
+  <programme start="20190923105000 +0300" stop="20190923114000 +0300" channel="Mega">
+    <title lang="el">ΠΕΡΙ ΑΝΕΜΩΝ ΚΑΙ ΥΔΑΤΩΝ Επεισόδιο : 28</title>
+  </programme>
+  <programme start="20190923114000 +0300" stop="20190923122000 +0300" channel="Mega">
+    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΗΣ ΕΔΕΜ Επεισόδιο : 137</title>
+  </programme>
+  <programme start="20190923122000 +0300" stop="20190923131000 +0300" channel="Mega">
+    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΗΣ ΕΔΕΜ Επεισόδιο : 138</title>
+  </programme>
+  <programme start="20190923131000 +0300" stop="20190923140000 +0300" channel="Mega">
+    <title lang="el">ΒΕΡΑ ΣΤΟ ΔΕΞΙ Επεισόδιο : 529</title>
+  </programme>
+  <programme start="20190923140000 +0300" stop="20190923145000 +0300" channel="Mega">
+    <title lang="el">ΒΕΡΑ ΣΤΟ ΔΕΞΙ Επεισόδιο : 530</title>
+  </programme>
+  <programme start="20190923145000 +0300" stop="20190923153000 +0300" channel="Mega">
+    <title lang="el">Η ΖΩΗ ΤΗΣ ΑΛΛΗΣ Επεισόδιο : 294</title>
+  </programme>
+  <programme start="20190923153000 +0300" stop="20190923160000 +0300" channel="Mega">
+    <title lang="el">ΑΣΥΝΗΘΕΙΣ ΥΠΟΠΤΟΙ Επεισόδιο : 25</title>
+  </programme>
+  <programme start="20190923160000 +0300" stop="20190923163000 +0300" channel="Mega">
+    <title lang="el">ΕΣΥ ΦΤΑΙΣ Επεισόδιο : 4</title>
+  </programme>
+  <programme start="20190923163000 +0300" stop="20190923172000 +0300" channel="Mega">
+    <title lang="el">ΡΕΤΙΡΕ Επεισόδιο : 50</title>
+  </programme>
+  <programme start="20190923172000 +0300" stop="20190923181000 +0300" channel="Mega">
+    <title lang="el">Η Γενιά των 592€ Επεισόδιο : 15</title>
+  </programme>
+  <programme start="20190923181000 +0300" stop="20190923190000 +0300" channel="Mega">
+    <title lang="el">L.A.P.D. Επεισόδιο : 23</title>
+  </programme>
+  <programme start="20190923190000 +0300" stop="20190923195000 +0300" channel="Mega">
+    <title lang="el">ΔΥΟ ΞΕΝΟΙ Επεισόδιο : 52</title>
+  </programme>
+  <programme start="20190923195000 +0300" stop="20190923200000 +0300" channel="Mega">
+    <title lang="el">CAMERA CAFE Επεισόδιο : 70</title>
+  </programme>
+  <programme start="20190923200000 +0300" stop="20190923205000 +0300" channel="Mega">
+    <title lang="el">ΑΕΡΙΝΕΣ ΣΙΩΠΕΣ Επεισόδιο : 98</title>
+  </programme>
+  <programme start="20190923205000 +0300" stop="20190923214000 +0300" channel="Mega">
+    <title lang="el">ΚΛΕΜΜΕΝΑ ΟΝΕΙΡΑ Επεισόδιο : 217</title>
+  </programme>
+  <programme start="20190923214000 +0300" stop="20190923223000 +0300" channel="Mega">
+    <title lang="el">Η ΠΟΛΥΚΑΤΟΙΚΙΑ Επεισόδιο : 88</title>
+  </programme>
+  <programme start="20190923223000 +0300" stop="20190923232000 +0300" channel="Mega">
+    <title lang="el">ΠΕΝΗΝΤΑ ΠΕΝΗΝΤΑ Επεισόδιο : 16</title>
+  </programme>
+  <programme start="20190923232000 +0300" stop="20190924001000 +0300" channel="Mega">
+    <title lang="el">ΑΠΩΝ Επεισόδιο : 9</title>
+  </programme>
+  <programme start="20190924001000 +0300" stop="20190924005000 +0300" channel="Mega">
+    <title lang="el">ΤΟ ΣΗΜΑΔΙ ΤΟΥ ΕΡΩΤΑ Επεισόδιο : 3</title>
+  </programme>
+  <programme start="20190924005000 +0300" stop="20190924013000 +0300" channel="Mega">
+    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΗΣ ΕΔΕΜ Επεισόδιο : 137</title>
+  </programme>
+  <programme start="20190924013000 +0300" stop="20190924022000 +0300" channel="Mega">
+    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΗΣ ΕΔΕΜ Επεισόδιο : 138</title>
+  </programme>
+  <programme start="20190924022000 +0300" stop="20190924031000 +0300" channel="Mega">
+    <title lang="el">ΑΝ ΘΥΜΗΘΕΙΣ ΤΟ ΟΝΕΙΡΟ ΜΟΥ Επεισόδιο : 27</title>
+  </programme>
+  <programme start="20190924031000 +0300" stop="20190924040000 +0300" channel="Mega">
+    <title lang="el">ΒΕΡΑ ΣΤΟ ΔΕΞΙ Επεισόδιο : 529</title>
+  </programme>
+  <programme start="20190924040000 +0300" stop="20190924043000 +0300" channel="Mega">
+    <title lang="el">ΒΕΡΑ ΣΤΟ ΔΕΞΙ Επεισόδιο : 530</title>
+  </programme>
+  <programme start="20190924043000 +0300" stop="20190924051000 +0300" channel="Mega">
+    <title lang="el">ΦΙΛΟΔΟΞΙΕΣ Επεισόδιο : 188</title>
+  </programme>
+  <programme start="20190924051000 +0300" stop="20190924055000 +0300" channel="Mega">
+    <title lang="el">ΠΑΡΑΛΛΗΛΟΙ ΔΡΟΜΟΙ Επεισόδιο : 116</title>
+  </programme>
+  <programme start="20190924055000 +0300" stop="20190924064000 +0300" channel="Mega">
+    <title lang="el">Η ΑΓΑΠΗ ΤΗΣ ΓΑΤΑΣ Επεισόδιο : 18</title>
+  </programme>
+  <programme start="20190924064000 +0300" stop="20190924072000 +0300" channel="Mega">
+    <title lang="el">ΓΗ ΚΑΙ ΟΥΡΑΝΟΣ Επεισόδιο : 24</title>
+  </programme>
+  <programme start="20190924072000 +0300" stop="20190924081000 +0300" channel="Mega">
+    <title lang="el">ΛΕΝΗ Επεισόδιο : 2</title>
+  </programme>
+  <programme start="20190924081000 +0300" stop="20190924084000 +0300" channel="Mega">
+    <title lang="el">ΣΕ ΛΑ ΒΙ (ΖΩΗ ΠΟΔΗΛΑΤΟ) Επεισόδιο : 2</title>
+  </programme>
+  <programme start="20190924084000 +0300" stop="20190924091000 +0300" channel="Mega">
+    <title lang="el">ΕΠΤΑ ΚΑΚΑ ΤΗΣ ΜΟΙΡΑΣ ΜΟΥ Επεισόδιο : 168</title>
+  </programme>
+  <programme start="20190924091000 +0300" stop="20190924094000 +0300" channel="Mega">
+    <title lang="el">ΑΥΘΑΙΡΕΤΟΙ Επεισόδιο : 21</title>
+  </programme>
+  <programme start="20190924094000 +0300" stop="20190924101000 +0300" channel="Mega">
+    <title lang="el">ΕΝΑΣ ΑΞΙΟΛΑΤΡΕΥΤΟΣ ΜΠΕΛΑΣ Επεισόδιο : 30</title>
+  </programme>
+  <programme start="20190924101000 +0300" stop="20190924105000 +0300" channel="Mega">
+    <title lang="el">ΧΑΙ ΡΟΚ Επεισόδιο : 76</title>
+  </programme>
+  <programme start="20190924105000 +0300" stop="20190924114000 +0300" channel="Mega">
+    <title lang="el">ΠΕΡΙ ΑΝΕΜΩΝ ΚΑΙ ΥΔΑΤΩΝ Επεισόδιο : 29</title>
+  </programme>
+  <programme start="20190924114000 +0300" stop="20190924122000 +0300" channel="Mega">
+    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΗΣ ΕΔΕΜ Επεισόδιο : 139</title>
+  </programme>
+  <programme start="20190924122000 +0300" stop="20190924131000 +0300" channel="Mega">
+    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΗΣ ΕΔΕΜ Επεισόδιο : 140</title>
+  </programme>
+  <programme start="20190924131000 +0300" stop="20190924140000 +0300" channel="Mega">
+    <title lang="el">ΒΕΡΑ ΣΤΟ ΔΕΞΙ Επεισόδιο : 531</title>
+  </programme>
+  <programme start="20190924140000 +0300" stop="20190924145000 +0300" channel="Mega">
+    <title lang="el">ΒΕΡΑ ΣΤΟ ΔΕΞΙ Επεισόδιο : 532</title>
+  </programme>
+  <programme start="20190924145000 +0300" stop="20190924153000 +0300" channel="Mega">
+    <title lang="el">Η ΖΩΗ ΤΗΣ ΑΛΛΗΣ Επεισόδιο : 295</title>
+  </programme>
+  <programme start="20190924153000 +0300" stop="20190924160000 +0300" channel="Mega">
+    <title lang="el">ΑΣΥΝΗΘΕΙΣ ΥΠΟΠΤΟΙ Επεισόδιο : 26</title>
+  </programme>
+  <programme start="20190924160000 +0300" stop="20190924163000 +0300" channel="Mega">
+    <title lang="el">ΕΣΥ ΦΤΑΙΣ Επεισόδιο : 5</title>
+  </programme>
+  <programme start="20190924163000 +0300" stop="20190924172000 +0300" channel="Mega">
+    <title lang="el">ΡΕΤΙΡΕ Επεισόδιο : 51</title>
+  </programme>
+  <programme start="20190924172000 +0300" stop="20190924181000 +0300" channel="Mega">
+    <title lang="el">Η Γενιά των 592€ Επεισόδιο : 16</title>
+  </programme>
+  <programme start="20190924181000 +0300" stop="20190924190000 +0300" channel="Mega">
+    <title lang="el">L.A.P.D. Επεισόδιο : 24</title>
+  </programme>
+  <programme start="20190924190000 +0300" stop="20190924195000 +0300" channel="Mega">
+    <title lang="el">ΔΥΟ ΞΕΝΟΙ Επεισόδιο : 53</title>
+  </programme>
+  <programme start="20190924195000 +0300" stop="20190924200000 +0300" channel="Mega">
+    <title lang="el">CAMERA CAFE Επεισόδιο : 71</title>
+  </programme>
+  <programme start="20190924200000 +0300" stop="20190924205000 +0300" channel="Mega">
+    <title lang="el">ΣΑΒΒΑΤΟΓΕΝΝΗΜΕΝΕΣ Επεισόδιο : 1</title>
+  </programme>
+  <programme start="20190924205000 +0300" stop="20190924214000 +0300" channel="Mega">
+    <title lang="el">ΚΛΕΜΜΕΝΑ ΟΝΕΙΡΑ Επεισόδιο : 218</title>
+  </programme>
+  <programme start="20190924214000 +0300" stop="20190924223000 +0300" channel="Mega">
+    <title lang="el">Η ΠΟΛΥΚΑΤΟΙΚΙΑ Επεισόδιο : 89</title>
+  </programme>
+  <programme start="20190924223000 +0300" stop="20190924232000 +0300" channel="Mega">
+    <title lang="el">ΠΕΝΗΝΤΑ ΠΕΝΗΝΤΑ Επεισόδιο : 17</title>
+  </programme>
+  <programme start="20190924232000 +0300" stop="20190925001000 +0300" channel="Mega">
+    <title lang="el">ΑΠΩΝ Επεισόδιο : 10</title>
+  </programme>
+  <programme start="20190925001000 +0300" stop="20190925005000 +0300" channel="Mega">
+    <title lang="el">ΤΟ ΣΗΜΑΔΙ ΤΟΥ ΕΡΩΤΑ Επεισόδιο : 4</title>
+  </programme>
+  <programme start="20190925005000 +0300" stop="20190925013000 +0300" channel="Mega">
+    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΗΣ ΕΔΕΜ Επεισόδιο : 139</title>
+  </programme>
+  <programme start="20190925013000 +0300" stop="20190925022000 +0300" channel="Mega">
+    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΗΣ ΕΔΕΜ Επεισόδιο : 140</title>
+  </programme>
+  <programme start="20190925022000 +0300" stop="20190925030000 +0300" channel="Mega">
+    <title lang="el">ΑΝ ΘΥΜΗΘΕΙΣ ΤΟ ΟΝΕΙΡΟ ΜΟΥ Επεισόδιο : 28</title>
+  </programme>
+  <programme start="20190925030000 +0300" stop="20190925040000 +0300" channel="Mega">
+    <title lang="el">ΒΕΡΑ ΣΤΟ ΔΕΞΙ Επεισόδιο : 531</title>
+  </programme>
+  <programme start="20190925040000 +0300" stop="20190925044000 +0300" channel="Mega">
+    <title lang="el">ΒΕΡΑ ΣΤΟ ΔΕΞΙ Επεισόδιο : 532</title>
+  </programme>
+  <programme start="20190925044000 +0300" stop="20190925051000 +0300" channel="Mega">
+    <title lang="el">ΦΙΛΟΔΟΞΙΕΣ Επεισόδιο : 189</title>
+  </programme>
+  <programme start="20190925051000 +0300" stop="20190925055000 +0300" channel="Mega">
+    <title lang="el">ΠΑΡΑΛΛΗΛΟΙ ΔΡΟΜΟΙ Επεισόδιο : 117</title>
+  </programme>
+  <programme start="20190924055000 +0300" stop="20190924064000 +0300" channel="Mega">
+    <title lang="el">Η ΑΓΑΠΗ ΤΗΣ ΓΑΤΑΣ Επεισόδιο : 19</title>
+  </programme>
+  <programme start="20190924064000 +0300" stop="20190924072000 +0300" channel="Mega">
+    <title lang="el">ΓΗ ΚΑΙ ΟΥΡΑΝΟΣ Επεισόδιο : 25</title>
+  </programme>
+  <programme start="20190924072000 +0300" stop="20190924081000 +0300" channel="Mega">
+    <title lang="el">ΛΕΝΗ Επεισόδιο : 3</title>
+  </programme>
+  <programme start="20190924081000 +0300" stop="20190924084000 +0300" channel="Mega">
+    <title lang="el">ΣΕ ΛΑ ΒΙ (ΖΩΗ ΠΟΔΗΛΑΤΟ) Επεισόδιο : 3</title>
+  </programme>
+  <programme start="20190924084000 +0300" stop="20190924091000 +0300" channel="Mega">
+    <title lang="el">ΕΠΤΑ ΚΑΚΑ ΤΗΣ ΜΟΙΡΑΣ ΜΟΥ Επεισόδιο : 169</title>
+  </programme>
+  <programme start="20190924091000 +0300" stop="20190924094000 +0300" channel="Mega">
+    <title lang="el">ΑΥΘΑΙΡΕΤΟΙ Επεισόδιο : 22</title>
+  </programme>
+  <programme start="20190924094000 +0300" stop="20190924101000 +0300" channel="Mega">
+    <title lang="el">ΕΝΑΣ ΑΞΙΟΛΑΤΡΕΥΤΟΣ ΜΠΕΛΑΣ Επεισόδιο : 31</title>
+  </programme>
+  <programme start="20190924101000 +0300" stop="20190924105000 +0300" channel="Mega">
+    <title lang="el">ΧΑΙ ΡΟΚ Επεισόδιο : 77</title>
+  </programme>
+  <programme start="20190924105000 +0300" stop="20190924114000 +0300" channel="Mega">
+    <title lang="el">ΠΕΡΙ ΑΝΕΜΩΝ ΚΑΙ ΥΔΑΤΩΝ Επεισόδιο : 30</title>
+  </programme>
+  <programme start="20190924114000 +0300" stop="20190924122000 +0300" channel="Mega">
+    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΗΣ ΕΔΕΜ Επεισόδιο : 141</title>
+  </programme>
+  <programme start="20190924122000 +0300" stop="20190924131000 +0300" channel="Mega">
+    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΗΣ ΕΔΕΜ Επεισόδιο : 142</title>
+  </programme>
+  <programme start="20190924131000 +0300" stop="20190924140000 +0300" channel="Mega">
+    <title lang="el">ΒΕΡΑ ΣΤΟ ΔΕΞΙ Επεισόδιο : 533</title>
+  </programme>
+  <programme start="20190924140000 +0300" stop="20190924145000 +0300" channel="Mega">
+    <title lang="el">ΒΕΡΑ ΣΤΟ ΔΕΞΙ Επεισόδιο : 534</title>
+  </programme>
+  <programme start="20190924145000 +0300" stop="20190924153000 +0300" channel="Mega">
+    <title lang="el">Η ΖΩΗ ΤΗΣ ΑΛΛΗΣ Επεισόδιο : 296</title>
+  </programme>
+  <programme start="20190924153000 +0300" stop="20190924160000 +0300" channel="Mega">
+    <title lang="el">ΑΣΥΝΗΘΕΙΣ ΥΠΟΠΤΟΙ Επεισόδιο : 27</title>
+  </programme>
+  <programme start="20190924160000 +0300" stop="20190924163000 +0300" channel="Mega">
+    <title lang="el">ΕΣΥ ΦΤΑΙΣ Επεισόδιο : 6</title>
+  </programme>
+  <programme start="20190924163000 +0300" stop="20190924172000 +0300" channel="Mega">
+    <title lang="el">ΡΕΤΙΡΕ Επεισόδιο : 52</title>
+  </programme>
+  <programme start="20190924172000 +0300" stop="20190924181000 +0300" channel="Mega">
+    <title lang="el">Η Γενιά των 592€ Επεισόδιο : 17</title>
+  </programme>
+  <programme start="20190924181000 +0300" stop="20190924190000 +0300" channel="Mega">
+    <title lang="el">L.A.P.D. Επεισόδιο : 25</title>
+  </programme>
+  <programme start="20190924190000 +0300" stop="20190924195000 +0300" channel="Mega">
+    <title lang="el">ΔΥΟ ΞΕΝΟΙ Επεισόδιο : 54</title>
+  </programme>
+  <programme start="20190924195000 +0300" stop="20190924200000 +0300" channel="Mega">
+    <title lang="el">CAMERA CAFE Επεισόδιο : 72</title>
+  </programme>
+  <programme start="20190924200000 +0300" stop="20190924205000 +0300" channel="Mega">
+    <title lang="el">ΣΑΒΒΑΤΟΓΕΝΝΗΜΕΝΕΣ Επεισόδιο : 2</title>
+  </programme>
+  <programme start="20190924205000 +0300" stop="20190924214000 +0300" channel="Mega">
+    <title lang="el">ΚΛΕΜΜΕΝΑ ΟΝΕΙΡΑ Επεισόδιο : 219</title>
+  </programme>
+  <programme start="20190924214000 +0300" stop="20190924223000 +0300" channel="Mega">
+    <title lang="el">Η ΠΟΛΥΚΑΤΟΙΚΙΑ Επεισόδιο : 90</title>
+  </programme>
+  <programme start="20190924223000 +0300" stop="20190924232000 +0300" channel="Mega">
+    <title lang="el">ΠΕΝΗΝΤΑ ΠΕΝΗΝΤΑ Επεισόδιο : 18</title>
+  </programme>
+  <programme start="20190924232000 +0300" stop="20190926001000 +0300" channel="Mega">
+    <title lang="el">ΑΠΩΝ Επεισόδιο : 11</title>
+  </programme>
+  <programme start="20190926001000 +0300" stop="20190926005000 +0300" channel="Mega">
+    <title lang="el">ΤΟ ΣΗΜΑΔΙ ΤΟΥ ΕΡΩΤΑ Επεισόδιο : 5</title>
+  </programme>
+  <programme start="20190926005000 +0300" stop="20190926013000 +0300" channel="Mega">
+    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΗΣ ΕΔΕΜ Επεισόδιο : 141</title>
+  </programme>
+  <programme start="20190926013000 +0300" stop="20190926023000 +0300" channel="Mega">
+    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΗΣ ΕΔΕΜ Επεισόδιο : 142</title>
+  </programme>
+  <programme start="20190926023000 +0300" stop="20190926031000 +0300" channel="Mega">
+    <title lang="el">ΑΝ ΘΥΜΗΘΕΙΣ ΤΟ ΟΝΕΙΡΟ ΜΟΥ Επεισόδιο : 29</title>
+  </programme>
+  <programme start="20190926031000 +0300" stop="20190926040000 +0300" channel="Mega">
+    <title lang="el">ΒΕΡΑ ΣΤΟ ΔΕΞΙ Επεισόδιο : 533</title>
+  </programme>
+  <programme start="20190926040000 +0300" stop="20190926045000 +0300" channel="Mega">
+    <title lang="el">ΒΕΡΑ ΣΤΟ ΔΕΞΙ Επεισόδιο : 534</title>
+  </programme>
+  <programme start="20190926045000 +0300" stop="20190926052000 +0300" channel="Mega">
+    <title lang="el">ΦΙΛΟΔΟΞΙΕΣ Επεισόδιο : 190</title>
+  </programme>
+  <programme start="20190926052000 +0300" stop="20190926055000 +0300" channel="Mega">
+    <title lang="el">ΠΑΡΑΛΛΗΛΟΙ ΔΡΟΜΟΙ Επεισόδιο : 118</title>
+  </programme>
+  <programme start="20190924055000 +0300" stop="20190924064000 +0300" channel="Mega">
+    <title lang="el">Η ΑΓΑΠΗ ΤΗΣ ΓΑΤΑΣ Επεισόδιο : 20</title>
+  </programme>
+  <programme start="20190924064000 +0300" stop="20190924072000 +0300" channel="Mega">
+    <title lang="el">ΓΗ ΚΑΙ ΟΥΡΑΝΟΣ Επεισόδιο : 26</title>
+  </programme>
+  <programme start="20190924072000 +0300" stop="20190924081000 +0300" channel="Mega">
+    <title lang="el">ΛΕΝΗ Επεισόδιο : 4</title>
+  </programme>
+  <programme start="20190924081000 +0300" stop="20190924084000 +0300" channel="Mega">
+    <title lang="el">ΣΕ ΛΑ ΒΙ (ΖΩΗ ΠΟΔΗΛΑΤΟ) Επεισόδιο : 4</title>
+  </programme>
+  <programme start="20190924084000 +0300" stop="20190924091000 +0300" channel="Mega">
+    <title lang="el">ΕΠΤΑ ΚΑΚΑ ΤΗΣ ΜΟΙΡΑΣ ΜΟΥ Επεισόδιο : 170</title>
+  </programme>
+  <programme start="20190924091000 +0300" stop="20190924094000 +0300" channel="Mega">
+    <title lang="el">ΑΥΘΑΙΡΕΤΟΙ Επεισόδιο : 23</title>
+  </programme>
+  <programme start="20190924094000 +0300" stop="20190924101000 +0300" channel="Mega">
+    <title lang="el">ΕΝΑΣ ΑΞΙΟΛΑΤΡΕΥΤΟΣ ΜΠΕΛΑΣ Επεισόδιο : 32</title>
+  </programme>
+  <programme start="20190924101000 +0300" stop="20190924105000 +0300" channel="Mega">
+    <title lang="el">ΧΑΙ ΡΟΚ Επεισόδιο : 78</title>
+  </programme>
+  <programme start="20190924105000 +0300" stop="20190924114000 +0300" channel="Mega">
+    <title lang="el">ΠΕΡΙ ΑΝΕΜΩΝ ΚΑΙ ΥΔΑΤΩΝ Επεισόδιο : 31</title>
+  </programme>
+  <programme start="20190924114000 +0300" stop="20190924122000 +0300" channel="Mega">
+    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΗΣ ΕΔΕΜ Επεισόδιο : 143</title>
+  </programme>
+  <programme start="20190924122000 +0300" stop="20190924131000 +0300" channel="Mega">
+    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΗΣ ΕΔΕΜ Επεισόδιο : 144</title>
+  </programme>
+  <programme start="20190924131000 +0300" stop="20190924140000 +0300" channel="Mega">
+    <title lang="el">ΒΕΡΑ ΣΤΟ ΔΕΞΙ Επεισόδιο : 535</title>
+  </programme>
+  <programme start="20190924140000 +0300" stop="20190924145000 +0300" channel="Mega">
+    <title lang="el">ΒΕΡΑ ΣΤΟ ΔΕΞΙ Επεισόδιο : 536</title>
+  </programme>
+  <programme start="20190924145000 +0300" stop="20190924153000 +0300" channel="Mega">
+    <title lang="el">Η ΖΩΗ ΤΗΣ ΑΛΛΗΣ Επεισόδιο : 297</title>
+  </programme>
+  <programme start="20190924153000 +0300" stop="20190924160000 +0300" channel="Mega">
+    <title lang="el">ΑΣΥΝΗΘΕΙΣ ΥΠΟΠΤΟΙ Επεισόδιο : 28</title>
+  </programme>
+  <programme start="20190924160000 +0300" stop="20190924163000 +0300" channel="Mega">
+    <title lang="el">ΕΣΥ ΦΤΑΙΣ Επεισόδιο : 7</title>
+  </programme>
+  <programme start="20190924163000 +0300" stop="20190924172000 +0300" channel="Mega">
+    <title lang="el">ΡΕΤΙΡΕ Επεισόδιο : 53</title>
+  </programme>
+  <programme start="20190924172000 +0300" stop="20190924181000 +0300" channel="Mega">
+    <title lang="el">Η Γενιά των 592€ Επεισόδιο : 18</title>
+  </programme>
+  <programme start="20190924181000 +0300" stop="20190924190000 +0300" channel="Mega">
+    <title lang="el">L.A.P.D. Επεισόδιο : 26</title>
+  </programme>
+  <programme start="20190924190000 +0300" stop="20190924195000 +0300" channel="Mega">
+    <title lang="el">ΔΥΟ ΞΕΝΟΙ Επεισόδιο : 55</title>
+  </programme>
+  <programme start="20190924195000 +0300" stop="20190924200000 +0300" channel="Mega">
+    <title lang="el">CAMERA CAFE Επεισόδιο : 73</title>
+  </programme>
+  <programme start="20190924200000 +0300" stop="20190924205000 +0300" channel="Mega">
+    <title lang="el">ΣΑΒΒΑΤΟΓΕΝΝΗΜΕΝΕΣ Επεισόδιο : 3</title>
+  </programme>
+  <programme start="20190924205000 +0300" stop="20190924214000 +0300" channel="Mega">
+    <title lang="el">ΚΛΕΜΜΕΝΑ ΟΝΕΙΡΑ Επεισόδιο : 220</title>
+  </programme>
+  <programme start="20190924214000 +0300" stop="20190924223000 +0300" channel="Mega">
+    <title lang="el">Η ΠΟΛΥΚΑΤΟΙΚΙΑ Επεισόδιο : 91</title>
+  </programme>
+  <programme start="20190924223000 +0300" stop="20190924232000 +0300" channel="Mega">
+    <title lang="el">ΠΕΝΗΝΤΑ ΠΕΝΗΝΤΑ Επεισόδιο : 19</title>
+  </programme>
+  <programme start="20190924232000 +0300" stop="20190927001000 +0300" channel="Mega">
+    <title lang="el">ΑΠΩΝ Επεισόδιο : 12</title>
+  </programme>
+  <programme start="20190927001000 +0300" stop="20190927005000 +0300" channel="Mega">
+    <title lang="el">ΤΟ ΣΗΜΑΔΙ ΤΟΥ ΕΡΩΤΑ Επεισόδιο : 6</title>
+  </programme>
+  <programme start="20190927005000 +0300" stop="20190927012000 +0300" channel="Mega">
+    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΗΣ ΕΔΕΜ Επεισόδιο : 143</title>
+  </programme>
+  <programme start="20190927012000 +0300" stop="20190927022000 +0300" channel="Mega">
+    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΗΣ ΕΔΕΜ Επεισόδιο : 144</title>
+  </programme>
+  <programme start="20190927022000 +0300" stop="20190927031000 +0300" channel="Mega">
+    <title lang="el">ΑΝ ΘΥΜΗΘΕΙΣ ΤΟ ΟΝΕΙΡΟ ΜΟΥ Επεισόδιο : 30</title>
+  </programme>
+  <programme start="20190927031000 +0300" stop="20190927040000 +0300" channel="Mega">
+    <title lang="el">ΒΕΡΑ ΣΤΟ ΔΕΞΙ Επεισόδιο : 535</title>
+  </programme>
+  <programme start="20190927040000 +0300" stop="20190927045000 +0300" channel="Mega">
+    <title lang="el">ΒΕΡΑ ΣΤΟ ΔΕΞΙ Επεισόδιο : 536</title>
+  </programme>
+  <programme start="20190927045000 +0300" stop="20190927052000 +0300" channel="Mega">
+    <title lang="el">ΦΙΛΟΔΟΞΙΕΣ Επεισόδιο : 191</title>
+  </programme>
+  <programme start="20190927052000 +0300" stop="20190927055000 +0300" channel="Mega">
+    <title lang="el">ΠΑΡΑΛΛΗΛΟΙ ΔΡΟΜΟΙ Επεισόδιο : 119</title>
   </programme>
 </tv>
