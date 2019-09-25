@@ -2,34 +2,47 @@
 <tv generator-info-name="cytv" generator-info-url="">
   <channel id="rik1">
     <display-name lang="el">Rik1</display-name>
+	  </channel>
   <channel id="rik2">
     <display-name lang="el">Rik2</display-name>
+	  </channel>
   <channel id="ANT1">
     <display-name lang="el">ANT1</display-name>
+	  </channel>
   <channel id="Mega">
     <display-name lang="el">Omega</display-name>
+	  </channel>
   <channel id="Sigma">
     <display-name lang="el">Sigma</display-name>
+	  </channel>
   <channel id="Plus TV">
     <display-name lang="el">Plus TV</display-name>
+	  </channel>
   <channel id="Extra TV">
     <display-name lang="el">Extra TV</display-name>
+	  </channel>
   <channel id="Capital">
     <display-name lang="el">Capital</display-name>
+	  </channel>
   <channel id="Alpha Cyprus">
     <display-name lang="el">Alpha Cyprus</display-name>
+	  </channel>
   <channel id="TV Mall">
     <display-name lang="el">TV Mall</display-name>
+	  </channel>
   <channel id="smile">
     <display-name lang="el">Smile</display-name>
+	  </channel>
   <channel id="RIK HD">
     <display-name lang="el">RIK HD</display-name>
+	  </channel>
   <channel id="Euronews">
     <display-name lang="el">Euronews</display-name>
+	  </channel>
   <channel id="ert">
     <display-name lang="el">ErtWorld</display-name>
   </channel>
-    <programme start="20190924040000 +0000" stop="20190924060000 +0000" channel="RIK HD">
+   <programme start="20190924040000 +0000" stop="20190924060000 +0000" channel="RIK HD">
     <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
     <desc lang="el">Το κανάλι δεν εκπέμπει σε 24ωρη βάση παρά μόνο καλύπτει συγκεκριμένες μεταδόσεις της κρατικής τηλεόρασης του ΡΙΚ. Μεταδίδονται ζωντανά αγώνες του UEFA EUROPA LEAGUE, του Ευρωπαϊκού και Παγκόσμιου Πρωταθλήματος Καλλιτεχνικού Πατινάζ, του EURO, του Μουντιάλ και οι Ολυμπιακοί Αγώνες. Επίσης, στο ΡΙΚ HD μεταδίδεται ο Διαγωνισμός Τραγουδιού της Eurovision(n)</desc>
   </programme>
