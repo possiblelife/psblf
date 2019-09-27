@@ -2,30 +2,43 @@
 <tv generator-info-name="grtv" generator-info-url="">
   <channel id="vouli">
     <display-name lang="el">Βουλή</display-name>
+	  </channel>
   <channel id="ert1">
     <display-name lang="el">ΕΡΤ1</display-name>
+	  </channel>
   <channel id="ert2">
     <display-name lang="el">ΕΡΤ2</display-name>
+	  </channel>
   <channel id="ert3">
     <display-name lang="el">ΕΡΤ3</display-name>
+	  </channel>
   <channel id="Mega">
     <display-name lang="el">Mega</display-name>
+	  </channel>
   <channel id="Euronews">
     <display-name lang="el">Euronews</display-name>
+	  </channel>
   <channel id="ertsports">
     <display-name lang="el">ertsports</display-name>
+	  </channel>
   <channel id="ONE Channel">
     <display-name lang="el">ONE Channel</display-name>
+	  </channel>
   <channel id="ANT1">
     <display-name lang="el">Ant1</display-name>
+	  </channel>
   <channel id="SKAI">
     <display-name lang="el">Skai</display-name>
+	  </channel>
   <channel id="ACTION24">
     <display-name lang="el">ACTION24</display-name>
+	  </channel>
   <channel id="KONTRA">
     <display-name lang="el">KONTRA</display-name>
+	  </channel>
   <channel id="OPEN BEYOND">
     <display-name lang="el">OPEN BEYOND</display-name>
+	  </channel>
   <channel id="smile">
     <display-name lang="el">Smile</display-name>
   </channel>
