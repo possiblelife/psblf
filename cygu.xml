@@ -42,90 +42,6 @@
   <channel id="ert">
     <display-name lang="el">ErtWorld</display-name>
   </channel>
-  <programme start="20191019031500 +0000" stop="20191019034500 +0000" channel="rik1">
-    <title lang="el">Ο Πιο Αδύναμος Κρίκος</title>
-  </programme>
-  <programme start="20191019034500 +0000" stop="20191019044500 +0000" channel="rik1">
-    <title lang="el">Πρώτη Ενημέρωση</title>
-  </programme>
-  <programme start="20191019044500 +0000" stop="20191019051500 +0000" channel="rik1">
-    <title lang="el">Καλημέρα κύριε Τάκη</title>
-  </programme>
-  <programme start="20191019051500 +0000" stop="20191019054500 +0000" channel="rik1">
-    <title lang="el">Βήματα στην Άμμο</title>
-  </programme>
-  <programme start="20191019054500 +0000" stop="20191019071500 +0000" channel="rik1">
-    <title lang="el">Καμώματα τζι Αρώματα</title>
-  </programme>
-  <programme start="20191019071500 +0000" stop="20191019093500 +0000" channel="rik1">
-    <title lang="el">Χάλκινα Χρόνια</title>
-  </programme>
-  <programme start="20191019093500 +0000" stop="20191019100000 +0000" channel="rik1">
-    <title lang="el">Movie Time</title>
-  </programme>
-  <programme start="20191019100000 +0000" stop="20191019110000 +0000" channel="rik1">
-    <title lang="el">Φάκελοι Κύπρου</title>
-  </programme>
-  <programme start="20191019110000 +0000" stop="20191019111000 +0000" channel="rik1">
-    <title lang="el">Ειδήσεις</title>
-  </programme>
-  <programme start="20191019111000 +0000" stop="20191019120000 +0000" channel="rik1">
-    <title lang="el">Προσωπογραφίες</title>
-  </programme>
-  <programme start="20191019120000 +0000" stop="20191019130000 +0000" channel="rik1">
-    <title lang="el">Κάποτε το '80</title>
-  </programme>
-  <programme start="20191019130000 +0000" stop="20191019140000 +0000" channel="rik1">
-    <title lang="el">Κύπριοι του Κόσμου</title>
-  </programme>
-  <programme start="20191019140000 +0000" stop="20191019150000 +0000" channel="rik1">
-    <title lang="el">ΑrtCafe</title>
-  </programme>
-  <programme start="20191019150000 +0000" stop="20191019152000 +0000" channel="rik1">
-    <title lang="el">Ειδήσεις και στη νοηματική</title>
-  </programme>
-  <programme start="20191019152000 +0000" stop="20191019160000 +0000" channel="rik1">
-    <title lang="el">Πεταλούδα</title>
-  </programme>
-  <programme start="20191019160000 +0000" stop="20191019162500 +0000" channel="rik1">
-    <title lang="el">Road Trip</title>
-  </programme>
-  <programme start="20191019162500 +0000" stop="20191019170000 +0000" channel="rik1">
-    <title lang="el">Κάποτε το '80</title>
-  </programme>
-  <programme start="20191019170000 +0000" stop="20191019180500 +0000" channel="rik1">
-    <title lang="el">Ειδήσεις</title>
-  </programme>
-  <programme start="20191019180500 +0000" stop="20191019183000 +0000" channel="rik1">
-    <title lang="el">Αθλητικό Σάββατο</title>
-  </programme>
-  <programme start="20191019183000 +0000" stop="20191019201500 +0000" channel="rik1">
-    <title lang="el">Ένα αξέχαστο καλοκαίρι» (The way way back)</title>
-  </programme>
-  <programme start="20191019201500 +0000" stop="20191019202000 +0000" channel="rik1">
-    <title lang="el">Ειδήσεις</title>
-  </programme>
-  <programme start="20191019202000 +0000" stop="20191019210500 +0000" channel="rik1">
-    <title lang="el">The Graham Norton Show</title>
-  </programme>
-  <programme start="20191019210500 +0000" stop="20191019220000 +0000" channel="rik1">
-    <title lang="el">Φάκελοι Κύπρου</title>
-  </programme>
-  <programme start="20191019220000 +0000" stop="20191019223000 +0000" channel="rik1">
-    <title lang="el">Βήματα στην Άμμο</title>
-  </programme>
-  <programme start="20191019223000 +0000" stop="20191019230000 +0000" channel="rik1">
-    <title lang="el">Xωρίς Αποσκευές</title>
-  </programme>
-  <programme start="20191019230000 +0000" stop="20191020000000 +0000" channel="rik1">
-    <title lang="el">Ειδήσεις</title>
-  </programme>
-  <programme start="20191020000000 +0000" stop="20191020010000 +0000" channel="rik1">
-    <title lang="el">Προσωπογραφίες</title>
-  </programme>
-  <programme start="20191020010000 +0000" stop="20191020020000 +0000" channel="rik1">
-    <title lang="el">ΑrtCafe</title>
-  </programme>
   <programme start="20191020033000 +0000" stop="20191020040000 +0000" channel="rik1">
     <title lang="el">Πεταλούδα</title>
   </programme>
@@ -336,92 +252,74 @@
   <programme start="20191022224500 +0000" stop="20191023000000 +0000" channel="rik1">
     <title lang="el">Ειδήσεις</title>
   </programme>
-  <programme start="20191019043000 +0000" stop="20191019045000 +0000" channel="rik2">
-    <title lang="el">Ολίβια</title>
+  <programme start="20191023000000 +0000" stop="20191023011500 +0000" channel="rik1">
+    <title lang="el">Happy Hour με τον Ανδρέα Γιόρτσιο</title>
   </programme>
-  <programme start="20191019045000 +0000" stop="20191019051500 +0000" channel="rik2">
-    <title lang="el">Ντετέκτιβ Νόντι</title>
+  <programme start="20191023011500 +0000" stop="20191023021500 +0000" channel="rik1">
+    <title lang="el">Χρυσές Συνταγές</title>
   </programme>
-  <programme start="20191019051500 +0000" stop="20191019055000 +0000" channel="rik2">
-    <title lang="el">Ο Ταχυδρόμος Πατ</title>
+  <programme start="20191023031500 +0000" stop="20191023034500 +0000" channel="rik1">
+    <title lang="el">Καμώματα τζι Αρώματα</title>
   </programme>
-  <programme start="20191019055000 +0000" stop="20191019061500 +0000" channel="rik2">
-    <title lang="el">Τα Παπούτσια της Φράνυ</title>
+  <programme start="20191023034500 +0000" stop="20191023063000 +0000" channel="rik1">
+    <title lang="el">Πρώτη Ενημέρωση</title>
   </programme>
-  <programme start="20191019061500 +0000" stop="20191019071000 +0000" channel="rik2">
-    <title lang="el">Η Μάρθα Μιλά</title>
+  <programme start="20191023063000 +0000" stop="20191023090000 +0000" channel="rik1">
+    <title lang="el">Όμορφη μέρα-κάθε μέρα</title>
   </programme>
-  <programme start="20191019071000 +0000" stop="20191019073500 +0000" channel="rik2">
-    <title lang="el">Ο Σούπερ Γουάϊ</title>
+  <programme start="20191023090000 +0000" stop="20191023112500 +0000" channel="rik1">
+    <title lang="el">Από μέρα σε μέρα</title>
   </programme>
-  <programme start="20191019073500 +0000" stop="20191019080000 +0000" channel="rik2">
-    <title lang="el">Ο Ροζ Πάνθηρας</title>
+  <programme start="20191023112500 +0000" stop="20191023113000 +0000" channel="rik1">
+    <title lang="el">Κρατικό Λαχείο</title>
   </programme>
-  <programme start="20191019080000 +0000" stop="20191019083000 +0000" channel="rik2">
-    <title lang="el">ΠΟΠ ΚΟΡΝ παίζω και μαθαίνω</title>
+  <programme start="20191023113000 +0000" stop="20191023123000 +0000" channel="rik1">
+    <title lang="el">Εμείς κι ο Κόσμος μας</title>
   </programme>
-  <programme start="20191019083000 +0000" stop="20191019090000 +0000" channel="rik2">
-    <title lang="el">Παιχνιδούπολη</title>
+  <programme start="20191023123000 +0000" stop="20191023133000 +0000" channel="rik1">
+    <title lang="el">Χρυσές Συνταγές</title>
   </programme>
-  <programme start="20191019090000 +0000" stop="20191019092000 +0000" channel="rik2">
-    <title lang="el">Ολίβια</title>
+  <programme start="20191023133000 +0000" stop="20191023150000 +0000" channel="rik1">
+    <title lang="el">Happy Hour με τον Ανδρέα Γιόρτσιο</title>
   </programme>
-  <programme start="20191019092000 +0000" stop="20191019093000 +0000" channel="rik2">
-    <title lang="el">Ντετέκτιβ Νόντι</title>
+  <programme start="20191023150000 +0000" stop="20191023152000 +0000" channel="rik1">
+    <title lang="el">Ειδήσεις και στη Νοηματική</title>
   </programme>
-  <programme start="20191019093000 +0000" stop="20191019095500 +0000" channel="rik2">
-    <title lang="el">Ο Τζετ και οι Σούπερ Γουίνγκς</title>
+  <programme start="20191023152000 +0000" stop="20191023160000 +0000" channel="rik1">
+    <title lang="el">Καμώματα τζι Αρώματα</title>
   </programme>
-  <programme start="20191019095500 +0000" stop="20191019102000 +0000" channel="rik2">
-    <title lang="el">Τα Παπούτσια της Φράνυ</title>
+  <programme start="20191023160000 +0000" stop="20191023170000 +0000" channel="rik1">
+    <title lang="el">Ο Πιο Αδύναμος Κρίκος</title>
   </programme>
-  <programme start="20191019102000 +0000" stop="20191019111000 +0000" channel="rik2">
-    <title lang="el">Η Μάρθα Μιλά</title>
+  <programme start="20191023170000 +0000" stop="20191023180500 +0000" channel="rik1">
+    <title lang="el">Ειδήσεις</title>
   </programme>
-  <programme start="20191019111000 +0000" stop="20191019113500 +0000" channel="rik2">
-    <title lang="el">Ο Ροζ Πάνθηρας</title>
+  <programme start="20191023180500 +0000" stop="20191023182500 +0000" channel="rik1">
+    <title lang="el">Χρονογράφημα</title>
   </programme>
-  <programme start="20191019113500 +0000" stop="20191019120000 +0000" channel="rik2">
-    <title lang="el">Ο Σούπερ Γουάϊ</title>
+  <programme start="20191023182500 +0000" stop="20191023191000 +0000" channel="rik1">
+    <title lang="el">Χάλκινα Χρόνια</title>
   </programme>
-  <programme start="20191019120000 +0000" stop="20191019121500 +0000" channel="rik2">
-    <title lang="el">Παιχνιδούπολη</title>
+  <programme start="20191023191000 +0000" stop="20191023191500 +0000" channel="rik1">
+    <title lang="el">Ο δρόμος έχει τη δική του ιστορία</title>
   </programme>
-  <programme start="20191019121500 +0000" stop="20191019124500 +0000" channel="rik2">
-    <title lang="el">ΠΟΠ ΚΟΡΝ παίζω και μαθαίνω</title>
+  <programme start="20191023191500 +0000" stop="20191023200000 +0000" channel="rik1">
+    <title lang="el">Beecham House</title>
   </programme>
-  <programme start="20191019124500 +0000" stop="20191019140000 +0000" channel="rik2">
-    <title lang="el">Τετ-Α-Τετ</title>
+  <programme start="20191023200000 +0000" stop="20191023200500 +0000" channel="rik1">
+    <title lang="el">Ειδήσεις</title>
   </programme>
-  <programme start="20191019140000 +0000" stop="20191019145000 +0000" channel="rik2">
-    <title lang="el">Golden Series</title>
+  <programme start="20191023200500 +0000" stop="20191023210500 +0000" channel="rik1">
+    <title lang="el">H Επιστροφή (Τwin Peaks)</title>
   </programme>
-  <programme start="20191019145000 +0000" stop="20191019154000 +0000" channel="rik2">
-    <title lang="el">Golden Series</title>
+  <programme start="20191023210500 +0000" stop="20191023224500 +0000" channel="rik1">
+    <title lang="el">Όμορφη Μέρα-Κάθε Μέρα</title>
   </programme>
-  <programme start="20191019154000 +0000" stop="20191019163000 +0000" channel="rik2">
-    <title lang="el">Baywatch</title>
+  <programme start="20191023224500 +0000" stop="20191023234500 +0000" channel="rik1">
+    <title lang="el">Ειδήσεις</title>
   </programme>
-  <programme start="20191019163000 +0000" stop="20191019164000 +0000" channel="rik2">
-    <title lang="el">Ειδήσεις στην αγγλική</title>
-  </programme>
-  <programme start="20191019164000 +0000" stop="20191019170000 +0000" channel="rik2">
-    <title lang="el">Ειδήσεις στην τουρκική</title>
-  </programme>
-  <programme start="20191019170000 +0000" stop="20191019173000 +0000" channel="rik2">
-    <title lang="el">Reaching for the Stars</title>
-  </programme>
-  <programme start="20191019173000 +0000" stop="20191019180500 +0000" channel="rik2">
-    <title lang="el">Art of Space</title>
-  </programme>
-  <programme start="20191019180500 +0000" stop="20191019190000 +0000" channel="rik2">
-    <title lang="el">Τhe Graham Norton Show</title>
-  </programme>
-  <programme start="20191019190000 +0000" stop="20191019213500 +0000" channel="rik2">
-    <title lang="el">X-Men Αποκάλυψη</title>
-  </programme>
-  <programme start="20191019213500 +0000" stop="20191019214500 +0000" channel="rik2">
-    <title lang="el">Ειδήσεις στην Αγγλική και Τουρκική</title>
+  <programme start="20191023234500 +0000" stop="20191024000000 +0000" channel="rik1">
+    <title lang="el">Χρονογράφημα</title>
   </programme>
   <programme start="20191020043000 +0000" stop="20191020045000 +0000" channel="rik2">
     <title lang="el">Ολίβια</title>
@@ -705,94 +603,110 @@
   <programme start="20191022214000 +0000" stop="20191023014000 +0000" channel="rik2">
     <title lang="el">Εμείς και ο Κόσμος μας</title>
   </programme>
-  <programme start="20191019031000 +0000" stop="20191019034000 +0000" channel="ANT1">
-    <title lang="el">ΠΡΩΙΝΗ ΕΝΗΜΕΡΩΣΗ</title>
+  <programme start="20191023014000 +0000" stop="20191023024000 +0000" channel="rik2">
+    <title lang="el">Προσωπογραφίες</title>
   </programme>
-  <programme start="20191019034000 +0000" stop="20191019043000 +0000" channel="ANT1">
-    <title lang="el">ΣΑΝ ΤΟΝ ΣΚΥΛΟ ΜΕ ΤΗ ΓΑΤΑ (Ε)</title>
-    <desc lang="el">Ο Γιάννης έχει ένα χρόνο που χώρισε από τη γυναίκα του, τη Ρένα. Ο ίδιος δε θα έφευγε ποτέ, αν δεν τον είχε διώξει εκείνη. Η μαμά της Ρένας, η Αγλαΐα, ο πατέρας του Γιάννη, ο Μενέλαος, και τα δυο παιδιά, η Κατερίνα και ο Τασούλης, δεν έπαψαν να ελπίζουν και να επιδιώκουν να δουν ξανά τη Ρένα και τον Γιάννη μαζί και αγαπημένους. Ώσπου οι χειρότεροι εφιάλτες όλων γίνονται πραγματικότητα. Ο Γιάννης γνωρίζει τη Μαρία και την ερωτεύεται(n)</desc>
+  <programme start="20191023034500 +0000" stop="20191023040000 +0000" channel="rik2">
+    <title lang="el">Προσωπογραφίες</title>
   </programme>
-  <programme start="20191019043000 +0000" stop="20191019053000 +0000" channel="ANT1">
-    <title lang="el">ΙΔΙΑΙΤΕΡΑ ΓΙΑ ΚΛΑΜΑΤΑ (Ε)</title>
-    <desc lang="el">Περίληψη: Η Λίζα είναι ένα κορίτσι από το Βόλο και ζει μόνη στην Αθήνα. Η επιχείρηση στην οποία εργαζόταν ως γραμματέας πρόσφατα έκλεισε και η Λίζα βρίσκεται σε αναζήτηση δουλειάς. Της συμπαραστέκονται οι δύο αγαπημένες της φίλες και ο Σταμάτης που μένει στο απέναντι διαμέρισμα και είναι επίσης και ερωτευμένος μαζί της. Η Λίζα μετά από πολλούς μήνες ανεργίας καταφέρνει να γίνει ιδιαιτέρα γραμματέας ενός γοητευτικού διευθυντή μιας φαρμακευτικής εταιρίας(n)</desc>
+  <programme start="20191023040000 +0000" stop="20191023043000 +0000" channel="rik2">
+    <title lang="el">Road Trip</title>
   </programme>
-  <programme start="20191019053000 +0000" stop="20191019062000 +0000" channel="ANT1">
-    <title lang="el">ΦΙΛΑ ΤΟΝ ΒΑΤΡΑΧΟ ΣΟΥ ΙΙ (Ε)</title>
-    <desc lang="el">Ο Στέφανος είναι ένας ανερχόμενος πολιτικός και ετοιμάζεται να παντρευτεί μια γυναίκα που μπορεί να του εξασφαλίσει την πολιτική του ανέλιξη. Η Όλγα είναι καμαριέρα και μεγαλώνει μόνη τον 8χρονο γιο της. Στην πρώτη τους συνάντηση, ένα παιχνίδι της τύχης την κάνει να μοιάζει σαν να βγήκε από παραμύθι, μέσα στη δανεική τουαλέτα της. Δύο εντελώς διαφορετικοί κόσμοι συναντιούνται..(n)</desc>
+  <programme start="20191023043000 +0000" stop="20191023045000 +0000" channel="rik2">
+    <title lang="el">Ολίβια</title>
   </programme>
-  <programme start="20191019062000 +0000" stop="20191019071000 +0000" channel="ANT1">
-    <title lang="el">MHN ΨΑΡΩΝΕΙΣ ΙΙ (Ε)</title>
-    <desc lang="el">EΠ.6 Ο Μανώλης με την Σάντυ «στα μαχαίρια» αφού μετά την απόφαση του Μανώλη να μπει συνέταιρος στην εταιρεία «τρώγονται» για το ποιος θα γίνει πρόεδρος. Η ψηφοφορία δεν λειτουργεί οπότε αποφασίζουν να θέσουν μεταξύ τους μια δοκιμασία. Αυτό θα τους βάλει σε νέες περιπέτειες και η Σάντυ θα κινδυνεύσει να αποκαλυφθεί ως ιδιοκτήτρια της Αγοράς.  Ταυτόχρονα η μυστηριώδης εξαφάνιση του Μπίλυ θα φέρει νέα αναστάτωση στο σπίτι των Αραποστάθηδων(n)</desc>
+  <programme start="20191023045000 +0000" stop="20191023051500 +0000" channel="rik2">
+    <title lang="el">Ντετέκτιβ Νόντι</title>
   </programme>
-  <programme start="20191019071000 +0000" stop="20191019081000 +0000" channel="ANT1">
-    <title lang="el">ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ (Ε)</title>
-    <desc lang="el">ΕΠ.31+32A Το σαμποτάζ της Φάλον στο ραντεβού του Αντρέα με τη Δονούσα δεν πάει καλά, τη δουλειά όμως για χάρη της θα κάνει ο Κίμωνας που καταλαβαίνει τον -όχι και τόσο- κρυφό πόθο της sommelier για τον Αλέκο και διευθετεί την κατάσταση. Παράλληλα η Θάλεια κάνει ό, τι καλύτερο μπορεί για να ξεχάσει ο Φίλιππος τη μάνα της και τα καταφέρνει. Ο Μένιος «πιάνει» την περίεργη συμπεριφορά της Θάλειας και βρίσκεται κοντά στο να ανακαλύψει τι έγινε το Φίλιππο(n)</desc>
+  <programme start="20191023051500 +0000" stop="20191023053000 +0000" channel="rik2">
+    <title lang="el">Ο Ταχυδρόμος Πατ</title>
   </programme>
-  <programme start="20191019081000 +0000" stop="20191019090000 +0000" channel="ANT1">
-    <title lang="el">LA PASTA POMILώRI III (Ε)</title>
-    <desc lang="el">ΕΠ.1(n)</desc>
+  <programme start="20191023053000 +0000" stop="20191023055000 +0000" channel="rik2">
+    <title lang="el">Ο Τζετ και οι Σούπερ Γουίνγκς</title>
   </programme>
-  <programme start="20191019090000 +0000" stop="20191019095000 +0000" channel="ANT1">
-    <title lang="el">ΥΓΕΙΑ ΠΑΝΩ ΑΠ'ΌΛΑ VIΙΙ</title>
+  <programme start="20191023055000 +0000" stop="20191023061500 +0000" channel="rik2">
+    <title lang="el">Τα Παπούτσια της Φράνυ</title>
   </programme>
-  <programme start="20191019095000 +0000" stop="20191019103000 +0000" channel="ANT1">
-    <title lang="el">THRIVE II</title>
-    <desc lang="el">Γυναίκες και άνδρες που έχουν ξεχωρίσει με την επαγγελματική τους πορεία συνομιλούν κάθε εβδομάδα με τη Ζέτα Δούκα για να μοιραστούν μυστικά και συμβουλές για μία προσωπική, κοινωνική και επαγγελματική ζωή σε ισορροπία(n)</desc>
+  <programme start="20191023061500 +0000" stop="20191023070500 +0000" channel="rik2">
+    <title lang="el">Η Μάρθα Μιλά</title>
   </programme>
-  <programme start="20191019103000 +0000" stop="20191019120000 +0000" channel="ANT1">
-    <title lang="el">ΕΣΥ,ΣΤΟΝ ΚΟΣΜΟ ΣΟΥ ΙΙ (Ε)</title>
-    <desc lang="el">ΕΠ.21+22  Όλοι στο σπίτι της οικογένειας Χριστάκη είναι ανάστατοι, αφού η Βίκη εξακολουθεί να είναι άφαντη. Όταν έρχεται ο Χρίστος στο σπίτι, ο εκνευρισμός εντείνεται, όταν οι άλλοι του επιρρίπτουν ευθύνη για το ότι αφήνει τη Βίκη μόνη πολλές ώρες. Μετά τη σύλληψη του τυπά, που μπήκε στο διαμέρισμα της Σύλβιας, η Δέσπω συνομιλεί μαζί με τον Ναπολή και οι ελπίδες της ότι μπορεί να τον κατακτήσει αναπτερώνονται. Η Άννα πιέζει την Άλμα να ανοίξει επιτέλους το στόμα της(n)</desc>
+  <programme start="20191023070500 +0000" stop="20191023073000 +0000" channel="rik2">
+    <title lang="el">Ο Σούπερ Γουάϊ</title>
   </programme>
-  <programme start="20191019120000 +0000" stop="20191019143000 +0000" channel="ANT1">
-    <title lang="el">THE FINAL 4 (Ε)</title>
-    <desc lang="el">Ο απόλυτος διαγωνισμός τραγουδιού! 4 φιναλίστ θα κάνουν τα πάντα για να κρατήσουν τη θέση τους. Είσαι έτοιμος να τους αντιμετωπίσεις;(n)</desc>
+  <programme start="20191023073000 +0000" stop="20191023082000 +0000" channel="rik2">
+    <title lang="el">Ο Ροζ Πάνθηρας</title>
   </programme>
-  <programme start="20191019143000 +0000" stop="20191019150000 +0000" channel="ANT1">
-    <title lang="el">ΑΝ ΗΜΟΥΝ ΠΛΟΥΣΙΟΣ (Ε)</title>
-    <desc lang="el">EΠ.21+22 Ο Σωτήρης δεν τα ξαναβρίσκει με τη Χριστίνα, παρά τις προσπάθειες της δεύτερης. Μάλιστα ο νεόπλουτος και πεισματάρης σύζυγος κάνει μια τεράστια σπατάλη μυστικά από τη γυναίκα του. Η Δάφνη δεν μπορεί να ελέγξει την επιθυμία του Φοίβου να βρίσκεται με τον Στρατή και αποφασίζει να ξεκόψει τελείως, την ίδια ώρα που ο Στρατής δέχεται τρομερό εκβιασμό από τον Βρανά. Η Μόνικα στήνει παγίδα στα ορφανά και ο Νικόλας πέφτει μέσα, είναι έτοιμος να της μιλήσει για το λαχνό(n)</desc>
+  <programme start="20191023082000 +0000" stop="20191023084500 +0000" channel="rik2">
+    <title lang="el">Παιχνιδούπολη</title>
   </programme>
-  <programme start="20191019150000 +0000" stop="20191019151000 +0000" channel="ANT1">
-    <title lang="el">ΤΑ ΝΕΑ ΣΕ 10'</title>
+  <programme start="20191023084500 +0000" stop="20191023085500 +0000" channel="rik2">
+    <title lang="el">Ολίβια</title>
   </programme>
-  <programme start="20191019151000 +0000" stop="20191019163000 +0000" channel="ANT1">
-    <title lang="el">ΣΥΝΕΧΕΙΑ...ΑΝ ΗΜΟΥΝ ΠΛΟΥΣΙΟΣ (Ε)</title>
-    <desc lang="el">EΠ.21+22 Ο Σωτήρης δεν τα ξαναβρίσκει με τη Χριστίνα, παρά τις προσπάθειες της δεύτερης. Μάλιστα ο νεόπλουτος και πεισματάρης σύζυγος κάνει μια τεράστια σπατάλη μυστικά από τη γυναίκα του. Η Δάφνη δεν μπορεί να ελέγξει την επιθυμία του Φοίβου να βρίσκεται με τον Στρατή και αποφασίζει να ξεκόψει τελείως, την ίδια ώρα που ο Στρατής δέχεται τρομερό εκβιασμό από τον Βρανά. Η Μόνικα στήνει παγίδα στα ορφανά και ο Νικόλας πέφτει μέσα, είναι έτοιμος να της μιλήσει για το λαχνό(n)</desc>
+  <programme start="20191023085500 +0000" stop="20191023091500 +0000" channel="rik2">
+    <title lang="el">Ντετέκτιβ Νόντι</title>
   </programme>
-  <programme start="20191019163000 +0000" stop="20191019172000 +0000" channel="ANT1">
-    <title lang="el">ΜΗΝ ΨΑΡΩΝΕΙΣ ΙΙ</title>
-    <desc lang="el">EΠ.7 Από μία παρεξήγηση η Νενέλα και η Στέλλα ετοιμάζουν πυρετωδώς δύο διαφορετικά εγκαίνια για τη Sandy's Fish. Η Τίνα και η Χαρά διαγωνίζονται για τη μία και μοναδική θέση εργασίας στον πάγκο της Σάντυς και ξεκινούν «δοκιμασίες» για να αποδείξουν στην Νενέλα ποια είναι η πιο ικανή για να προσληφθεί(n)</desc>
+  <programme start="20191023091500 +0000" stop="20191023093000 +0000" channel="rik2">
+    <title lang="el">Ο Ταχυδρόμος Πατ</title>
   </programme>
-  <programme start="20191019172000 +0000" stop="20191019182000 +0000" channel="ANT1">
-    <title lang="el">ΤΑ ΝΕΑ ΤΟΥ ΑΝΤΕΝΝΑ</title>
+  <programme start="20191023093000 +0000" stop="20191023095500 +0000" channel="rik2">
+    <title lang="el">Ο Τζετ και οι Σούπερ Γουίνγκς</title>
   </programme>
-  <programme start="20191019182000 +0000" stop="20191019201500 +0000" channel="ANT1">
-    <title lang="el">CASA DE MIKEL</title>
+  <programme start="20191023095500 +0000" stop="20191023102000 +0000" channel="rik2">
+    <title lang="el">Τα Παπούτσια της Φράνυ</title>
   </programme>
-  <programme start="20191019201500 +0000" stop="20191019220000 +0000" channel="ANT1">
-    <title lang="el">ΣΤΙΓΜΑΤΑ (STIGMATA)</title>
-    <desc lang="el">Υπόθεση: Μια νεαρή κοπέλα, άθεη εκ πεποιθήσεως, στοιχειώνεται από το πνεύμα ενός πρόσφατα πεθαμένου ιερέα και αρχίζει να εμφανίζει \(n)</desc>
+  <programme start="20191023102000 +0000" stop="20191023111000 +0000" channel="rik2">
+    <title lang="el">Η Μάρθα Μιλά</title>
   </programme>
-  <programme start="20191019220000 +0000" stop="20191019221000 +0000" channel="ANT1">
-    <title lang="el">ΤΙΤΛΟΙ ΕΙΔΗΣΕΩΝ</title>
+  <programme start="20191023111000 +0000" stop="20191023120000 +0000" channel="rik2">
+    <title lang="el">Ο Ροζ Πάνθηρας</title>
   </programme>
-  <programme start="20191019221000 +0000" stop="20191019230000 +0000" channel="ANT1">
-    <title lang="el">GAME OF THRONES VI</title>
-    <desc lang="el">EΠ.9 -\(n)</desc>
+  <programme start="20191023120000 +0000" stop="20191023123000 +0000" channel="rik2">
+    <title lang="el">Ο Σούπερ Γουαϊ</title>
   </programme>
-  <programme start="20191019230000 +0000" stop="20191019235000 +0000" channel="ANT1">
-    <title lang="el">ΕΓΚΛΗΜΑ ΚΑΙ ΠΑΘΟΣ (Ε)</title>
-    <desc lang="el">Σε κάθε επεισόδιο της  αστυνομικής σειράς ,ένας αφηγητής θα ξετυλίγει το νήμα κάθε ιστορίας. Έγκυροι και έγκριτοι σχολιαστές και αναλυτές θα φωτίζουν τα σκοτεινά σημεία κάθε εγκλήματος «ακτινογραφώντας» τον δράστη, τον μοναδικό αυτόπτη μάρτυρα στις τελευταίες εφιαλτικές στιγμές του θύματος. Τι σκεφτόταν όταν πέρασε εκείνη τη λεπτή κόκκινη  γραμμή; Ποιο κίνητρο όπλισε το χέρι του για να διαπράξει ένα έγκλημα πάθους;  Και τι μπορεί να οδηγήσει έναν άνθρωπο στην αυτοχειρία;(n)</desc>
+  <programme start="20191023123000 +0000" stop="20191023130000 +0000" channel="rik2">
+    <title lang="el">ΣΤΗ ΧΩΡΑ ΤΟΥ ΓΙΑΤΙ</title>
   </programme>
-  <programme start="20191019235000 +0000" stop="20191020004000 +0000" channel="ANT1">
-    <title lang="el">ΠΟΤΕ ΔΕΝ ΞΕΡΕΙΣ (Ε) ΤΕΛΕΥΤΑΙΟ</title>
-    <desc lang="el">Κολλητοί από παιδιά. Ο Χάρης και η Άννα είναι πάντα πρόθυμοι να προσφέρουν ο ένας στον άλλο συμπαράσταση αλλά και παρηγοριά στις δύσκολες ώρες. Στην παρούσα φάση χρειάζονται και οι δυο παρηγοριά στα ερωτικά τους, που πάνε από το κακό στο χειρότερο. ο Χάρης πιάνει τη φιλενάδα του αγκαλιά με τη...φιλενάδα της, ενώ η Άννα βλέπει το δεσμό της να βαδίζει προς το πουθενά(n)</desc>
+  <programme start="20191023130000 +0000" stop="20191023135000 +0000" channel="rik2">
+    <title lang="el">National Geographic : Cesar Milan's Dog Nation</title>
   </programme>
-  <programme start="20191020004000 +0000" stop="20191020013000 +0000" channel="ANT1">
-    <title lang="el">ΤΑ ΝΕΑ ΤΟΥ ΑΝΤΕΝΝΑ (Ε)</title>
+  <programme start="20191023135000 +0000" stop="20191023144500 +0000" channel="rik2">
+    <title lang="el">Golden Series</title>
   </programme>
-  <programme start="20191020013000 +0000" stop="20191020022000 +0000" channel="ANT1">
-    <title lang="el">ΟΣΟ ΥΠΑΡΧΕΙ ΑΓΑΠΗ (Ε)</title>
-    <desc lang="el">Περίληψη: Με φόντο την Αθήνα με τους αγχωτικούς ρυθμούς και τις επιταγές του σύγχρονου life-style. Tρεις άνθρωποι, ένας άνδρας και δυο γυναίκες, πετυχημένοι αλλά ανικανοποίητοι, διψασμένοι για αγάπη, θα δουν τις ζωές τους να διασταυρώνονται μέσα από μοιραίες συμπτώσεις και να ενώνονται με ένα πάθος που τους οδηγεί πέρα από τα όρια και δε σταματά ούτε με το θάνατο. Μέσα σε αυτό το ακραίο παιχνίδι θα ανακαλύψουν τη δύναμη της αγάπης, που θα πει την τελευταία λέξη με ένα θαύμα(n)</desc>
+  <programme start="20191023144500 +0000" stop="20191023154500 +0000" channel="rik2">
+    <title lang="el">Golden Series</title>
+  </programme>
+  <programme start="20191023154500 +0000" stop="20191023164000 +0000" channel="rik2">
+    <title lang="el">Baywatch</title>
+  </programme>
+  <programme start="20191023164000 +0000" stop="20191023165000 +0000" channel="rik2">
+    <title lang="el">Ειδήσεις στην αγγλική</title>
+  </programme>
+  <programme start="20191023165000 +0000" stop="20191023170000 +0000" channel="rik2">
+    <title lang="el">Ειδήσεις στην τουρκική</title>
+  </programme>
+  <programme start="20191023170000 +0000" stop="20191023173000 +0000" channel="rik2">
+    <title lang="el">Classified World War II</title>
+  </programme>
+  <programme start="20191023173000 +0000" stop="20191023180500 +0000" channel="rik2">
+    <title lang="el">Art of Space</title>
+  </programme>
+  <programme start="20191023180500 +0000" stop="20191023190000 +0000" channel="rik2">
+    <title lang="el">The Story of Us with Morgan Freeman</title>
+  </programme>
+  <programme start="20191023190000 +0000" stop="20191023201500 +0000" channel="rik2">
+    <title lang="el">Isabel</title>
+  </programme>
+  <programme start="20191023201500 +0000" stop="20191023211500 +0000" channel="rik2">
+    <title lang="el">Συνομωσίες Εξουσίας</title>
+  </programme>
+  <programme start="20191023211500 +0000" stop="20191023213000 +0000" channel="rik2">
+    <title lang="el">Ειδήσεις στην Αγγλική και Τουρκική</title>
+  </programme>
+  <programme start="20191023213000 +0000" stop="20191023223000 +0000" channel="rik2">
+    <title lang="el">Εμείς και ο Κόσμος μας</title>
+  </programme>
+  <programme start="20191023223000 +0000" stop="20191024013000 +0000" channel="rik2">
+    <title lang="el">Από Μέρα Σε Μέρα</title>
   </programme>
   <programme start="20191020031000 +0000" stop="20191020034000 +0000" channel="ANT1">
     <title lang="el">ΠΡΩΙΝΗ ΕΝΗΜΕΡΩΣΗ</title>
@@ -1060,65 +974,90 @@
     <title lang="el">ΤΑ 5 ΚΛΕΙΔΙΑ (Ε)</title>
     <desc lang="el">Η Κυβέλη Δελμούζου είναι μια όμορφη και καλλιεργημένη γυναίκα. Οι γονείς της είναι ο πρώην βουλευτής, Ηλίας Παπαδάτος και η Κίκα Παπαδάτου. Είναι σύζυγος ενός πανίσχυρου και μυστήριου άντρα, του Ορέστη Δελμούζου. Η ιστορία αρχίζει όταν η 4χρονη κόρη της, Μαργαρίτα, που έχει αποκτήσει με τον Ρήγα, απάγεται από το σπίτι που έμενε μαζί με την νταντά της, Κατερίνα. Τότε η Κυβέλη συνειδητοποιεί πως η όμορφη και τακτοποιημένη ζωή της έχει γκρεμιστεί και ο εφιάλτης μόλις αρχίζει(n)</desc>
   </programme>
-  <programme start="20191019064500 +0000" stop="20191019100000 +0000" channel="Mega">
-    <title lang="el">ΕΛΑ, ΧΑΜΟΓΕΛΑ</title>
-    <desc lang="el">Ζωντανή ψυχαγωγική εκπομπή με τους Σίσσυ Χρηστίδου, Παύλο Σταματόπουλο, Κωνσταντίνο Βασάλο και Ελένη Βουλγαράκη(n)</desc>
+  <programme start="20191023002000 +0000" stop="20191023012000 +0000" channel="ANT1">
+    <title lang="el">ΤΑ ΝΕΑ ΤΟΥ ΑΝΤΕΝΝΑ (Ε)</title>
   </programme>
-  <programme start="20191019100000 +0000" stop="20191019110000 +0000" channel="Mega">
-    <title lang="el">ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ (Ε)</title>
-    <desc lang="el">Τηλεπαιχνίδι με τον Πέτρο Πολυχρονίδη γιατί «Όποιος γυρίζει, κερδίζει!»(n)</desc>
+  <programme start="20191023012000 +0000" stop="20191023021000 +0000" channel="ANT1">
+    <title lang="el">ΟΙ ΧΩΡΑΪΤΕΣ (Ε)</title>
   </programme>
-  <programme start="20191019110000 +0000" stop="20191019120000 +0000" channel="Mega">
-    <title lang="el">ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ (Ε)</title>
-    <desc lang="el">Τηλεπαιχνίδι με τον Πέτρο Πολυχρονίδη γιατί «Όποιος γυρίζει, κερδίζει!»(n)</desc>
+  <programme start="20191023034000 +0000" stop="20191023044000 +0000" channel="ANT1">
+    <title lang="el">ΜΠΡΟΥΣΚΟ IV (Ε)</title>
+    <desc lang="el">ΕΠ.643 . Η Αλίκη με τη Γεσθημανή, αποφασίζουν να μπουν κρυφά στο σπίτι του Διαμαντή προκειμένου να βρουν στοιχεία που τον συνδέουν με την υπόθεση του ψεύτικου Χαρίδημου, αλλά εξαιτίας μιας συγκυρίας, θα εγκλωβιστούν μέσα στο σπίτι και δεν θα μπορούν να φύγουν. Η Στέλλα αποφασίζει να πέσει με αλεξίπτωτο και όλοι τρέχουν να την προλάβουν πριν πηδήξει!!!(n)</desc>
   </programme>
-  <programme start="20191019120000 +0000" stop="20191019130000 +0000" channel="Mega">
-    <title lang="el">CELEBRITY TRAVEL</title>
-    <desc lang="el">Ταξιδιωτική εκπομπή με τον Νίκο Κοκλώνη και διάσημους συνοδοιπόρους (Νέο επεισόδιο)(n)</desc>
+  <programme start="20191023044000 +0000" stop="20191023053000 +0000" channel="ANT1">
+    <title lang="el">ΚΑΡΜΑ (Ε)</title>
+    <desc lang="el">Επ:19 . Ο Πέτρος του δηλώνει κατηγορηματικά ότι ο γάμος θα γίνει και να μην έχει καμία ανασφάλεια. Ο Φίλιππος λέει στην Πέρσα ότι ο Πέτρος έχει προφητικές ικανότητες και είναι χαρισματικό άτομο, απλά ο ίδιος δεν το ξέρει. Η Σμαράγδα πηγαίνει στο σκάφος να πάρει το κινητό που ξέχασε και ο Άγγελος της προτείνει να πάνε μια βόλτα στα ανοιχτά..(n)</desc>
   </programme>
-  <programme start="20191019130000 +0000" stop="20191019150000 +0000" channel="Mega">
-    <title lang="el">ΕΝΑΣ ΓΙΑ ΟΛΟΥΣ</title>
-    <desc lang="el">Τηλεπαιχνίδι με παρεΐστικη διάθεση, χιούμορ και. όνειρα που γίνονται πραγματικότητα, με την Μαρία Μπακοδήμου(n)</desc>
+  <programme start="20191023053000 +0000" stop="20191023061000 +0000" channel="ANT1">
+    <title lang="el">ΔΕΙΞΕ ΜΟΥ ΤΟ ΦΙΛΟ ΣΟΥ II (Ε)</title>
   </programme>
-  <programme start="20191019150000 +0000" stop="20191019151000 +0000" channel="Mega">
-    <title lang="el">OMEGA NEWS</title>
-    <desc lang="el">Απογευματινό δελτίο Ειδήσεων(n)</desc>
+  <programme start="20191023061000 +0000" stop="20191023070000 +0000" channel="ANT1">
+    <title lang="el">STILL STANDING III (E)</title>
   </programme>
-  <programme start="20191019151000 +0000" stop="20191019171000 +0000" channel="Mega">
-    <title lang="el">GREECE'S NEXT TOP MODEL - BEST OF</title>
-    <desc lang="el">Ριάλιτι μόδας και ομορφιάς με τους Βίκυ Καγιά, Δημήτρη Σκουλό, Άγγελο Μπράτη και Ηλιάνα Παπαγεωργίου(n)</desc>
+  <programme start="20191023070000 +0000" stop="20191023084500 +0000" channel="ANT1">
+    <title lang="el">TO ΠΡΩΙΝΟ</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή, παρουσιάζει η Φαίη Σκορδά(n)</desc>
   </programme>
-  <programme start="20191019171000 +0000" stop="20191019180000 +0000" channel="Mega">
-    <title lang="el">OMEGA NEWS</title>
-    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων(n)</desc>
+  <programme start="20191023084500 +0000" stop="20191023110000 +0000" channel="ANT1">
+    <title lang="el">ΜΕΡΑ ΜΕΣΗΜΕΡΙ</title>
   </programme>
-  <programme start="20191019180000 +0000" stop="20191019190000 +0000" channel="Mega">
-    <title lang="el">Η ΟΙΚΟΓΕΝΕΙΑ ΒΛΑΠΤΕΙ</title>
-    <desc lang="el">Ελληνική κωμική σειρά με τους Χρύσα Ρώπα, Σάκη Μπουλά, Πυγμαλίων Δαδακαρίδης, Αγγελική Λάμπρη, Θωμαϊς Ανδρούτσου, Γιάννη Βογιατζή (2009) (ΕΠ.1)(n)</desc>
+  <programme start="20191023110000 +0000" stop="20191023115000 +0000" channel="ANT1">
+    <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ (Ε)</title>
+    <desc lang="el">Η συνύπαρξη δύο διαφορετικών ανθρώπων είναι το θέμα της σειράς. Ο Κωνσταντίνος Κατακουζηνός είναι επίκουρος καθηγητής της Βυζαντινολογίας και γενικά μισάνθρωπος. Η Ελένη Βλαχάκου είναι μια χαρούμενη σερβιτόρα. Από τη συμβίωση των δυο άκρως αντίθετων χαρακτήρων δημιουργούνται διάφορα ευτράπελα. Τους ήρωές μας ενώνει κάτι κοινό, μια αδιόρατη ερωτική έλξη(n)</desc>
   </programme>
-  <programme start="20191019190000 +0000" stop="20191019204000 +0000" channel="Mega">
-    <title lang="el">DUMA</title>
-    <desc lang="el">Μια μέρα, ο Ξαν, ένα αγόρι που ζει με τους γονείς του σ' ένα ράντσο στην Κένυα, βρίσκει ένα μικρό τσιτάχ, αβοήθητο και πεινασμένο. Ο Ξαν, που του χαρίζει το όνομα Ντουμς (από το Ντουμά, που στα σουαχίλι σημαίνει «αρσενικό τσιτάχ»), δεν διστάζει να το πάρει σπίτι και σύντομα οι δυο τους γίνονται αχώριστοι φίλοι. Παρόλα αυτά το μικρό αγόρι και οι γονείς του γνωρίζουν πολύ καλά πως, όταν μεγαλώσει αρκετά, ο Ντουμς θα ακολουθήσει το δρόμο του, μέσα στη ζούγκλα και μακριά από τη θαλπωρή του σπιτιού τους. Οικογενειακή ταινία παραγωγής 2005, σε σκηνοθεσία Κάρολ Μπάλαρντ με τους: Άλεξ Μιχαελάτο, Κάμπελ Σκοτ, Χόουπ Ντέιβις κ.α. Διάρκεια: 100'(n)</desc>
+  <programme start="20191023115000 +0000" stop="20191023134000 +0000" channel="ANT1">
+    <title lang="el">ΕΣΥ, ΣΤΟΝ ΚΟΣΜΟ ΣΟΥ ΙΙ (Ε)</title>
+    <desc lang="el">ΕΠ26 Η Σταυρούλα ανακοινώνει στον Αδάμο ότι θα παντρευτούν με τον Λοίζο την ίδια ώρα που ο Αλέξανδρος «εξαφανίζεται» από το νοσοκομείο όπου νοσηλεύεται μετά τον πυροβολισμό που δέχτηκε. Η Βίκυ θα βρεθεί στη πρόβα του Γιοχάνες με την μπάντα του και θα τον εντυπωσιάσει με την ερμηνεία της. Μια αποκάλυψη περιμένει την Άννα, όταν η Άλμα θα της αποκαλύψει ότι ο νονός της, ο Ιωαννίδης, κρύβεται πίσω από όλα(n)</desc>
   </programme>
-  <programme start="20191019204000 +0000" stop="20191019214000 +0000" channel="Mega">
-    <title lang="el">ΣΗΜΕΙΑ ΚΑΙ ΤΕΡΑΤΑ</title>
-    <desc lang="el">Κωμική σειρά με τους Χρήστο Σιμαρδάνη, Μαρία Τζομπανάκη, Μέμο Μπεγνή, Μιχάλη Σοφοκλέους(n)</desc>
+  <programme start="20191023134000 +0000" stop="20191023143000 +0000" channel="ANT1">
+    <title lang="el">ΑΙΓΙΑ FUXIA ΙΙ (Ε)</title>
+    <desc lang="el">Περίληψη: Η ιστορία εκτυλίσσεται στο \(n)</desc>
   </programme>
-  <programme start="20191019214000 +0000" stop="20191019224000 +0000" channel="Mega">
-    <title lang="el">ΑΡΕΝΑ (Ε)</title>
-    <desc lang="el">Δραματική σειρά με την υπογραφή του Δημήτρη Αρβανίτη(n)</desc>
+  <programme start="20191023143000 +0000" stop="20191023150000 +0000" channel="ANT1">
+    <title lang="el">STILL STANDING III</title>
   </programme>
-  <programme start="20191019224000 +0000" stop="20191019234000 +0000" channel="Mega">
-    <title lang="el">ΖΩΗ ΜΟΥ (E)</title>
-    <desc lang="el">Δραματική σειρά(n)</desc>
+  <programme start="20191023150000 +0000" stop="20191023151000 +0000" channel="ANT1">
+    <title lang="el">ΤΑ ΝΕΑ ΣΕ 10'</title>
   </programme>
-  <programme start="20191019234000 +0000" stop="20191020020000 +0000" channel="Mega">
-    <title lang="el">DANSING JUNIOR (Ε)</title>
-    <desc lang="el">Ψυχαγωγική εκπομπή(n)</desc>
+  <programme start="20191023151000 +0000" stop="20191023153000 +0000" channel="ANT1">
+    <title lang="el">ΣΥΝΕΧΕΙΑ...STILL STANDING III</title>
   </programme>
-  <programme start="20191020020000 +0000" stop="20191020023000 +0000" channel="Mega">
-    <title lang="el">UNA FATSA (Ε)</title>
-    <desc lang="el">Τηλεπαιχνίδι(n)</desc>
+  <programme start="20191023153000 +0000" stop="20191023163000 +0000" channel="ANT1">
+    <title lang="el">LA PASTA POMILώRI III (Ε)</title>
+    <desc lang="el">ΕΠ.4(n)</desc>
+  </programme>
+  <programme start="20191023163000 +0000" stop="20191023172000 +0000" channel="ANT1">
+    <title lang="el">ΑΝ ΗΜΟΥΝ ΠΛΟΥΣΙΟΣ</title>
+    <desc lang="el">EΠ.28 Ο Πέτρος προτείνει στη Δάφνη ένα παράτολμο σχέδιο, για να ξεσκεπάσει το σκάνδαλο που εμπλέκεται ο Βρανάς, ενώ η Κική κάνει μια πρόταση στον Στρατή που θα κλονίσει τον επικείμενο γάμο τους. Μια αδιαθεσία του Νικόλα θα τον κάνει να πάρει την απόφαση να δώσει τον λαχνό στη Μόνικα. Θα καταφέρει η Σμαράγδα να τον αποτρέψει γι' ακόμα μια φορά;(n)</desc>
+  </programme>
+  <programme start="20191023172000 +0000" stop="20191023182000 +0000" channel="ANT1">
+    <title lang="el">ΤΑ ΝΕΑ ΤΟΥ ΑΝΤΕΝΝΑ</title>
+  </programme>
+  <programme start="20191023182000 +0000" stop="20191023192000 +0000" channel="ANT1">
+    <title lang="el">ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ</title>
+    <desc lang="el">ΕΠ.34 : «Sucianella di Dromokaitio»¬ς_ώ\(n)</desc>
+  </programme>
+  <programme start="20191023192000 +0000" stop="20191023201000 +0000" channel="ANT1">
+    <title lang="el">ΕΣΥ, ΣΤΟΝ ΚΟΣΜΟ ΣΟΥ! ΙΙ</title>
+    <desc lang="el">ΕΠ.27 Η Νίτσα ζητάει να μπει κουμπάρα στον γάμο Λούη και Σταυρούλας, την ώρα που η Πολυδώρα βρίσκει τους πιο απίθανους τρόπους να κατασκοπεύει την γειτονιά! Στο νοσοκομείο, ο Δημήτρης παρηγορεί την Ελίνα και τυχαία η Μαρία βλέπει το σκηνικό και δεν της αρέσει καθόλου! Ο Αλέξανδρος, πάει στο σπίτι της Άλμας και ζητά να τον βοηθήσει την ίδια ώρα που ο Χρήστος ζητά από τον ανώτερο του συμβουλές για την υπόθεση του Ιωαννίδη αφού τους έχουν θέσει εκτός της υπόθεσης!(n)</desc>
+  </programme>
+  <programme start="20191023201000 +0000" stop="20191023211000 +0000" channel="ANT1">
+    <title lang="el">ΑΓΡΙΕΣ ΜΕΛΙΣΣΕΣ</title>
+    <desc lang="el">Επ.15(n)</desc>
+  </programme>
+  <programme start="20191023211000 +0000" stop="20191023211500 +0000" channel="ANT1">
+    <title lang="el">ΤΙΤΛΟΙ ΕΙΔΗΣΕΩΝ</title>
+  </programme>
+  <programme start="20191023211500 +0000" stop="20191023224000 +0000" channel="ANT1">
+    <title lang="el">THE 2 NIGHT SHOW</title>
+  </programme>
+  <programme start="20191023224000 +0000" stop="20191023233000 +0000" channel="ANT1">
+    <title lang="el">ΒΟΤΚΑ ΠΟΡΤΟΚΑΛΙ (Ε)</title>
+    <desc lang="el">Ο Σπύρος, λογιστής στο επάγγελμα, χάνει την δουλειά του και την γυναίκα του Μαίρη, μια θερμόαιμη κομμώτρια. Ο Σπύρος καταλήγει σε ένα μπαράκι, μεθάει με βότκα και ερωτεύεται κεραυνοβόλα τη Νατάσα, την Ουκρανή μπαργούμαν, που είναι κορίτσι του ιδιοκτήτη του μπαρ Βαγγέλη. Το ίδιο βράδυ, ο Σπύρος σώζει την ζωή του Βαγγέλη από τις σφαίρες μιας συμμορίας και εκείνος του προτείνει να δουλέψει για αυτόν θεωρώντας τον \(n)</desc>
+  </programme>
+  <programme start="20191023233000 +0000" stop="20191024002000 +0000" channel="ANT1">
+    <title lang="el">ΤΑ 5 ΚΛΕΙΔΙΑ (Ε)</title>
+    <desc lang="el">Η Κυβέλη Δελμούζου είναι μια όμορφη και καλλιεργημένη γυναίκα. Οι γονείς της είναι ο πρώην βουλευτής, Ηλίας Παπαδάτος και η Κίκα Παπαδάτου. Είναι σύζυγος ενός πανίσχυρου και μυστήριου άντρα, του Ορέστη Δελμούζου. Η ιστορία αρχίζει όταν η 4χρονη κόρη της, Μαργαρίτα, που έχει αποκτήσει με τον Ρήγα, απάγεται από το σπίτι που έμενε μαζί με την νταντά της, Κατερίνα. Τότε η Κυβέλη συνειδητοποιεί πως η όμορφη και τακτοποιημένη ζωή της έχει γκρεμιστεί και ο εφιάλτης μόλις αρχίζει(n)</desc>
   </programme>
   <programme start="20191020064500 +0000" stop="20191020100000 +0000" channel="Mega">
     <title lang="el">ΕΛΑ, ΧΑΜΟΓΕΛΑ</title>
@@ -1304,77 +1243,69 @@
     <title lang="el">ΕΛΑ ΝΑ ΔΕΙΣ (Ε)</title>
     <desc lang="el">Ψυχαγωγική ζωντανή εκπομπή με τους Μαρία Ιωάννου, Αλέξανδρο Ταραμουντά, Έλενα Θεοδώρου, Παντελή Παναγιώτου(n)</desc>
   </programme>
-  <programme start="20191019032000 +0000" stop="20191019042000 +0000" channel="Sigma">
-    <title lang="el">ΟΣΟ ΕΧΩ ΕΣΕΝΑ (Ε)</title>
+  <programme start="20191023040000 +0000" stop="20191023060000 +0000" channel="Mega">
+    <title lang="el">ΑΛΗΘΕΙΕΣ ΜΕ ΤΗ ΖΗΝΑ</title>
+    <desc lang="el">Κοινωνική εκπομπή με τη Ζήνα Κουτσελίνη. Θέματα επικαιρότητας, κοινωνικοί προβληματισμοί, ανθρώπινες ιστορίες(n)</desc>
   </programme>
-  <programme start="20191019042000 +0000" stop="20191019050000 +0000" channel="Sigma">
-    <title lang="el">ΠΡΟΟΡΙΣΜΟΣ ΕΥΤΥΧΙΑ (Ε)</title>
+  <programme start="20191023060000 +0000" stop="20191023080000 +0000" channel="Mega">
+    <title lang="el">ΣΤΗ ΦΩΛΙΑ ΤΩΝ ΚΟΥ ΚΟΥ</title>
+    <desc lang="el">Ψυχαγωγική ζωντανή εκπομπή με την Κατερίνα Καραβάτου και τον Κρατερό Κατσούλη(n)</desc>
   </programme>
-  <programme start="20191019050000 +0000" stop="20191019060000 +0000" channel="Sigma">
-    <title lang="el">ΒΟΟΜ (Ε)</title>
+  <programme start="20191023080000 +0000" stop="20191023101500 +0000" channel="Mega">
+    <title lang="el">ΕΝΗΜΕΡΩΣΗ ΤΩΡΑ</title>
+    <desc lang="el">Ενημερωτική εκπομπή με τον Ονούφριο Σωκράτους(n)</desc>
   </programme>
-  <programme start="20191019060000 +0000" stop="20191019065000 +0000" channel="Sigma">
-    <title lang="el">ΓΙΑ ΤΟ ΚΑΛΟ ΣΟΥ (Ε)</title>
+  <programme start="20191023101500 +0000" stop="20191023120000 +0000" channel="Mega">
+    <title lang="el">ΕΛΑ ΝΑ ΔΕΙΣ</title>
+    <desc lang="el">Ψυχαγωγική ζωντανή εκπομπή με τους Μαρία Ιωάννου, Αλέξανδρο Ταραμουντά, Έλενα Θεοδώρου, Παντελή Παναγιώτου(n)</desc>
   </programme>
-  <programme start="20191019065000 +0000" stop="20191019080000 +0000" channel="Sigma">
-    <title lang="el">ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ (Ε)</title>
+  <programme start="20191023120000 +0000" stop="20191023134500 +0000" channel="Mega">
+    <title lang="el">ΜΕΣΗΜΕΡΙ#YES</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή με τους Κατερίνα Ζαρίφη, Ηλία Γκότση και Παύλο Σταματόπουλο(n)</desc>
   </programme>
-  <programme start="20191019080000 +0000" stop="20191019093000 +0000" channel="Sigma">
-    <title lang="el">GUESS MY AGE (Ε)</title>
+  <programme start="20191023134500 +0000" stop="20191023144000 +0000" channel="Mega">
+    <title lang="el">ΕΝΑΣ ΓΙΑ ΟΛΟΥΣ</title>
+    <desc lang="el">Τηλεπαιχνίδι με παρεΐστικη διάθεση, χιούμορ και. όνειρα που γίνονται πραγματικότητα,με την Μαρία Μπακοδήμου(n)</desc>
   </programme>
-  <programme start="20191019093000 +0000" stop="20191019120000 +0000" channel="Sigma">
-    <title lang="el">ΚΑΛΟ ΜΕΣΗΜΕΡΑΚΙ (Ε)</title>
+  <programme start="20191023144000 +0000" stop="20191023150000 +0000" channel="Mega">
+    <title lang="el">SHOPPING STAR</title>
+    <desc lang="el">Παιχνίδι μόδας με τη Βίκυ Καγιά(n)</desc>
   </programme>
-  <programme start="20191019120000 +0000" stop="20191019130000 +0000" channel="Sigma">
-    <title lang="el">ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ (Ε)</title>
+  <programme start="20191023150000 +0000" stop="20191023151000 +0000" channel="Mega">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Απογευματινό δελτίο Ειδήσεων(n)</desc>
   </programme>
-  <programme start="20191019130000 +0000" stop="20191019134000 +0000" channel="Sigma">
-    <title lang="el">ΠΕΡΙ ΟΡΕΞΕΩΣ</title>
-    <desc lang="el">Μια ανατρεπτική εκπομπή γεύσεων και προτάσεων «Περί Ορέξεως» με τους Ανδρέα Δημητρόπουλο και Γιώτα Δαμιανού(n)</desc>
+  <programme start="20191023151000 +0000" stop="20191023160000 +0000" channel="Mega">
+    <title lang="el">SHOPPING STAR</title>
+    <desc lang="el">Παιχνίδι μόδας με τη Βίκυ Καγιά(n)</desc>
   </programme>
-  <programme start="20191019134000 +0000" stop="20191019143000 +0000" channel="Sigma">
-    <title lang="el">ΑΛΛΑ ΛΟΓΙΑ ΘΚΕΙΕ ΠΑΠΑ (Ε)</title>
+  <programme start="20191023160000 +0000" stop="20191023171000 +0000" channel="Mega">
+    <title lang="el">ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ</title>
+    <desc lang="el">Τηλεπαιχνίδι με τον Πέτρο Πολυχρονίδη γιατί «Όποιος γυρίζει, κερδίζει!»(n)</desc>
   </programme>
-  <programme start="20191019143000 +0000" stop="20191019150000 +0000" channel="Sigma">
-    <title lang="el">THE VOICE OF GREECE (Ε)</title>
+  <programme start="20191023171000 +0000" stop="20191023180500 +0000" channel="Mega">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων(n)</desc>
   </programme>
-  <programme start="20191019150000 +0000" stop="20191019151000 +0000" channel="Sigma">
-    <title lang="el">ΓΕΓΟΝΟΤΑ ΣΕ ΣΥΝΤΟΜΙΑ</title>
-    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας σε 10΄(n)</desc>
+  <programme start="20191023180500 +0000" stop="20191023200000 +0000" channel="Mega">
+    <title lang="el">GLOBETROTTERS</title>
+    <desc lang="el">Ταξιδιωτικό παιχνίδι περιπέτειας με τον Πέτρο Πολύχρονίδη. Τρεις δυάδες αγαπημένων προσώπων του καλλιτεχνικού και τηλεοπτικού χώρου (Χάρης &amp; Αντελίνα Βαρθακούρη, Παντελής Βούρος &amp; Χρήστος Μπάρκας, Στέλιος &amp; Μιχαήλ - Άγγελος Κρητικός), 3 διαφορετικά σημεία του πλανήτη, 3 διαφορετικές διαδρομές, 36 προορισμοί, πολλές αποσκευές, πολλές αναχωρήσεις, πολλές αφίξεις, πολλά απρόοπτα, πολύ γέλιο! (ΕΠ.3)(n)</desc>
   </programme>
-  <programme start="20191019151000 +0000" stop="20191019172000 +0000" channel="Sigma">
-    <title lang="el">THE VOICE OF GREECE (Ε)</title>
+  <programme start="20191023200000 +0000" stop="20191023205000 +0000" channel="Mega">
+    <title lang="el">ΤΡΕΛΗ ΟΙΚΟΓΕΝΕΙΑ</title>
+    <desc lang="el">Ελληνική κωμική σειρά με τους Τάσο Κωστή, Σόφη Ζανίνου, Θωμαΐς Ανδρούτσου, Κατερίνα Γερονικολού κ.α(n)</desc>
   </programme>
-  <programme start="20191019172000 +0000" stop="20191019181500 +0000" channel="Sigma">
-    <title lang="el">ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
-    <desc lang="el">Το αναλυτικό δελτίο ειδήσεων του ΣΙΓΜΑ προσεγγίζει καθημερινά την επικαιρότητα έγκυρα, έγκαιρα, χωρίς φόβο και συμβιβασμούς αλλά με πάθος. Ο Χρύσανθος Τσουρούλλης στην πρώτη γραμμή της ενημέρωσης κάθε βράδυ στις 20:15. Μαζί του η αρτιότερη δημοσιογραφική ομάδα και το πληρέστερο ειδησεογραφικό επιτελείο(n)</desc>
+  <programme start="20191023205000 +0000" stop="20191023215000 +0000" channel="Mega">
+    <title lang="el">ΤΟ ΔΑΧΤΥΛΙΔΙ ΤΗΣ ΦΩΤΙΑΣ</title>
+    <desc lang="el">Δραματική σειρά(n)</desc>
   </programme>
-  <programme start="20191019181500 +0000" stop="20191019200000 +0000" channel="Sigma">
-    <title lang="el">ΠΑΡΑΔΟΣΙΑΚΗ ΒΡΑΔΙΑ</title>
-    <desc lang="el">Με την Άντρη Καραντώνη και τους μόνιμους συνεργάτες τη Μιχάλη Χατζημιχαήλ και Σάββα Στεφάνου. Μια εκπομπή που γεμίζει τις βραδιές μας με την πλούσια και πολύμορφη κυπριακή μουσική παράδοση και να τιμήσει τον πολιτισμό και την κουλτούρα του τόπου μας(n)</desc>
+  <programme start="20191023215000 +0000" stop="20191023225000 +0000" channel="Mega">
+    <title lang="el">Ο ΑΝΤΡΑΣ ΤΩΝ ΟΝΕΙΡΩΝ ΜΟΥ (Ε)</title>
+    <desc lang="el">Κωμική σειρά(n)</desc>
   </programme>
-  <programme start="20191019200000 +0000" stop="20191019220000 +0000" channel="Sigma">
-    <title lang="el">ΣΤΗΝ ΥΓΕΙΑ ΜΑΣ ΡΕ ΠΑΙΔΙΑ</title>
-    <desc lang="el">Οι παρέες γράφουν ιστορία. Και όταν περνάνε καλά... γράφουν μουσική. Με τα τραγούδια που μας ενώνουν. Τις μελωδίες που μας ταξιδεύουν. Τους στίχους που μπαίνουν στα χείλη όλων μας. «Στην Υγειά μας ρε Παιδιά» με τον Σπύρο Παπαδόπουλο(n)</desc>
-  </programme>
-  <programme start="20191019220000 +0000" stop="20191019221000 +0000" channel="Sigma">
-    <title lang="el">ΓΕΓΟΝΟΤΑ ΤΙΤΛΟΙ ΕΙΔΗΣΕΩΝ</title>
-    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας σε 10΄(n)</desc>
-  </programme>
-  <programme start="20191019221000 +0000" stop="20191019223000 +0000" channel="Sigma">
-    <title lang="el">ΣΤΗΝ ΥΓΕΙΑ ΜΑΣ ΡΕ ΠΑΙΔΙΑ</title>
-  </programme>
-  <programme start="20191019223000 +0000" stop="20191020000000 +0000" channel="Sigma">
-    <title lang="el">ΜΕΣΗΜΕΡΙ ΜΕ ΤΟΝ ΓΙΩΡΓΟ ΛΙΑΓΚΑ</title>
-  </programme>
-  <programme start="20191020000000 +0000" stop="20191020010000 +0000" channel="Sigma">
-    <title lang="el">ΕΠΙΣΤΡΟΦΗ (Ε)</title>
-  </programme>
-  <programme start="20191020010000 +0000" stop="20191020022000 +0000" channel="Sigma">
-    <title lang="el">ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ (Ε)</title>
-  </programme>
-  <programme start="20191020022000 +0000" stop="20191020025000 +0000" channel="Sigma">
-    <title lang="el">ΤΑ ΧΡΥΣΟΨΑΡΑ  (Ε)</title>
+  <programme start="20191023225000 +0000" stop="20191024005000 +0000" channel="Mega">
+    <title lang="el">ΕΛΑ ΝΑ ΔΕΙΣ (Ε)</title>
+    <desc lang="el">Ψυχαγωγική ζωντανή εκπομπή με τους Μαρία Ιωάννου, Αλέξανδρο Ταραμουντά, Έλενα Θεοδώρου, Παντελή Παναγιώτου(n)</desc>
   </programme>
   <programme start="20191020032000 +0000" stop="20191020042000 +0000" channel="Sigma">
     <title lang="el">ΟΣΟ ΕΧΩ ΕΣΕΝΑ (Ε)</title>
@@ -1552,65 +1483,68 @@
   <programme start="20191022230000 +0000" stop="20191023002000 +0000" channel="Sigma">
     <title lang="el">ΑΣΠΡΑ ΜΠΑΛΟΝΙΑ (Ε)</title>
   </programme>
-  <programme start="20191019063000 +0000" stop="20191019080000 +0000" channel="Plus TV">
-    <title lang="el">COOK EAT (E )</title>
-    <desc lang="el">Με τον σεφ Αντρέα Καβάζη. Μαζί του, η ηθοποιός Μαριλένη Σταύρου.                                                                                                                                                                                                                                                                                                    Οι συνταγές της ημέρας:£βnΟώήO_ΟN\(n)</desc>
+  <programme start="20191023002000 +0000" stop="20191023010000 +0000" channel="Sigma">
+    <title lang="el">Σ' ΑΓΑΠΩ (Ε)</title>
   </programme>
-  <programme start="20191019080000 +0000" stop="20191019100000 +0000" channel="Plus TV">
-    <title lang="el">ΤΗΛΕΑΓΟΡΑ</title>
-    <desc lang="el">Τηλεοπτικός οδηγός αγορών(n)</desc>
+  <programme start="20191023034500 +0000" stop="20191023063000 +0000" channel="Sigma">
+    <title lang="el">ΠΡΩΤΟΣΕΛΙΔΟ</title>
+    <desc lang="el">Κάθε μέρα από τις 6:45 το πρωί μέχρι και τις 9:30 ο Ανδρέας Δημητρόπουλος μαζί με τις Γαβριέλα Ζάρτιλα και Χαρούλα Αλέξη προσφέρουν στους τηλεθεατές την 1η ουσιαστική ενημέρωση της τοπικής και διεθνούς ειδησεογραφίας(n)</desc>
   </programme>
-  <programme start="20191019100000 +0000" stop="20191019110000 +0000" channel="Plus TV">
-    <title lang="el">ΜΟΝΟ ΓΙΑ ΣΕΝΑ (E )</title>
-    <desc lang="el">Ψυχαγωγική εκπομπή. Με τη Φωτεινή Γεωργαντά σε ΕΠΑΝΑΛΗΨΗ(n)</desc>
+  <programme start="20191023063000 +0000" stop="20191023080000 +0000" channel="Sigma">
+    <title lang="el">ΜΕΣΗΜΕΡΙ ΜΕ ΤΟΝ ΓΙΩΡΓΟ ΛΙΑΓΚΑ</title>
   </programme>
-  <programme start="20191019110000 +0000" stop="20191019133000 +0000" channel="Plus TV">
-    <title lang="el">EXPRESS WEEKEND</title>
-    <desc lang="el">Ενημερωτική Κοινωνική εκπομπή του Έψιλον Ελλάδος, με τη δημοσιογράφο Τάνια Ιακωβίδου ¬\\­όΝsʼ3^rΞNn_N­βN­β&gt;RΒΟN=ώή_Nβ\n?NςΖfR7GΖRΒ?Nώίή­ΒήΞNΒ?N~ώΎN­β_ΟNNΒ&gt;RΞΎN&gt;^&gt;ώίΟNβΞRΞO_ώ_\(n)</desc>
+  <programme start="20191023080000 +0000" stop="20191023103000 +0000" channel="Sigma">
+    <title lang="el">ΜΕΣΗΜΕΡΙ ΚΑΙ ΚΑΤΙ</title>
+    <desc lang="el">Η Μαρίνα Χατζηκώστα μαζί με τη δημοσιογραφική ομάδα της τηλεόρασης ΣΙΓΜΑ και του διαδικτυακού SIGMALIVE σας ενημερώνουν για όλα όσα συμβαίνουν στην Κύπρο και στον υπόλοιπο κόσμο, δίνοντας σας με εγκυρότητα, ταχύτητα  και υπευθυνότητα την ειδησεογραφία όλη(n)</desc>
   </programme>
-  <programme start="20191019133000 +0000" stop="20191019150000 +0000" channel="Plus TV">
-    <title lang="el">ΤΗΛΕΑΓΟΡΑ</title>
-    <desc lang="el">Τηλεοπτικός οδηγός αγορών(n)</desc>
+  <programme start="20191023103000 +0000" stop="20191023123000 +0000" channel="Sigma">
+    <title lang="el">ΌΛΑ ΚΑΛΑ</title>
+    <desc lang="el">Όλα Καλά! Η Κωνσταντίνα Ευριπίδου ενώνει τις δυνάμεις της με τον Τάσο Θεοδώρου, την Χριστιάνα Αντωνίου, την Κλέλια Γιασεμιίδου και την Άντρη Χατζηχριστοδούλου για να δημιουργηθεί μια ισχυρή ομάδα που μας υπόσχεται ότι θα είναι ΟΛΑ ΚΑΛΑ! Είναι μια μεσημβρινή διαφορετική εκπομπή με κύριο γνώρισμα το χιούμορ, τον αυτοσαρκασμό, τον σαρκασμό, τον σχολιασμό και το πείραγμα. Θα γίνει η καλύτερή σου παρέα το μεσημέρι γιατί πλέον έχει έρθει η στιγμή να βάλεις μια τελεία σε όλα όσα γνώριζες από τις μεσημβρινές εκπομπές. Παρουσίαση θεμάτων που έγιναν viral, τρολάρισμα, παιχνίδια, συνεντεύξεις αλλιώς, κοινωνικά θέματα και όλα όσα σαρκάζεις. αυτοσαρκάζονται στη μικρή σου οθόνη(n)</desc>
   </programme>
-  <programme start="20191019150000 +0000" stop="20191019154500 +0000" channel="Plus TV">
-    <title lang="el">ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ</title>
-    <desc lang="el">10λεπτο δελτίο ειδήσεων, ο Καιρός(n)</desc>
+  <programme start="20191023123000 +0000" stop="20191023140000 +0000" channel="Sigma">
+    <title lang="el">ΚΑΛΟ ΜΕΣΗΜΕΡΑΚΙ ΜΕ ΤΟΝ ΝΙΚΟ ΜΟΥΤΣΙΝΑ</title>
+    <desc lang="el">Ο αγαπημένος παρουσιαστής Νίκος Μουτσινάς μαζί με τη Ματίνα Νικολάου, αλλά και το μουσικό συγκρότημα Alcatrash, κάθε μέρα θα μας λένε «Καλό Μεσημεράκι»(n)</desc>
   </programme>
-  <programme start="20191019154500 +0000" stop="20191019162000 +0000" channel="Plus TV">
-    <title lang="el">ΤΑΞΙΔΙ ΓΕΥΣΕΩΝ, Season II</title>
-    <desc lang="el">Ο διακεκριμένος chef ΣΑΒΒΑΣ ΣΑΒΒΑ επιστρέφει για 2η τηλεοπτική χρονιά μέσα από τη συχνότητα του PLUS, για να μας χαρίσει νέες γαστρονομικές απολαύσεις. ¬ΞRNrN­βNR^―ώΟ\nβΞ&gt;^­ο\(n)</desc>
+  <programme start="20191023140000 +0000" stop="20191023150000 +0000" channel="Sigma">
+    <title lang="el">GUESS MY AGE</title>
+    <desc lang="el">Είσαι καλός στο να υπολογίζεις την ηλικία των άλλων; Διαθέτεις παρατηρητικότητα, οξυδέρκεια και διαίσθηση;¬ήΒOΟNRΟ]\(n)</desc>
   </programme>
-  <programme start="20191019162000 +0000" stop="20191019163500 +0000" channel="Plus TV">
-    <title lang="el">ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ</title>
-    <desc lang="el">Δελτίο ειδήσεων, ο Καιρός(n)</desc>
+  <programme start="20191023150000 +0000" stop="20191023151000 +0000" channel="Sigma">
+    <title lang="el">ΓΕΓΟΝΟΤΑ ΣΕ ΣΥΝΤΟΜΙΑ</title>
+    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας σε 10΄(n)</desc>
   </programme>
-  <programme start="20191019163500 +0000" stop="20191019182000 +0000" channel="Plus TV">
-    <title lang="el">ΜΑΘΗΤΡΙΕΣ ΕΝ ΔΡΑΣΕΙ</title>
-    <desc lang="el">ΟΙΚΟΓΕΝΕΙΑΚΗ ΚΩΜΩΔΙΑ(n)</desc>
+  <programme start="20191023151000 +0000" stop="20191023161500 +0000" channel="Sigma">
+    <title lang="el">BOOM</title>
+    <desc lang="el">Boom! Ένα από τα διασημότερα και πιο επιτυχημένα τηλεπαιχνίδια γνώσεων στην παγκόσμια τηλεόραση με παρουσιαστή τον Σάκη Τανιμανίδη(n)</desc>
   </programme>
-  <programme start="20191019182000 +0000" stop="20191019201000 +0000" channel="Plus TV">
-    <title lang="el">ΞΕΝΗ ΤΑΙΝΙΑ</title>
-    <desc lang="el">ΚΩΜΩΔΙΑ(n)</desc>
+  <programme start="20191023161500 +0000" stop="20191023172000 +0000" channel="Sigma">
+    <title lang="el">ΓΑΛΑΤΕΙΑ</title>
+    <desc lang="el">ΕΠΕΙΣΟΔΙΟ 34. Ο Πολυδεύκης εξακολουθεί να αγνοείται ενώ η είδηση πως υπάρχουν πολλοί τραυματίες αλλά και ένας νεκρός μετά τις διαδηλώσεις προκαλεί τον πανικό στην Πολύμνια και στον Χατζηνέαρχο. Οι φόβοι τους, όμως, επιβεβαιώνονται όταν ο Μιχαηλάς έρχεται από τη Λευκωσία φέρνοντας άσχημα νέα. Η Λεϊλά είναι αποφασισμένη να πει στον Καράγιωρκη πως είναι έγκυος το παιδί του. Παρά τις προσπάθειες της Ουρανίας να την εμποδίσει, η Λεϊλά τελικά τον συναντά. Η Αννού ανησυχεί για τον Πλουτή καθώς ούτε αυτός επέστρεψε από τη Λευκωσία και υπόσχεται στον Κωνσταντά πως αν ο Πλουτής γυρίσει ζωντανός θα τον παντρευτεί. Τα σχέδια της Φρόσας να χωρίσει τον Αντζουλή και τη Ζαφείρα φαίνεται να αποτυγχάνουν. Ο Αντζουλής υπόσχεται στη Ζαφείρα πως θα αλλάξουν ζωή και θα κάνει όλα της τα όνειρα πραγματικότητα. Μια χρυσή λίρα όμως θα δώσει στην Φρόσα την ευκαιρία που γύρευε για να σπείρει διχόνοια ανάμεσα στο ζευγάρι. Ο Πετρής τσακώνεται με τους φίλους του καθώς δεν ήταν παρών στην προσπάθεια τους να βρουν τον Χαχολλή, ενώ επιμένει να μην τους αποκαλύπτει που πάει μετά το σχολείο. Ο Πετρής φεύγει θυμωμένος και βρίσκει τον Χαχολλή να είναι μαζί με την Ανθούσα. Αυτά που θα του πει η Ανθούσα θα του κινήσουν την περιέργεια(n)</desc>
   </programme>
-  <programme start="20191019201000 +0000" stop="20191019220000 +0000" channel="Plus TV">
-    <title lang="el">Ο ΣΤΡΑΤΙΩΤΗΣ</title>
-    <desc lang="el">ΔΡΑΣΗ, ΔΡΑΜΑ, ΕΠΙΣΤΗΜΟΝΙΚΗΣ ΦΑΝΤΑΣΙΑΣ(n)</desc>
+  <programme start="20191023172000 +0000" stop="20191023182000 +0000" channel="Sigma">
+    <title lang="el">ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
+    <desc lang="el">Το αναλυτικό δελτίο ειδήσεων του ΣΙΓΜΑ προσεγγίζει καθημερινά την επικαιρότητα έγκυρα, έγκαιρα, χωρίς φόβο και συμβιβασμούς αλλά με πάθος. Ο Χρύσανθος Τσουρούλλης στην πρώτη γραμμή της ενημέρωσης κάθε βράδυ στις 20:15. Μαζί του η αρτιότερη δημοσιογραφική ομάδα και το πληρέστερο ειδησεογραφικό επιτελείο(n)</desc>
   </programme>
-  <programme start="20191019220000 +0000" stop="20191019225500 +0000" channel="Plus TV">
-    <title lang="el">ΞΕΝΗ ΣΕΙΡΑ (Ε )</title>
-    <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ(n)</desc>
+  <programme start="20191023182000 +0000" stop="20191023192000 +0000" channel="Sigma">
+    <title lang="el">ΑΛΛΑ ΛΟΓΙΑ ΘΚΕΙΕ ΠΑΠΑ</title>
+    <desc lang="el">Μια σειρά πολλών εποχών και ταχυτήτων με γέλιο και πρωταγωνιστές έκπληξη!(n)</desc>
   </programme>
-  <programme start="20191019225500 +0000" stop="20191019235000 +0000" channel="Plus TV">
-    <title lang="el">ΞΕΝΗ ΣΕΙΡΑ (Ε )</title>
-    <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ(n)</desc>
+  <programme start="20191023192000 +0000" stop="20191023202000 +0000" channel="Sigma">
+    <title lang="el">ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ</title>
+    <desc lang="el">Αντιπροσωπευτικοί νεοέλληνες της διπλανής πόρτας, όλων των ηλικιών, συγκατοικούν και πρωταγωνιστούν σε συνηθισμένες και λιγότερο συνηθισμένες κωμικές καταστάσεις. Τσακώνονται, ερωτεύονται, κουτσομπολεύουν, χαίρονται, λυπούνται, αγαπιούνται, μισιούνται, συμμαχούν, ξανατσακώνονται, δεσμεύονται, χωρίζουν, ξαναδεσμεύονται. και ξανατσακώνονται!(n)</desc>
   </programme>
-  <programme start="20191019235000 +0000" stop="20191020004500 +0000" channel="Plus TV">
-    <title lang="el">ΞΕΝΗ ΣΕΙΡΑ (Ε )</title>
-    <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ(n)</desc>
+  <programme start="20191023202000 +0000" stop="20191023212000 +0000" channel="Sigma">
+    <title lang="el">ΒΟΟΜ (Ε)</title>
   </programme>
-  <programme start="20191020004500 +0000" stop="20191020013000 +0000" channel="Plus TV">
-    <title lang="el">VIDEOCLIPS</title>
-    <desc lang="el">Μουσικά βίντεο(n)</desc>
+  <programme start="20191023212000 +0000" stop="20191023213000 +0000" channel="Sigma">
+    <title lang="el">ΓΕΓΟΝΟΤΑ ΤΙΤΛΟΙ ΕΙΔΗΣΕΩΝ</title>
+    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας σε 10΄(n)</desc>
+  </programme>
+  <programme start="20191023213000 +0000" stop="20191023230000 +0000" channel="Sigma">
+    <title lang="el">ΚΑΛΟ ΜΕΣΗΜΕΡΑΚΙ (Ε)</title>
+  </programme>
+  <programme start="20191023230000 +0000" stop="20191024002000 +0000" channel="Sigma">
+    <title lang="el">ΑΣΠΡΑ ΜΠΑΛΟΝΙΑ (Ε)</title>
   </programme>
   <programme start="20191020033000 +0000" stop="20191020063000 +0000" channel="Plus TV">
     <title lang="el">ΠΑΙΔΙΚΗ ΖΩΝΗ</title>
@@ -1812,92 +1746,73 @@
     <title lang="el">VIDEOCLIPS</title>
     <desc lang="el">Μουσικά βίντεο(n)</desc>
   </programme>
-  <programme start="20191019040000 +0000" stop="20191019044000 +0000" channel="Extra TV">
-    <title lang="el">ΠΑΙΔΙΚΟ ΠΡΟΓΡΑΜΜΑ</title>
+  <programme start="20191023001500 +0000" stop="20191023014500 +0000" channel="Plus TV">
+    <title lang="el">ΜΟΝΟ ΓΙΑ ΣΕΝΑ (Ε )</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή με τη Φωτεινή Γεωργαντά σε ΕΠΑΝΑΛΗΨΗ(n)</desc>
   </programme>
-  <programme start="20191019044000 +0000" stop="20191019050000 +0000" channel="Extra TV">
-    <title lang="el">ΔΙΕΘΝΕΙΣ ΕΙΔΗΣEIΣ</title>
+  <programme start="20191023040000 +0000" stop="20191023043000 +0000" channel="Plus TV">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές(n)</desc>
   </programme>
-  <programme start="20191019050000 +0000" stop="20191019060000 +0000" channel="Extra TV">
-    <title lang="el">ΥΓΕΙΑ ΚΑΙ ΠΡΟΛΗΨΗ</title>
+  <programme start="20191023043000 +0000" stop="20191023062000 +0000" channel="Plus TV">
+    <title lang="el">COOK IT (Ε )</title>
+    <desc lang="el">Με τον σεφ Αντρέα Καβάζη. Μαζί του, η ηθοποιός Μαριλένη Σταύρου.                                                                                                                                                                                                                                                                                                    Οι συνταγές της ημέρας:£βOΟ^ΎςΟίNΞRΞO&gt;ήΎ\n&gt;½ΞΞ\n(n)</desc>
   </programme>
-  <programme start="20191019060000 +0000" stop="20191019072000 +0000" channel="Extra TV">
-    <title lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ</title>
+  <programme start="20191023062000 +0000" stop="20191023072000 +0000" channel="Plus TV">
+    <title lang="el">ΞΕΝΗ ΟΙΚΟΓΕΝΕΙΑΚΗ ΣΕΙΡΑ ( Ε )</title>
+    <desc lang="el">ΞΕΝΗ ΟΙΚΟΓΕΝΕΙΑΚΗ ΣΕΙΡΑ ( Ε )(n)</desc>
   </programme>
-  <programme start="20191019072000 +0000" stop="20191019082000 +0000" channel="Extra TV">
-    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
+  <programme start="20191023072000 +0000" stop="20191023090000 +0000" channel="Plus TV">
+    <title lang="el">ΜΟΝΟ ΓΙΑ ΣΕΝΑ</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή. Με τη Φωτεινή Γεωργαντά. Η εκπομπή ασχολείται με τα νέα των stars, με τη μόδα, λίγο gossip. θέματα ομορφιάς και υγείας(n)</desc>
   </programme>
-  <programme start="20191019082000 +0000" stop="20191019084000 +0000" channel="Extra TV">
-    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+  <programme start="20191023090000 +0000" stop="20191023113000 +0000" channel="Plus TV">
+    <title lang="el">ΜΕ ΆΛΛΗ ΜΑΤΙΑ, Season II</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ: 37η                                                                                                                                                                                            Η ενημερωτική εκπομπή με τη δημοσιογράφο Χριστιάνα Σταύρου επιστρέφει για να είναι μαζί μας καθημερινά Δευτέρα με Παρασκευή. ¬^ή~Ξ_N­β^―ώΟ\nβΞRN__^Νήή_\(n)</desc>
   </programme>
-  <programme start="20191019084000 +0000" stop="20191019094000 +0000" channel="Extra TV">
-    <title lang="el">ΙΑΤΡΙΚΗ ΕΚΠΟΜΠΗ</title>
+  <programme start="20191023113000 +0000" stop="20191023152000 +0000" channel="Plus TV">
+    <title lang="el">ΤΗΛΕΑΓΟΡΑ</title>
+    <desc lang="el">Τηλεοπτικός οδηγός αγορών(n)</desc>
   </programme>
-  <programme start="20191019094000 +0000" stop="20191019101000 +0000" channel="Extra TV">
-    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
+  <programme start="20191023152000 +0000" stop="20191023155000 +0000" channel="Plus TV">
+    <title lang="el">ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ</title>
+    <desc lang="el">10λεπτο δελτίο ειδήσεων(n)</desc>
   </programme>
-  <programme start="20191019101000 +0000" stop="20191019101500 +0000" channel="Extra TV">
-    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+  <programme start="20191023155000 +0000" stop="20191023164000 +0000" channel="Plus TV">
+    <title lang="el">ΞΕΝΗ ΣΕΙΡΑ</title>
+    <desc lang="el">ΞΕΝΗ ΝΕΑΝΙΚΗ ΣΕΙΡΑ.  Επεισόδιο 38ο(n)</desc>
   </programme>
-  <programme start="20191019101500 +0000" stop="20191019104500 +0000" channel="Extra TV">
-    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
+  <programme start="20191023164000 +0000" stop="20191023173500 +0000" channel="Plus TV">
+    <title lang="el">ΞΕΝΗ ΟΙΚΟΓΕΝΕΙΑΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">ΞΕΝΗ ΟΙΚΟΓΕΝΕΙΑΚΗ ΣΕΙΡΑ. Επ. 24(n)</desc>
   </programme>
-  <programme start="20191019104500 +0000" stop="20191019120500 +0000" channel="Extra TV">
-    <title lang="el">ΡΑΓΙΣΜΕΝΕΣ ΚΑΡΔΙΕΣ</title>
+  <programme start="20191023173500 +0000" stop="20191023181500 +0000" channel="Plus TV">
+    <title lang="el">ΕΙΔΗΣΕΙΣ ΣΤΟ PLUS</title>
+    <desc lang="el">Οι ειδήσεις από το PLUS. Με το δημοσιογράφο Λουκά Χριστοδουλίδη(n)</desc>
   </programme>
-  <programme start="20191019120500 +0000" stop="20191019123500 +0000" channel="Extra TV">
-    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
+  <programme start="20191023181500 +0000" stop="20191023200000 +0000" channel="Plus TV">
+    <title lang="el">ΞΕΝΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΔΡΑΜΑ, ΡΟΜΑΝΤΖΟ(n)</desc>
   </programme>
-  <programme start="20191019123500 +0000" stop="20191019124000 +0000" channel="Extra TV">
-    <title lang="el">ΣΥΝΤΟΜΟ ΔΕΛΤΙΟ</title>
+  <programme start="20191023200000 +0000" stop="20191023210500 +0000" channel="Plus TV">
+    <title lang="el">ΙΑΤΡΙΚΗ ΚΑΙ ΒΟΤΑΝΟΛΟΓΙΑ</title>
+    <desc lang="el">Ενημερωτική εκπομπή(n)</desc>
   </programme>
-  <programme start="20191019124000 +0000" stop="20191019130000 +0000" channel="Extra TV">
-    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+  <programme start="20191023210500 +0000" stop="20191023220000 +0000" channel="Plus TV">
+    <title lang="el">ΞΕΝΗ ΣΕΙΡΑ</title>
+    <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ(n)</desc>
   </programme>
-  <programme start="20191019130000 +0000" stop="20191019133000 +0000" channel="Extra TV">
-    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
+  <programme start="20191023220000 +0000" stop="20191023225500 +0000" channel="Plus TV">
+    <title lang="el">ΞΕΝΗ ΣΕΙΡΑ</title>
+    <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ(n)</desc>
   </programme>
-  <programme start="20191019133000 +0000" stop="20191019133500 +0000" channel="Extra TV">
-    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+  <programme start="20191023225500 +0000" stop="20191023235000 +0000" channel="Plus TV">
+    <title lang="el">ΞΕΝΗ ΣΕΙΡΑ</title>
+    <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ(n)</desc>
   </programme>
-  <programme start="20191019133500 +0000" stop="20191019140000 +0000" channel="Extra TV">
-    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
-  </programme>
-  <programme start="20191019140000 +0000" stop="20191019140500 +0000" channel="Extra TV">
-    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
-  </programme>
-  <programme start="20191019140500 +0000" stop="20191019150500 +0000" channel="Extra TV">
-    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
-  </programme>
-  <programme start="20191019150500 +0000" stop="20191019164500 +0000" channel="Extra TV">
-    <title lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ</title>
-  </programme>
-  <programme start="20191019164500 +0000" stop="20191019171500 +0000" channel="Extra TV">
-    <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ EXTRA</title>
-  </programme>
-  <programme start="20191019171500 +0000" stop="20191019181500 +0000" channel="Extra TV">
-    <title lang="el">Η ΚΟΡΗ ΜΟΥ</title>
-  </programme>
-  <programme start="20191019181500 +0000" stop="20191019190000 +0000" channel="Extra TV">
-    <title lang="el">ΜΑΝΤΑΜ ΣΟΥΣΟΥ</title>
-  </programme>
-  <programme start="20191019190000 +0000" stop="20191019204500 +0000" channel="Extra TV">
-    <title lang="el">SILA</title>
-  </programme>
-  <programme start="20191019204500 +0000" stop="20191019224500 +0000" channel="Extra TV">
-    <title lang="el">TERMINATOR</title>
-  </programme>
-  <programme start="20191019224500 +0000" stop="20191020001500 +0000" channel="Extra TV">
-    <title lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ</title>
-  </programme>
-  <programme start="20191020001500 +0000" stop="20191020003000 +0000" channel="Extra TV">
-    <title lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ</title>
-  </programme>
-  <programme start="20191020003000 +0000" stop="20191020021500 +0000" channel="Extra TV">
-    <title lang="el">LOST TREASURE</title>
-  </programme>
-  <programme start="20191020021500 +0000" stop="20191020023000 +0000" channel="Extra TV">
-    <title lang="el">ΜΟΥΣΙΚΟ ΠΡΟΓΡΑΜΜΑ</title>
+  <programme start="20191023235000 +0000" stop="20191024001500 +0000" channel="Plus TV">
+    <title lang="el">VIDEOCLIPS</title>
+    <desc lang="el">Μουσικά βίντεο(n)</desc>
   </programme>
   <programme start="20191020040000 +0000" stop="20191020044000 +0000" channel="Extra TV">
     <title lang="el">ΠΑΙΔΙΚΟ ΠΡΟΓΡΑΜΜΑ</title>
@@ -2148,41 +2063,89 @@
   <programme start="20191022233000 +0000" stop="20191023011500 +0000" channel="Extra TV">
     <title lang="el">AMERICAN PSYCHO</title>
   </programme>
-  <programme start="20191019050500 +0000" stop="20191019060000 +0000" channel="Capital">
-    <title lang="el">ΤΗΛΕΑΓΟΡΑ TVMALL</title>
+  <programme start="20191023011500 +0000" stop="20191023023000 +0000" channel="Extra TV">
+    <title lang="el">ΜΟΥΣΙΚΟ ΠΡΟΓΡΑΜΜΑ</title>
   </programme>
-  <programme start="20191019060000 +0000" stop="20191019073000 +0000" channel="Capital">
-    <title lang="el">ΞΕΝΗ ΤΑΙΝΙΑ</title>
+  <programme start="20191023040000 +0000" stop="20191023044000 +0000" channel="Extra TV">
+    <title lang="el">ΠΑΙΔΙΚΟ ΠΡΟΓΡΑΜΜΑ</title>
   </programme>
-  <programme start="20191019073000 +0000" stop="20191019091500 +0000" channel="Capital">
-    <title lang="el">ΞΕΝΗ ΤΑΙΝΙΑ</title>
+  <programme start="20191023044000 +0000" stop="20191023050000 +0000" channel="Extra TV">
+    <title lang="el">ΔΙΕΘΝΕΙΣ ΕΙΔΗΣEIΣ</title>
   </programme>
-  <programme start="20191019091500 +0000" stop="20191019110000 +0000" channel="Capital">
-    <title lang="el">ΑΓΑΠΗΣΑ ΚΑΙ ΠΟΝΕΣΑ  (1963) - ΕΛΛΗΝΙΚΗ ΤΑΙΝΙΑ</title>
+  <programme start="20191023050000 +0000" stop="20191023060000 +0000" channel="Extra TV">
+    <title lang="el">ΥΓΕΙΑ ΚΑΙ ΠΡΟΛΗΨΗ</title>
   </programme>
-  <programme start="20191019110000 +0000" stop="20191019122500 +0000" channel="Capital">
-    <title lang="el">ΤΗΛΕΑΓΟΡΑ TVMALL</title>
+  <programme start="20191023060000 +0000" stop="20191023072000 +0000" channel="Extra TV">
+    <title lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ</title>
   </programme>
-  <programme start="20191019122500 +0000" stop="20191019140000 +0000" channel="Capital">
-    <title lang="el">Ο ΞΕΡΟΚΕΦΑΛΟΣ  (1970) - ΕΛΛΗΝΙΚΗ ΤΑΙΝΙΑ</title>
+  <programme start="20191023072000 +0000" stop="20191023082000 +0000" channel="Extra TV">
+    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
   </programme>
-  <programme start="20191019140000 +0000" stop="20191019160500 +0000" channel="Capital">
-    <title lang="el">ΤΗΛΕΑΓΟΡΑ TVMALL</title>
+  <programme start="20191023082000 +0000" stop="20191023085000 +0000" channel="Extra TV">
+    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
   </programme>
-  <programme start="20191019160500 +0000" stop="20191019180000 +0000" channel="Capital">
-    <title lang="el">ΤΟ ΦΙΛΟΔΩΡΗΜΑ ΤΩΝ 2 ΕΚΑΤΟΜΜΥΡΙΩΝ  - ROMANCE COMEDY</title>
+  <programme start="20191023085000 +0000" stop="20191023094000 +0000" channel="Extra TV">
+    <title lang="el">ΒΕΓΓΑΛΙΚΑ</title>
   </programme>
-  <programme start="20191019180000 +0000" stop="20191019200000 +0000" channel="Capital">
-    <title lang="el">ΞΕΝΗ ΤΑΙΝΙΑ</title>
+  <programme start="20191023094000 +0000" stop="20191023101000 +0000" channel="Extra TV">
+    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
   </programme>
-  <programme start="20191019200000 +0000" stop="20191019220000 +0000" channel="Capital">
-    <title lang="el">ΞΕΝΗ ΤΑΙΝΙΑ</title>
+  <programme start="20191023101000 +0000" stop="20191023101500 +0000" channel="Extra TV">
+    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
   </programme>
-  <programme start="20191019220000 +0000" stop="20191020000000 +0000" channel="Capital">
-    <title lang="el">Η ΙΣΤΟΡΙΑ ΤΗΣ ΖΩΗΣ ΜΑΣ - ROMANCE DRAMA</title>
+  <programme start="20191023101500 +0000" stop="20191023104500 +0000" channel="Extra TV">
+    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
   </programme>
-  <programme start="20191020000000 +0000" stop="20191020020000 +0000" channel="Capital">
-    <title lang="el">ΠΟΙΟΣ ΣΚΟΤΩΣΕ ΤΟΝ ΕΛΒΙΣ - COMEDY</title>
+  <programme start="20191023104500 +0000" stop="20191023120500 +0000" channel="Extra TV">
+    <title lang="el">ΡΑΓΙΣΜΕΝΕΣ ΚΑΡΔΙΕΣ</title>
+  </programme>
+  <programme start="20191023120500 +0000" stop="20191023123500 +0000" channel="Extra TV">
+    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
+  </programme>
+  <programme start="20191023123500 +0000" stop="20191023124000 +0000" channel="Extra TV">
+    <title lang="el">ΣΥΝΤΟΜΟ ΔΕΛΤΙΟ</title>
+  </programme>
+  <programme start="20191023124000 +0000" stop="20191023130000 +0000" channel="Extra TV">
+    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+  </programme>
+  <programme start="20191023130000 +0000" stop="20191023133000 +0000" channel="Extra TV">
+    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
+  </programme>
+  <programme start="20191023133000 +0000" stop="20191023133500 +0000" channel="Extra TV">
+    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+  </programme>
+  <programme start="20191023133500 +0000" stop="20191023140000 +0000" channel="Extra TV">
+    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
+  </programme>
+  <programme start="20191023140000 +0000" stop="20191023140500 +0000" channel="Extra TV">
+    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+  </programme>
+  <programme start="20191023140500 +0000" stop="20191023150500 +0000" channel="Extra TV">
+    <title lang="el">ΕΞΥΠΝΕΣ ΑΓΟΡΕΣ</title>
+  </programme>
+  <programme start="20191023150500 +0000" stop="20191023164500 +0000" channel="Extra TV">
+    <title lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ</title>
+  </programme>
+  <programme start="20191023164500 +0000" stop="20191023171500 +0000" channel="Extra TV">
+    <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ EXTRA</title>
+  </programme>
+  <programme start="20191023171500 +0000" stop="20191023181500 +0000" channel="Extra TV">
+    <title lang="el">Η ΚΟΡΗ ΜΟΥ</title>
+  </programme>
+  <programme start="20191023181500 +0000" stop="20191023200000 +0000" channel="Extra TV">
+    <title lang="el">SILA</title>
+  </programme>
+  <programme start="20191023200000 +0000" stop="20191023214500 +0000" channel="Extra TV">
+    <title lang="el">THE SIXTH DAY</title>
+  </programme>
+  <programme start="20191023214500 +0000" stop="20191023231500 +0000" channel="Extra TV">
+    <title lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ</title>
+  </programme>
+  <programme start="20191023231500 +0000" stop="20191023233000 +0000" channel="Extra TV">
+    <title lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ</title>
+  </programme>
+  <programme start="20191023233000 +0000" stop="20191024011500 +0000" channel="Extra TV">
+    <title lang="el">A PERFECT MURDER</title>
   </programme>
   <programme start="20191020040000 +0000" stop="20191020050000 +0000" channel="Capital">
     <title lang="el">ΤΗΛΕΑΓΟΡΑ TVMALL</title>
@@ -2310,62 +2273,50 @@
   <programme start="20191022223000 +0000" stop="20191023001000 +0000" channel="Capital">
     <title lang="el">ΚΥΝΗΓΩΝΤΑΣ ΤΗΝ ΕΛΕΥΘΕΡΙΑ  - DRAMA</title>
   </programme>
-  <programme start="20191019034500 +0000" stop="20191019051000 +0000" channel="Alpha Cyprus">
-    <title lang="el">60' ΕΛΛΑΔΑ (Ε)</title>
+  <programme start="20191023001000 +0000" stop="20191023014500 +0000" channel="Capital">
+    <title lang="el">ΠΑΓΚΟΣΜΙΑ ΚΑΤΑΣΤΡΟΦΗ  - ACTION ADVENTURE</title>
   </programme>
-  <programme start="20191019051000 +0000" stop="20191019063000 +0000" channel="Alpha Cyprus">
-    <title lang="el">ΕΛΑ ΣΤΗ ΘΕΣΗ ΜΟΥ (Ε)</title>
+  <programme start="20191023032500 +0000" stop="20191023052500 +0000" channel="Capital">
+    <title lang="el">TOP STORY (E)</title>
   </programme>
-  <programme start="20191019063000 +0000" stop="20191019070000 +0000" channel="Alpha Cyprus">
-    <title lang="el">ΕΥΚΟΛΑ ΚΑΙ ΣΠΙΤΙΚΑ</title>
+  <programme start="20191023052500 +0000" stop="20191023060000 +0000" channel="Capital">
+    <title lang="el">ΤΗΛΕΑΓΟΡΑ TV MALL</title>
   </programme>
-  <programme start="20191019070000 +0000" stop="20191019100000 +0000" channel="Alpha Cyprus">
-    <title lang="el">ΣΑΒΒΑΤΟΚΥΡΙΑΚΟ ΜΕ ΤΟΝ ΜΑΝΕΣΗ</title>
+  <programme start="20191023060000 +0000" stop="20191023070000 +0000" channel="Capital">
+    <title lang="el">DR. QUINN: MEDICINE WOMAN  (Ε)</title>
   </programme>
-  <programme start="20191019100000 +0000" stop="20191019105000 +0000" channel="Alpha Cyprus">
-    <title lang="el">ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ (Ε)</title>
+  <programme start="20191023070000 +0000" stop="20191023090000 +0000" channel="Capital">
+    <title lang="el">ΤΗΛΕΑΓΟΡΑ TV MALL</title>
   </programme>
-  <programme start="20191019105000 +0000" stop="20191019113000 +0000" channel="Alpha Cyprus">
-    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (Ε)</title>
+  <programme start="20191023090000 +0000" stop="20191023100000 +0000" channel="Capital">
+    <title lang="el">ΙΖΑΜΠΕΛΑ, ΜΙΑ ΕΡΩΤΕΥΜΕΝΗ ΓΥΝΑΙΚΑ  - ΤΗΛΕΝΟΥΒΕΛΑ  (E)</title>
   </programme>
-  <programme start="20191019113000 +0000" stop="20191019125000 +0000" channel="Alpha Cyprus">
-    <title lang="el">Η ΦΑΜΙΛΙΑ (Ε)</title>
+  <programme start="20191023100000 +0000" stop="20191023121500 +0000" channel="Capital">
+    <title lang="el">TOP STORY - ΜΕ ΤΗ ΣΤΕΦΑΝΗ ΦΛΩΡΙΔΟΥ</title>
   </programme>
-  <programme start="20191019125000 +0000" stop="20191019135000 +0000" channel="Alpha Cyprus">
-    <title lang="el">ΚΡΑΤΑΣ ΜΥΣΤΙΚΟ; (Ε)</title>
+  <programme start="20191023121500 +0000" stop="20191023150000 +0000" channel="Capital">
+    <title lang="el">ΤΗΛΕΑΓΟΡΑ TV MALL</title>
   </programme>
-  <programme start="20191019135000 +0000" stop="20191019145000 +0000" channel="Alpha Cyprus">
-    <title lang="el">ΣΠΙΤΙ ΕΊΝΑΙ</title>
+  <programme start="20191023150000 +0000" stop="20191023163000 +0000" channel="Capital">
+    <title lang="el">Η ΑΛΗΘΕΙΑ ΚΑΙΕΙ - ΜΕ ΤΟΝ ΔΗΜΗΤΡΗ ΣΟΥΓΛΗ</title>
   </programme>
-  <programme start="20191019145000 +0000" stop="20191019150000 +0000" channel="Alpha Cyprus">
-    <title lang="el">ΕΙΔΗΣΕΙΣ ΚΑΙ ΔΕΛΤΙΟ ΣΤΗ ΝΟΗΜΑΤΙΚΗ</title>
+  <programme start="20191023163000 +0000" stop="20191023165000 +0000" channel="Capital">
+    <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ - ΜΕ ΤΗ ΧΡΙΣΤΙΝΑ ΜΑΡΚΟΥ</title>
   </programme>
-  <programme start="20191019150000 +0000" stop="20191019163000 +0000" channel="Alpha Cyprus">
-    <title lang="el">ΕΛΑ ΣΤΗ ΘΕΣΗ ΜΟΥ</title>
+  <programme start="20191023165000 +0000" stop="20191023170000 +0000" channel="Capital">
+    <title lang="el">ΕΙΔΗΣΕΙΣ ΣΤΗ ΝΟΗΜΑΤΙΚΗ</title>
   </programme>
-  <programme start="20191019163000 +0000" stop="20191019172000 +0000" channel="Alpha Cyprus">
-    <title lang="el">ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗ ΜΟΥΡΜΟΥΡΑ</title>
+  <programme start="20191023170000 +0000" stop="20191023180000 +0000" channel="Capital">
+    <title lang="el">ΞΕΝΗ ΣΕΙΡΑ</title>
   </programme>
-  <programme start="20191019172000 +0000" stop="20191019181500 +0000" channel="Alpha Cyprus">
-    <title lang="el">ALPHA NEWS</title>
+  <programme start="20191023180000 +0000" stop="20191023194500 +0000" channel="Capital">
+    <title lang="el">ΤΟ ΦΟΝΙΚΟ ΔΩΜΑΤΙΟ (2015)  - MYSTERY</title>
   </programme>
-  <programme start="20191019181500 +0000" stop="20191019192000 +0000" channel="Alpha Cyprus">
-    <title lang="el">24 ΩΡΕΣ</title>
+  <programme start="20191023194500 +0000" stop="20191023221500 +0000" channel="Capital">
+    <title lang="el">ΞΕΝΗ ΤΑΙΝΙΑ</title>
   </programme>
-  <programme start="20191019192000 +0000" stop="20191019204500 +0000" channel="Alpha Cyprus">
-    <title lang="el">ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗ ΜΟΥΡΜΟΥΡΑ (Ε)</title>
-  </programme>
-  <programme start="20191019204500 +0000" stop="20191019221500 +0000" channel="Alpha Cyprus">
-    <title lang="el">ΜΕΣΑΝΥΧΤΑ</title>
-  </programme>
-  <programme start="20191019221500 +0000" stop="20191019230000 +0000" channel="Alpha Cyprus">
-    <title lang="el">WORLD PARTY (Ε)</title>
-  </programme>
-  <programme start="20191019230000 +0000" stop="20191019234500 +0000" channel="Alpha Cyprus">
-    <title lang="el">ΑΛΗΘΙΝΟΙ ΕΡΩΤΕΣ (Ε)</title>
-  </programme>
-  <programme start="20191019234500 +0000" stop="20191020004500 +0000" channel="Alpha Cyprus">
-    <title lang="el">10Η ΕΝΤΟΛΗ (Ε)</title>
+  <programme start="20191023221500 +0000" stop="20191024002000 +0000" channel="Capital">
+    <title lang="el">ΚΑΡΛΟΣ ΤΟ ΤΣΑΚΑΛΙ  - ACTION THRILLER</title>
   </programme>
   <programme start="20191020040000 +0000" stop="20191020051000 +0000" channel="Alpha Cyprus">
     <title lang="el">24 ΩΡΕΣ (Ε)</title>
@@ -2532,140 +2483,65 @@
   <programme start="20191022221500 +0000" stop="20191023000000 +0000" channel="Alpha Cyprus">
     <title lang="el">ΕΛΑ ΣΤΗ ΘΕΣΗ ΜΟΥ (Ε)</title>
   </programme>
-  <programme start="20191019033000 +0000" stop="20191019040000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
+  <programme start="20191023000000 +0000" stop="20191023003000 +0000" channel="Alpha Cyprus">
+    <title lang="el">8 ΛΕΞΕΙΣ (Ε)</title>
   </programme>
-  <programme start="20191019040000 +0000" stop="20191019043000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
+  <programme start="20191023003000 +0000" stop="20191023013000 +0000" channel="Alpha Cyprus">
+    <title lang="el">ΥΠΕΡΟΧΑ ΠΛΑΣΜΑΤΑ (Ε)</title>
   </programme>
-  <programme start="20191019043000 +0000" stop="20191019050000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
+  <programme start="20191023034500 +0000" stop="20191023063000 +0000" channel="Alpha Cyprus">
+    <title lang="el">ALPHA ΚΑΛΗΜΕΡΑ</title>
   </programme>
-  <programme start="20191019050000 +0000" stop="20191019053000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
+  <programme start="20191023063000 +0000" stop="20191023071500 +0000" channel="Alpha Cyprus">
+    <title lang="el">ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ (Ε)</title>
   </programme>
-  <programme start="20191019053000 +0000" stop="20191019060000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
+  <programme start="20191023071500 +0000" stop="20191023080000 +0000" channel="Alpha Cyprus">
+    <title lang="el">ΑΣΤΕΡΙΑ ΣΤΗΝ ΑΜΜΟ (Ε)</title>
   </programme>
-  <programme start="20191019060000 +0000" stop="20191019063000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
+  <programme start="20191023080000 +0000" stop="20191023104000 +0000" channel="Alpha Cyprus">
+    <title lang="el">ALPHA ΕΝΗΜΕΡΩΣΗ</title>
   </programme>
-  <programme start="20191019063000 +0000" stop="20191019070000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
+  <programme start="20191023104000 +0000" stop="20191023113500 +0000" channel="Alpha Cyprus">
+    <title lang="el">ΣΠΙΤΙ ΕΙΝΑΙ (Ε)</title>
   </programme>
-  <programme start="20191019070000 +0000" stop="20191019073000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
+  <programme start="20191023113500 +0000" stop="20191023123000 +0000" channel="Alpha Cyprus">
+    <title lang="el">DIVIDED</title>
   </programme>
-  <programme start="20191019073000 +0000" stop="20191019080000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
+  <programme start="20191023123000 +0000" stop="20191023143000 +0000" channel="Alpha Cyprus">
+    <title lang="el">ΜΕ ΑΓΑΠΗ ΧΡΙΣΤΙΑΝΑ</title>
   </programme>
-  <programme start="20191019080000 +0000" stop="20191019083000 +0000" channel="TV Mall">
-    <title lang="el">ΕΛΛΗΝΙΚΗ ΤΑΙΝΙΑ</title>
+  <programme start="20191023143000 +0000" stop="20191023150000 +0000" channel="Alpha Cyprus">
+    <title lang="el">ΠΑΝΩ ΚΑΤΩ</title>
   </programme>
-  <programme start="20191019083000 +0000" stop="20191019090000 +0000" channel="TV Mall">
-    <title lang="el">ΕΛΛΗΝΙΚΗ ΤΑΙΝΙΑ</title>
+  <programme start="20191023150000 +0000" stop="20191023151000 +0000" channel="Alpha Cyprus">
+    <title lang="el">ΕΙΔΗΣΕΙΣ ΚΑΙ ΔΕΛΤΙΟ ΣΤΗ ΝΟΗΜΑΤΙΚΗ</title>
   </programme>
-  <programme start="20191019090000 +0000" stop="20191019093000 +0000" channel="TV Mall">
-    <title lang="el">ΕΛΛΗΝΙΚΗ ΤΑΙΝΙΑ</title>
+  <programme start="20191023151000 +0000" stop="20191023154000 +0000" channel="Alpha Cyprus">
+    <title lang="el">ΠΑΝΩ ΚΑΤΩ - ΣΥΝΕΧΕΙΑ</title>
   </programme>
-  <programme start="20191019093000 +0000" stop="20191019095000 +0000" channel="TV Mall">
-    <title lang="el">ΕΛΛΗΝΙΚΗ ΤΑΙΝΙΑ</title>
+  <programme start="20191023154000 +0000" stop="20191023163000 +0000" channel="Alpha Cyprus">
+    <title lang="el">ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ</title>
   </programme>
-  <programme start="20191019095000 +0000" stop="20191019103000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
+  <programme start="20191023163000 +0000" stop="20191023171500 +0000" channel="Alpha Cyprus">
+    <title lang="el">ΑΣΤΕΡΙΑ ΣΤΗΝ ΑΜΜΟ</title>
   </programme>
-  <programme start="20191019103000 +0000" stop="20191019110000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
+  <programme start="20191023171500 +0000" stop="20191023181500 +0000" channel="Alpha Cyprus">
+    <title lang="el">ALPHA NEWS</title>
   </programme>
-  <programme start="20191019110000 +0000" stop="20191019113000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
+  <programme start="20191023181500 +0000" stop="20191023191000 +0000" channel="Alpha Cyprus">
+    <title lang="el">Η ΦΑΜΙΛΙΑ</title>
   </programme>
-  <programme start="20191019113000 +0000" stop="20191019120000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
+  <programme start="20191023191000 +0000" stop="20191023204500 +0000" channel="Alpha Cyprus">
+    <title lang="el">8 ΛΕΞΕΙΣ</title>
   </programme>
-  <programme start="20191019120000 +0000" stop="20191019123000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
+  <programme start="20191023204500 +0000" stop="20191023213000 +0000" channel="Alpha Cyprus">
+    <title lang="el">ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ (Ε)</title>
   </programme>
-  <programme start="20191019123000 +0000" stop="20191019130000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
+  <programme start="20191023213000 +0000" stop="20191023221500 +0000" channel="Alpha Cyprus">
+    <title lang="el">ΑΣΤΕΡΙΑ ΣΤΗΝ ΑΜΜΟ (Ε)</title>
   </programme>
-  <programme start="20191019130000 +0000" stop="20191019140000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191019140000 +0000" stop="20191019143000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191019143000 +0000" stop="20191019150000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191019150000 +0000" stop="20191019153000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191019153000 +0000" stop="20191019160000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191019160000 +0000" stop="20191019163000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191019163000 +0000" stop="20191019170000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191019170000 +0000" stop="20191019173000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191019173000 +0000" stop="20191019180000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191019180000 +0000" stop="20191019183000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191019183000 +0000" stop="20191019190000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191019190000 +0000" stop="20191019193000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191019193000 +0000" stop="20191019200000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191019200000 +0000" stop="20191019203000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191019203000 +0000" stop="20191019210000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191019210000 +0000" stop="20191019213000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191019213000 +0000" stop="20191019220000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191019220000 +0000" stop="20191019223000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191019223000 +0000" stop="20191019230000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191019230000 +0000" stop="20191019233000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191019233000 +0000" stop="20191020000000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191020000000 +0000" stop="20191020003000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191020003000 +0000" stop="20191020010000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191020010000 +0000" stop="20191020013000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191020013000 +0000" stop="20191020020000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
-  </programme>
-  <programme start="20191020020000 +0000" stop="20191020023000 +0000" channel="TV Mall">
-    <title lang="el">TV MALL</title>
+  <programme start="20191023221500 +0000" stop="20191024000000 +0000" channel="Alpha Cyprus">
+    <title lang="el">ΕΛΑ ΣΤΗ ΘΕΣΗ ΜΟΥ (Ε)</title>
   </programme>
   <programme start="20191020033000 +0000" stop="20191020040000 +0000" channel="TV Mall">
     <title lang="el">TV MALL</title>
@@ -3051,143 +2927,137 @@
   <programme start="20191022233000 +0000" stop="20191023000000 +0000" channel="TV Mall">
     <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019033000 +0000" stop="20191019040000 +0000" channel="smile">
-    <title lang="el">RABBIDS INVASIONS</title>
+  <programme start="20191023000000 +0000" stop="20191023003000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019040000 +0000" stop="20191019043000 +0000" channel="smile">
-    <title lang="el">HORSELAND</title>
+  <programme start="20191023003000 +0000" stop="20191023010000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019043000 +0000" stop="20191019050000 +0000" channel="smile">
-    <title lang="el">ZIG &amp;SHARKO</title>
+  <programme start="20191023010000 +0000" stop="20191023013000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019050000 +0000" stop="20191019053000 +0000" channel="smile">
-    <title lang="el">H κουκουβάγια και η παρέα της</title>
+  <programme start="20191023013000 +0000" stop="20191023020000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019053000 +0000" stop="20191019060000 +0000" channel="smile">
-    <title lang="el">OLIVIA</title>
+  <programme start="20191023020000 +0000" stop="20191023023000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019060000 +0000" stop="20191019063000 +0000" channel="smile">
-    <title lang="el">GOGO DINO</title>
+  <programme start="20191023033000 +0000" stop="20191023040000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019063000 +0000" stop="20191019070000 +0000" channel="smile">
-    <title lang="el">CAM &amp; LEON</title>
+  <programme start="20191023040000 +0000" stop="20191023050000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019070000 +0000" stop="20191019073000 +0000" channel="smile">
-    <title lang="el">BADANAMU</title>
+  <programme start="20191023050000 +0000" stop="20191023053000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019073000 +0000" stop="20191019080000 +0000" channel="smile">
-    <title lang="el">TIMO</title>
+  <programme start="20191023053000 +0000" stop="20191023060000 +0000" channel="TV Mall">
+    <title lang="el">MILAGROS</title>
   </programme>
-  <programme start="20191019080000 +0000" stop="20191019083000 +0000" channel="smile">
-    <title lang="el">NONTY</title>
+  <programme start="20191023060000 +0000" stop="20191023063000 +0000" channel="TV Mall">
+    <title lang="el">MILAGROS</title>
   </programme>
-  <programme start="20191019083000 +0000" stop="20191019090000 +0000" channel="smile">
-    <title lang="el">RABBIDS INVASIONS</title>
+  <programme start="20191023063000 +0000" stop="20191023070000 +0000" channel="TV Mall">
+    <title lang="el">MILAGROS</title>
   </programme>
-  <programme start="20191019090000 +0000" stop="20191019093000 +0000" channel="smile">
-    <title lang="el">ΜΑΓΙΚΑ ΤΟΥΒΛΑΚΙΑ</title>
+  <programme start="20191023070000 +0000" stop="20191023073000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019093000 +0000" stop="20191019100000 +0000" channel="smile">
-    <title lang="el">ΜΑΓΙΑ Η ΜΕΛΙΣΣΑ</title>
+  <programme start="20191023073000 +0000" stop="20191023080000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019100000 +0000" stop="20191019103000 +0000" channel="smile">
-    <title lang="el">POPPLES</title>
+  <programme start="20191023080000 +0000" stop="20191023083000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019103000 +0000" stop="20191019110000 +0000" channel="smile">
-    <title lang="el">ΜΠΑΚ ΚΑΙ ΜΠΑΝΤΙ</title>
+  <programme start="20191023083000 +0000" stop="20191023090000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019110000 +0000" stop="20191019113000 +0000" channel="smile">
-    <title lang="el">ΠΕΤ ΠΑΛΣ</title>
+  <programme start="20191023090000 +0000" stop="20191023093000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019113000 +0000" stop="20191019120000 +0000" channel="smile">
-    <title lang="el">ΓΙΟΓΙΟ</title>
+  <programme start="20191023093000 +0000" stop="20191023095000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019120000 +0000" stop="20191019123000 +0000" channel="smile">
-    <title lang="el">KIKORIKI</title>
+  <programme start="20191023095000 +0000" stop="20191023103000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019123000 +0000" stop="20191019130000 +0000" channel="smile">
-    <title lang="el">O TYXEΡΟΣ ΦΡΕΝΤ</title>
+  <programme start="20191023103000 +0000" stop="20191023110000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019130000 +0000" stop="20191019133000 +0000" channel="smile">
-    <title lang="el">ΧΑΪΝΤΙ</title>
+  <programme start="20191023110000 +0000" stop="20191023113000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019133000 +0000" stop="20191019140000 +0000" channel="smile">
-    <title lang="el">ΟΙ ΜΑΧΗΤΕΣ ΤΩΝ ΟΝΕΙΡΩΝ</title>
+  <programme start="20191023113000 +0000" stop="20191023120000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019140000 +0000" stop="20191019143000 +0000" channel="smile">
-    <title lang="el">DIGIMON FUSION</title>
+  <programme start="20191023120000 +0000" stop="20191023123000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019143000 +0000" stop="20191019150000 +0000" channel="smile">
-    <title lang="el">POWER RANGERS</title>
+  <programme start="20191023123000 +0000" stop="20191023130000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019150000 +0000" stop="20191019153000 +0000" channel="smile">
-    <title lang="el">GORMITI</title>
+  <programme start="20191023130000 +0000" stop="20191023140000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019153000 +0000" stop="20191019160000 +0000" channel="smile">
-    <title lang="el">DRAGONBALL Z</title>
+  <programme start="20191023140000 +0000" stop="20191023143000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019160000 +0000" stop="20191019163000 +0000" channel="smile">
-    <title lang="el">GLITTER FORCE</title>
+  <programme start="20191023143000 +0000" stop="20191023150000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019163000 +0000" stop="20191019170000 +0000" channel="smile">
-    <title lang="el">SUPER DETECTIVES</title>
+  <programme start="20191023150000 +0000" stop="20191023153000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019170000 +0000" stop="20191019173000 +0000" channel="smile">
-    <title lang="el">ΤΑΤΑ Ο ΕΞΩΓΗΙΝΟΣ</title>
+  <programme start="20191023153000 +0000" stop="20191023160000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019173000 +0000" stop="20191019180000 +0000" channel="smile">
-    <title lang="el">ΤΡΙΑ ΣΚΙΟΥΡΑΚΙΑ</title>
+  <programme start="20191023160000 +0000" stop="20191023163000 +0000" channel="TV Mall">
+    <title lang="el">RUBI</title>
   </programme>
-  <programme start="20191019180000 +0000" stop="20191019183000 +0000" channel="smile">
-    <title lang="el">RAT - A - TAT</title>
+  <programme start="20191023163000 +0000" stop="20191023170000 +0000" channel="TV Mall">
+    <title lang="el">RUBI</title>
   </programme>
-  <programme start="20191019183000 +0000" stop="20191019190000 +0000" channel="smile">
-    <title lang="el">SUPER YIZAI</title>
+  <programme start="20191023170000 +0000" stop="20191023173000 +0000" channel="TV Mall">
+    <title lang="el">RUBI</title>
   </programme>
-  <programme start="20191019190000 +0000" stop="20191019193000 +0000" channel="smile">
-    <title lang="el">POPPLES</title>
+  <programme start="20191023173000 +0000" stop="20191023180000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019193000 +0000" stop="20191019200000 +0000" channel="smile">
-    <title lang="el">ANGEL FRIENDS</title>
+  <programme start="20191023180000 +0000" stop="20191023183000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019200000 +0000" stop="20191019203000 +0000" channel="smile">
-    <title lang="el">DRAGONBALL Z</title>
+  <programme start="20191023183000 +0000" stop="20191023190000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019203000 +0000" stop="20191019210000 +0000" channel="smile">
-    <title lang="el">DIGIMON FUSION</title>
+  <programme start="20191023190000 +0000" stop="20191023193000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019210000 +0000" stop="20191019213000 +0000" channel="smile">
-    <title lang="el">DINOFROZ</title>
+  <programme start="20191023193000 +0000" stop="20191023200000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019213000 +0000" stop="20191019220000 +0000" channel="smile">
-    <title lang="el">GLITTER FORCE</title>
+  <programme start="20191023200000 +0000" stop="20191023203000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019220000 +0000" stop="20191019223000 +0000" channel="smile">
-    <title lang="el">ΜΑΓΙΚΑ ΤΟΥΒΛΑΚΙΑ</title>
+  <programme start="20191023203000 +0000" stop="20191023210000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019223000 +0000" stop="20191019230000 +0000" channel="smile">
-    <title lang="el">Πριγκίπισσα Σίσσυ</title>
+  <programme start="20191023210000 +0000" stop="20191023213000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019230000 +0000" stop="20191019233000 +0000" channel="smile">
-    <title lang="el">Πριγκίπισσα Σίσσυ</title>
+  <programme start="20191023213000 +0000" stop="20191023220000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191019233000 +0000" stop="20191020000000 +0000" channel="smile">
-    <title lang="el">\</title>
+  <programme start="20191023220000 +0000" stop="20191023223000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191020000000 +0000" stop="20191020003000 +0000" channel="smile">
-    <title lang="el">Πριγκίπισσα Σίσσυ</title>
+  <programme start="20191023223000 +0000" stop="20191023230000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191020003000 +0000" stop="20191020010000 +0000" channel="smile">
-    <title lang="el">«Οι Περιπέτειες του Βούπα»</title>
+  <programme start="20191023230000 +0000" stop="20191023233000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
-  <programme start="20191020010000 +0000" stop="20191020013000 +0000" channel="smile">
-    <title lang="el">DRAGONBALL Z</title>
-  </programme>
-  <programme start="20191020013000 +0000" stop="20191020020000 +0000" channel="smile">
-    <title lang="el">DRAGONBALL Z</title>
-  </programme>
-  <programme start="20191020020000 +0000" stop="20191020023000 +0000" channel="smile">
-    <title lang="el">HERB FAMILY</title>
+  <programme start="20191023233000 +0000" stop="20191024000000 +0000" channel="TV Mall">
+    <title lang="el">TV MALL</title>
   </programme>
   <programme start="20191020033000 +0000" stop="20191020040000 +0000" channel="smile">
     <title lang="el">RABBIDS INVASIONS</title>
@@ -3588,45 +3458,143 @@
   <programme start="20191022233000 +0000" stop="20191023000000 +0000" channel="smile">
     <title lang="el">\</title>
   </programme>
-  <programme start="20191019050000 +0000" stop="20191019070000 +0000" channel="RIK HD">
-    <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
-    <desc lang="el">Το κανάλι δεν εκπέμπει σε 24ωρη βάση παρά μόνο καλύπτει συγκεκριμένες μεταδόσεις της κρατικής τηλεόρασης του ΡΙΚ. Μεταδίδονται ζωντανά αγώνες του UEFA EUROPA LEAGUE, του Ευρωπαϊκού και Παγκόσμιου Πρωταθλήματος Καλλιτεχνικού Πατινάζ, του EURO, του Μουντιάλ και οι Ολυμπιακοί Αγώνες. Επίσης, στο ΡΙΚ HD μεταδίδεται ο Διαγωνισμός Τραγουδιού της Eurovision(n)</desc>
+  <programme start="20191023000000 +0000" stop="20191023003000 +0000" channel="smile">
+    <title lang="el">Πριγκίπισσα Σίσσυ</title>
   </programme>
-  <programme start="20191019070000 +0000" stop="20191019090000 +0000" channel="RIK HD">
-    <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
-    <desc lang="el">Το κανάλι δεν εκπέμπει σε 24ωρη βάση παρά μόνο καλύπτει συγκεκριμένες μεταδόσεις της κρατικής τηλεόρασης του ΡΙΚ. Μεταδίδονται ζωντανά αγώνες του UEFA EUROPA LEAGUE, του Ευρωπαϊκού και Παγκόσμιου Πρωταθλήματος Καλλιτεχνικού Πατινάζ, του EURO, του Μουντιάλ και οι Ολυμπιακοί Αγώνες. Επίσης, στο ΡΙΚ HD μεταδίδεται ο Διαγωνισμός Τραγουδιού της Eurovision(n)</desc>
+  <programme start="20191023003000 +0000" stop="20191023010000 +0000" channel="smile">
+    <title lang="el">«Οι Περιπέτειες του Βούπα»</title>
   </programme>
-  <programme start="20191019090000 +0000" stop="20191019110000 +0000" channel="RIK HD">
-    <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
-    <desc lang="el">Το κανάλι δεν εκπέμπει σε 24ωρη βάση παρά μόνο καλύπτει συγκεκριμένες μεταδόσεις της κρατικής τηλεόρασης του ΡΙΚ. Μεταδίδονται ζωντανά αγώνες του UEFA EUROPA LEAGUE, του Ευρωπαϊκού και Παγκόσμιου Πρωταθλήματος Καλλιτεχνικού Πατινάζ, του EURO, του Μουντιάλ και οι Ολυμπιακοί Αγώνες. Επίσης, στο ΡΙΚ HD μεταδίδεται ο Διαγωνισμός Τραγουδιού της Eurovision(n)</desc>
+  <programme start="20191023010000 +0000" stop="20191023013000 +0000" channel="smile">
+    <title lang="el">DRAGONBALL Z</title>
   </programme>
-  <programme start="20191019110000 +0000" stop="20191019130000 +0000" channel="RIK HD">
-    <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
-    <desc lang="el">Το κανάλι δεν εκπέμπει σε 24ωρη βάση παρά μόνο καλύπτει συγκεκριμένες μεταδόσεις της κρατικής τηλεόρασης του ΡΙΚ. Μεταδίδονται ζωντανά αγώνες του UEFA EUROPA LEAGUE, του Ευρωπαϊκού και Παγκόσμιου Πρωταθλήματος Καλλιτεχνικού Πατινάζ, του EURO, του Μουντιάλ και οι Ολυμπιακοί Αγώνες. Επίσης, στο ΡΙΚ HD μεταδίδεται ο Διαγωνισμός Τραγουδιού της Eurovision(n)</desc>
+  <programme start="20191023013000 +0000" stop="20191023020000 +0000" channel="smile">
+    <title lang="el">DRAGONBALL Z</title>
   </programme>
-  <programme start="20191019130000 +0000" stop="20191019150000 +0000" channel="RIK HD">
-    <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
-    <desc lang="el">Το κανάλι δεν εκπέμπει σε 24ωρη βάση παρά μόνο καλύπτει συγκεκριμένες μεταδόσεις της κρατικής τηλεόρασης του ΡΙΚ. Μεταδίδονται ζωντανά αγώνες του UEFA EUROPA LEAGUE, του Ευρωπαϊκού και Παγκόσμιου Πρωταθλήματος Καλλιτεχνικού Πατινάζ, του EURO, του Μουντιάλ και οι Ολυμπιακοί Αγώνες. Επίσης, στο ΡΙΚ HD μεταδίδεται ο Διαγωνισμός Τραγουδιού της Eurovision(n)</desc>
+  <programme start="20191023020000 +0000" stop="20191023023000 +0000" channel="smile">
+    <title lang="el">HERB FAMILY</title>
   </programme>
-  <programme start="20191019150000 +0000" stop="20191019170000 +0000" channel="RIK HD">
-    <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
-    <desc lang="el">Το κανάλι δεν εκπέμπει σε 24ωρη βάση παρά μόνο καλύπτει συγκεκριμένες μεταδόσεις της κρατικής τηλεόρασης του ΡΙΚ. Μεταδίδονται ζωντανά αγώνες του UEFA EUROPA LEAGUE, του Ευρωπαϊκού και Παγκόσμιου Πρωταθλήματος Καλλιτεχνικού Πατινάζ, του EURO, του Μουντιάλ και οι Ολυμπιακοί Αγώνες. Επίσης, στο ΡΙΚ HD μεταδίδεται ο Διαγωνισμός Τραγουδιού της Eurovision(n)</desc>
+  <programme start="20191023033000 +0000" stop="20191023040000 +0000" channel="smile">
+    <title lang="el">RABBIDS INVASIONS</title>
   </programme>
-  <programme start="20191019170000 +0000" stop="20191019190000 +0000" channel="RIK HD">
-    <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
-    <desc lang="el">Το κανάλι δεν εκπέμπει σε 24ωρη βάση παρά μόνο καλύπτει συγκεκριμένες μεταδόσεις της κρατικής τηλεόρασης του ΡΙΚ. Μεταδίδονται ζωντανά αγώνες του UEFA EUROPA LEAGUE, του Ευρωπαϊκού και Παγκόσμιου Πρωταθλήματος Καλλιτεχνικού Πατινάζ, του EURO, του Μουντιάλ και οι Ολυμπιακοί Αγώνες. Επίσης, στο ΡΙΚ HD μεταδίδεται ο Διαγωνισμός Τραγουδιού της Eurovision(n)</desc>
+  <programme start="20191023040000 +0000" stop="20191023043000 +0000" channel="smile">
+    <title lang="el">HORSELAND</title>
   </programme>
-  <programme start="20191019190000 +0000" stop="20191019210000 +0000" channel="RIK HD">
-    <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
-    <desc lang="el">Το κανάλι δεν εκπέμπει σε 24ωρη βάση παρά μόνο καλύπτει συγκεκριμένες μεταδόσεις της κρατικής τηλεόρασης του ΡΙΚ. Μεταδίδονται ζωντανά αγώνες του UEFA EUROPA LEAGUE, του Ευρωπαϊκού και Παγκόσμιου Πρωταθλήματος Καλλιτεχνικού Πατινάζ, του EURO, του Μουντιάλ και οι Ολυμπιακοί Αγώνες. Επίσης, στο ΡΙΚ HD μεταδίδεται ο Διαγωνισμός Τραγουδιού της Eurovision(n)</desc>
+  <programme start="20191023043000 +0000" stop="20191023050000 +0000" channel="smile">
+    <title lang="el">ZIG &amp;SHARKO</title>
   </programme>
-  <programme start="20191019210000 +0000" stop="20191019230000 +0000" channel="RIK HD">
-    <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
-    <desc lang="el">Το κανάλι δεν εκπέμπει σε 24ωρη βάση παρά μόνο καλύπτει συγκεκριμένες μεταδόσεις της κρατικής τηλεόρασης του ΡΙΚ. Μεταδίδονται ζωντανά αγώνες του UEFA EUROPA LEAGUE, του Ευρωπαϊκού και Παγκόσμιου Πρωταθλήματος Καλλιτεχνικού Πατινάζ, του EURO, του Μουντιάλ και οι Ολυμπιακοί Αγώνες. Επίσης, στο ΡΙΚ HD μεταδίδεται ο Διαγωνισμός Τραγουδιού της Eurovision(n)</desc>
+  <programme start="20191023050000 +0000" stop="20191023053000 +0000" channel="smile">
+    <title lang="el">H κουκουβάγια και η παρέα της</title>
   </programme>
-  <programme start="20191019230000 +0000" stop="20191020010000 +0000" channel="RIK HD">
-    <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
-    <desc lang="el">Το κανάλι δεν εκπέμπει σε 24ωρη βάση παρά μόνο καλύπτει συγκεκριμένες μεταδόσεις της κρατικής τηλεόρασης του ΡΙΚ. Μεταδίδονται ζωντανά αγώνες του UEFA EUROPA LEAGUE, του Ευρωπαϊκού και Παγκόσμιου Πρωταθλήματος Καλλιτεχνικού Πατινάζ, του EURO, του Μουντιάλ και οι Ολυμπιακοί Αγώνες. Επίσης, στο ΡΙΚ HD μεταδίδεται ο Διαγωνισμός Τραγουδιού της Eurovision(n)</desc>
+  <programme start="20191023053000 +0000" stop="20191023060000 +0000" channel="smile">
+    <title lang="el">OLIVIA</title>
+  </programme>
+  <programme start="20191023060000 +0000" stop="20191023063000 +0000" channel="smile">
+    <title lang="el">GOGO DINO</title>
+  </programme>
+  <programme start="20191023063000 +0000" stop="20191023070000 +0000" channel="smile">
+    <title lang="el">CAM &amp; LEON</title>
+  </programme>
+  <programme start="20191023070000 +0000" stop="20191023073000 +0000" channel="smile">
+    <title lang="el">BADANAMU</title>
+  </programme>
+  <programme start="20191023073000 +0000" stop="20191023080000 +0000" channel="smile">
+    <title lang="el">TIMO</title>
+  </programme>
+  <programme start="20191023080000 +0000" stop="20191023083000 +0000" channel="smile">
+    <title lang="el">NONTY</title>
+  </programme>
+  <programme start="20191023083000 +0000" stop="20191023090000 +0000" channel="smile">
+    <title lang="el">RABBIDS INVASIONS</title>
+  </programme>
+  <programme start="20191023090000 +0000" stop="20191023093000 +0000" channel="smile">
+    <title lang="el">ΜΑΓΙΚΑ ΤΟΥΒΛΑΚΙΑ</title>
+  </programme>
+  <programme start="20191023093000 +0000" stop="20191023100000 +0000" channel="smile">
+    <title lang="el">ΜΑΓΙΑ Η ΜΕΛΙΣΣΑ</title>
+  </programme>
+  <programme start="20191023100000 +0000" stop="20191023103000 +0000" channel="smile">
+    <title lang="el">POPPLES</title>
+  </programme>
+  <programme start="20191023103000 +0000" stop="20191023110000 +0000" channel="smile">
+    <title lang="el">ΜΠΑΚ ΚΑΙ ΜΠΑΝΤΙ</title>
+  </programme>
+  <programme start="20191023110000 +0000" stop="20191023113000 +0000" channel="smile">
+    <title lang="el">ΠΕΤ ΠΑΛΣ</title>
+  </programme>
+  <programme start="20191023113000 +0000" stop="20191023120000 +0000" channel="smile">
+    <title lang="el">ΓΙΟΓΙΟ</title>
+  </programme>
+  <programme start="20191023120000 +0000" stop="20191023123000 +0000" channel="smile">
+    <title lang="el">KIKORIKI</title>
+  </programme>
+  <programme start="20191023123000 +0000" stop="20191023130000 +0000" channel="smile">
+    <title lang="el">O TYXEΡΟΣ ΦΡΕΝΤ</title>
+  </programme>
+  <programme start="20191023130000 +0000" stop="20191023133000 +0000" channel="smile">
+    <title lang="el">ΧΑΪΝΤΙ</title>
+  </programme>
+  <programme start="20191023133000 +0000" stop="20191023140000 +0000" channel="smile">
+    <title lang="el">ΟΙ ΜΑΧΗΤΕΣ ΤΩΝ ΟΝΕΙΡΩΝ</title>
+  </programme>
+  <programme start="20191023140000 +0000" stop="20191023143000 +0000" channel="smile">
+    <title lang="el">DIGIMON FUSION</title>
+  </programme>
+  <programme start="20191023143000 +0000" stop="20191023150000 +0000" channel="smile">
+    <title lang="el">POWER RANGERS</title>
+  </programme>
+  <programme start="20191023150000 +0000" stop="20191023153000 +0000" channel="smile">
+    <title lang="el">GORMITI</title>
+  </programme>
+  <programme start="20191023153000 +0000" stop="20191023160000 +0000" channel="smile">
+    <title lang="el">DRAGONBALL Z</title>
+  </programme>
+  <programme start="20191023160000 +0000" stop="20191023163000 +0000" channel="smile">
+    <title lang="el">GLITTER FORCE</title>
+  </programme>
+  <programme start="20191023163000 +0000" stop="20191023170000 +0000" channel="smile">
+    <title lang="el">SUPER DETECTIVES</title>
+  </programme>
+  <programme start="20191023170000 +0000" stop="20191023173000 +0000" channel="smile">
+    <title lang="el">ΤΑΤΑ Ο ΕΞΩΓΗΙΝΟΣ</title>
+  </programme>
+  <programme start="20191023173000 +0000" stop="20191023180000 +0000" channel="smile">
+    <title lang="el">ΤΡΙΑ ΣΚΙΟΥΡΑΚΙΑ</title>
+  </programme>
+  <programme start="20191023180000 +0000" stop="20191023183000 +0000" channel="smile">
+    <title lang="el">RAT - A - TAT</title>
+  </programme>
+  <programme start="20191023183000 +0000" stop="20191023190000 +0000" channel="smile">
+    <title lang="el">SUPER YIZAI</title>
+  </programme>
+  <programme start="20191023190000 +0000" stop="20191023193000 +0000" channel="smile">
+    <title lang="el">POPPLES</title>
+  </programme>
+  <programme start="20191023193000 +0000" stop="20191023200000 +0000" channel="smile">
+    <title lang="el">ANGEL FRIENDS</title>
+  </programme>
+  <programme start="20191023200000 +0000" stop="20191023203000 +0000" channel="smile">
+    <title lang="el">DRAGONBALL Z</title>
+  </programme>
+  <programme start="20191023203000 +0000" stop="20191023210000 +0000" channel="smile">
+    <title lang="el">DIGIMON FUSION</title>
+  </programme>
+  <programme start="20191023210000 +0000" stop="20191023213000 +0000" channel="smile">
+    <title lang="el">DINOFROZ</title>
+  </programme>
+  <programme start="20191023213000 +0000" stop="20191023220000 +0000" channel="smile">
+    <title lang="el">GLITTER FORCE</title>
+  </programme>
+  <programme start="20191023220000 +0000" stop="20191023223000 +0000" channel="smile">
+    <title lang="el">ΜΑΓΙΚΑ ΤΟΥΒΛΑΚΙΑ</title>
+  </programme>
+  <programme start="20191023223000 +0000" stop="20191023230000 +0000" channel="smile">
+    <title lang="el">Πριγκίπισσα Σίσσυ</title>
+  </programme>
+  <programme start="20191023230000 +0000" stop="20191023233000 +0000" channel="smile">
+    <title lang="el">Πριγκίπισσα Σίσσυ</title>
+  </programme>
+  <programme start="20191023233000 +0000" stop="20191024000000 +0000" channel="smile">
+    <title lang="el">\</title>
   </programme>
   <programme start="20191020050000 +0000" stop="20191020070000 +0000" channel="RIK HD">
     <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
@@ -3748,49 +3716,45 @@
     <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
     <desc lang="el">Το κανάλι δεν εκπέμπει σε 24ωρη βάση παρά μόνο καλύπτει συγκεκριμένες μεταδόσεις της κρατικής τηλεόρασης του ΡΙΚ. Μεταδίδονται ζωντανά αγώνες του UEFA EUROPA LEAGUE, του Ευρωπαϊκού και Παγκόσμιου Πρωταθλήματος Καλλιτεχνικού Πατινάζ, του EURO, του Μουντιάλ και οι Ολυμπιακοί Αγώνες. Επίσης, στο ΡΙΚ HD μεταδίδεται ο Διαγωνισμός Τραγουδιού της Eurovision(n)</desc>
   </programme>
-  <programme start="20191019040000 +0000" stop="20191019060000 +0000" channel="Euronews">
-    <title lang="el">Διεθνή νέα από το Euronews</title>
-    <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
+  <programme start="20191023050000 +0000" stop="20191023070000 +0000" channel="RIK HD">
+    <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
+    <desc lang="el">Το κανάλι δεν εκπέμπει σε 24ωρη βάση παρά μόνο καλύπτει συγκεκριμένες μεταδόσεις της κρατικής τηλεόρασης του ΡΙΚ. Μεταδίδονται ζωντανά αγώνες του UEFA EUROPA LEAGUE, του Ευρωπαϊκού και Παγκόσμιου Πρωταθλήματος Καλλιτεχνικού Πατινάζ, του EURO, του Μουντιάλ και οι Ολυμπιακοί Αγώνες. Επίσης, στο ΡΙΚ HD μεταδίδεται ο Διαγωνισμός Τραγουδιού της Eurovision(n)</desc>
   </programme>
-  <programme start="20191019060000 +0000" stop="20191019080000 +0000" channel="Euronews">
-    <title lang="el">Διεθνή νέα από το Euronews</title>
-    <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
+  <programme start="20191023070000 +0000" stop="20191023090000 +0000" channel="RIK HD">
+    <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
+    <desc lang="el">Το κανάλι δεν εκπέμπει σε 24ωρη βάση παρά μόνο καλύπτει συγκεκριμένες μεταδόσεις της κρατικής τηλεόρασης του ΡΙΚ. Μεταδίδονται ζωντανά αγώνες του UEFA EUROPA LEAGUE, του Ευρωπαϊκού και Παγκόσμιου Πρωταθλήματος Καλλιτεχνικού Πατινάζ, του EURO, του Μουντιάλ και οι Ολυμπιακοί Αγώνες. Επίσης, στο ΡΙΚ HD μεταδίδεται ο Διαγωνισμός Τραγουδιού της Eurovision(n)</desc>
   </programme>
-  <programme start="20191019080000 +0000" stop="20191019100000 +0000" channel="Euronews">
-    <title lang="el">Διεθνή νέα από το Euronews</title>
-    <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
+  <programme start="20191023090000 +0000" stop="20191023110000 +0000" channel="RIK HD">
+    <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
+    <desc lang="el">Το κανάλι δεν εκπέμπει σε 24ωρη βάση παρά μόνο καλύπτει συγκεκριμένες μεταδόσεις της κρατικής τηλεόρασης του ΡΙΚ. Μεταδίδονται ζωντανά αγώνες του UEFA EUROPA LEAGUE, του Ευρωπαϊκού και Παγκόσμιου Πρωταθλήματος Καλλιτεχνικού Πατινάζ, του EURO, του Μουντιάλ και οι Ολυμπιακοί Αγώνες. Επίσης, στο ΡΙΚ HD μεταδίδεται ο Διαγωνισμός Τραγουδιού της Eurovision(n)</desc>
   </programme>
-  <programme start="20191019100000 +0000" stop="20191019120000 +0000" channel="Euronews">
-    <title lang="el">Διεθνή νέα από το Euronews</title>
-    <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
+  <programme start="20191023110000 +0000" stop="20191023130000 +0000" channel="RIK HD">
+    <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
+    <desc lang="el">Το κανάλι δεν εκπέμπει σε 24ωρη βάση παρά μόνο καλύπτει συγκεκριμένες μεταδόσεις της κρατικής τηλεόρασης του ΡΙΚ. Μεταδίδονται ζωντανά αγώνες του UEFA EUROPA LEAGUE, του Ευρωπαϊκού και Παγκόσμιου Πρωταθλήματος Καλλιτεχνικού Πατινάζ, του EURO, του Μουντιάλ και οι Ολυμπιακοί Αγώνες. Επίσης, στο ΡΙΚ HD μεταδίδεται ο Διαγωνισμός Τραγουδιού της Eurovision(n)</desc>
   </programme>
-  <programme start="20191019120000 +0000" stop="20191019140000 +0000" channel="Euronews">
-    <title lang="el">Διεθνή νέα από το Euronews</title>
-    <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
+  <programme start="20191023130000 +0000" stop="20191023150000 +0000" channel="RIK HD">
+    <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
+    <desc lang="el">Το κανάλι δεν εκπέμπει σε 24ωρη βάση παρά μόνο καλύπτει συγκεκριμένες μεταδόσεις της κρατικής τηλεόρασης του ΡΙΚ. Μεταδίδονται ζωντανά αγώνες του UEFA EUROPA LEAGUE, του Ευρωπαϊκού και Παγκόσμιου Πρωταθλήματος Καλλιτεχνικού Πατινάζ, του EURO, του Μουντιάλ και οι Ολυμπιακοί Αγώνες. Επίσης, στο ΡΙΚ HD μεταδίδεται ο Διαγωνισμός Τραγουδιού της Eurovision(n)</desc>
   </programme>
-  <programme start="20191019140000 +0000" stop="20191019160000 +0000" channel="Euronews">
-    <title lang="el">Διεθνή νέα από το Euronews</title>
-    <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
+  <programme start="20191023150000 +0000" stop="20191023170000 +0000" channel="RIK HD">
+    <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
+    <desc lang="el">Το κανάλι δεν εκπέμπει σε 24ωρη βάση παρά μόνο καλύπτει συγκεκριμένες μεταδόσεις της κρατικής τηλεόρασης του ΡΙΚ. Μεταδίδονται ζωντανά αγώνες του UEFA EUROPA LEAGUE, του Ευρωπαϊκού και Παγκόσμιου Πρωταθλήματος Καλλιτεχνικού Πατινάζ, του EURO, του Μουντιάλ και οι Ολυμπιακοί Αγώνες. Επίσης, στο ΡΙΚ HD μεταδίδεται ο Διαγωνισμός Τραγουδιού της Eurovision(n)</desc>
   </programme>
-  <programme start="20191019160000 +0000" stop="20191019180000 +0000" channel="Euronews">
-    <title lang="el">Διεθνή νέα από το Euronews</title>
-    <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
+  <programme start="20191023170000 +0000" stop="20191023190000 +0000" channel="RIK HD">
+    <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
+    <desc lang="el">Το κανάλι δεν εκπέμπει σε 24ωρη βάση παρά μόνο καλύπτει συγκεκριμένες μεταδόσεις της κρατικής τηλεόρασης του ΡΙΚ. Μεταδίδονται ζωντανά αγώνες του UEFA EUROPA LEAGUE, του Ευρωπαϊκού και Παγκόσμιου Πρωταθλήματος Καλλιτεχνικού Πατινάζ, του EURO, του Μουντιάλ και οι Ολυμπιακοί Αγώνες. Επίσης, στο ΡΙΚ HD μεταδίδεται ο Διαγωνισμός Τραγουδιού της Eurovision(n)</desc>
   </programme>
-  <programme start="20191019180000 +0000" stop="20191019200000 +0000" channel="Euronews">
-    <title lang="el">Διεθνή νέα από το Euronews</title>
-    <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
+  <programme start="20191023190000 +0000" stop="20191023210000 +0000" channel="RIK HD">
+    <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
+    <desc lang="el">Το κανάλι δεν εκπέμπει σε 24ωρη βάση παρά μόνο καλύπτει συγκεκριμένες μεταδόσεις της κρατικής τηλεόρασης του ΡΙΚ. Μεταδίδονται ζωντανά αγώνες του UEFA EUROPA LEAGUE, του Ευρωπαϊκού και Παγκόσμιου Πρωταθλήματος Καλλιτεχνικού Πατινάζ, του EURO, του Μουντιάλ και οι Ολυμπιακοί Αγώνες. Επίσης, στο ΡΙΚ HD μεταδίδεται ο Διαγωνισμός Τραγουδιού της Eurovision(n)</desc>
   </programme>
-  <programme start="20191019200000 +0000" stop="20191019220000 +0000" channel="Euronews">
-    <title lang="el">Διεθνή νέα από το Euronews</title>
-    <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
+  <programme start="20191023210000 +0000" stop="20191023230000 +0000" channel="RIK HD">
+    <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
+    <desc lang="el">Το κανάλι δεν εκπέμπει σε 24ωρη βάση παρά μόνο καλύπτει συγκεκριμένες μεταδόσεις της κρατικής τηλεόρασης του ΡΙΚ. Μεταδίδονται ζωντανά αγώνες του UEFA EUROPA LEAGUE, του Ευρωπαϊκού και Παγκόσμιου Πρωταθλήματος Καλλιτεχνικού Πατινάζ, του EURO, του Μουντιάλ και οι Ολυμπιακοί Αγώνες. Επίσης, στο ΡΙΚ HD μεταδίδεται ο Διαγωνισμός Τραγουδιού της Eurovision(n)</desc>
   </programme>
-  <programme start="20191019220000 +0000" stop="20191020000000 +0000" channel="Euronews">
-    <title lang="el">Διεθνή νέα από το Euronews</title>
-    <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
-  </programme>
-  <programme start="20191020000000 +0000" stop="20191020020000 +0000" channel="Euronews">
-    <title lang="el">Διεθνή νέα από το Euronews</title>
-    <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
+  <programme start="20191023230000 +0000" stop="20191024010000 +0000" channel="RIK HD">
+    <title lang="el">Ζωντανά αθλητικά γεγονότα σε εικόνα υψηλής ευκρίνειας.</title>
+    <desc lang="el">Το κανάλι δεν εκπέμπει σε 24ωρη βάση παρά μόνο καλύπτει συγκεκριμένες μεταδόσεις της κρατικής τηλεόρασης του ΡΙΚ. Μεταδίδονται ζωντανά αγώνες του UEFA EUROPA LEAGUE, του Ευρωπαϊκού και Παγκόσμιου Πρωταθλήματος Καλλιτεχνικού Πατινάζ, του EURO, του Μουντιάλ και οι Ολυμπιακοί Αγώνες. Επίσης, στο ΡΙΚ HD μεταδίδεται ο Διαγωνισμός Τραγουδιού της Eurovision(n)</desc>
   </programme>
   <programme start="20191020040000 +0000" stop="20191020060000 +0000" channel="Euronews">
     <title lang="el">Διεθνή νέα από το Euronews</title>
@@ -3920,81 +3884,49 @@
     <title lang="el">Διεθνή νέα από το Euronews</title>
     <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
   </programme>
-  <programme start="20191019001500 +0300" stop="20191019014000 +0300" channel="ert">
-    <title lang="el">ΕΛΛΑΔΑ, ΕΤΟΣ ΜΗΔΕΝ</title>
-    <desc lang="el">Βασισμένο σε αρχειακό υλικό, το ντοκιμαντέρ παρουσιάζει την Ιστορία της Ελλάδας από τους Ολυμπιακούς Αγώνες του 1896 μέχρι το έτος 2011. Στηλιτεύει τα στερεότυπα που ακολουθούν τους Ελληνες και αναδεικνύει τις τραγωδίες του ελληνισμού(n)</desc>
+  <programme start="20191023000000 +0000" stop="20191023020000 +0000" channel="Euronews">
+    <title lang="el">Διεθνή νέα από το Euronews</title>
+    <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
   </programme>
-  <programme start="20191019014000 +0300" stop="20191019023500 +0300" channel="ert">
-    <title lang="el">ΣΥΝΑΝΤΗΣΕΙΣ ΣΤΟ ΖΩΙΚΟ ΒΑΣΙΛΕΙΟ</title>
-    <desc lang="el">Στο συγκεκριμένο επεισόδιο, γορίλες, ουρακοτάγκοι, πύθωνες τυλιγμένοι γύρω από δέντρα, απολαυστικοί πίθηκοι από τρεις ηπείρους, επιβλητικές τίγρεις και εκατομμύρια κόκκινα καβούρια παρελαύνουν στις οθόνες μας(n)</desc>
+  <programme start="20191023040000 +0000" stop="20191023060000 +0000" channel="Euronews">
+    <title lang="el">Διεθνή νέα από το Euronews</title>
+    <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
   </programme>
-  <programme start="20191019023500 +0300" stop="20191019033000 +0300" channel="ert">
-    <title lang="el">ΟΙ ΘΗΣΑΥΡΟΙ ΤΗΣ ΕΥΡΩΠΗΣ</title>
-    <desc lang="el">Θα ταξιδέψουμε με έλκηθρο μέχρι τις πριγκιπικές πόλεις του Χρυσού Δακτύλιου και θα ανακαλύψουμε μέρη με ιστορία άγνωστα στους τουρίστες, τα οποία είναι 'παράδεισος' για τους φωτογράφους(n)</desc>
+  <programme start="20191023060000 +0000" stop="20191023080000 +0000" channel="Euronews">
+    <title lang="el">Διεθνή νέα από το Euronews</title>
+    <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
   </programme>
-  <programme start="20191019033000 +0300" stop="20191019043000 +0300" channel="ert">
-    <title lang="el">Β' ΠΑΓΚΟΣΜΙΟΣ ΠΟΛΕΜΟΣ</title>
-    <desc lang="el">Ο πόλεμος στην Ευρώπη αλλάζει όταν, στις 22 Ιουνίου 1941, ο Χίτλερ ξεκινά την επιχείρηση Μπαρμπαρόσα. Η εισβολή των Ναζί στη Σοβιετική Ενωση έχει ξεκινήσει(n)</desc>
+  <programme start="20191023080000 +0000" stop="20191023100000 +0000" channel="Euronews">
+    <title lang="el">Διεθνή νέα από το Euronews</title>
+    <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
   </programme>
-  <programme start="20191019043000 +0300" stop="20191019050000 +0300" channel="ert">
-    <title lang="el">INFERNO</title>
-    <desc lang="el">Εκπομπή μαγειρικής με την Αντιγόνη Αμανίτου(n)</desc>
+  <programme start="20191023100000 +0000" stop="20191023120000 +0000" channel="Euronews">
+    <title lang="el">Διεθνή νέα από το Euronews</title>
+    <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
   </programme>
-  <programme start="20191019050000 +0300" stop="20191019053000 +0300" channel="ert">
-    <title lang="el">INFERNO</title>
-    <desc lang="el">Εκπομπή μαγειρικής με την Αντιγόνη Αμανίτου(n)</desc>
+  <programme start="20191023120000 +0000" stop="20191023140000 +0000" channel="Euronews">
+    <title lang="el">Διεθνή νέα από το Euronews</title>
+    <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
   </programme>
-  <programme start="20191019053000 +0300" stop="20191019060000 +0300" channel="ert">
-    <title lang="el">Η ΜΗΧΑΝΗ ΤΟΥ ΧΡΟΝΟΥ</title>
-    <desc lang="el">Η δράση της γερμανικής Μεραρχίας 'Εντελβάις', στην Ηπειρο το 1943 - 44. Η σφαγή στους Λιγκιάδες και την Παραμυθιά καθώς και η εξόντωση Ιταλών στην Κεφαλονιά και Εβραίων στα Ιωάννινα. Επίσης, η πραγματική ιστορία του Αμος Παμπαλόνι(n)</desc>
+  <programme start="20191023140000 +0000" stop="20191023160000 +0000" channel="Euronews">
+    <title lang="el">Διεθνή νέα από το Euronews</title>
+    <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
   </programme>
-  <programme start="20191019064500 +0300" stop="20191019100000 +0300" channel="ert">
-    <title lang="el">ΜΑΖΙ ΤΟ ΣΑΒΒΑΤΟΚΥΡΙΑΚΟ</title>
-    <desc lang="el">Ο Γιάννης Σκάλκος και η Ευρυδίκη Χάντζιου μας ενημερώνουν για όλα όσα συμβαίνουν στην κοινωνία, την πολιτική, την οικονομία, την υγεία, στον πολιτισμό, τον αθλητισμό, στο περιβάλλον και γενικά στον κόσμο(n)</desc>
+  <programme start="20191023160000 +0000" stop="20191023180000 +0000" channel="Euronews">
+    <title lang="el">Διεθνή νέα από το Euronews</title>
+    <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
   </programme>
-  <programme start="20191019100000 +0300" stop="20191019120000 +0300" channel="ert">
-    <title lang="el">ΜΕΓΑΣ ΑΛΕΞΑΝΔΡΟΣ</title>
-    <desc lang="el">Ο Στεφάν Μπερν και η εκπομπή 'Secrets d'Histoire' της γαλλικής δημόσιας τηλεόρασης France 2 ακολουθούν τα ίχνη του πιο ένδοξου κατακτητή όλων των εποχών: του Μεγάλου Αλεξάνδρου(n)</desc>
+  <programme start="20191023180000 +0000" stop="20191023200000 +0000" channel="Euronews">
+    <title lang="el">Διεθνή νέα από το Euronews</title>
+    <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
   </programme>
-  <programme start="20191019120000 +0300" stop="20191019123000 +0300" channel="ert">
-    <title lang="el">ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός</title>
-    <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα της ΕΡΤ(n)</desc>
+  <programme start="20191023200000 +0000" stop="20191023220000 +0000" channel="Euronews">
+    <title lang="el">Διεθνή νέα από το Euronews</title>
+    <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
   </programme>
-  <programme start="20191019123000 +0300" stop="20191019133000 +0300" channel="ert">
-    <title lang="el">ΕΠΤΑ</title>
-    <desc lang="el">Ενημερωτική εκπομπή με τη Βάλια Πετούρη, με καλεσμένο το πολιτικό πρόσωπο της εβδομάδας και θέμα την ανασκόπηση της επικαιρότητας, το επταήμερο που πέρασε(n)</desc>
-  </programme>
-  <programme start="20191019134500 +0300" stop="20191019143000 +0300" channel="ert">
-    <title lang="el">ΜΕΤΑ-ΜΟΥΣΕΙΟ</title>
-    <desc lang="el">Σειρά που παρουσιάζει μουσεία και αρχαιολογικούς χώρους της Αθήνας και της περιφέρειας. Η εκπομπή φιλοδοξεί να παρακινήσει τους θεατές να επισκεφθούν τους τόπους που θα γνωρίσουν από την μικρή οθόνη, μέσα από γοητευτικές αφηγήσεις(n)</desc>
-  </programme>
-  <programme start="20191019143000 +0300" stop="20191019150000 +0300" channel="ert">
-    <title lang="el">ΘΑΝΑΣΗΣ ΛΑΛΑΣ: ΤΕΤΡΑΔΙΑ</title>
-    <desc lang="el">Η ιδιοφυής Μαρίνα Αμπράμοβιτς, η σπουδαιότερη περφόρμερ του κόσμου, μια αμφιλεγόμενη, γοητευτική, με αστείρευτη ενέργεια γυναίκα, συναντά τον Θανάση Λάλα σε ένα ταξί, ένα απόγευμα στο κέντρο της Αθήνας(n)</desc>
-  </programme>
-  <programme start="20191019150000 +0300" stop="20191019160000 +0300" channel="ert">
-    <title lang="el">ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός</title>
-    <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα της ΕΡΤ(n)</desc>
-  </programme>
-  <programme start="20191019160000 +0300" stop="20191019180000 +0300" channel="ert">
-    <title lang="el">ΤΟΠ KΑΠΙ</title>
-    <desc lang="el">Ενας μικροαπατεώνας εμπλέκεται στα σχέδια μιας διεθνούς σπείρας, που θέλει να ληστέψει το μουσείο Τοπκαπί της Κωνσταντινούπολης(n)</desc>
-  </programme>
-  <programme start="20191019181500 +0300" stop="20191019191500 +0300" channel="ert">
-    <title lang="el">ΟΙΝΟΣ Ο ΑΓΑΠΗΤΟΣ</title>
-    <desc lang="el">Ταξιδεύουμε στην Σαντορίνη και γνωρίζουμε τις λευκές ποικιλίες σταφυλιού του νησιού: το ασύρτικο, το αθήρι και το αηδάνι. Επισκεπτόμαστε τα οινοποιεία Αργυρού, Μπουτάρη και Βενετσάνου και καταρρίπτουμε έναν μύθο για το αλκοόλ στο κρασί(n)</desc>
-  </programme>
-  <programme start="20191019191500 +0300" stop="20191019210000 +0300" channel="ert">
-    <title lang="el">ΑΝΤΡΑ ΘΕΛΩ</title>
-    <desc lang="el">Η νεαρή και όμορφη Λιάνα μένει ξαφνικά χήρα, αφού ο υπερήλικας σύζυγός της πεθαίνει. Την επόμενη μέρα του θανάτου πληροφορείται από τον δικηγόρο του, ότι η ίδια κληρονομεί ολόκληρη την περιουσία, μόνο αν αποκτήσει διάδοχο(n)</desc>
-  </programme>
-  <programme start="20191019210000 +0300" stop="20191019214500 +0300" channel="ert">
-    <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ</title>
-    <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα της ΕΡΤ(n)</desc>
-  </programme>
-  <programme start="20191019220000 +0300" stop="20191020000000 +0300" channel="ert">
-    <title lang="el">ΣΤΑ ΤΡΑΓΟΥΔΙΑ ΛΕΜΕ ΝΑΙ 3</title>
-    <desc lang="el">Η Ναταλία Δραγούμη και ο Μιχάλης Μαρίνος ανακαλύπτουν με τους καλεσμένους τους τις κρυφές ιστορίες πίσω από τα θρυλικά 45άρια, ενώ αγαπημένοι καλλιτέχνες ερμηνεύουν μοναδικά τα τραγούδια που ακούμε μέχρι σήμερα(n)</desc>
+  <programme start="20191023220000 +0000" stop="20191024000000 +0000" channel="Euronews">
+    <title lang="el">Διεθνή νέα από το Euronews</title>
+    <desc lang="el">To ευρέως γνωστό ευρωπαϊκό κανάλι ειδήσεων, τώρα στο σπίτι σας 24 ώρες την ημέρα, σας προσφέρει πλήρη ενημέρωση για τα τεκταινόμενα σε ευρωπαικό και διεθνές επίπεδο(n)</desc>
   </programme>
   <programme start="20191020001000 +0300" stop="20191020011500 +0300" channel="ert">
     <title lang="el">ΣΤΑ ΤΡΑΓΟΥΔΙΑ ΛΕΜΕ ΝΑΙ 3</title>
@@ -4203,5 +4135,77 @@
   <programme start="20191022220000 +0300" stop="20191023000000 +0300" channel="ert">
     <title lang="el">ΤΑΞΙΔΙ ΣΤΗΝ ΙΤΑΛΙΑ</title>
     <desc lang="el">Ο Στιβ Κούγκαν και ο Ρομπ Μπράιντον ταξιδεύουν στην Ιταλία και επισκέπτονται έξι εστιατόρια σε έξι πόλεις. Στη διαδρομή, έρχονται στο φως στοιχεία της προσωπικής και επαγγελματικής τους ζωής(n)</desc>
+  </programme>
+  <programme start="20191023001500 +0300" stop="20191023010500 +0300" channel="ert">
+    <title lang="el">FARGO 3</title>
+    <desc lang="el">Η Γκλόρια έρχεται αντιμέτωπη με τις επιπτώσεις ενός φρικτού εγκλήματος. Την ίδια στιγμή, ο Βάργκα κάνει την κίνησή του, ενώ ο Ρέι και η Νίκι βάζουν σε εφαρμογή ένα εναλλακτικό σχέδιο(n)</desc>
+  </programme>
+  <programme start="20191023010500 +0300" stop="20191023020000 +0300" channel="ert">
+    <title lang="el">ΣΥΝΑΝΤΗΣΕΙΣ ΣΤΟ ΖΩΙΚΟ ΒΑΣΙΛΕΙΟ</title>
+    <desc lang="el">Η σειρά μάς αποκαλύπτει τα καλύτερα μέρη στον πλανήτη, εκεί όπου θα συναντήσουμε τα πιο άγρια και περίεργα ζώα του κόσμου(n)</desc>
+  </programme>
+  <programme start="20191023020000 +0300" stop="20191023030000 +0300" channel="ert">
+    <title lang="el">Οι Σπουδαιότερες Πόλεις του Κόσμου</title>
+    <desc lang="el">Με πληθυσμούς από 10 εκατομμύρια και πάνω, διαθέτουν από ουρανοξύστες έως παραγκουπόλεις. Οι ραγδαίοι ρυθμοί αυτής της συσσώρευσης πληθυσμών έχει προκαλέσει ένα βουνό προβλήματα, αλλά και δυναμικούς πολιτισμούς(n)</desc>
+  </programme>
+  <programme start="20191023030000 +0300" stop="20191023040000 +0300" channel="ert">
+    <title lang="el">Β' ΠΑΓΚΟΣΜΙΟΣ ΠΟΛΕΜΟΣ</title>
+    <desc lang="el">Η κλιμάκωση του πολέμου από τους Ιάπωνες ανατολικά είναι απελπιστικά αποτελεσματική αλλά, παρά την επιτυχία τους, είναι πιθανό να έρθουν αντιμέτωποι με την αναπόφευκτη ήττα τους αφού έχουν 'ξυπνήσει' τον στρατιωτικό γίγαντα της Αμερικής(n)</desc>
+  </programme>
+  <programme start="20191023040000 +0300" stop="20191023045000 +0300" channel="ert">
+    <title lang="el">ΝΗΣΤΙΚΟ ΑΡΚΟΥΔΙ</title>
+    <desc lang="el">Σουρεαλιστική εκπομπή μαγειρικής με τον Στάθη Παναγιωτόπουλο και τον Δημήτρη Σταρόβα. Συνδυάζει το χιούμορ με εύκολες λαχταριστές σπιτικές συνταγές, που όλοι θα ήθελαν να ξέρουν και όλοι θα μπορέσουν να εκτελέσουν!(n)</desc>
+  </programme>
+  <programme start="20191023045000 +0300" stop="20191023055000 +0300" channel="ert">
+    <title lang="el">Η ΜΗΧΑΝΗ ΤΟΥ ΧΡΟΝΟΥ</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει το πρώτο ισχυρό ΟΧΙ που είπαν οι Ελληνες στρατιώτες των φυλακίων της ελληνοαλβανικής μεθορίου και τις άγνωστες μάχες τους, μέσα από μαρτυρίες βετεράνων του '40 και αφηγήσεις στρατιωτικών, ιστορικών και ερευνητών(n)</desc>
+  </programme>
+  <programme start="20191023080000 +0300" stop="20191023095000 +0300" channel="ert">
+    <title lang="el">ΠΡΩΙΝΗ ΕΝΗΜΕΡΩΣΗ ΕΡΤ</title>
+    <desc lang="el">Καθημερινή ενημερωτική εκπομπή της ΕΡΤ1 με έμφαση στην κοινωνία, την πολιτική, την οικονομία και τον πολιτισμό. Παρουσίαση: Νίνα Κασιμάτη, Χρήστος Παγώνης(n)</desc>
+  </programme>
+  <programme start="20191023095000 +0300" stop="20191023120000 +0300" channel="ert">
+    <title lang="el">ΑΠΕΥΘΕΙΑΣ</title>
+    <desc lang="el">Οι Μάριον Μιχελιδάκη και Κώστας Λασκαράτος μας μεταφέρουν 'απευθείας' τα μεγάλα γεγονότα, το πρόσωπο της ημέρας καθώς και όλες τις εξελίξεις στην πολιτική και την οικονομία(n)</desc>
+  </programme>
+  <programme start="20191023120000 +0300" stop="20191023130000 +0300" channel="ert">
+    <title lang="el">ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός</title>
+    <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα της ΕΡΤ(n)</desc>
+  </programme>
+  <programme start="20191023130000 +0300" stop="20191023140000 +0300" channel="ert">
+    <title lang="el">ΜΕΝΟΥΜΕ ΕΛΛΑΔΑ, ΒΓΑΙΝΟΥΜΕ ΕΞΩ</title>
+    <desc lang="el">Ταξιδιωτική εκπομπή, αφιερωμένη σε παλιές και νέες μορφές τουρισμού, μοναδικές δραστηριότητες, περιπλανήσεις και διαδρομές στην όμορφη ελληνική γη. Κάθε εβδομάδα, η Ρένια βγαίνει εκτός πλατό και παρουσιάζει έναν διαφορετικό προορισμό(n)</desc>
+  </programme>
+  <programme start="20191023140000 +0300" stop="20191023150000 +0300" channel="ert">
+    <title lang="el">ΝΗΣΤΙΚΟ ΑΡΚΟΥΔΙ</title>
+    <desc lang="el">Σουρεαλιστική εκπομπή μαγειρικής με τον Στάθη Παναγιωτόπουλο και τον Δημήτρη Σταρόβα. Συνδυάζει το χιούμορ με εύκολες λαχταριστές σπιτικές συνταγές, που όλοι θα ήθελαν να ξέρουν και όλοι θα μπορέσουν να εκτελέσουν!(n)</desc>
+  </programme>
+  <programme start="20191023150000 +0300" stop="20191023160000 +0300" channel="ert">
+    <title lang="el">ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός</title>
+    <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα της ΕΡΤ(n)</desc>
+  </programme>
+  <programme start="20191023160000 +0300" stop="20191023170000 +0300" channel="ert">
+    <title lang="el">ΣΥΝΑΝΤΗΣΕΙΣ ΣΤΟ ΖΩΙΚΟ ΒΑΣΙΛΕΙΟ</title>
+    <desc lang="el">Η σειρά μάς αποκαλύπτει τα καλύτερα μέρη στον πλανήτη, εκεί όπου θα συναντήσουμε τα πιο άγρια και περίεργα ζώα του κόσμου(n)</desc>
+  </programme>
+  <programme start="20191023170000 +0300" stop="20191023180000 +0300" channel="ert">
+    <title lang="el">Οι Σπουδαιότερες Πόλεις του Κόσμου</title>
+    <desc lang="el">Γεμάτες οραματιστές, πολιτικούς, ακαδημαϊκούς και ακτιβιστές, οι πόλεις αυτές διαθέτουν λεωφόρους, μουσεία, εθνικά μνημεία, αλλά πέρα από αυτά που μοιράζονται διαφέρουν όσο και οι χώρες τους(n)</desc>
+  </programme>
+  <programme start="20191023184500 +0300" stop="20191023200000 +0300" channel="ert">
+    <title lang="el">Β' ΠΑΓΚΟΣΜΙΟΣ ΠΟΛΕΜΟΣ</title>
+    <desc lang="el">Ο πόλεμος γυρνά υπέρ των Συμμάχων. Ο Μοντγκόμερι αλλάζει τις ισορροπίες στο Αφρικανικό Σώμα του Ελ Αλαμέιν, οι Ιάπωνες χάνουν στο Γκουανταλκανάλ και οι Γερμανοί ηττούνται στο Στάλινγκραντ(n)</desc>
+  </programme>
+  <programme start="20191023200000 +0300" stop="20191023210000 +0300" channel="ert">
+    <title lang="el">Η ΜΗΧΑΝΗ ΤΟΥ ΧΡΟΝΟΥ</title>
+    <desc lang="el">Η μάχη που έκρινε τον πόλεμο. Η εκπομπή παρουσιάζει τις συγκλονιστικές μαρτυρίες δύο βετεράνων της επικής μάχης στο ύψωμα 731, οι οποίοι έζησαν την κόλαση της Ιταλικής αντεπίθεσης το Μάρτιο του 1941(n)</desc>
+  </programme>
+  <programme start="20191023210000 +0300" stop="20191023220000 +0300" channel="ert">
+    <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ</title>
+    <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα της ΕΡΤ(n)</desc>
+  </programme>
+  <programme start="20191023220000 +0300" stop="20191024000000 +0300" channel="ert">
+    <title lang="el">ΠΟΛΙΤΙΚΗ ΕΠΙΚΑΙΡΟΤΗΤΑ</title>
+    <desc lang="el">Ενημερωτική εκπομπή(n)</desc>
   </programme>
 </tv>
