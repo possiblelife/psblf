@@ -1,0 +1,16 @@
+<AppUpdater>
+  <update>
+    <latestVersion>2.20</latestVersion>
+    <latestVersionCode>50</latestVersionCode>
+    <url>https://play.google.com/store/apps/details?id=com.loaderpro.player</url>
+  <releaseNotes>
+Whats New v2.20:
+(1) New Recorder while watching - only with internal player 3 and autoplayer (for tvstyle).
+(2) Recorder schedule while watching (only for tvstyle).
+(3) Backup/load playlists (compatible between Free-Pro version).
+(4) You can change exit Playlist dialog (through playlist menu-settings).
+(5) Updated \"add playlist from storage\", compatible with newer Android versions.
+(6) Other fixes and updates.
+    </releaseNotes>
+  </update>
+</AppUpdater>
