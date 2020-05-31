@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
     <latestVersion>2.20</latestVersion>
-    <latestVersionCode>51</latestVersionCode>
+    <latestVersionCode>50</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.loaderpro.player</url>
   <releaseNotes>
 Whats New v2.20:
