@@ -10672,7 +10672,7 @@
     <title lang="el">HERB</title>
     <desc lang="el"></desc>
   </programme>
-  <programme start="20200605060000 +0300" stop="20200605100000 +0300" channel="ANT1">
+   <programme start="20200605060000 +0300" stop="20200605100000 +0300" channel="ANT1">
     <title lang="el">Καλημέρα Ελλάδα</title>
     <desc lang="el">Η πιο δημοφιλής ενημερωτική εκπομπή της ελληνικής τηλεόρασης βρίσκεται κοντά μας για 29η συνεχόμενη χρονιά. Με επίκεντρο τον πολίτη, ο Γιώργος Παπαδάκης και η ομάδα του, θα ξεφυλλίζουν καθημερινά τις σελίδες της επικαιρότητας, φωτίζοντας σημαντικά κοινωνικά, πολιτικά και οικονομικά θέματα.(n)</desc>
     <credits>
@@ -15552,6 +15552,311 @@
     <desc lang="el">FIFA Παγκόσμιο Κύπελλο. 2010. Προημιτελικός.(n)</desc>
     <category lang="el">Αθλητική Εκπομπή - Αγώνας</category>
   </programme>
+  <programme start="20200605070000 +0300" stop="20200605080000 +0300" channel="ACTION24">
+    <title lang="el">World Sailing Cup</title>
+    <desc lang="el">Εκπομπή ιστιοπλοΐας.(n)</desc>
+  </programme>
+  <programme start="20200605080000 +0300" stop="20200605100000 +0300" channel="ACTION24">
+    <title lang="el">The Hammer Series</title>
+    <desc lang="el">Ποδηλατικός αγώνας. Ολλανδία.(n)</desc>
+  </programme>
+  <programme start="20200605100000 +0300" stop="20200605150000 +0300" channel="ACTION24">
+    <title lang="el">Τηλεπωλήσεις</title>
+    <desc lang="el">Παρακολουθήστε τον πιο έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές, υπόσχονται να αλλάξουν τη ζωή σας.(n)</desc>
+  </programme>
+  <programme start="20200605150000 +0300" stop="20200605173000 +0300" channel="ACTION24">
+    <title lang="el">Market Watch</title>
+    <desc lang="el">Οικονομική εκπομπή με τη Σοφία Ροδοπούλου και βασικό σχολιαστή τον Παναγιώτη Μπουσμπουρέλη. Παραγωγή: Ελλάδα.(n)</desc>
+  </programme>
+  <programme start="20200605173000 +0300" stop="20200605194500 +0300" channel="ACTION24">
+    <title lang="el">Γιώργος Τράγκας</title>
+    <desc lang="el">Ενημερωτική εκπομπή με τον Γιώργο Τράγκα.(n)</desc>
+  </programme>
+  <programme start="20200605194500 +0300" stop="20200605200000 +0300" channel="ACTION24">
+    <title lang="el">Sport News</title>
+    <desc lang="el">Αθλητική εκπομπή με ρεπορτάζ και σχόλια, παρουσία ρεπόρτερ στο studio, εικόνες από διεθνή αθλητικά θέματα της ημέρας αλλά και highlights από τα πρωταθλήματα. (ΤΠ).(n)</desc>
+  </programme>
+  <programme start="20200605200000 +0300" stop="20200605203000 +0300" channel="ACTION24">
+    <title lang="el">Covid News</title>
+    <desc lang="el">Ενημερωτική εκπομπή με τον Δημήτρη Τάκη. Παραγωγή: Ελλάδα.(n)</desc>
+  </programme>
+  <programme start="20200605203000 +0300" stop="20200605220000 +0300" channel="ACTION24">
+    <title lang="el">Brainstorming</title>
+    <desc lang="el">Ενημερωτική εκπομπή με τον Σταμάτη Ζαχαρό και την Κατερίνα Δούκα.(n)</desc>
+  </programme>
+  <programme start="20200605220000 +0300" stop="20200605230000 +0300" channel="ACTION24">
+    <title lang="el">Bull</title>
+    <desc lang="el">O Δρ Τζέισον Μπουλ είναι ιδιοφυής, αυθάδης και γοητευτικός. Συνεργάζεται με μία αξιοζήλευτη ομάδα ειδικών στην Trial Analysis Corporation, ώστε να πλάσει επιτυχείς αφηγήσεις, μέχρι και την τελευταία λεπτομέρεια.(n)</desc>
+  </programme>
+  <programme start="20200605230000 +0300" stop="20200605233000 +0300" channel="ACTION24">
+    <title lang="el">Επιθεωρητής Κολιάντρο</title>
+    <desc lang="el">Ο Coliandro είναι επιθεωρητής στα κεντρικά της αστυνομίας της Μπολόνια, ο οποίος βρίσκεται μπλεγμένος σε καταστάσεις δύσκολες για εκείνον. 'Oμως, ποτέ δεν τα παρατάει, ακόμα κι αν η ανικανότητά του να ερευνήσει τον βάζει σε μπελάδες.(n)</desc>
+    <credits>
+      <director>Αντόνιο Μανέτι</director>
+      <actor>Τζιανπάολο Μορέλι</actor>
+      <actor>Βερόνικα Λόγκαν</actor>
+      <actor>Αλεσσάντρο Ρόσσι</actor>
+    </credits>
+    <category lang="el">Αστυνομική</category>
+  </programme>
+  <programme start="20200605233000 +0300" stop="20200606003000 +0300" channel="ACTION24">
+    <title lang="el">Bull</title>
+    <desc lang="el">O Δρ Τζέισον Μπουλ είναι ιδιοφυής, αυθάδης και γοητευτικός. Συνεργάζεται με μία αξιοζήλευτη ομάδα ειδικών στην Trial Analysis Corporation, ώστε να πλάσει επιτυχείς αφηγήσεις, μέχρι και την τελευταία λεπτομέρεια.(n)</desc>
+  </programme>
+  <programme start="20200606003000 +0300" stop="20200606010000 +0300" channel="ACTION24">
+    <title lang="el">Belgian Rally</title>
+    <desc lang="el">Παρακολουθήστε τους αγώνες του Βελγικού πρωτάθληματος rally.(n)</desc>
+  </programme>
+  <programme start="20200606010000 +0300" stop="20200606020000 +0300" channel="ACTION24">
+    <title lang="el">World Sailing Cup</title>
+    <desc lang="el">Εκπομπή ιστιοπλοΐας.(n)</desc>
+  </programme>
+  <programme start="20200606020000 +0300" stop="20200606023000 +0300" channel="ACTION24">
+    <title lang="el">Morocco Desert Challenge</title>
+    <desc lang="el">Αγώνες αυτοκινήτων και μοτοσικλετών στην έρημο του Μαρόκο.(n)</desc>
+  </programme>
+  <programme start="20200606023000 +0300" stop="20200606043000 +0300" channel="ACTION24">
+    <title lang="el">Ποδηλασία: Ο Γύρος Της Νορβηγίας</title>
+    <desc lang="el">Παρακολουθήστε τους κορυφαίους ποδηλάτες παγκοσμίως να αγωνίζονται στην 1η διαδρομή του ποδηλατικού γύρου της Νορβηγίας.(n)</desc>
+  </programme>
+  <programme start="20200606043000 +0300" stop="20200606070000 +0300" channel="ACTION24">
+    <title lang="el">Ποδόσφαιρο Σάλας: Παναθηναϊκός Αεκ</title>
+    <desc lang="el">Ελληνικό Πρωτάθλημα Futsal. 4ος Τελικός.(n)</desc>
+  </programme>
+  <programme start="20200606070000 +0300" stop="20200606090000 +0300" channel="ACTION24">
+    <title lang="el">Ποδηλασία: Ο Γύρος Της Νορβηγίας</title>
+    <desc lang="el">Παρακολουθήστε τους κορυφαίους ποδηλάτες παγκοσμίως να αγωνίζονται στην 1η διαδρομή του ποδηλατικού γύρου της Νορβηγίας.(n)</desc>
+  </programme>
+  <programme start="20200606090000 +0300" stop="20200606100000 +0300" channel="ACTION24">
+    <title lang="el">Τηλεπωλήσεις</title>
+    <desc lang="el">Παρακολουθήστε τον πιο έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές, υπόσχονται να αλλάξουν τη ζωή σας.(n)</desc>
+  </programme>
+  <programme start="20200606100000 +0300" stop="20200606103000 +0300" channel="ACTION24">
+    <title lang="el">World Sailing Show</title>
+    <desc lang="el">Η εκπομπή World Sailing Show αποτελεί τη Βίβλο της επικαιρότητας από το χώρο της ιστιοπλοΐας, η οποία περιλαμβάνει στιγμιότυπα από τη δράση των πρωταγωνιστών, πλάνα από εκπληκτικές τοποθεσίες και τους καλύτερους αγώνες στον κόσμο.(n)</desc>
+  </programme>
+  <programme start="20200606103000 +0300" stop="20200606130000 +0300" channel="ACTION24">
+    <title lang="el">Ιππασία: Fei Κύπελλο Εθνών</title>
+    <desc lang="el">Το FEI Κύπελλο Εθνών είναι η πιο σημαντική σειρά αγώνων ιππασίας για εθνικές ομάδες και κορυφώνεται με ένα τελικό event όπου μετέχουν οι καλύτερες εξ αυτών.(n)</desc>
+  </programme>
+  <programme start="20200606130000 +0300" stop="20200606150000 +0300" channel="ACTION24">
+    <title lang="el">Τηλεπωλήσεις</title>
+    <desc lang="el">Παρακολουθήστε τον πιο έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές, υπόσχονται να αλλάξουν τη ζωή σας.(n)</desc>
+  </programme>
+  <programme start="20200606150000 +0300" stop="20200606153000 +0300" channel="ACTION24">
+    <title lang="el">Formula E</title>
+    <desc lang="el">Το μέλλον των αγώνων ταχύτητας περνά απ' τις οθόνες σας! Απολαύστε το συναρπαστικό Γκραν Πρι της Formula Ε, στο οποίο πρωταγωνιστούν ηλεκτρικά μονοθέσια!(n)</desc>
+  </programme>
+  <programme start="20200606153000 +0300" stop="20200606173000 +0300" channel="ACTION24">
+    <title lang="el">Ο Γύρος Του Guangxi</title>
+    <desc lang="el">Τηλεοπτικό μαγκαζίνο σχετικό με την ποδηλασία.(n)</desc>
+  </programme>
+  <programme start="20200606173000 +0300" stop="20200606190000 +0300" channel="ACTION24">
+    <title lang="el">Τηλεπωλήσεις</title>
+    <desc lang="el">Παρακολουθήστε τον πιο έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές, υπόσχονται να αλλάξουν τη ζωή σας.(n)</desc>
+  </programme>
+  <programme start="20200606190000 +0300" stop="20200606200000 +0300" channel="ACTION24">
+    <title lang="el">Ο Άγιος</title>
+    <desc lang="el">Ο Σάιμον Τέμπλαρ είναι ένας μοντέρνος Ρομπέν των Δασών. Κλέβει τους πλούσιους εγκληματίες και βοηθάει τους φτωχούς, με το αζημίωτο βέβαια. Και όταν οι ανόρθοδοξοι μέθοδοι του τον βάζουν σε μπελάδες, τότε επιστρατεύει την εξυπνάδα του, την ακαταμάχητη γοητεία του και το βρετανικό φλέγμα του.(n)</desc>
+    <credits>
+      <actor>Ίβορ Νταν</actor>
+      <actor>Ρότζερ Μουρ</actor>
+      <actor>Λέσλι Κρόφορντ</actor>
+    </credits>
+    <category lang="el">Περιπέτεια</category>
+  </programme>
+  <programme start="20200606200000 +0300" stop="20200606210000 +0300" channel="ACTION24">
+    <title lang="el">Μην Το Πεις Στο Αφεντικό</title>
+    <desc lang="el">Μια καλή και ειλικρινής νοικοκυρά, προσφάτως χήρα, αναγκάζεται να πει ψέματα για να την πάρουν σε μια δουλειά. Παραγωγή: Ιταλία.(n)</desc>
+    <category lang="el">Κωμωδία - Κωμωδία</category>
+  </programme>
+  <programme start="20200606210000 +0300" stop="20200606230000 +0300" channel="ACTION24">
+    <title lang="el">L'oriana</title>
+    <desc lang="el">Ιταλική σειρά για τη ζωή της Οριάνα Φαλάτσι.(n)</desc>
+    <credits>
+      <director>Μάρκο Τούρκο</director>
+      <actor>Βιτόρια Πουτσίνι</actor>
+    </credits>
+    <category lang="el">Βιογραφία</category>
+  </programme>
+  <programme start="20200606230000 +0300" stop="20200607010000 +0300" channel="ACTION24">
+    <title lang="el">Επιθεωρητής Κολιάντρο</title>
+    <desc lang="el">Ο Coliandro είναι επιθεωρητής στα κεντρικά της αστυνομίας της Μπολόνια, ο οποίος βρίσκεται μπλεγμένος σε καταστάσεις δύσκολες για εκείνον. 'Oμως, ποτέ δεν τα παρατάει, ακόμα κι αν η ανικανότητά του να ερευνήσει τον βάζει σε μπελάδες.(n)</desc>
+    <credits>
+      <director>Αντόνιο Μανέτι</director>
+      <actor>Τζιανπάολο Μορέλι</actor>
+      <actor>Βερόνικα Λόγκαν</actor>
+      <actor>Αλεσσάντρο Ρόσσι</actor>
+    </credits>
+    <category lang="el">Αστυνομική</category>
+  </programme>
+  <programme start="20200607010000 +0300" stop="20200607020000 +0300" channel="ACTION24">
+    <title lang="el">World Sailing Cup</title>
+    <desc lang="el">Εκπομπή ιστιοπλοΐας.(n)</desc>
+  </programme>
+  <programme start="20200607020000 +0300" stop="20200607040000 +0300" channel="ACTION24">
+    <title lang="el">The Hammer Series</title>
+    <desc lang="el">Ποδηλατικός αγώνας. Ολλανδία.(n)</desc>
+  </programme>
+  <programme start="20200607040000 +0300" stop="20200607043000 +0300" channel="ACTION24">
+    <title lang="el">Formula E</title>
+    <desc lang="el">Το μέλλον των αγώνων ταχύτητας περνά απ' τις οθόνες σας! Απολαύστε το συναρπαστικό Γκραν Πρι της Formula Ε, στο οποίο πρωταγωνιστούν ηλεκτρικά μονοθέσια!(n)</desc>
+  </programme>
+  <programme start="20200607043000 +0300" stop="20200607050000 +0300" channel="ACTION24">
+    <title lang="el">Mobil 1 The Grid</title>
+    <desc lang="el">'Oλα τα νέα για τον μηχανοκίνητο αθλητισμό και ό,τι άλλο αφορά τους 4 τροχούς, με πλούσια highlights και αποκλειστικές συνεντεύξεις των οδηγών.(n)</desc>
+  </programme>
+  <programme start="20200607050000 +0300" stop="20200607060000 +0300" channel="ACTION24">
+    <title lang="el">Ποδόσφαιρο Σάλας: Αεκ Παναθηναϊκός</title>
+    <desc lang="el">Ελληνικό Πρωτάθλημα Futsal. 5ος Τελικός.(n)</desc>
+  </programme>
+  <programme start="20200607060000 +0300" stop="20200607070000 +0300" channel="ACTION24">
+    <title lang="el">Fia Παγκόσμιο Πρωτάθλημα Αντοχής</title>
+    <desc lang="el">Δείτε τις καλύτερες στιγμές του κορυφαίου πρωταθλήματος αντοχής όπου τα πιο εξελιγμένα LMP και GT αυτοκίνητα αγωνίζονται σε μερικές από τις καλύτερες πίστες στον κόσμο.(n)</desc>
+  </programme>
+  <programme start="20200607070000 +0300" stop="20200607080000 +0300" channel="ACTION24">
+    <title lang="el">Super League Triathlon</title>
+    <desc lang="el">Αθλητικό πρόγραμμα.(n)</desc>
+  </programme>
+  <programme start="20200607080000 +0300" stop="20200607090000 +0300" channel="ACTION24">
+    <title lang="el">World Sailing Cup</title>
+    <desc lang="el">Εκπομπή ιστιοπλοΐας.(n)</desc>
+  </programme>
+  <programme start="20200607090000 +0300" stop="20200607120000 +0300" channel="ACTION24">
+    <title lang="el">Τηλεπωλήσεις</title>
+    <desc lang="el">Παρακολουθήστε τον πιο έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές, υπόσχονται να αλλάξουν τη ζωή σας.(n)</desc>
+  </programme>
+  <programme start="20200607120000 +0300" stop="20200607130000 +0300" channel="ACTION24">
+    <title lang="el">Αγώνες Αυτοκινήτων</title>
+    <desc lang="el">Επεισόδιο: Τασμανία. Αγώνες Αυτοκινήτου.(n)</desc>
+  </programme>
+  <programme start="20200607130000 +0300" stop="20200607150000 +0300" channel="ACTION24">
+    <title lang="el">Τηλεπωλήσεις</title>
+    <desc lang="el">Παρακολουθήστε τον πιο έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές, υπόσχονται να αλλάξουν τη ζωή σας.(n)</desc>
+  </programme>
+  <programme start="20200607150000 +0300" stop="20200607163000 +0300" channel="ACTION24">
+    <title lang="el">World Sailing Cup</title>
+    <desc lang="el">Εκπομπή ιστιοπλοΐας.(n)</desc>
+  </programme>
+  <programme start="20200607163000 +0300" stop="20200607180000 +0300" channel="ACTION24">
+    <title lang="el">Super League Triathlon</title>
+    <desc lang="el">Αθλητικό πρόγραμμα.(n)</desc>
+  </programme>
+  <programme start="20200607180000 +0300" stop="20200607183000 +0300" channel="ACTION24">
+    <title lang="el">Sport News</title>
+    <desc lang="el">Αθλητική εκπομπή με ρεπορτάζ και σχόλια, παρουσία ρεπόρτερ στο studio, εικόνες από διεθνή αθλητικά θέματα της ημέρας αλλά και highlights από τα πρωταθλήματα. (ΤΠ).(n)</desc>
+  </programme>
+  <programme start="20200607183000 +0300" stop="20200607190000 +0300" channel="ACTION24">
+    <title lang="el">Moto In Action</title>
+    <desc lang="el">Εκπομπή μοτοσικλέτας με τον Θανάση Μουρίκη.(n)</desc>
+  </programme>
+  <programme start="20200607190000 +0300" stop="20200607200000 +0300" channel="ACTION24">
+    <title lang="el">Ο Άγιος</title>
+    <desc lang="el">Ο Σάιμον Τέμπλαρ είναι ένας μοντέρνος Ρομπέν των Δασών. Κλέβει τους πλούσιους εγκληματίες και βοηθάει τους φτωχούς, με το αζημίωτο βέβαια. Και όταν οι ανόρθοδοξοι μέθοδοι του τον βάζουν σε μπελάδες, τότε επιστρατεύει την εξυπνάδα του, την ακαταμάχητη γοητεία του και το βρετανικό φλέγμα του.(n)</desc>
+    <credits>
+      <actor>Ίβορ Νταν</actor>
+      <actor>Ρότζερ Μουρ</actor>
+      <actor>Λέσλι Κρόφορντ</actor>
+    </credits>
+    <category lang="el">Περιπέτεια</category>
+  </programme>
+  <programme start="20200607200000 +0300" stop="20200607210000 +0300" channel="ACTION24">
+    <title lang="el">Μην Το Πεις Στο Αφεντικό</title>
+    <desc lang="el">Μια καλή και ειλικρινής νοικοκυρά, προσφάτως χήρα, αναγκάζεται να πει ψέματα για να την πάρουν σε μια δουλειά. Παραγωγή: Ιταλία.(n)</desc>
+    <category lang="el">Κωμωδία - Κωμωδία</category>
+  </programme>
+  <programme start="20200607210000 +0300" stop="20200607230000 +0300" channel="ACTION24">
+    <title lang="el">L'oriana</title>
+    <desc lang="el">Ιταλική σειρά για τη ζωή της Οριάνα Φαλάτσι.(n)</desc>
+    <credits>
+      <director>Μάρκο Τούρκο</director>
+      <actor>Βιτόρια Πουτσίνι</actor>
+    </credits>
+    <category lang="el">Βιογραφία</category>
+  </programme>
+  <programme start="20200607230000 +0300" stop="20200608010000 +0300" channel="ACTION24">
+    <title lang="el">Επιθεωρητής Κολιάντρο</title>
+    <desc lang="el">Ο Coliandro είναι επιθεωρητής στα κεντρικά της αστυνομίας της Μπολόνια, ο οποίος βρίσκεται μπλεγμένος σε καταστάσεις δύσκολες για εκείνον. 'Oμως, ποτέ δεν τα παρατάει, ακόμα κι αν η ανικανότητά του να ερευνήσει τον βάζει σε μπελάδες.(n)</desc>
+    <credits>
+      <director>Αντόνιο Μανέτι</director>
+      <actor>Τζιανπάολο Μορέλι</actor>
+      <actor>Βερόνικα Λόγκαν</actor>
+      <actor>Αλεσσάντρο Ρόσσι</actor>
+    </credits>
+    <category lang="el">Αστυνομική</category>
+  </programme>
+  <programme start="20200608010000 +0300" stop="20200608013000 +0300" channel="ACTION24">
+    <title lang="el">Belgian Rally</title>
+    <desc lang="el">Παρακολουθήστε τους αγώνες του Βελγικού πρωτάθληματος rally.(n)</desc>
+  </programme>
+  <programme start="20200608013000 +0300" stop="20200608020000 +0300" channel="ACTION24">
+    <title lang="el">Formula E</title>
+    <desc lang="el">Το μέλλον των αγώνων ταχύτητας περνά απ' τις οθόνες σας! Απολαύστε το συναρπαστικό Γκραν Πρι της Formula Ε, στο οποίο πρωταγωνιστούν ηλεκτρικά μονοθέσια!(n)</desc>
+  </programme>
+  <programme start="20200608020000 +0300" stop="20200608040000 +0300" channel="ACTION24">
+    <title lang="el">The Hammer Series</title>
+    <desc lang="el">Ποδηλατικός αγώνας. Ολλανδία.(n)</desc>
+  </programme>
+  <programme start="20200608040000 +0300" stop="20200608043000 +0300" channel="ACTION24">
+    <title lang="el">Ιππασία: Fei Κύπελλο Εθνών</title>
+    <desc lang="el">Το FEI Κύπελλο Εθνών είναι η πιο σημαντική σειρά αγώνων ιππασίας για εθνικές ομάδες και κορυφώνεται με ένα τελικό event όπου μετέχουν οι καλύτερες εξ αυτών.(n)</desc>
+  </programme>
+  <programme start="20200608043000 +0300" stop="20200608050000 +0300" channel="ACTION24">
+    <title lang="el">Abu Dhabi Desert Challenge</title>
+    <desc lang="el">'Eνα από τα πιο σημαντικά διεθνή ράλι cross-country, που διασχίζει τη μεγαλοπρεπή έρημο του Άμπου Ντάμπι.(n)</desc>
+  </programme>
+  <programme start="20200608050000 +0300" stop="20200608060000 +0300" channel="ACTION24">
+    <title lang="el">World Sailing Cup</title>
+    <desc lang="el">Εκπομπή ιστιοπλοΐας.(n)</desc>
+  </programme>
+  <programme start="20200608060000 +0300" stop="20200608070000 +0300" channel="ACTION24">
+    <title lang="el">Super League Triathlon</title>
+    <desc lang="el">Αθλητικό πρόγραμμα.(n)</desc>
+  </programme>
+  <programme start="20200608070000 +0300" stop="20200608090000 +0300" channel="ACTION24">
+    <title lang="el">The Hammer Series</title>
+    <desc lang="el">Ποδηλατικός αγώνας. Ολλανδία.(n)</desc>
+  </programme>
+  <programme start="20200608090000 +0300" stop="20200608100000 +0300" channel="ACTION24">
+    <title lang="el">World Sailing Cup</title>
+    <desc lang="el">Εκπομπή ιστιοπλοΐας.(n)</desc>
+  </programme>
+  <programme start="20200608100000 +0300" stop="20200608150000 +0300" channel="ACTION24">
+    <title lang="el">Τηλεπωλήσεις</title>
+    <desc lang="el">Παρακολουθήστε τον πιο έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές, υπόσχονται να αλλάξουν τη ζωή σας.(n)</desc>
+  </programme>
+  <programme start="20200608150000 +0300" stop="20200608170000 +0300" channel="ACTION24">
+    <title lang="el">Super League Triathlon</title>
+    <desc lang="el">Αθλητικό πρόγραμμα.(n)</desc>
+  </programme>
+  <programme start="20200608170000 +0300" stop="20200608190000 +0300" channel="ACTION24">
+    <title lang="el">The Hammer Series</title>
+    <desc lang="el">Ποδηλατικός αγώνας. Ολλανδία.(n)</desc>
+  </programme>
+  <programme start="20200608190000 +0300" stop="20200608200000 +0300" channel="ACTION24">
+    <title lang="el">Ο Άγιος</title>
+    <desc lang="el">Ο Σάιμον Τέμπλαρ είναι ένας μοντέρνος Ρομπέν των Δασών. Κλέβει τους πλούσιους εγκληματίες και βοηθάει τους φτωχούς, με το αζημίωτο βέβαια. Και όταν οι ανόρθοδοξοι μέθοδοι του τον βάζουν σε μπελάδες, τότε επιστρατεύει την εξυπνάδα του, την ακαταμάχητη γοητεία του και το βρετανικό φλέγμα του.(n)</desc>
+    <credits>
+      <actor>Ίβορ Νταν</actor>
+      <actor>Ρότζερ Μουρ</actor>
+      <actor>Λέσλι Κρόφορντ</actor>
+    </credits>
+    <category lang="el">Περιπέτεια</category>
+  </programme>
+  <programme start="20200608200000 +0300" stop="20200608210000 +0300" channel="ACTION24">
+    <title lang="el">Μην Το Πεις Στο Αφεντικό</title>
+    <desc lang="el">Μια καλή και ειλικρινής νοικοκυρά, προσφάτως χήρα, αναγκάζεται να πει ψέματα για να την πάρουν σε μια δουλειά. Παραγωγή: Ιταλία.(n)</desc>
+    <category lang="el">Κωμωδία - Κωμωδία</category>
+  </programme>
+  <programme start="20200608210000 +0300" stop="20200608230000 +0300" channel="ACTION24">
+    <title lang="el">Aldo Moro</title>
+    <desc lang="el">Η ιστορία των 55 τελευταίων ημερών του Aldo Moro, από την οπτική γωνία των μαθητών του. Παραγωγή: Ιταλία.(n)</desc>
+    <category lang="el">Κωμωδία - Κωμωδία</category>
+  </programme>
+  <programme start="20200608230000 +0300" stop="20200609010000 +0300" channel="ACTION24">
+    <title lang="el">Ελεύθερος Σκοπευτής</title>
+    <desc lang="el">Ο Γιώργος Τράγκας με το φακό της εκπομπής 'ρίχνει τα πυρά του' επί παντός θέματος που ταλανίζει την ελληνική κοινωνία. Με απόλυτη, αντικειμενική, αναλυτική και ξεκάθαρη ενημέρωση φωτίζει την αθέατη πλευρά όλων όσων μας απασχολούν καθημερινά.(n)</desc>
+  </programme>
   <programme start="20200605060000 +0300" stop="20200605070000 +0300" channel="Mad TV">
     <title lang="el">Us Top</title>
     <desc lang="el">Βλέπουμε πρώτοι από όλους τι συμβαίνει στην άλλη πλευρά του Ατλαντικού και ενημερωνόμαστε πρώτοι για τα Νούμερο 1 τραγούδια, στους επίσημους καταλόγους της Αμερικής. Μισή ώρα γεμάτη με video clip και ειδήσεις από τα αμερικανικά charts, απολαύστε την!(n)</desc>
@@ -16037,247 +16342,247 @@
     <desc lang="el">Κάνουμε καθημερινά like στις μεγαλύτερες λαικές επιτυχίες. 'Oτι καλύτερο υπάρχει από από καινούργιες κυκλοφορίες αλλά και massive hits από την τελευταία 2ετία.(n)</desc>
     <category lang="el">Μουσική εκπομπή</category>
   </programme>
-  <programme start="20200605060000 +0300" stop="20200605080000 +0300" channel="One Channel">
+  <programme start="20200605060000 +0300" stop="20200605080000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200605080000 +0300" stop="20200605090000 +0300" channel="One Channel">
+  <programme start="20200605080000 +0300" stop="20200605090000 +0300" channel="ONE Channel">
     <title lang="el">Vita</title>
     <desc lang="el">Μαγκαζίνο για την υγεία και την ευζωία με τη Ζωή Δημητράκου. Οι νέες τάσεις στη διατροφή, τη γυμναστική, την ψυχολογία, την ομορφιά και όλα εκείνα που κάνουν τη ζωή μας καλύτερη έχουν θέση στις 'τηλεοπτικές σελίδες' του VITA.(n)</desc>
   </programme>
-  <programme start="20200605090000 +0300" stop="20200605093000 +0300" channel="One Channel">
+  <programme start="20200605090000 +0300" stop="20200605093000 +0300" channel="ONE Channel">
     <title lang="el">Γυμναστική... Από Σπίτι</title>
     <desc lang="el">Η πρωταθλήτρια του μπάσκετ, Ζωή Δημητράκου, 'μένει σπίτι' και μας παρουσιάζει τις πιο εύκολες και 'απαραίτητες' ασκήσεις για να εκτονωθούμε και να τονώσουμε την υγεία και την διάθεσή μας. (ΤΠ).(n)</desc>
   </programme>
-  <programme start="20200605093000 +0300" stop="20200605100000 +0300" channel="One Channel">
+  <programme start="20200605093000 +0300" stop="20200605100000 +0300" channel="ONE Channel">
     <title lang="el">Βημαgazino</title>
     <desc lang="el">Τηλε-περιοδικό ποικίλης ύλης με τον Λευτέρη Τρίγκα που δίνει ΒΗΜΑ σε σπουδαίους ανθρώπους και καινοτόμες ιδέες που διαμορφώνουν τη σύγχρονη κουλτούρα στη χώρα μας. Η εκπομπή του BHMAGAZINO φέρνει στην οθόνη μας μια διαφορετική ματιά σε πρόσωπα, πράγματα και καταστάσεις.(n)</desc>
   </programme>
-  <programme start="20200605100000 +0300" stop="20200605103000 +0300" channel="One Channel">
+  <programme start="20200605100000 +0300" stop="20200605103000 +0300" channel="ONE Channel">
     <title lang="el">Νέες Εποχές</title>
     <desc lang="el">Ο Γιάννης Θ. Διαμαντής συναντά ανθρώπους που ξεχωρίζουν με το έργο τους στον κόσμο της διανόησης, των γραμμάτων, των τεχνών και των επιστημών και εμβαθύνει σε ιδέες ή και γεγονότα του παρόντος και του παρελθόντος που διαδραματίζουν σημαντικό ρόλο στη χάραξη της σύγχρονης ιστορίας.(n)</desc>
   </programme>
-  <programme start="20200605103000 +0300" stop="20200605170000 +0300" channel="One Channel">
+  <programme start="20200605103000 +0300" stop="20200605170000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200605170000 +0300" stop="20200605173000 +0300" channel="One Channel">
+  <programme start="20200605170000 +0300" stop="20200605173000 +0300" channel="ONE Channel">
     <title lang="el">Γυμναστική... Από Σπίτι</title>
     <desc lang="el">Η πρωταθλήτρια του μπάσκετ, Ζωή Δημητράκου, 'μένει σπίτι' και μας παρουσιάζει τις πιο εύκολες και 'απαραίτητες' ασκήσεις για να εκτονωθούμε και να τονώσουμε την υγεία και την διάθεσή μας. (ΤΠ).(n)</desc>
   </programme>
-  <programme start="20200605173000 +0300" stop="20200605180000 +0300" channel="One Channel">
+  <programme start="20200605173000 +0300" stop="20200605180000 +0300" channel="ONE Channel">
     <title lang="el">Vita</title>
     <desc lang="el">Μαγκαζίνο για την υγεία και την ευζωία με τη Ζωή Δημητράκου. Οι νέες τάσεις στη διατροφή, τη γυμναστική, την ψυχολογία, την ομορφιά και όλα εκείνα που κάνουν τη ζωή μας καλύτερη έχουν θέση στις 'τηλεοπτικές σελίδες' του VITA.(n)</desc>
   </programme>
-  <programme start="20200605180000 +0300" stop="20200605183000 +0300" channel="One Channel">
+  <programme start="20200605180000 +0300" stop="20200605183000 +0300" channel="ONE Channel">
     <title lang="el">Vita</title>
     <desc lang="el">Μαγκαζίνο για την υγεία και την ευζωία με τη Ζωή Δημητράκου. Οι νέες τάσεις στη διατροφή, τη γυμναστική, την ψυχολογία, την ομορφιά και όλα εκείνα που κάνουν τη ζωή μας καλύτερη έχουν θέση στις 'τηλεοπτικές σελίδες' του VITA.(n)</desc>
   </programme>
-  <programme start="20200605183000 +0300" stop="20200605190000 +0300" channel="One Channel">
+  <programme start="20200605183000 +0300" stop="20200605190000 +0300" channel="ONE Channel">
     <title lang="el">Βημαgazino</title>
     <desc lang="el">Τηλε-περιοδικό ποικίλης ύλης με τον Λευτέρη Τρίγκα που δίνει ΒΗΜΑ σε σπουδαίους ανθρώπους και καινοτόμες ιδέες που διαμορφώνουν τη σύγχρονη κουλτούρα στη χώρα μας. Η εκπομπή του BHMAGAZINO φέρνει στην οθόνη μας μια διαφορετική ματιά σε πρόσωπα, πράγματα και καταστάσεις.(n)</desc>
   </programme>
-  <programme start="20200605190000 +0300" stop="20200605193000 +0300" channel="One Channel">
+  <programme start="20200605190000 +0300" stop="20200605193000 +0300" channel="ONE Channel">
     <title lang="el">Νέες Εποχές</title>
     <desc lang="el">Ο Γιάννης Θ. Διαμαντής συναντά ανθρώπους που ξεχωρίζουν με το έργο τους στον κόσμο της διανόησης, των γραμμάτων, των τεχνών και των επιστημών και εμβαθύνει σε ιδέες ή και γεγονότα του παρόντος και του παρελθόντος που διαδραματίζουν σημαντικό ρόλο στη χάραξη της σύγχρονης ιστορίας.(n)</desc>
   </programme>
-  <programme start="20200605193000 +0300" stop="20200605220000 +0300" channel="One Channel">
+  <programme start="20200605193000 +0300" stop="20200605220000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200605220000 +0300" stop="20200606000000 +0300" channel="One Channel">
+  <programme start="20200605220000 +0300" stop="20200606000000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200606000000 +0300" stop="20200606020000 +0300" channel="One Channel">
+  <programme start="20200606000000 +0300" stop="20200606020000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200606020000 +0300" stop="20200606040000 +0300" channel="One Channel">
+  <programme start="20200606020000 +0300" stop="20200606040000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200606040000 +0300" stop="20200606060000 +0300" channel="One Channel">
+  <programme start="20200606040000 +0300" stop="20200606060000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200606060000 +0300" stop="20200606080000 +0300" channel="One Channel">
+  <programme start="20200606060000 +0300" stop="20200606080000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200606080000 +0300" stop="20200606090000 +0300" channel="One Channel">
+  <programme start="20200606080000 +0300" stop="20200606090000 +0300" channel="ONE Channel">
     <title lang="el">Vita</title>
     <desc lang="el">Μαγκαζίνο για την υγεία και την ευζωία με τη Ζωή Δημητράκου. Οι νέες τάσεις στη διατροφή, τη γυμναστική, την ψυχολογία, την ομορφιά και όλα εκείνα που κάνουν τη ζωή μας καλύτερη έχουν θέση στις 'τηλεοπτικές σελίδες' του VITA.(n)</desc>
   </programme>
-  <programme start="20200606090000 +0300" stop="20200606093000 +0300" channel="One Channel">
+  <programme start="20200606090000 +0300" stop="20200606093000 +0300" channel="ONE Channel">
     <title lang="el">Γυμναστική... Από Σπίτι</title>
     <desc lang="el">Η πρωταθλήτρια του μπάσκετ, Ζωή Δημητράκου, 'μένει σπίτι' και μας παρουσιάζει τις πιο εύκολες και 'απαραίτητες' ασκήσεις για να εκτονωθούμε και να τονώσουμε την υγεία και την διάθεσή μας. (ΤΠ).(n)</desc>
   </programme>
-  <programme start="20200606093000 +0300" stop="20200606100000 +0300" channel="One Channel">
+  <programme start="20200606093000 +0300" stop="20200606100000 +0300" channel="ONE Channel">
     <title lang="el">Βημαgazino</title>
     <desc lang="el">Τηλε-περιοδικό ποικίλης ύλης με τον Λευτέρη Τρίγκα που δίνει ΒΗΜΑ σε σπουδαίους ανθρώπους και καινοτόμες ιδέες που διαμορφώνουν τη σύγχρονη κουλτούρα στη χώρα μας. Η εκπομπή του BHMAGAZINO φέρνει στην οθόνη μας μια διαφορετική ματιά σε πρόσωπα, πράγματα και καταστάσεις.(n)</desc>
   </programme>
-  <programme start="20200606100000 +0300" stop="20200606103000 +0300" channel="One Channel">
+  <programme start="20200606100000 +0300" stop="20200606103000 +0300" channel="ONE Channel">
     <title lang="el">Νέες Εποχές</title>
     <desc lang="el">Ο Γιάννης Θ. Διαμαντής συναντά ανθρώπους που ξεχωρίζουν με το έργο τους στον κόσμο της διανόησης, των γραμμάτων, των τεχνών και των επιστημών και εμβαθύνει σε ιδέες ή και γεγονότα του παρόντος και του παρελθόντος που διαδραματίζουν σημαντικό ρόλο στη χάραξη της σύγχρονης ιστορίας.(n)</desc>
   </programme>
-  <programme start="20200606103000 +0300" stop="20200606170000 +0300" channel="One Channel">
+  <programme start="20200606103000 +0300" stop="20200606170000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200606170000 +0300" stop="20200606173000 +0300" channel="One Channel">
+  <programme start="20200606170000 +0300" stop="20200606173000 +0300" channel="ONE Channel">
     <title lang="el">Γυμναστική... Από Σπίτι</title>
     <desc lang="el">Η πρωταθλήτρια του μπάσκετ, Ζωή Δημητράκου, 'μένει σπίτι' και μας παρουσιάζει τις πιο εύκολες και 'απαραίτητες' ασκήσεις για να εκτονωθούμε και να τονώσουμε την υγεία και την διάθεσή μας. (ΤΠ).(n)</desc>
   </programme>
-  <programme start="20200606173000 +0300" stop="20200606180000 +0300" channel="One Channel">
+  <programme start="20200606173000 +0300" stop="20200606180000 +0300" channel="ONE Channel">
     <title lang="el">Vita</title>
     <desc lang="el">Μαγκαζίνο για την υγεία και την ευζωία με τη Ζωή Δημητράκου. Οι νέες τάσεις στη διατροφή, τη γυμναστική, την ψυχολογία, την ομορφιά και όλα εκείνα που κάνουν τη ζωή μας καλύτερη έχουν θέση στις 'τηλεοπτικές σελίδες' του VITA.(n)</desc>
   </programme>
-  <programme start="20200606180000 +0300" stop="20200606183000 +0300" channel="One Channel">
+  <programme start="20200606180000 +0300" stop="20200606183000 +0300" channel="ONE Channel">
     <title lang="el">Vita</title>
     <desc lang="el">Μαγκαζίνο για την υγεία και την ευζωία με τη Ζωή Δημητράκου. Οι νέες τάσεις στη διατροφή, τη γυμναστική, την ψυχολογία, την ομορφιά και όλα εκείνα που κάνουν τη ζωή μας καλύτερη έχουν θέση στις 'τηλεοπτικές σελίδες' του VITA.(n)</desc>
   </programme>
-  <programme start="20200606183000 +0300" stop="20200606190000 +0300" channel="One Channel">
+  <programme start="20200606183000 +0300" stop="20200606190000 +0300" channel="ONE Channel">
     <title lang="el">Βημαgazino</title>
     <desc lang="el">Τηλε-περιοδικό ποικίλης ύλης με τον Λευτέρη Τρίγκα που δίνει ΒΗΜΑ σε σπουδαίους ανθρώπους και καινοτόμες ιδέες που διαμορφώνουν τη σύγχρονη κουλτούρα στη χώρα μας. Η εκπομπή του BHMAGAZINO φέρνει στην οθόνη μας μια διαφορετική ματιά σε πρόσωπα, πράγματα και καταστάσεις.(n)</desc>
   </programme>
-  <programme start="20200606190000 +0300" stop="20200606193000 +0300" channel="One Channel">
+  <programme start="20200606190000 +0300" stop="20200606193000 +0300" channel="ONE Channel">
     <title lang="el">Νέες Εποχές</title>
     <desc lang="el">Ο Γιάννης Θ. Διαμαντής συναντά ανθρώπους που ξεχωρίζουν με το έργο τους στον κόσμο της διανόησης, των γραμμάτων, των τεχνών και των επιστημών και εμβαθύνει σε ιδέες ή και γεγονότα του παρόντος και του παρελθόντος που διαδραματίζουν σημαντικό ρόλο στη χάραξη της σύγχρονης ιστορίας.(n)</desc>
   </programme>
-  <programme start="20200606193000 +0300" stop="20200606220000 +0300" channel="One Channel">
+  <programme start="20200606193000 +0300" stop="20200606220000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200606220000 +0300" stop="20200607000000 +0300" channel="One Channel">
+  <programme start="20200606220000 +0300" stop="20200607000000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200607000000 +0300" stop="20200607020000 +0300" channel="One Channel">
+  <programme start="20200607000000 +0300" stop="20200607020000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200607020000 +0300" stop="20200607040000 +0300" channel="One Channel">
+  <programme start="20200607020000 +0300" stop="20200607040000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200607040000 +0300" stop="20200607060000 +0300" channel="One Channel">
+  <programme start="20200607040000 +0300" stop="20200607060000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200607060000 +0300" stop="20200607080000 +0300" channel="One Channel">
+  <programme start="20200607060000 +0300" stop="20200607080000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200607080000 +0300" stop="20200607090000 +0300" channel="One Channel">
+  <programme start="20200607080000 +0300" stop="20200607090000 +0300" channel="ONE Channel">
     <title lang="el">Vita</title>
     <desc lang="el">Μαγκαζίνο για την υγεία και την ευζωία με τη Ζωή Δημητράκου. Οι νέες τάσεις στη διατροφή, τη γυμναστική, την ψυχολογία, την ομορφιά και όλα εκείνα που κάνουν τη ζωή μας καλύτερη έχουν θέση στις 'τηλεοπτικές σελίδες' του VITA.(n)</desc>
   </programme>
-  <programme start="20200607090000 +0300" stop="20200607093000 +0300" channel="One Channel">
+  <programme start="20200607090000 +0300" stop="20200607093000 +0300" channel="ONE Channel">
     <title lang="el">Γυμναστική... Από Σπίτι</title>
     <desc lang="el">Η πρωταθλήτρια του μπάσκετ, Ζωή Δημητράκου, 'μένει σπίτι' και μας παρουσιάζει τις πιο εύκολες και 'απαραίτητες' ασκήσεις για να εκτονωθούμε και να τονώσουμε την υγεία και την διάθεσή μας. (ΤΠ).(n)</desc>
   </programme>
-  <programme start="20200607093000 +0300" stop="20200607100000 +0300" channel="One Channel">
+  <programme start="20200607093000 +0300" stop="20200607100000 +0300" channel="ONE Channel">
     <title lang="el">Βημαgazino</title>
     <desc lang="el">Τηλε-περιοδικό ποικίλης ύλης με τον Λευτέρη Τρίγκα που δίνει ΒΗΜΑ σε σπουδαίους ανθρώπους και καινοτόμες ιδέες που διαμορφώνουν τη σύγχρονη κουλτούρα στη χώρα μας. Η εκπομπή του BHMAGAZINO φέρνει στην οθόνη μας μια διαφορετική ματιά σε πρόσωπα, πράγματα και καταστάσεις.(n)</desc>
   </programme>
-  <programme start="20200607100000 +0300" stop="20200607103000 +0300" channel="One Channel">
+  <programme start="20200607100000 +0300" stop="20200607103000 +0300" channel="ONE Channel">
     <title lang="el">Νέες Εποχές</title>
     <desc lang="el">Ο Γιάννης Θ. Διαμαντής συναντά ανθρώπους που ξεχωρίζουν με το έργο τους στον κόσμο της διανόησης, των γραμμάτων, των τεχνών και των επιστημών και εμβαθύνει σε ιδέες ή και γεγονότα του παρόντος και του παρελθόντος που διαδραματίζουν σημαντικό ρόλο στη χάραξη της σύγχρονης ιστορίας.(n)</desc>
   </programme>
-  <programme start="20200607103000 +0300" stop="20200607170000 +0300" channel="One Channel">
+  <programme start="20200607103000 +0300" stop="20200607170000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200607170000 +0300" stop="20200607173000 +0300" channel="One Channel">
+  <programme start="20200607170000 +0300" stop="20200607173000 +0300" channel="ONE Channel">
     <title lang="el">Γυμναστική... Από Σπίτι</title>
     <desc lang="el">Η πρωταθλήτρια του μπάσκετ, Ζωή Δημητράκου, 'μένει σπίτι' και μας παρουσιάζει τις πιο εύκολες και 'απαραίτητες' ασκήσεις για να εκτονωθούμε και να τονώσουμε την υγεία και την διάθεσή μας. (ΤΠ).(n)</desc>
   </programme>
-  <programme start="20200607173000 +0300" stop="20200607180000 +0300" channel="One Channel">
+  <programme start="20200607173000 +0300" stop="20200607180000 +0300" channel="ONE Channel">
     <title lang="el">Vita</title>
     <desc lang="el">Μαγκαζίνο για την υγεία και την ευζωία με τη Ζωή Δημητράκου. Οι νέες τάσεις στη διατροφή, τη γυμναστική, την ψυχολογία, την ομορφιά και όλα εκείνα που κάνουν τη ζωή μας καλύτερη έχουν θέση στις 'τηλεοπτικές σελίδες' του VITA.(n)</desc>
   </programme>
-  <programme start="20200607180000 +0300" stop="20200607183000 +0300" channel="One Channel">
+  <programme start="20200607180000 +0300" stop="20200607183000 +0300" channel="ONE Channel">
     <title lang="el">Vita</title>
     <desc lang="el">Μαγκαζίνο για την υγεία και την ευζωία με τη Ζωή Δημητράκου. Οι νέες τάσεις στη διατροφή, τη γυμναστική, την ψυχολογία, την ομορφιά και όλα εκείνα που κάνουν τη ζωή μας καλύτερη έχουν θέση στις 'τηλεοπτικές σελίδες' του VITA.(n)</desc>
   </programme>
-  <programme start="20200607183000 +0300" stop="20200607190000 +0300" channel="One Channel">
+  <programme start="20200607183000 +0300" stop="20200607190000 +0300" channel="ONE Channel">
     <title lang="el">Βημαgazino</title>
     <desc lang="el">Τηλε-περιοδικό ποικίλης ύλης με τον Λευτέρη Τρίγκα που δίνει ΒΗΜΑ σε σπουδαίους ανθρώπους και καινοτόμες ιδέες που διαμορφώνουν τη σύγχρονη κουλτούρα στη χώρα μας. Η εκπομπή του BHMAGAZINO φέρνει στην οθόνη μας μια διαφορετική ματιά σε πρόσωπα, πράγματα και καταστάσεις.(n)</desc>
   </programme>
-  <programme start="20200607190000 +0300" stop="20200607193000 +0300" channel="One Channel">
+  <programme start="20200607190000 +0300" stop="20200607193000 +0300" channel="ONE Channel">
     <title lang="el">Νέες Εποχές</title>
     <desc lang="el">Ο Γιάννης Θ. Διαμαντής συναντά ανθρώπους που ξεχωρίζουν με το έργο τους στον κόσμο της διανόησης, των γραμμάτων, των τεχνών και των επιστημών και εμβαθύνει σε ιδέες ή και γεγονότα του παρόντος και του παρελθόντος που διαδραματίζουν σημαντικό ρόλο στη χάραξη της σύγχρονης ιστορίας.(n)</desc>
   </programme>
-  <programme start="20200607193000 +0300" stop="20200607220000 +0300" channel="One Channel">
+  <programme start="20200607193000 +0300" stop="20200607220000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200607220000 +0300" stop="20200608000000 +0300" channel="One Channel">
+  <programme start="20200607220000 +0300" stop="20200608000000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200608000000 +0300" stop="20200608020000 +0300" channel="One Channel">
+  <programme start="20200608000000 +0300" stop="20200608020000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200608020000 +0300" stop="20200608040000 +0300" channel="One Channel">
+  <programme start="20200608020000 +0300" stop="20200608040000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200608040000 +0300" stop="20200608060000 +0300" channel="One Channel">
+  <programme start="20200608040000 +0300" stop="20200608060000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200608060000 +0300" stop="20200608080000 +0300" channel="One Channel">
+  <programme start="20200608060000 +0300" stop="20200608080000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200608080000 +0300" stop="20200608090000 +0300" channel="One Channel">
+  <programme start="20200608080000 +0300" stop="20200608090000 +0300" channel="ONE Channel">
     <title lang="el">Vita</title>
     <desc lang="el">Μαγκαζίνο για την υγεία και την ευζωία με τη Ζωή Δημητράκου. Οι νέες τάσεις στη διατροφή, τη γυμναστική, την ψυχολογία, την ομορφιά και όλα εκείνα που κάνουν τη ζωή μας καλύτερη έχουν θέση στις 'τηλεοπτικές σελίδες' του VITA.(n)</desc>
   </programme>
-  <programme start="20200608090000 +0300" stop="20200608093000 +0300" channel="One Channel">
+  <programme start="20200608090000 +0300" stop="20200608093000 +0300" channel="ONE Channel">
     <title lang="el">Γυμναστική... Από Σπίτι</title>
     <desc lang="el">Η πρωταθλήτρια του μπάσκετ, Ζωή Δημητράκου, 'μένει σπίτι' και μας παρουσιάζει τις πιο εύκολες και 'απαραίτητες' ασκήσεις για να εκτονωθούμε και να τονώσουμε την υγεία και την διάθεσή μας. (ΤΠ).(n)</desc>
   </programme>
-  <programme start="20200608093000 +0300" stop="20200608100000 +0300" channel="One Channel">
+  <programme start="20200608093000 +0300" stop="20200608100000 +0300" channel="ONE Channel">
     <title lang="el">Βημαgazino</title>
     <desc lang="el">Τηλε-περιοδικό ποικίλης ύλης με τον Λευτέρη Τρίγκα που δίνει ΒΗΜΑ σε σπουδαίους ανθρώπους και καινοτόμες ιδέες που διαμορφώνουν τη σύγχρονη κουλτούρα στη χώρα μας. Η εκπομπή του BHMAGAZINO φέρνει στην οθόνη μας μια διαφορετική ματιά σε πρόσωπα, πράγματα και καταστάσεις.(n)</desc>
   </programme>
-  <programme start="20200608100000 +0300" stop="20200608103000 +0300" channel="One Channel">
+  <programme start="20200608100000 +0300" stop="20200608103000 +0300" channel="ONE Channel">
     <title lang="el">Νέες Εποχές</title>
     <desc lang="el">Ο Γιάννης Θ. Διαμαντής συναντά ανθρώπους που ξεχωρίζουν με το έργο τους στον κόσμο της διανόησης, των γραμμάτων, των τεχνών και των επιστημών και εμβαθύνει σε ιδέες ή και γεγονότα του παρόντος και του παρελθόντος που διαδραματίζουν σημαντικό ρόλο στη χάραξη της σύγχρονης ιστορίας.(n)</desc>
   </programme>
-  <programme start="20200608103000 +0300" stop="20200608170000 +0300" channel="One Channel">
+  <programme start="20200608103000 +0300" stop="20200608170000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200608170000 +0300" stop="20200608173000 +0300" channel="One Channel">
+  <programme start="20200608170000 +0300" stop="20200608173000 +0300" channel="ONE Channel">
     <title lang="el">Γυμναστική... Από Σπίτι</title>
     <desc lang="el">Η πρωταθλήτρια του μπάσκετ, Ζωή Δημητράκου, 'μένει σπίτι' και μας παρουσιάζει τις πιο εύκολες και 'απαραίτητες' ασκήσεις για να εκτονωθούμε και να τονώσουμε την υγεία και την διάθεσή μας. (ΤΠ).(n)</desc>
   </programme>
-  <programme start="20200608173000 +0300" stop="20200608180000 +0300" channel="One Channel">
+  <programme start="20200608173000 +0300" stop="20200608180000 +0300" channel="ONE Channel">
     <title lang="el">Vita</title>
     <desc lang="el">Μαγκαζίνο για την υγεία και την ευζωία με τη Ζωή Δημητράκου. Οι νέες τάσεις στη διατροφή, τη γυμναστική, την ψυχολογία, την ομορφιά και όλα εκείνα που κάνουν τη ζωή μας καλύτερη έχουν θέση στις 'τηλεοπτικές σελίδες' του VITA.(n)</desc>
   </programme>
-  <programme start="20200608180000 +0300" stop="20200608183000 +0300" channel="One Channel">
+  <programme start="20200608180000 +0300" stop="20200608183000 +0300" channel="ONE Channel">
     <title lang="el">Vita</title>
     <desc lang="el">Μαγκαζίνο για την υγεία και την ευζωία με τη Ζωή Δημητράκου. Οι νέες τάσεις στη διατροφή, τη γυμναστική, την ψυχολογία, την ομορφιά και όλα εκείνα που κάνουν τη ζωή μας καλύτερη έχουν θέση στις 'τηλεοπτικές σελίδες' του VITA.(n)</desc>
   </programme>
-  <programme start="20200608183000 +0300" stop="20200608190000 +0300" channel="One Channel">
+  <programme start="20200608183000 +0300" stop="20200608190000 +0300" channel="ONE Channel">
     <title lang="el">Βημαgazino</title>
     <desc lang="el">Τηλε-περιοδικό ποικίλης ύλης με τον Λευτέρη Τρίγκα που δίνει ΒΗΜΑ σε σπουδαίους ανθρώπους και καινοτόμες ιδέες που διαμορφώνουν τη σύγχρονη κουλτούρα στη χώρα μας. Η εκπομπή του BHMAGAZINO φέρνει στην οθόνη μας μια διαφορετική ματιά σε πρόσωπα, πράγματα και καταστάσεις.(n)</desc>
   </programme>
-  <programme start="20200608190000 +0300" stop="20200608193000 +0300" channel="One Channel">
+  <programme start="20200608190000 +0300" stop="20200608193000 +0300" channel="ONE Channel">
     <title lang="el">Νέες Εποχές</title>
     <desc lang="el">Ο Γιάννης Θ. Διαμαντής συναντά ανθρώπους που ξεχωρίζουν με το έργο τους στον κόσμο της διανόησης, των γραμμάτων, των τεχνών και των επιστημών και εμβαθύνει σε ιδέες ή και γεγονότα του παρόντος και του παρελθόντος που διαδραματίζουν σημαντικό ρόλο στη χάραξη της σύγχρονης ιστορίας.(n)</desc>
   </programme>
-  <programme start="20200608193000 +0300" stop="20200608220000 +0300" channel="One Channel">
+  <programme start="20200608193000 +0300" stop="20200608220000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
-  <programme start="20200608220000 +0300" stop="20200609000000 +0300" channel="One Channel">
+  <programme start="20200608220000 +0300" stop="20200609000000 +0300" channel="ONE Channel">
     <title lang="el">Ξένο Πρόγραμμα</title>
     <desc lang="el">Ξένο πρόγραμμα.(n)</desc>
   </programme>
