@@ -1,16 +1,15 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.20</latestVersion>
-    <latestVersionCode>50</latestVersionCode>
+    <latestVersion>2.22</latestVersion>
+    <latestVersionCode>52</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.loaderpro.player</url>
   <releaseNotes>
-Whats New v2.20:
-(1) New Recorder while watching - only with internal player 3 and autoplayer (for tvstyle).
-(2) Recorder schedule while watching (only for tvstyle).
-(3) Backup/load playlists (compatible between Free-Pro version).
-(4) You can change exit Playlist dialog (through playlist menu-settings).
-(5) Updated \"add playlist from storage\", compatible with newer Android versions.
-(6) Other fixes and updates.
+Whats New V2.22:
+(1) Volume and brightness control for internal players & TV Style (touch only).
+(2) Channel numbers by server for standard m3u.
+(3) Remote control numbers will change channels depends on selected \"channel number\".
+(4) Fix a bug with channel sorting (not refreshing when selected).
+(5) Other fixes and updates.
     </releaseNotes>
   </update>
 </AppUpdater>
