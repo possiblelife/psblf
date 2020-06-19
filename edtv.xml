@@ -198,2795 +198,2795 @@
   <channel id="smile">
     <display-name lang="el">smile</display-name>
   </channel>
-  <programme start="20200619060000 +0000" stop="20200619100000 +0000" channel="ANT1">
+  <programme start="20200619060000 +0300" stop="20200619100000 +0300" channel="ANT1">
     <title lang="el">ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619060000 +0000" stop="20200619080000 +0000" channel="ertsports">
+  <programme start="20200619060000 +0300" stop="20200619080000 +0300" channel="ertsports">
     <title lang="el">ΚΑΛΛΙΤΕΧΝΙΚΟ ΠΑΤΙΝΑΖ: ΙΑΠΩΝΙΑ</title>
     <desc lang="el">Ελεύθερο πρόγραμμα γυναικών, Σαϊτάμα</desc>
   </programme>
-  <programme start="20200619060000 +0000" stop="20200619100000 +0000" channel="KONTRA">
+  <programme start="20200619060000 +0300" stop="20200619100000 +0300" channel="KONTRA">
     <title lang="el">ΕΚΠΟΜΠΕΣ ΤΗΛΕΟΠΤΙΚΩΝ ΑΓΟΡΩΝ</title>
     <desc lang="el">Τηλεαγορές</desc>
   </programme>
-  <programme start="20200619060000 +0000" stop="20200619070000 +0000" channel="Mad TV">
+  <programme start="20200619060000 +0300" stop="20200619070000 +0300" channel="Mad TV">
     <title lang="el">US TOP</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619060000 +0000" stop="20200619080000 +0000" channel="ONE Channel">
+  <programme start="20200619060000 +0300" stop="20200619080000 +0300" channel="ONE Channel">
     <title lang="el">ONE CHANNEL</title>
     <desc lang="el">Ξένο πρόγραμμα (Ε)</desc>
   </programme>
-  <programme start="20200619060000 +0000" stop="20200619100000 +0000" channel="SKAI">
+  <programme start="20200619060000 +0300" stop="20200619100000 +0300" channel="SKAI">
     <title lang="el">ΣΗΜΕΡΑ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619060000 +0000" stop="20200619130000 +0000" channel="vouli">
+  <programme start="20200619060000 +0300" stop="20200619130000 +0300" channel="vouli">
     <title lang="el">ΕΠΑΝΑΛΗΨΗ ΠΡΟΓΡΑΜΜΑΤΟΣ</title>
     <desc lang="el">Promo</desc>
   </programme>
-  <programme start="20200619060000 +0000" stop="20200619063000 +0000" channel="ert3">
+  <programme start="20200619060000 +0300" stop="20200619063000 +0300" channel="ert3">
     <title lang="el">ΔΕΙΞΕ ΜΟΥ ΤΟ ΣΠΙΤΙ ΣΟΥ</title>
     <desc lang="el">Σειρά ντοκιμαντέρ</desc>
   </programme>
-  <programme start="20200619062000 +0000" stop="20200619070000 +0000" channel="ert2">
+  <programme start="20200619062000 +0300" stop="20200619070000 +0300" channel="ert2">
     <title lang="el">ΓΕΥΣΕΙΣ ΑΠΟ ΕΛΛΑΔΑ</title>
     <desc lang="el">Μαγειρική</desc>
   </programme>
-  <programme start="20200619063000 +0000" stop="20200619073000 +0000" channel="ert3">
+  <programme start="20200619063000 +0300" stop="20200619073000 +0300" channel="ert3">
     <title lang="el">ΕΝΑ ΔΕΝΤΡΟ, ΜΙΑ ΙΣΤΟΡΙΑ 2</title>
     <desc lang="el">Τα ιερά δέντρα</desc>
   </programme>
-  <programme start="20200619070000 +0000" stop="20200619080000 +0000" channel="ACTION24">
+  <programme start="20200619070000 +0300" stop="20200619080000 +0300" channel="ACTION24">
     <title lang="el">WORLD SAILING CUP</title>
     <desc lang="el">Ιστιοπλοϊα</desc>
   </programme>
-  <programme start="20200619070000 +0000" stop="20200619090000 +0000" channel="Mad TV">
+  <programme start="20200619070000 +0300" stop="20200619090000 +0300" channel="Mad TV">
     <title lang="el">MORNING HITS</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619070000 +0000" stop="20200619095000 +0000" channel="OPEN BEYOND">
+  <programme start="20200619070000 +0300" stop="20200619095000 +0300" channel="OPEN BEYOND">
     <title lang="el">ΩΡΑ ΕΛΛΑΔΟΣ 07:00</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619070000 +0000" stop="20200619080000 +0000" channel="ert2">
+  <programme start="20200619070000 +0300" stop="20200619080000 +0300" channel="ert2">
     <title lang="el">ΑΝΕΞΕΡΕΥΝΗΤΑ ΤΟΠΙΑ</title>
     <desc lang="el">Γιούτα, ΗΠΑ</desc>
   </programme>
-  <programme start="20200619073000 +0000" stop="20200619083000 +0000" channel="ert3">
+  <programme start="20200619073000 +0300" stop="20200619083000 +0300" channel="ert3">
     <title lang="el">ΔΙΑΚΟΠΕΣ ΣΤΑ ΓΚΑΛΑΠΑΓΚΟΣ 2</title>
     <desc lang="el">Ταξίδια - Επ. 1</desc>
   </programme>
-  <programme start="20200619074500 +0000" stop="20200619081500 +0000" channel="ert2">
+  <programme start="20200619074500 +0300" stop="20200619081500 +0300" channel="ert2">
     <title lang="el">ΦΡΟΥΤΟΠΙΑ</title>
     <desc lang="el">Παιδικό πρόγραμμα</desc>
   </programme>
-  <programme start="20200619080000 +0000" stop="20200619100000 +0000" channel="ACTION24">
+  <programme start="20200619080000 +0300" stop="20200619100000 +0300" channel="ACTION24">
     <title lang="el">THE HAMMER SERIES</title>
     <desc lang="el">Αθλητική εκπομπή</desc>
   </programme>
-  <programme start="20200619080000 +0000" stop="20200619100000 +0000" channel="ertsports">
+  <programme start="20200619080000 +0300" stop="20200619100000 +0300" channel="ertsports">
     <title lang="el">CEV ΕΥΡΩΠΑΙΚΟ ΠΡΩΤΑΘΛΗΜΑ ΑΝΔΡΩΝ</title>
     <desc lang="el">Ελλάδα - Πορτογαλία (Ε)</desc>
   </programme>
-  <programme start="20200619080000 +0000" stop="20200619130000 +0000" channel="Euronews">
+  <programme start="20200619080000 +0300" stop="20200619130000 +0300" channel="Euronews">
     <title lang="el">GOOD MORNING EUROPE</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619080000 +0000" stop="20200619083000 +0000" channel="ONE Channel">
+  <programme start="20200619080000 +0300" stop="20200619083000 +0300" channel="ONE Channel">
     <title lang="el">VITA</title>
     <desc lang="el">Μαγκαζίνο (E)</desc>
   </programme>
-  <programme start="20200619081500 +0000" stop="20200619084500 +0000" channel="ert2">
+  <programme start="20200619081500 +0300" stop="20200619084500 +0300" channel="ert2">
     <title lang="el">1.000 ΧΡΩΜΑΤΑ ΤΟΥ ΧΡΗΣΤΟΥ</title>
     <desc lang="el">Παιδική σειρά</desc>
   </programme>
-  <programme start="20200619083000 +0000" stop="20200619090000 +0000" channel="ONE Channel">
+  <programme start="20200619083000 +0300" stop="20200619090000 +0300" channel="ONE Channel">
     <title lang="el">VITA</title>
     <desc lang="el">Μαγκαζίνο (E)</desc>
   </programme>
-  <programme start="20200619083000 +0000" stop="20200619090000 +0000" channel="ert3">
+  <programme start="20200619083000 +0300" stop="20200619090000 +0300" channel="ert3">
     <title lang="el">ΤΕΧΝΙΤΕΣ ΑΠΟ ΟΛΟ ΤΟΝ ΚΟΣΜΟ</title>
     <desc lang="el">Ινδία</desc>
   </programme>
-  <programme start="20200619084500 +0000" stop="20200619091000 +0000" channel="ert2">
+  <programme start="20200619084500 +0300" stop="20200619091000 +0300" channel="ert2">
     <title lang="el">ΑΣΤΥΝΟΜΟΣ ΣΑΙΝΗΣ</title>
     <desc lang="el">Παιδική σειρά</desc>
   </programme>
-  <programme start="20200619090000 +0000" stop="20200619093000 +0000" channel="Mad TV">
+  <programme start="20200619090000 +0300" stop="20200619093000 +0300" channel="Mad TV">
     <title lang="el">ΧΡΟΝΟΜΗΧΑΝΗ: 10'S</title>
     <desc lang="el">10's</desc>
   </programme>
-  <programme start="20200619090000 +0000" stop="20200619093000 +0000" channel="ONE Channel">
+  <programme start="20200619090000 +0300" stop="20200619093000 +0300" channel="ONE Channel">
     <title lang="el">ΓΥΜΝΑΣΤΙΚΗ.... ΑΠΟ ΣΠΙΤΙ</title>
     <desc lang="el">Εκπομπή γυμναστικής</desc>
   </programme>
-  <programme start="20200619090000 +0000" stop="20200619100000 +0000" channel="vouli">
+  <programme start="20200619090000 +0300" stop="20200619100000 +0300" channel="vouli">
     <title lang="el">ΠΡΩΙΝΗ ΕΠΙΣΚΟΠΗΣΗ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619090000 +0000" stop="20200619100000 +0000" channel="ert3">
+  <programme start="20200619090000 +0300" stop="20200619100000 +0300" channel="ert3">
     <title lang="el">BALKAN EXPRESS</title>
     <desc lang="el">Βουλγαρία</desc>
   </programme>
-  <programme start="20200619090500 +0000" stop="20200619094500 +0000" channel="ert2">
+  <programme start="20200619090500 +0300" stop="20200619094500 +0300" channel="ert2">
     <title lang="el">OLD TOM</title>
     <desc lang="el">Παιδική σειρά</desc>
   </programme>
-  <programme start="20200619093000 +0000" stop="20200619100000 +0000" channel="Mad TV">
+  <programme start="20200619093000 +0300" stop="20200619100000 +0300" channel="Mad TV">
     <title lang="el">GREEK SUPER HEROES</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619093000 +0000" stop="20200619100000 +0000" channel="ONE Channel">
+  <programme start="20200619093000 +0300" stop="20200619100000 +0300" channel="ONE Channel">
     <title lang="el">ΒΗΜΑGAZINO</title>
     <desc lang="el">Μαγκαζίνο (E)</desc>
   </programme>
-  <programme start="20200619095000 +0000" stop="20200619130000 +0000" channel="OPEN BEYOND">
+  <programme start="20200619095000 +0300" stop="20200619130000 +0300" channel="OPEN BEYOND">
     <title lang="el">ΕΥΤΥΧΕΙΤΕ!</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200619095000 +0000" stop="20200619104000 +0000" channel="ert2">
+  <programme start="20200619095000 +0300" stop="20200619104000 +0300" channel="ert2">
     <title lang="el">ΓΑΤΟΣ ΣΠΙΡΟΥΝΑΤΟΣ</title>
     <desc lang="el">Κινούμενα σχέδια</desc>
   </programme>
-  <programme start="20200619100000 +0000" stop="20200619150000 +0000" channel="ACTION24">
+  <programme start="20200619100000 +0300" stop="20200619150000 +0300" channel="ACTION24">
     <title lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</title>
     <desc lang="el">Τηλεαγορές</desc>
   </programme>
-  <programme start="20200619100000 +0000" stop="20200619130000 +0000" channel="ANT1">
+  <programme start="20200619100000 +0300" stop="20200619130000 +0300" channel="ANT1">
     <title lang="el">ΤΟ ΠΡΩΙΝΟ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200619100000 +0000" stop="20200619120000 +0000" channel="ertsports">
+  <programme start="20200619100000 +0300" stop="20200619120000 +0300" channel="ertsports">
     <title lang="el">BASKET LEAGUE 2019-20</title>
     <desc lang="el">Προμηθέας Πάτρας - Παναθηναϊκός (Ε)</desc>
   </programme>
-  <programme start="20200619100000 +0000" stop="20200619110000 +0000" channel="KONTRA">
+  <programme start="20200619100000 +0300" stop="20200619110000 +0300" channel="KONTRA">
     <title lang="el">ΟΙΚΟ ΖΗΝ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200619100000 +0000" stop="20200619110000 +0000" channel="Mad TV">
+  <programme start="20200619100000 +0300" stop="20200619110000 +0300" channel="Mad TV">
     <title lang="el">ALL TIME HITS GR</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619100000 +0000" stop="20200619103000 +0000" channel="ONE Channel">
+  <programme start="20200619100000 +0300" stop="20200619103000 +0300" channel="ONE Channel">
     <title lang="el">ΝΕΕΣ ΕΠΟΧΕΣ</title>
     <desc lang="el">Πολιτισμός</desc>
   </programme>
-  <programme start="20200619100000 +0000" stop="20200619120000 +0000" channel="SKAI">
+  <programme start="20200619100000 +0300" stop="20200619120000 +0300" channel="SKAI">
     <title lang="el">ΑΤΑΙΡΙΑΣΤΟΙ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619100000 +0000" stop="20200619123000 +0000" channel="vouli">
+  <programme start="20200619100000 +0300" stop="20200619123000 +0300" channel="vouli">
     <title lang="el">ΚΟΙΝΟΒΟΥΛΕΥΤΙΚΟ ΕΡΓΟ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619100000 +0000" stop="20200619110000 +0000" channel="ert1">
+  <programme start="20200619100000 +0300" stop="20200619110000 +0300" channel="ert1">
     <title lang="el">ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200619100000 +0000" stop="20200619120000 +0000" channel="ert3">
+  <programme start="20200619100000 +0300" stop="20200619120000 +0300" channel="ert3">
     <title lang="el">ΚΑΘΕ ΜΕΡΑ ΕΛΛΑΔΑ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619101000 +0000" stop="20200619103000 +0000" channel="ert2">
+  <programme start="20200619101000 +0300" stop="20200619103000 +0300" channel="ert2">
     <title lang="el">Η ΜΙΡΕΤ ΕΡΕΥΝΑ</title>
     <desc lang="el">Παιδική σειρά</desc>
   </programme>
-  <programme start="20200619101500 +0000" stop="20200619121500 +0000" channel="ert1">
+  <programme start="20200619101500 +0300" stop="20200619121500 +0300" channel="ert1">
     <title lang="el">ΕΠΙ-ΚΟΙΝΩΝΙΑ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619103000 +0000" stop="20200619123000 +0000" channel="ONE Channel">
+  <programme start="20200619103000 +0300" stop="20200619123000 +0300" channel="ONE Channel">
     <title lang="el">ONE CHANNEL</title>
     <desc lang="el">Ξένο πρόγραμμα (Ε)</desc>
   </programme>
-  <programme start="20200619103000 +0000" stop="20200619104500 +0000" channel="ert2">
+  <programme start="20200619103000 +0300" stop="20200619104500 +0300" channel="ert2">
     <title lang="el">ΖΙΓΚ ΚΑΙ ΣΑΡΚΟ</title>
     <desc lang="el">Κινούμενα σχέδια</desc>
   </programme>
-  <programme start="20200619105500 +0000" stop="20200619110500 +0000" channel="ert2">
+  <programme start="20200619105500 +0300" stop="20200619110500 +0300" channel="ert2">
     <title lang="el">ΜΟΝΚ</title>
     <desc lang="el">Κινούμενα σχέδια</desc>
   </programme>
-  <programme start="20200619110000 +0000" stop="20200619150000 +0000" channel="KONTRA">
+  <programme start="20200619110000 +0300" stop="20200619150000 +0300" channel="KONTRA">
     <title lang="el">ΕΚΠΟΜΠΕΣ ΤΗΛΕΟΠΤΙΚΩΝ ΑΓΟΡΩΝ</title>
     <desc lang="el">Τηλεαγορές</desc>
   </programme>
-  <programme start="20200619110000 +0000" stop="20200619120000 +0000" channel="Mad TV">
+  <programme start="20200619110000 +0300" stop="20200619120000 +0300" channel="Mad TV">
     <title lang="el">EURO TOP</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619110500 +0000" stop="20200619113000 +0000" channel="ert2">
+  <programme start="20200619110500 +0300" stop="20200619113000 +0300" channel="ert2">
     <title lang="el">Το μεγάλο ταξίδι του Μπουμ Μπουμ</title>
     <desc lang="el">Κινούμενα σχέδια</desc>
   </programme>
-  <programme start="20200619113000 +0000" stop="20200619113500 +0000" channel="ert2">
+  <programme start="20200619113000 +0300" stop="20200619113500 +0300" channel="ert2">
     <title lang="el">ΙΣΤΟΡΙΕΣ ΓΙΑ ΠΑΙΔΙΑ</title>
     <desc lang="el">Παιδική Σειρά</desc>
   </programme>
-  <programme start="20200619113500 +0000" stop="20200619120000 +0000" channel="ert2">
+  <programme start="20200619113500 +0300" stop="20200619120000 +0300" channel="ert2">
     <title lang="el">ΑΣΤΥΝΟΜΟΣ ΣΑΙΝΗΣ</title>
     <desc lang="el">Παιδική σειρά</desc>
   </programme>
-  <programme start="20200619120000 +0000" stop="20200619140000 +0000" channel="ertsports">
+  <programme start="20200619120000 +0300" stop="20200619140000 +0300" channel="ertsports">
     <title lang="el">FIFA ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ</title>
     <desc lang="el">Ουρουγουάη - Γερμανία (Ε)</desc>
   </programme>
-  <programme start="20200619120000 +0000" stop="20200619130000 +0000" channel="Mad TV">
+  <programme start="20200619120000 +0300" stop="20200619130000 +0300" channel="Mad TV">
     <title lang="el">ΛΑΙΚ ΣΤΑ ΛΑΙΚΑ</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619120000 +0000" stop="20200619140000 +0000" channel="SKAI">
+  <programme start="20200619120000 +0300" stop="20200619140000 +0300" channel="SKAI">
     <title lang="el">ΜΕΣΗΜΕΡΙ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200619120000 +0000" stop="20200619143000 +0000" channel="vouli">
+  <programme start="20200619120000 +0300" stop="20200619143000 +0300" channel="vouli">
     <title lang="el">ΚΟΙΝΟΒΟΥΛΕΥΤΙΚΟ ΕΡΓΟ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619120000 +0000" stop="20200619130000 +0000" channel="ert1">
+  <programme start="20200619120000 +0300" stop="20200619130000 +0300" channel="ert1">
     <title lang="el">ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200619120000 +0000" stop="20200619122500 +0000" channel="ert2">
+  <programme start="20200619120000 +0300" stop="20200619122500 +0300" channel="ert2">
     <title lang="el">ΟΙ ΑΔΕΛΦΟΙ ΝΤΑΛΝΤΟΝ</title>
     <desc lang="el">Κινούμενα σχέδια</desc>
   </programme>
-  <programme start="20200619120000 +0000" stop="20200619130000 +0000" channel="ert3">
+  <programme start="20200619120000 +0300" stop="20200619130000 +0300" channel="ert3">
     <title lang="el">ΖΗΣΕ ΤΗΝ ΕΛΛΑΔΑ</title>
     <desc lang="el">Πάτρα - Καλάβρυτα</desc>
   </programme>
-  <programme start="20200619123000 +0000" stop="20200619130000 +0000" channel="ert2">
+  <programme start="20200619123000 +0300" stop="20200619130000 +0300" channel="ert2">
     <title lang="el">1.000 Χρώματα του Χρήστου: Κύκλος 2020</title>
     <desc lang="el">Παιδική σειρά - Επ. 43</desc>
   </programme>
-  <programme start="20200619130000 +0000" stop="20200619140000 +0000" channel="ANT1">
+  <programme start="20200619130000 +0300" stop="20200619140000 +0300" channel="ANT1">
     <title lang="el">ANT1 NEWS</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200619130000 +0000" stop="20200619134500 +0000" channel="Euronews">
+  <programme start="20200619130000 +0300" stop="20200619134500 +0300" channel="Euronews">
     <title lang="el">EURONEWS NOW</title>
     <desc lang="el">Διεθνής ειδησεογραφία</desc>
   </programme>
-  <programme start="20200619130000 +0000" stop="20200619133000 +0000" channel="Mad TV">
+  <programme start="20200619130000 +0300" stop="20200619133000 +0300" channel="Mad TV">
     <title lang="el">RETROVISION: 10'S</title>
     <desc lang="el">10's</desc>
   </programme>
-  <programme start="20200619130000 +0000" stop="20200619140000 +0000" channel="OPEN BEYOND">
+  <programme start="20200619130000 +0300" stop="20200619140000 +0300" channel="OPEN BEYOND">
     <title lang="el">OPEN NEWS</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200619130000 +0000" stop="20200619150000 +0000" channel="ert1">
+  <programme start="20200619130000 +0300" stop="20200619150000 +0300" channel="ert1">
     <title lang="el">ΣΥΝΔΕΣΕΙΣ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619130000 +0000" stop="20200619140000 +0000" channel="ert2">
+  <programme start="20200619130000 +0300" stop="20200619140000 +0300" channel="ert2">
     <title lang="el">ΑΝΕΞΕΡΕΥΝΗΤΑ ΤΟΠΙΑ</title>
     <desc lang="el">Canyon Country, ΗΠΑ</desc>
   </programme>
-  <programme start="20200619130000 +0000" stop="20200619140000 +0000" channel="ert3">
+  <programme start="20200619130000 +0300" stop="20200619140000 +0300" channel="ert3">
     <title lang="el">ΕΝΑ ΔΕΝΤΡΟ, ΜΙΑ ΙΣΤΟΡΙΑ 2</title>
     <desc lang="el">Τα οπωροφόρα</desc>
   </programme>
-  <programme start="20200619133000 +0000" stop="20200619140000 +0000" channel="Mad TV">
+  <programme start="20200619133000 +0300" stop="20200619140000 +0300" channel="Mad TV">
     <title lang="el">GREEK SUPER HEROES</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619140000 +0000" stop="20200619150000 +0000" channel="ANT1">
+  <programme start="20200619140000 +0300" stop="20200619150000 +0300" channel="ANT1">
     <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title>
     <desc lang="el">Κωμική σειρά</desc>
   </programme>
-  <programme start="20200619140000 +0000" stop="20200619160000 +0000" channel="ertsports">
+  <programme start="20200619140000 +0300" stop="20200619160000 +0300" channel="ertsports">
     <title lang="el">SUPER LEAGUE 2019-2020</title>
     <desc lang="el">Ατρόμητος Αθηνών - Λαμία (Ε)</desc>
   </programme>
-  <programme start="20200619140000 +0000" stop="20200619150000 +0000" channel="Mad TV">
+  <programme start="20200619140000 +0300" stop="20200619150000 +0300" channel="Mad TV">
     <title lang="el">15 SUPER MAD HITS GR</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619140000 +0000" stop="20200619150000 +0000" channel="OPEN BEYOND">
+  <programme start="20200619140000 +0300" stop="20200619150000 +0300" channel="OPEN BEYOND">
     <title lang="el">ΓΙΑ ΠΑΝΤΑ ΠΑΙΔΙΑ</title>
     <desc lang="el">Κωμική σειρά - Επ. 53</desc>
   </programme>
-  <programme start="20200619140000 +0000" stop="20200619150000 +0000" channel="SKAI">
+  <programme start="20200619140000 +0300" stop="20200619150000 +0300" channel="SKAI">
     <title lang="el">ΟΙ ΕΙΔΗΣΕΙΣ ΤΟΥ ΣΚΑΙ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200619140000 +0000" stop="20200619163000 +0000" channel="vouli">
+  <programme start="20200619140000 +0300" stop="20200619163000 +0300" channel="vouli">
     <title lang="el">ΚΟΙΝΟΒΟΥΛΕΥΤΙΚΟ ΕΡΓΟ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619140000 +0000" stop="20200619144500 +0000" channel="ert2">
+  <programme start="20200619140000 +0300" stop="20200619144500 +0300" channel="ert2">
     <title lang="el">ΓΕΥΣΕΙΣ ΑΠΟ ΕΛΛΑΔΑ</title>
     <desc lang="el">Κρόκος Κοζάνης</desc>
   </programme>
-  <programme start="20200619140000 +0000" stop="20200619150000 +0000" channel="ert3">
+  <programme start="20200619140000 +0300" stop="20200619150000 +0300" channel="ert3">
     <title lang="el">ΕΡΤ ΕΙΔΗΣΕΙΣ - ΚΑΙΡΟΣ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200619144500 +0000" stop="20200619161500 +0000" channel="ert2">
+  <programme start="20200619144500 +0300" stop="20200619161500 +0300" channel="ert2">
     <title lang="el">ΣΤΑ ΦΤΕΡΑ ΤΟΥ ΕΡΩΤΑ</title>
     <desc lang="el">Κοινωνική σειρά</desc>
   </programme>
-  <programme start="20200619150000 +0000" stop="20200619173000 +0000" channel="ACTION24">
+  <programme start="20200619150000 +0300" stop="20200619173000 +0300" channel="ACTION24">
     <title lang="el">MARKET WATCH</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619150000 +0000" stop="20200619160000 +0000" channel="ANT1">
+  <programme start="20200619150000 +0300" stop="20200619160000 +0300" channel="ANT1">
     <title lang="el">ΡΟΥΚ ΖΟΥΚ</title>
     <desc lang="el">Τηλεπαιχνίδι</desc>
   </programme>
-  <programme start="20200619150000 +0000" stop="20200619160000 +0000" channel="Mad TV">
+  <programme start="20200619150000 +0300" stop="20200619160000 +0300" channel="Mad TV">
     <title lang="el">ALL TIME HITS GR</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619150000 +0000" stop="20200619164500 +0000" channel="OPEN BEYOND">
+  <programme start="20200619150000 +0300" stop="20200619164500 +0300" channel="OPEN BEYOND">
     <title lang="el">OPEN ΕΛΛΑΔΑ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619150000 +0000" stop="20200619165000 +0000" channel="SKAI">
+  <programme start="20200619150000 +0300" stop="20200619165000 +0300" channel="SKAI">
     <title lang="el">ΚΑΛΟ ΜΕΣΗΜΕΡΑΚΙ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200619150000 +0000" stop="20200619160000 +0000" channel="ert1">
+  <programme start="20200619150000 +0300" stop="20200619160000 +0300" channel="ert1">
     <title lang="el">ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200619150000 +0000" stop="20200619153000 +0000" channel="ert3">
+  <programme start="20200619150000 +0300" stop="20200619153000 +0300" channel="ert3">
     <title lang="el">ΔΕΙΞΕ ΜΟΥ ΤΟ ΣΠΙΤΙ ΣΟΥ</title>
     <desc lang="el">Τόκιο - Μεγαλούπολη με μικρά σπίτια</desc>
   </programme>
-  <programme start="20200619153000 +0000" stop="20200619163000 +0000" channel="ert3">
+  <programme start="20200619153000 +0300" stop="20200619163000 +0300" channel="ert3">
     <title lang="el">ΔΙΑΚΟΠΕΣ ΣΤΑ ΓΚΑΛΑΠΑΓΚΟΣ 2</title>
     <desc lang="el">Ταξίδια - Επ. 2</desc>
   </programme>
-  <programme start="20200619160000 +0000" stop="20200619170000 +0000" channel="ANT1">
+  <programme start="20200619160000 +0300" stop="20200619170000 +0300" channel="ANT1">
     <title lang="el">ΟΝΕΙΡΟΠΑΓΙΔΑ</title>
     <desc lang="el">Κωμική σειρά</desc>
   </programme>
-  <programme start="20200619160000 +0000" stop="20200619170000 +0000" channel="ertsports">
+  <programme start="20200619160000 +0300" stop="20200619170000 +0300" channel="ertsports">
     <title lang="el">THE FOOTBALL SHOW</title>
     <desc lang="el">Ρώμη</desc>
   </programme>
-  <programme start="20200619160000 +0000" stop="20200619170000 +0000" channel="Mad TV">
+  <programme start="20200619160000 +0300" stop="20200619170000 +0300" channel="Mad TV">
     <title lang="el">15 SUPER MAD HITS GR</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619160000 +0000" stop="20200619183000 +0000" channel="vouli">
+  <programme start="20200619160000 +0300" stop="20200619183000 +0300" channel="vouli">
     <title lang="el">ΚΟΙΝΟΒΟΥΛΕΥΤΙΚΟ ΕΡΓΟ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619160000 +0000" stop="20200619180000 +0000" channel="ert1">
+  <programme start="20200619160000 +0300" stop="20200619180000 +0300" channel="ert1">
     <title lang="el">ΦΛΕΡΤ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200619163000 +0000" stop="20200619170000 +0000" channel="ert2">
+  <programme start="20200619163000 +0300" stop="20200619170000 +0300" channel="ert2">
     <title lang="el">ΠΑΝΕΛΛΑΔΙΚΕΣ ΕΞΕΤΑΣΕΙΣ 2020</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619163000 +0000" stop="20200619170000 +0000" channel="ert3">
+  <programme start="20200619163000 +0300" stop="20200619170000 +0300" channel="ert3">
     <title lang="el">ΤΕΧΝΙΤΕΣ ΑΠΟ ΟΛΟ ΤΟΝ ΚΟΣΜΟ</title>
     <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
-  <programme start="20200619164500 +0000" stop="20200619170000 +0000" channel="OPEN BEYOND">
+  <programme start="20200619164500 +0300" stop="20200619170000 +0300" channel="OPEN BEYOND">
     <title lang="el">ΘΥΡΙΔΑ ΤΗΛΕΠΩΛΗΣΗΣ</title>
     <desc lang="el">Τηλεαγορές</desc>
   </programme>
-  <programme start="20200619165000 +0000" stop="20200619181500 +0000" channel="SKAI">
+  <programme start="20200619165000 +0300" stop="20200619181500 +0300" channel="SKAI">
     <title lang="el">ΦΤΕΡΩΤΟΣ ΘΕΟΣ</title>
     <desc lang="el">Κωμική σειρά - Επ. 153</desc>
   </programme>
-  <programme start="20200619170000 +0000" stop="20200619171500 +0000" channel="ANT1">
+  <programme start="20200619170000 +0300" stop="20200619171500 +0300" channel="ANT1">
     <title lang="el">ΑΝΤ1 News - Δελτίο στη Νοηματική</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200619170000 +0000" stop="20200619190000 +0000" channel="ertsports">
+  <programme start="20200619170000 +0300" stop="20200619190000 +0300" channel="ertsports">
     <title lang="el">SPORTS.DOC</title>
     <desc lang="el">Ντούσαν Ιβκοβιτς</desc>
   </programme>
-  <programme start="20200619170000 +0000" stop="20200619190000 +0000" channel="Mad TV">
+  <programme start="20200619170000 +0300" stop="20200619190000 +0300" channel="Mad TV">
     <title lang="el">OK</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200619170000 +0000" stop="20200619171500 +0000" channel="OPEN BEYOND">
+  <programme start="20200619170000 +0300" stop="20200619171500 +0300" channel="OPEN BEYOND">
     <title lang="el">OPEN NEWS ΣΤΗ ΝΟΗΜΑΤΙΚΗ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200619170000 +0000" stop="20200619173000 +0000" channel="ONE Channel">
+  <programme start="20200619170000 +0300" stop="20200619173000 +0300" channel="ONE Channel">
     <title lang="el">ΓΥΜΝΑΣΤΙΚΗ.... ΑΠΟ ΣΠΙΤΙ</title>
     <desc lang="el">Εκπομπή γυμναστικής</desc>
   </programme>
-  <programme start="20200619170000 +0000" stop="20200619171500 +0000" channel="ert2">
+  <programme start="20200619170000 +0300" stop="20200619171500 +0300" channel="ert2">
     <title lang="el">ΕΝΤΟΣ ΑΤΤΙΚΗΣ</title>
     <desc lang="el">Λαύριο, Β' Μέρος</desc>
   </programme>
-  <programme start="20200619170000 +0000" stop="20200619180000 +0000" channel="ert3">
+  <programme start="20200619170000 +0300" stop="20200619180000 +0300" channel="ert3">
     <title lang="el">ΕΡΤ ΕΙΔΗΣΕΙΣ - ΚΑΙΡΟΣ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200619171500 +0000" stop="20200619181500 +0000" channel="ANT1">
+  <programme start="20200619171500 +0300" stop="20200619181500 +0300" channel="ANT1">
     <title lang="el">STILL STANDING</title>
     <desc lang="el">Τηλεπαιχνίδι</desc>
   </programme>
-  <programme start="20200619171500 +0000" stop="20200619193000 +0000" channel="OPEN BEYOND">
+  <programme start="20200619171500 +0300" stop="20200619193000 +0300" channel="OPEN BEYOND">
     <title lang="el">Ο ΚΟΣΜΟΣ ΤΡΕΛΑΘΗΚΕ</title>
     <desc lang="el">Κωμωδία</desc>
   </programme>
-  <programme start="20200619171500 +0000" stop="20200619181500 +0000" channel="ert2">
+  <programme start="20200619171500 +0300" stop="20200619181500 +0300" channel="ert2">
     <title lang="el">ΤΟ ΣΥΜΠΑΝ 4</title>
     <desc lang="el">Ρευστό Σύμπαν</desc>
   </programme>
-  <programme start="20200619173000 +0000" stop="20200619194500 +0000" channel="ACTION24">
+  <programme start="20200619173000 +0300" stop="20200619194500 +0300" channel="ACTION24">
     <title lang="el">ΓΙΩΡΓΟΣ ΤΡΑΓΚΑΣ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619173000 +0000" stop="20200619180000 +0000" channel="ONE Channel">
+  <programme start="20200619173000 +0300" stop="20200619180000 +0300" channel="ONE Channel">
     <title lang="el">VITA</title>
     <desc lang="el">Μαγκαζίνο (E)</desc>
   </programme>
-  <programme start="20200619173000 +0000" stop="20200619181500 +0000" channel="ert3">
+  <programme start="20200619173000 +0300" stop="20200619181500 +0300" channel="ert3">
     <title lang="el">Ο ΤΟΠΟΣ ΤΗΣ ΚΑΡΔΙΑΣ ΜΑΣ 7</title>
     <desc lang="el">Απροσδόκητες φιλίες</desc>
   </programme>
-  <programme start="20200619180000 +0000" stop="20200619190000 +0000" channel="KONTRA">
+  <programme start="20200619180000 +0300" stop="20200619190000 +0300" channel="KONTRA">
     <title lang="el">ΟΙΚΟ ΖΗΝ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200619180000 +0000" stop="20200619183000 +0000" channel="ONE Channel">
+  <programme start="20200619180000 +0300" stop="20200619183000 +0300" channel="ONE Channel">
     <title lang="el">VITA</title>
     <desc lang="el">Μαγκαζίνο (E)</desc>
   </programme>
-  <programme start="20200619180000 +0000" stop="20200619203000 +0000" channel="vouli">
+  <programme start="20200619180000 +0300" stop="20200619203000 +0300" channel="vouli">
     <title lang="el">ΚΟΙΝΟΒΟΥΛΕΥΤΙΚΟ ΕΡΓΟ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619180000 +0000" stop="20200619183000 +0000" channel="ert1">
+  <programme start="20200619180000 +0300" stop="20200619183000 +0300" channel="ert1">
     <title lang="el">ΕΡΤ Ειδήσεις: Δελτίο Στη Νοηματική</title>
     <desc lang="el">Δελτίο Στη Νοηματική</desc>
   </programme>
-  <programme start="20200619181500 +0000" stop="20200619193000 +0000" channel="ANT1">
+  <programme start="20200619181500 +0300" stop="20200619193000 +0300" channel="ANT1">
     <title lang="el">ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ 2</title>
     <desc lang="el">Δραματική σειρά - Επ. 145</desc>
   </programme>
-  <programme start="20200619181500 +0000" stop="20200619182500 +0000" channel="SKAI">
+  <programme start="20200619181500 +0300" stop="20200619182500 +0300" channel="SKAI">
     <title lang="el">ΔΕΛΤΙΟ ΣΤΗ ΝΟΗΜΑΤΙΚΗ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200619181500 +0000" stop="20200619200000 +0000" channel="ert1">
+  <programme start="20200619181500 +0300" stop="20200619200000 +0300" channel="ert1">
     <title lang="el">ΞΥΠΝΑ ΚΑΗΜΕΝΕ ΠΕΡΙΚΛΗ</title>
     <desc lang="el">Κωμωδία</desc>
   </programme>
-  <programme start="20200619181500 +0000" stop="20200619190000 +0000" channel="ert2">
+  <programme start="20200619181500 +0300" stop="20200619190000 +0300" channel="ert2">
     <title lang="el">Ο ΠΑΡΑΔΕΙΣΟΣ ΤΩΝ ΚΥΡΙΩΝ 3</title>
     <desc lang="el">Δραματική σειρά - Επ. 209</desc>
   </programme>
-  <programme start="20200619181500 +0000" stop="20200619190000 +0000" channel="ert3">
+  <programme start="20200619181500 +0300" stop="20200619190000 +0300" channel="ert3">
     <title lang="el">Ο ΤΟΠΟΣ ΤΗΣ ΚΑΡΔΙΑΣ ΜΑΣ 7</title>
     <desc lang="el">Πρόσεχε τι εύχεσαι</desc>
   </programme>
-  <programme start="20200619183000 +0000" stop="20200619190000 +0000" channel="ONE Channel">
+  <programme start="20200619183000 +0300" stop="20200619190000 +0300" channel="ONE Channel">
     <title lang="el">ΒΗΜΑGAZINO</title>
     <desc lang="el">Μαγκαζίνο (E)</desc>
   </programme>
-  <programme start="20200619183000 +0000" stop="20200619195000 +0000" channel="SKAI">
+  <programme start="20200619183000 +0300" stop="20200619195000 +0300" channel="SKAI">
     <title lang="el">Ο Γιατρός, η Ιστορία ενός Θαύματος</title>
     <desc lang="el">Δραματική σειρά</desc>
   </programme>
-  <programme start="20200619185500 +0000" stop="20200619210000 +0000" channel="KONTRA">
+  <programme start="20200619185500 +0300" stop="20200619210000 +0300" channel="KONTRA">
     <title lang="el">ΕΠΙ ΤΟΥ ΠΙΕΣΤΗΡΙΟΥ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619190000 +0000" stop="20200619200000 +0000" channel="ertsports">
+  <programme start="20200619190000 +0300" stop="20200619200000 +0300" channel="ertsports">
     <title lang="el">FORMULA 1 - MAGAZINO</title>
     <desc lang="el">Μηχανοκίνητα σπορ</desc>
   </programme>
-  <programme start="20200619190000 +0000" stop="20200619200000 +0000" channel="Mad TV">
+  <programme start="20200619190000 +0300" stop="20200619200000 +0300" channel="Mad TV">
     <title lang="el">MAD SPOTIFY</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619190000 +0000" stop="20200619193000 +0000" channel="ONE Channel">
+  <programme start="20200619190000 +0300" stop="20200619193000 +0300" channel="ONE Channel">
     <title lang="el">ΝΕΕΣ ΕΠΟΧΕΣ</title>
     <desc lang="el">Πολιτισμός</desc>
   </programme>
-  <programme start="20200619190000 +0000" stop="20200619200000 +0000" channel="ert2">
+  <programme start="20200619190000 +0300" stop="20200619200000 +0300" channel="ert2">
     <title lang="el">Ο ΠΑΡΑΔΕΙΣΟΣ ΤΩΝ ΚΥΡΙΩΝ 3</title>
     <desc lang="el">Δραματική σειρά - Επ. 210</desc>
   </programme>
-  <programme start="20200619190000 +0000" stop="20200619200500 +0000" channel="ert3">
+  <programme start="20200619190000 +0300" stop="20200619200500 +0300" channel="ert3">
     <title lang="el">Μεγάλα Θηρία: Οι Τελευταίοι Γίγαντες</title>
     <desc lang="el">Αμερική</desc>
   </programme>
-  <programme start="20200619193000 +0000" stop="20200619203000 +0000" channel="ANT1">
+  <programme start="20200619193000 +0300" stop="20200619203000 +0300" channel="ANT1">
     <title lang="el">ANT1 NEWS</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200619193000 +0000" stop="20200619203000 +0000" channel="OPEN BEYOND">
+  <programme start="20200619193000 +0300" stop="20200619203000 +0300" channel="OPEN BEYOND">
     <title lang="el">OPEN NEWS</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200619193000 +0000" stop="20200619213000 +0000" channel="ONE Channel">
+  <programme start="20200619193000 +0300" stop="20200619213000 +0300" channel="ONE Channel">
     <title lang="el">ONE CHANNEL</title>
     <desc lang="el">Ξένο πρόγραμμα (Ε)</desc>
   </programme>
-  <programme start="20200619194500 +0000" stop="20200619200000 +0000" channel="ACTION24">
+  <programme start="20200619194500 +0300" stop="20200619200000 +0300" channel="ACTION24">
     <title lang="el">SPORT NEWS</title>
     <desc lang="el">Διάφορα σπορ</desc>
   </programme>
-  <programme start="20200619195000 +0000" stop="20200619213000 +0000" channel="SKAI">
+  <programme start="20200619195000 +0300" stop="20200619213000 +0300" channel="SKAI">
     <title lang="el">ΤΑ ΝΕΑ ΤΟΥ ΣΚΑΙ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200619200000 +0000" stop="20200619203000 +0000" channel="ACTION24">
+  <programme start="20200619200000 +0300" stop="20200619203000 +0300" channel="ACTION24">
     <title lang="el">COVID NEWS</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619200000 +0000" stop="20200619220000 +0000" channel="ertsports">
+  <programme start="20200619200000 +0300" stop="20200619220000 +0300" channel="ertsports">
     <title lang="el">BARCA TV</title>
     <desc lang="el">Μπαρτσελόνα - Λεγανές</desc>
   </programme>
-  <programme start="20200619200000 +0000" stop="20200619214500 +0000" channel="Euronews">
+  <programme start="20200619200000 +0300" stop="20200619214500 +0300" channel="Euronews">
     <title lang="el">EURONEWS TONIGHT</title>
     <desc lang="el">Διεθνής ειδησεογραφία</desc>
   </programme>
-  <programme start="20200619200000 +0000" stop="20200619203000 +0000" channel="Mad TV">
+  <programme start="20200619200000 +0300" stop="20200619203000 +0300" channel="Mad TV">
     <title lang="el">K-POP STARS</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619200000 +0000" stop="20200619210000 +0000" channel="ert1">
+  <programme start="20200619200000 +0300" stop="20200619210000 +0300" channel="ert1">
     <title lang="el">ΔΕΣ &amp; ΒΡΕΣ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200619200000 +0000" stop="20200619210000 +0000" channel="ert2">
+  <programme start="20200619200000 +0300" stop="20200619210000 +0300" channel="ert2">
     <title lang="el">ΤΑ ΣΤΕΚΙΑ: ΚΥΚΛΟΣ 2020</title>
     <desc lang="el">Stand up comedy</desc>
   </programme>
-  <programme start="20200619200000 +0000" stop="20200619210000 +0000" channel="ert3">
+  <programme start="20200619200000 +0300" stop="20200619210000 +0300" channel="ert3">
     <title lang="el">ΕΝΑ ΔΕΝΤΡΟ, ΜΙΑ ΙΣΤΟΡΙΑ 2</title>
     <desc lang="el">Τα οπωροφόρα</desc>
   </programme>
-  <programme start="20200619203000 +0000" stop="20200619220000 +0000" channel="ACTION24">
+  <programme start="20200619203000 +0300" stop="20200619220000 +0300" channel="ACTION24">
     <title lang="el">BRAINSTORMING</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619203000 +0000" stop="20200619210000 +0000" channel="Mad TV">
+  <programme start="20200619203000 +0300" stop="20200619210000 +0300" channel="Mad TV">
     <title lang="el">LYRIC VIDEO SHOW</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619204500 +0000" stop="20200619214500 +0000" channel="ANT1">
+  <programme start="20200619204500 +0300" stop="20200619214500 +0300" channel="ANT1">
     <title lang="el">ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ 2</title>
     <desc lang="el">Γραφείο τελετών</desc>
   </programme>
-  <programme start="20200619210000 +0000" stop="20200620010000 +0000" channel="KONTRA">
+  <programme start="20200619210000 +0300" stop="20200620010000 +0300" channel="KONTRA">
     <title lang="el">ΕΚΠΟΜΠΕΣ ΤΗΛΕΟΠΤΙΚΩΝ ΑΓΟΡΩΝ</title>
     <desc lang="el">Τηλεαγορές</desc>
   </programme>
-  <programme start="20200619210000 +0000" stop="20200619220000 +0000" channel="Mad TV">
+  <programme start="20200619210000 +0300" stop="20200619220000 +0300" channel="Mad TV">
     <title lang="el">SUMMER HITS</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619210000 +0000" stop="20200619230000 +0000" channel="OPEN BEYOND">
+  <programme start="20200619210000 +0300" stop="20200619230000 +0300" channel="OPEN BEYOND">
     <title lang="el">Ο ΓΑΜΠΡΟΣ ΤΗΣ ΣΥΜΦΟΡΑΣ</title>
     <desc lang="el">Κωμωδία</desc>
   </programme>
-  <programme start="20200619210000 +0000" stop="20200619220000 +0000" channel="vouli">
+  <programme start="20200619210000 +0300" stop="20200619220000 +0300" channel="vouli">
     <title lang="el">ΚΑΤΑΘΕΣΗ ΨΥΧΗΣ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200619210000 +0000" stop="20200619223000 +0000" channel="ert1">
+  <programme start="20200619210000 +0300" stop="20200619223000 +0300" channel="ert1">
     <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200619210000 +0000" stop="20200619230000 +0000" channel="ert2">
+  <programme start="20200619210000 +0300" stop="20200619230000 +0300" channel="ert2">
     <title lang="el">Η Αυλή των Χρωμάτων: Κύκλος 2020</title>
     <desc lang="el">Οι μπουάτ της Πλάκας</desc>
   </programme>
-  <programme start="20200619210000 +0000" stop="20200619220000 +0000" channel="ert3">
+  <programme start="20200619210000 +0300" stop="20200619220000 +0300" channel="ert3">
     <title lang="el">SALVATION 2</title>
     <desc lang="el">Ανοιξε τα μάτια σου</desc>
   </programme>
-  <programme start="20200619211500 +0000" stop="20200619221500 +0000" channel="SKAI">
+  <programme start="20200619211500 +0300" stop="20200619221500 +0300" channel="SKAI">
     <title lang="el">DYNASTIES</title>
     <desc lang="el">Τίγρης</desc>
   </programme>
-  <programme start="20200619214500 +0000" stop="20200619224500 +0000" channel="ANT1">
+  <programme start="20200619214500 +0300" stop="20200619224500 +0300" channel="ANT1">
     <title lang="el">STREAT FOOD</title>
     <desc lang="el">Μαγειρική</desc>
   </programme>
-  <programme start="20200619215000 +0000" stop="20200619220000 +0000" channel="Euronews">
+  <programme start="20200619215000 +0300" stop="20200619220000 +0300" channel="Euronews">
     <title lang="el">UNREPORTED EUROPE</title>
     <desc lang="el">Euronews</desc>
   </programme>
-  <programme start="20200619220000 +0000" stop="20200619230000 +0000" channel="ACTION24">
+  <programme start="20200619220000 +0300" stop="20200619230000 +0300" channel="ACTION24">
     <title lang="el">BULL</title>
     <desc lang="el">Δραματική σειρά</desc>
   </programme>
-  <programme start="20200619220000 +0000" stop="20200620000000 +0000" channel="ertsports">
+  <programme start="20200619220000 +0300" stop="20200620000000 +0300" channel="ertsports">
     <title lang="el">MANCHESTER CITY TV</title>
     <desc lang="el">Μάντσεστερ Σίτι - Αρσεναλ</desc>
   </programme>
-  <programme start="20200619220000 +0000" stop="20200619234500 +0000" channel="Euronews">
+  <programme start="20200619220000 +0300" stop="20200619234500 +0300" channel="Euronews">
     <title lang="el">EURONEWS TONIGHT</title>
     <desc lang="el">Διεθνής ειδησεογραφία</desc>
   </programme>
-  <programme start="20200619220000 +0000" stop="20200620000000 +0000" channel="KONTRA">
+  <programme start="20200619220000 +0300" stop="20200620000000 +0300" channel="KONTRA">
     <title lang="el">KONTRA NEWS</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200619220000 +0000" stop="20200620000000 +0000" channel="Mad TV">
+  <programme start="20200619220000 +0300" stop="20200620000000 +0300" channel="Mad TV">
     <title lang="el">DANCE ZONE</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619220000 +0000" stop="20200620000000 +0000" channel="vouli">
+  <programme start="20200619220000 +0300" stop="20200620000000 +0300" channel="vouli">
     <title lang="el">ΜΠΟΜΠ Ο ΧΑΡΤΟΠΑΙΧΤΗΣ</title>
     <desc lang="el">Δράμα</desc>
   </programme>
-  <programme start="20200619220000 +0000" stop="20200619230000 +0000" channel="ert1">
+  <programme start="20200619220000 +0300" stop="20200619230000 +0300" channel="ert1">
     <title lang="el">ΝΤΕΤΕΚΤΙΒ ΜΕΡΝΤΟΧ 10</title>
     <desc lang="el">Οξύθυμος τύπος</desc>
   </programme>
-  <programme start="20200619220000 +0000" stop="20200620000000 +0000" channel="ert3">
+  <programme start="20200619220000 +0300" stop="20200620000000 +0300" channel="ert3">
     <title lang="el">Ο ΚΑΛΟΣΤΕΚΟΥΜΕΝΟΣ</title>
     <desc lang="el">Κωμωδία</desc>
   </programme>
-  <programme start="20200619221500 +0000" stop="20200619233000 +0000" channel="SKAI">
+  <programme start="20200619221500 +0300" stop="20200619233000 +0300" channel="SKAI">
     <title lang="el">BLUE PLANET II</title>
     <desc lang="el">Ακτές</desc>
   </programme>
-  <programme start="20200619224500 +0000" stop="20200619234500 +0000" channel="ANT1">
+  <programme start="20200619224500 +0300" stop="20200619234500 +0300" channel="ANT1">
     <title lang="el">BEST FRIEND'S FEAR</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200619224500 +0000" stop="20200619230000 +0000" channel="Euronews">
+  <programme start="20200619224500 +0300" stop="20200619230000 +0300" channel="Euronews">
     <title lang="el">INSPIRE MIDDLE EAST</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200619230000 +0000" stop="20200620010000 +0000" channel="ACTION24">
+  <programme start="20200619230000 +0300" stop="20200620010000 +0300" channel="ACTION24">
     <title lang="el">ΕΠΙΘΕΩΡΗΤΗΣ ΚΟΛΙΑΝΤΡΟ</title>
     <desc lang="el">Αστυνομική σειρά</desc>
   </programme>
-  <programme start="20200619230000 +0000" stop="20200620004500 +0000" channel="Euronews">
+  <programme start="20200619230000 +0300" stop="20200620004500 +0300" channel="Euronews">
     <title lang="el">EURONEWS TONIGHT</title>
     <desc lang="el">Διεθνής ειδησεογραφία</desc>
   </programme>
-  <programme start="20200619230000 +0000" stop="20200620004500 +0000" channel="OPEN BEYOND">
+  <programme start="20200619230000 +0300" stop="20200620004500 +0300" channel="OPEN BEYOND">
     <title lang="el">ΑΝΑΜΕΣΑ ΣΕ ΔΥΟ ΛΗΣΤΕΙΕΣ</title>
     <desc lang="el">Κωμωδία</desc>
   </programme>
-  <programme start="20200619230000 +0000" stop="20200619234500 +0000" channel="ert1">
+  <programme start="20200619230000 +0300" stop="20200619234500 +0300" channel="ert1">
     <title lang="el">ΑΥΤΟΣ ΚΑΙ Ο ΑΛΛΟΣ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή - Επ. 6</desc>
   </programme>
-  <programme start="20200619230000 +0000" stop="20200620004500 +0000" channel="ert2">
+  <programme start="20200619230000 +0300" stop="20200620004500 +0300" channel="ert2">
     <title lang="el">ΧΩΡΙΣ ΠΑΙΔΙΑ</title>
     <desc lang="el">Ρομαντική κομεντί</desc>
   </programme>
-  <programme start="20200619233000 +0000" stop="20200620005000 +0000" channel="SKAI">
+  <programme start="20200619233000 +0300" stop="20200620005000 +0300" channel="SKAI">
     <title lang="el">BLUE PLANET II</title>
     <desc lang="el">Ο Μπλε Πλανήτης μας</desc>
   </programme>
-  <programme start="20200619234500 +0000" stop="20200620021500 +0000" channel="ANT1">
+  <programme start="20200619234500 +0300" stop="20200620021500 +0300" channel="ANT1">
     <title lang="el">CHAPPIE</title>
     <desc lang="el">Ταινία επιστημονικής φαντασίας</desc>
   </programme>
-  <programme start="20200619234500 +0000" stop="20200620000500 +0000" channel="ert1">
+  <programme start="20200619234500 +0300" stop="20200620000500 +0300" channel="ert1">
     <title lang="el">ΣΑΝ ΣΗΜΕΡΑ ΤΟΝ 20Ο ΑΙΩΝΑ</title>
     <desc lang="el">Παρουσίαση - Ανασκόπηση</desc>
   </programme>
-  <programme start="20200620000000 +0000" stop="20200620010000 +0000" channel="ertsports">
+  <programme start="20200620000000 +0300" stop="20200620010000 +0300" channel="ertsports">
     <title lang="el">ΣΠΟΡ ΙΣΤΟΡΙΕΣ</title>
     <desc lang="el">Ν. Κακλαμανάκης, Α' Μέρος</desc>
   </programme>
-  <programme start="20200620000000 +0000" stop="20200620004500 +0000" channel="Euronews">
+  <programme start="20200620000000 +0300" stop="20200620004500 +0300" channel="Euronews">
     <title lang="el">EURONEWS NOW</title>
     <desc lang="el">Διεθνής ειδησεογραφία</desc>
   </programme>
-  <programme start="20200620000000 +0000" stop="20200620020000 +0000" channel="KONTRA">
+  <programme start="20200620000000 +0300" stop="20200620020000 +0300" channel="KONTRA">
     <title lang="el">KONTRA 24</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200620000000 +0000" stop="20200620010000 +0000" channel="Mad TV">
+  <programme start="20200620000000 +0300" stop="20200620010000 +0300" channel="Mad TV">
     <title lang="el">A-KATALILO URBAN</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200620000000 +0000" stop="20200620010000 +0000" channel="vouli">
+  <programme start="20200620000000 +0300" stop="20200620010000 +0300" channel="vouli">
     <title lang="el">ΜΟΥΣΙΚΕΣ ΜΟΡΦΕΣ</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200620000000 +0000" stop="20200620010000 +0000" channel="ert1">
+  <programme start="20200620000000 +0300" stop="20200620010000 +0300" channel="ert1">
     <title lang="el">ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200620000000 +0000" stop="20200620003000 +0000" channel="ert3">
+  <programme start="20200620000000 +0300" stop="20200620003000 +0300" channel="ert3">
     <title lang="el">ΤΟ ΜΑΥΡΟ ΤΕΤΡΑΓΩΝΟ</title>
     <desc lang="el">Πόσο μαύρο είναι το μαύρο τετράγωνο;</desc>
   </programme>
-  <programme start="20200620001500 +0000" stop="20200620021000 +0000" channel="ert1">
+  <programme start="20200620001500 +0300" stop="20200620021000 +0300" channel="ert1">
     <title lang="el">Η ΩΡΑ ΤΗΣ ΠΤΩΣΗΣ 2</title>
     <desc lang="el">Αστυνομική σειρά - Επ. 6</desc>
   </programme>
-  <programme start="20200620003000 +0000" stop="20200620013000 +0000" channel="ert3">
+  <programme start="20200620003000 +0300" stop="20200620013000 +0300" channel="ert3">
     <title lang="el">ΜΠΟΡΙΣ ΓΚΟΝΤΟΥΝΟΦ 2</title>
     <desc lang="el">Δραματική σειρά - Επ. 7</desc>
   </programme>
-  <programme start="20200620004500 +0000" stop="20200620014500 +0000" channel="OPEN BEYOND">
+  <programme start="20200620004500 +0300" stop="20200620014500 +0300" channel="OPEN BEYOND">
     <title lang="el">CRIMINAL MINDS 11</title>
     <desc lang="el">The Bond</desc>
   </programme>
-  <programme start="20200620004500 +0000" stop="20200620014000 +0000" channel="ert2">
+  <programme start="20200620004500 +0300" stop="20200620014000 +0300" channel="ert2">
     <title lang="el">ΤΑ ΣΤΕΚΙΑ</title>
     <desc lang="el">Σειρά ντοκιμαντέρ</desc>
   </programme>
-  <programme start="20200620005000 +0000" stop="20200620010000 +0000" channel="Euronews">
+  <programme start="20200620005000 +0300" stop="20200620010000 +0300" channel="Euronews">
     <title lang="el">Η ΚΑΤΑΣΤΑΣΗ ΤΗΣ ΕΝΩΣΗΣ</title>
     <desc lang="el">Τα νέα της Ευρώπης</desc>
   </programme>
-  <programme start="20200620005000 +0000" stop="20200620015000 +0000" channel="SKAI">
+  <programme start="20200620005000 +0300" stop="20200620015000 +0300" channel="SKAI">
     <title lang="el">DYNASTIES</title>
     <desc lang="el">Φύση</desc>
   </programme>
-  <programme start="20200620010000 +0000" stop="20200620020000 +0000" channel="ACTION24">
+  <programme start="20200620010000 +0300" stop="20200620020000 +0300" channel="ACTION24">
     <title lang="el">WORLD SAILING CUP</title>
     <desc lang="el">Ιστιοπλοϊα</desc>
   </programme>
-  <programme start="20200620010000 +0000" stop="20200620020000 +0000" channel="ertsports">
+  <programme start="20200620010000 +0300" stop="20200620020000 +0300" channel="ertsports">
     <title lang="el">ΣΠΟΡ ΙΣΤΟΡΙΕΣ</title>
     <desc lang="el">Ν. Κακλαμανάκης, Β' Μέρος</desc>
   </programme>
-  <programme start="20200620010000 +0000" stop="20200620014500 +0000" channel="Euronews">
+  <programme start="20200620010000 +0300" stop="20200620014500 +0300" channel="Euronews">
     <title lang="el">EURONEWS NOW</title>
     <desc lang="el">Διεθνής ειδησεογραφία</desc>
   </programme>
-  <programme start="20200620010000 +0000" stop="20200620020000 +0000" channel="Mad TV">
+  <programme start="20200620010000 +0300" stop="20200620020000 +0300" channel="Mad TV">
     <title lang="el">MUSIC NON STOP GR</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200620010000 +0000" stop="20200620020000 +0000" channel="vouli">
+  <programme start="20200620010000 +0300" stop="20200620020000 +0300" channel="vouli">
     <title lang="el">ΜΑΗΣ ΤΟΥ '68</title>
     <desc lang="el">Σειρά ντοκιμαντέρ</desc>
   </programme>
-  <programme start="20200620013000 +0000" stop="20200620023000 +0000" channel="ert3">
+  <programme start="20200620013000 +0300" stop="20200620023000 +0300" channel="ert3">
     <title lang="el">SALVATION 2</title>
     <desc lang="el">Ανοιξε τα μάτια σου</desc>
   </programme>
-  <programme start="20200620014000 +0000" stop="20200620034000 +0000" channel="ert2">
+  <programme start="20200620014000 +0300" stop="20200620034000 +0300" channel="ert2">
     <title lang="el">Η ΑΥΛΗ ΤΩΝ ΧΡΩΜΑΤΩΝ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200620014500 +0000" stop="20200620020000 +0000" channel="Euronews">
+  <programme start="20200620014500 +0300" stop="20200620020000 +0300" channel="Euronews">
     <title lang="el">INSPIRE MIDDLE EAST</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200620014500 +0000" stop="20200620024500 +0000" channel="OPEN BEYOND">
+  <programme start="20200620014500 +0300" stop="20200620024500 +0300" channel="OPEN BEYOND">
     <title lang="el">LIFE STORIES</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200620015000 +0000" stop="20200620030000 +0000" channel="SKAI">
+  <programme start="20200620015000 +0300" stop="20200620030000 +0300" channel="SKAI">
     <title lang="el">HAPPY TRAVELLER</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200620015500 +0000" stop="20200620024000 +0000" channel="Euronews">
+  <programme start="20200620015500 +0300" stop="20200620024000 +0300" channel="Euronews">
     <title lang="el">EURONEWS NOW</title>
     <desc lang="el">Διεθνής ειδησεογραφία</desc>
   </programme>
-  <programme start="20200620020000 +0000" stop="20200620040000 +0000" channel="ACTION24">
+  <programme start="20200620020000 +0300" stop="20200620040000 +0300" channel="ACTION24">
     <title lang="el">THE HAMMER SERIES</title>
     <desc lang="el">Αθλητική εκπομπή</desc>
   </programme>
-  <programme start="20200620020000 +0000" stop="20200620030000 +0000" channel="ertsports">
+  <programme start="20200620020000 +0300" stop="20200620030000 +0300" channel="ertsports">
     <title lang="el">DORTMUND TV</title>
     <desc lang="el">Ντίσελντορφ - Ντόρτμουντ</desc>
   </programme>
-  <programme start="20200620020000 +0000" stop="20200620060000 +0000" channel="KONTRA">
+  <programme start="20200620020000 +0300" stop="20200620060000 +0300" channel="KONTRA">
     <title lang="el">ΕΚΠΟΜΠΕΣ ΤΗΛΕΟΠΤΙΚΩΝ ΑΓΟΡΩΝ</title>
     <desc lang="el">Τηλεαγορές</desc>
   </programme>
-  <programme start="20200620020000 +0000" stop="20200620030000 +0000" channel="Mad TV">
+  <programme start="20200620020000 +0300" stop="20200620030000 +0300" channel="Mad TV">
     <title lang="el">ΛΑΙΚ ΣΤΑ ΛΑΙΚΑ</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200620020000 +0000" stop="20200620090000 +0000" channel="vouli">
+  <programme start="20200620020000 +0300" stop="20200620090000 +0300" channel="vouli">
     <title lang="el">ΕΠΑΝΑΛΗΨΗ ΠΡΟΓΡΑΜΜΑΤΟΣ</title>
     <desc lang="el">Promo</desc>
   </programme>
-  <programme start="20200620021000 +0000" stop="20200620041000 +0000" channel="ert1">
+  <programme start="20200620021000 +0300" stop="20200620041000 +0300" channel="ert1">
     <title lang="el">ΦΛΕΡΤ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200620021500 +0000" stop="20200620030000 +0000" channel="ANT1">
+  <programme start="20200620021500 +0300" stop="20200620030000 +0300" channel="ANT1">
     <title lang="el">VICE ON HBO</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200620023000 +0000" stop="20200620030000 +0000" channel="ert3">
+  <programme start="20200620023000 +0300" stop="20200620030000 +0300" channel="ert3">
     <title lang="el">ΔΕΙΞΕ ΜΟΥ ΤΟ ΣΠΙΤΙ ΣΟΥ</title>
     <desc lang="el">Σειρά ντοκιμαντέρ</desc>
   </programme>
-  <programme start="20200620024500 +0000" stop="20200620053000 +0000" channel="OPEN BEYOND">
+  <programme start="20200620024500 +0300" stop="20200620053000 +0300" channel="OPEN BEYOND">
     <title lang="el">ALI</title>
     <desc lang="el">Βιογραφική ταινία</desc>
   </programme>
-  <programme start="20200620025000 +0000" stop="20200620044000 +0000" channel="SKAI">
+  <programme start="20200620025000 +0300" stop="20200620044000 +0300" channel="SKAI">
     <title lang="el">ΚΑΛΟ ΜΕΣΗΜΕΡΑΚΙ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200620030000 +0000" stop="20200620041500 +0000" channel="ANT1">
+  <programme start="20200620030000 +0300" stop="20200620041500 +0300" channel="ANT1">
     <title lang="el">ΕΡΩΤΑΣ</title>
     <desc lang="el">Κοινωνική σειρά</desc>
   </programme>
-  <programme start="20200620030000 +0000" stop="20200620050000 +0000" channel="ertsports">
+  <programme start="20200620030000 +0300" stop="20200620050000 +0300" channel="ertsports">
     <title lang="el">JUVENTUS TV</title>
     <desc lang="el">Γιουβέντους - Μίλαν</desc>
   </programme>
-  <programme start="20200620030000 +0000" stop="20200620040000 +0000" channel="Mad TV">
+  <programme start="20200620030000 +0300" stop="20200620040000 +0300" channel="Mad TV">
     <title lang="el">MUSIC NON STOP GR</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200620030000 +0000" stop="20200620050000 +0000" channel="ert3">
+  <programme start="20200620030000 +0300" stop="20200620050000 +0300" channel="ert3">
     <title lang="el">ΚΑΘΕ ΜΕΡΑ ΕΛΛΑΔΑ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200620032000 +0000" stop="20200620041500 +0000" channel="ert2">
+  <programme start="20200620032000 +0300" stop="20200620041500 +0300" channel="ert2">
     <title lang="el">ΤΟ ΣΥΜΠΑΝ</title>
     <desc lang="el">Επιστήμη</desc>
   </programme>
-  <programme start="20200620034500 +0000" stop="20200620040000 +0000" channel="Euronews">
+  <programme start="20200620034500 +0300" stop="20200620040000 +0300" channel="Euronews">
     <title lang="el">INSPIRE MIDDLE EAST</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200620040000 +0000" stop="20200620043000 +0000" channel="ACTION24">
+  <programme start="20200620040000 +0300" stop="20200620043000 +0300" channel="ACTION24">
     <title lang="el">FORMULA E</title>
     <desc lang="el">Μηχανοκίνητα σπορ</desc>
   </programme>
-  <programme start="20200620040000 +0000" stop="20200620044500 +0000" channel="Euronews">
+  <programme start="20200620040000 +0300" stop="20200620044500 +0300" channel="Euronews">
     <title lang="el">EURONEWS NOW</title>
     <desc lang="el">Διεθνής ειδησεογραφία</desc>
   </programme>
-  <programme start="20200620040000 +0000" stop="20200620060000 +0000" channel="KONTRA">
+  <programme start="20200620040000 +0300" stop="20200620060000 +0300" channel="KONTRA">
     <title lang="el">KONTRA NEWS</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200620040000 +0000" stop="20200620050000 +0000" channel="Mad TV">
+  <programme start="20200620040000 +0300" stop="20200620050000 +0300" channel="Mad TV">
     <title lang="el">MUSIC NON STOP INTL</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200620040000 +0000" stop="20200620110000 +0000" channel="vouli">
+  <programme start="20200620040000 +0300" stop="20200620110000 +0300" channel="vouli">
     <title lang="el">ΕΠΑΝΑΛΗΨΗ ΠΡΟΓΡΑΜΜΑΤΟΣ</title>
     <desc lang="el">Promo</desc>
   </programme>
-  <programme start="20200620041500 +0000" stop="20200620061500 +0000" channel="SKAI">
+  <programme start="20200620041500 +0300" stop="20200620061500 +0300" channel="SKAI">
     <title lang="el">ΑΤΑΙΡΙΑΣΤΟΙ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200620041500 +0000" stop="20200620051500 +0000" channel="ert1">
+  <programme start="20200620041500 +0300" stop="20200620051500 +0300" channel="ert1">
     <title lang="el">ΝΤΕΤΕΚΤΙΒ ΜΕΡΝΤΟΧ 10</title>
     <desc lang="el">Οξύθυμος τύπος</desc>
   </programme>
-  <programme start="20200620041500 +0000" stop="20200620054500 +0000" channel="ert2">
+  <programme start="20200620041500 +0300" stop="20200620054500 +0300" channel="ert2">
     <title lang="el">Ο ΠΑΡΑΔΕΙΣΟΣ ΤΩΝ ΚΥΡΙΩΝ</title>
     <desc lang="el">Δραματική σειρά</desc>
   </programme>
-  <programme start="20200620043000 +0000" stop="20200620050000 +0000" channel="ACTION24">
+  <programme start="20200620043000 +0300" stop="20200620050000 +0300" channel="ACTION24">
     <title lang="el">MOBIL 1 THE GRID</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200620050000 +0000" stop="20200620070000 +0000" channel="ACTION24">
+  <programme start="20200620050000 +0300" stop="20200620070000 +0300" channel="ACTION24">
     <title lang="el">ΕΛΛΗΝΙΚΟ ΠΡΩΤΑΘΛΗΜΑ FUTSAL</title>
     <desc lang="el">ΑΕΚ - Παναθηναϊκός (Ε)</desc>
   </programme>
-  <programme start="20200620050000 +0000" stop="20200620060000 +0000" channel="ANT1">
+  <programme start="20200620050000 +0300" stop="20200620060000 +0300" channel="ANT1">
     <title lang="el">ΤΡΙΚΥΜΙΑ</title>
     <desc lang="el">Κοινωνική σειρά</desc>
   </programme>
-  <programme start="20200620050000 +0000" stop="20200620060000 +0000" channel="ertsports">
+  <programme start="20200620050000 +0300" stop="20200620060000 +0300" channel="ertsports">
     <title lang="el">AUTO MOTO ΕΡΤ</title>
     <desc lang="el">Μηχανοκίνητα σπορ</desc>
   </programme>
-  <programme start="20200620050000 +0000" stop="20200620060000 +0000" channel="Mad TV">
+  <programme start="20200620050000 +0300" stop="20200620060000 +0300" channel="Mad TV">
     <title lang="el">MUSIC NON STOP GR</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200620050000 +0000" stop="20200620054500 +0000" channel="ert1">
+  <programme start="20200620050000 +0300" stop="20200620054500 +0300" channel="ert1">
     <title lang="el">ΑΥΤΟΣ ΚΑΙ Ο ΑΛΛΟΣ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή - Επ. 6</desc>
   </programme>
-  <programme start="20200620050000 +0000" stop="20200620060000 +0000" channel="ert3">
+  <programme start="20200620050000 +0300" stop="20200620060000 +0300" channel="ert3">
     <title lang="el">ΖΗΣΕ ΤΗΝ ΕΛΛΑΔΑ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200620060000 +0000" stop="20200620070000 +0000" channel="ANT1">
+  <programme start="20200620060000 +0300" stop="20200620070000 +0300" channel="ANT1">
     <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
     <desc lang="el">Κωμική σειρά</desc>
   </programme>
-  <programme start="20200620060000 +0000" stop="20200620100000 +0000" channel="SKAI">
+  <programme start="20200620060000 +0300" stop="20200620100000 +0300" channel="SKAI">
     <title lang="el">ΚΑΛΗΜΕΡΑ ΜΕ ΤΟΝ ΓΙΩΡΓΟ ΑΥΤΙΑ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200620070000 +0000" stop="20200620110000 +0000" channel="ANT1">
+  <programme start="20200620070000 +0300" stop="20200620110000 +0300" channel="ANT1">
     <title lang="el">ΠΡΩΙΝΟΙ ΤΥΠΟΙ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200620100000 +0000" stop="20200620130000 +0000" channel="SKAI">
+  <programme start="20200620100000 +0300" stop="20200620130000 +0300" channel="SKAI">
     <title lang="el">ΑΚΡΑΙΑ ΦΑΙΝΟΜΕΝΑ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200620110000 +0000" stop="20200620120000 +0000" channel="ANT1">
+  <programme start="20200620110000 +0300" stop="20200620120000 +0300" channel="ANT1">
     <title lang="el">ΥΓΕΙΑ ΠΑΝΩ ΑΠ' ΟΛΑ</title>
     <desc lang="el">Υγεία - Wellbeing</desc>
   </programme>
-  <programme start="20200620120000 +0000" stop="20200620130000 +0000" channel="ANT1">
+  <programme start="20200620120000 +0300" stop="20200620130000 +0300" channel="ANT1">
     <title lang="el">ΕΚΕΙΝΕΣ ΚΙ ΕΓΩ</title>
     <desc lang="el">Κωμική σειρά</desc>
   </programme>
-  <programme start="20200620123000 +0000" stop="20200620130000 +0000" channel="SKAI">
+  <programme start="20200620123000 +0300" stop="20200620130000 +0300" channel="SKAI">
     <title lang="el">ECO NEWS</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200620130000 +0000" stop="20200620140000 +0000" channel="ANT1">
+  <programme start="20200620130000 +0300" stop="20200620140000 +0300" channel="ANT1">
     <title lang="el">ANT1 NEWS</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200620130000 +0000" stop="20200620140000 +0000" channel="SKAI">
+  <programme start="20200620130000 +0300" stop="20200620140000 +0300" channel="SKAI">
     <title lang="el">DOT.</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200620140000 +0000" stop="20200620150000 +0000" channel="ANT1">
+  <programme start="20200620140000 +0300" stop="20200620150000 +0300" channel="ANT1">
     <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title>
     <desc lang="el">Κωμική σειρά</desc>
   </programme>
-  <programme start="20200620140000 +0000" stop="20200620150000 +0000" channel="SKAI">
+  <programme start="20200620140000 +0300" stop="20200620150000 +0300" channel="SKAI">
     <title lang="el">ΟΙ ΕΙΔΗΣΕΙΣ ΤΟΥ ΣΚΑΙ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200620145000 +0000" stop="20200620173000 +0000" channel="SKAI">
+  <programme start="20200620145000 +0300" stop="20200620173000 +0300" channel="SKAI">
     <title lang="el">ΜΑΖΙ ΣΟΥ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200620160000 +0000" stop="20200620170000 +0000" channel="ANT1">
+  <programme start="20200620160000 +0300" stop="20200620170000 +0300" channel="ANT1">
     <title lang="el">FOOD N' FRIENDS</title>
     <desc lang="el">Μαγειρική</desc>
   </programme>
-  <programme start="20200620170000 +0000" stop="20200620180000 +0000" channel="ANT1">
+  <programme start="20200620170000 +0300" stop="20200620180000 +0300" channel="ANT1">
     <title lang="el">ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ</title>
     <desc lang="el">Λουκία τυφωνάτη στον έρα</desc>
   </programme>
-  <programme start="20200620173000 +0000" stop="20200620174000 +0000" channel="SKAI">
+  <programme start="20200620173000 +0300" stop="20200620174000 +0300" channel="SKAI">
     <title lang="el">ΔΕΛΤΙΟ ΣΤΗ ΝΟΗΜΑΤΙΚΗ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200620174000 +0000" stop="20200620185000 +0000" channel="SKAI">
+  <programme start="20200620174000 +0300" stop="20200620185000 +0300" channel="SKAI">
     <title lang="el">HAPPY TRAVELLER</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200620180000 +0000" stop="20200620181500 +0000" channel="ANT1">
+  <programme start="20200620180000 +0300" stop="20200620181500 +0300" channel="ANT1">
     <title lang="el">ΑΝΤ1 News - Δελτίο στη Νοηματική</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200620181500 +0000" stop="20200620191500 +0000" channel="ANT1">
+  <programme start="20200620181500 +0300" stop="20200620191500 +0300" channel="ANT1">
     <title lang="el">ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ 2</title>
     <desc lang="el">Αλεπού Ογκρατέν</desc>
   </programme>
-  <programme start="20200620184000 +0000" stop="20200620195000 +0000" channel="SKAI">
+  <programme start="20200620184000 +0300" stop="20200620195000 +0300" channel="SKAI">
     <title lang="el">Ο ΠΙΟ ΑΔΥΝΑΜΟΣ ΚΡΙΚΟΣ</title>
     <desc lang="el">Τηλεπαιχνίδι</desc>
   </programme>
-  <programme start="20200620193000 +0000" stop="20200620203000 +0000" channel="ANT1">
+  <programme start="20200620193000 +0300" stop="20200620203000 +0300" channel="ANT1">
     <title lang="el">ANT1 NEWS</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200620195000 +0000" stop="20200620213000 +0000" channel="SKAI">
+  <programme start="20200620195000 +0300" stop="20200620213000 +0300" channel="SKAI">
     <title lang="el">ΤΑ ΝΕΑ ΤΟΥ ΣΚΑΙ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200620204500 +0000" stop="20200620224500 +0000" channel="ANT1">
+  <programme start="20200620204500 +0300" stop="20200620224500 +0300" channel="ANT1">
     <title lang="el">ΗΣΑΙΑ ΜΗ ΧΟΡΕΥΕΙΣ</title>
     <desc lang="el">Κωμωδία</desc>
   </programme>
-  <programme start="20200620211500 +0000" stop="20200620004500 +0000" channel="SKAI">
+  <programme start="20200620211500 +0300" stop="20200620004500 +0300" channel="SKAI">
     <title lang="el">ΣΤΗΝ ΥΓΕΙΑ ΜΑΣ ΡΕ ΠΑΙΔΙΑ!</title>
     <desc lang="el">Ψυχαγωγικό σόου</desc>
   </programme>
-  <programme start="20200620224500 +0000" stop="20200620011500 +0000" channel="ANT1">
+  <programme start="20200620224500 +0300" stop="20200620011500 +0300" channel="ANT1">
     <title lang="el">ΣΥΖΥΓΟΣ ΓΙΑ ΕΝΟΙΚΙΑΣΗ</title>
     <desc lang="el">Ρομαντική κομεντί</desc>
   </programme>
-  <programme start="20200621004500 +0000" stop="20200621024500 +0000" channel="SKAI">
+  <programme start="20200621004500 +0300" stop="20200621024500 +0300" channel="SKAI">
     <title lang="el">ΕΞΑΦΑΝΙΣΗ ΧΩΡΙΣ ΙΧΝΗ</title>
     <desc lang="el">Ταινία θρίλερ</desc>
   </programme>
-  <programme start="20200621011500 +0000" stop="20200621021500 +0000" channel="ANT1">
+  <programme start="20200621011500 +0300" stop="20200621021500 +0300" channel="ANT1">
     <title lang="el">VICE</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621021500 +0000" stop="20200621031500 +0000" channel="ANT1">
+  <programme start="20200621021500 +0300" stop="20200621031500 +0300" channel="ANT1">
     <title lang="el">ΑΝΑΤΟΜΙΑ ΕΝΟΣ ΕΓΚΛΗΜΑΤΟΣ</title>
     <desc lang="el">Αστυνομική σειρά</desc>
   </programme>
-  <programme start="20200621024500 +0000" stop="20200621034500 +0000" channel="SKAI">
+  <programme start="20200621024500 +0300" stop="20200621034500 +0300" channel="SKAI">
     <title lang="el">DEADLY WOMEN 8</title>
     <desc lang="el">Hidden Rage</desc>
   </programme>
-  <programme start="20200621034500 +0000" stop="20200621045500 +0000" channel="SKAI">
+  <programme start="20200621034500 +0300" stop="20200621045500 +0300" channel="SKAI">
     <title lang="el">HAPPY TRAVELLER</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200621043000 +0000" stop="20200621053000 +0000" channel="SKAI">
+  <programme start="20200621043000 +0300" stop="20200621053000 +0300" channel="SKAI">
     <title lang="el">DOT.</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200621050000 +0000" stop="20200621101000 +0000" channel="Euronews">
+  <programme start="20200621050000 +0300" stop="20200621101000 +0300" channel="Euronews">
     <title lang="el">GLOBAL WEEKEND</title>
     <desc lang="el">Euronews</desc>
   </programme>
-  <programme start="20200621050000 +0000" stop="20200621074000 +0000" channel="SKAI">
+  <programme start="20200621050000 +0300" stop="20200621074000 +0300" channel="SKAI">
     <title lang="el">ΜΑΖΙ ΣΟΥ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621060000 +0000" stop="20200621070000 +0000" channel="ACTION24">
+  <programme start="20200621060000 +0300" stop="20200621070000 +0300" channel="ACTION24">
     <title lang="el">FIA Παγκόσμιο Πρωτάθλημα Αντοχής</title>
     <desc lang="el">Μηχανοκίνητα σπορ</desc>
   </programme>
-  <programme start="20200621060000 +0000" stop="20200621070000 +0000" channel="ANT1">
+  <programme start="20200621060000 +0300" stop="20200621070000 +0300" channel="ANT1">
     <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
     <desc lang="el">Κωμική σειρά</desc>
   </programme>
-  <programme start="20200621060000 +0000" stop="20200621080000 +0000" channel="ertsports">
+  <programme start="20200621060000 +0300" stop="20200621080000 +0300" channel="ertsports">
     <title lang="el">ΚΑΛΛΙΤΕΧΝΙΚΟ ΠΑΤΙΝΑΖ: ΙΑΠΩΝΙΑ</title>
     <desc lang="el">Γκαλά, Σαϊτάμα</desc>
   </programme>
-  <programme start="20200621060000 +0000" stop="20200621100000 +0000" channel="KONTRA">
+  <programme start="20200621060000 +0300" stop="20200621100000 +0300" channel="KONTRA">
     <title lang="el">ΕΚΠΟΜΠΕΣ ΤΗΛΕΟΠΤΙΚΩΝ ΑΓΟΡΩΝ</title>
     <desc lang="el">Τηλεαγορές</desc>
   </programme>
-  <programme start="20200621060000 +0000" stop="20200621070000 +0000" channel="Mad TV">
+  <programme start="20200621060000 +0300" stop="20200621070000 +0300" channel="Mad TV">
     <title lang="el">MAD TOP</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621060000 +0000" stop="20200621080000 +0000" channel="ONE Channel">
+  <programme start="20200621060000 +0300" stop="20200621080000 +0300" channel="ONE Channel">
     <title lang="el">ONE CHANNEL</title>
     <desc lang="el">Ξένο πρόγραμμα (Ε)</desc>
   </programme>
-  <programme start="20200621060000 +0000" stop="20200621100000 +0000" channel="SKAI">
+  <programme start="20200621060000 +0300" stop="20200621100000 +0300" channel="SKAI">
     <title lang="el">ΚΑΛΗΜΕΡΑ ΜΕ ΤΟΝ ΓΙΩΡΓΟ ΑΥΤΙΑ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621060000 +0000" stop="20200621090000 +0000" channel="ert1">
+  <programme start="20200621060000 +0300" stop="20200621090000 +0300" channel="ert1">
     <title lang="el">ΜΑΖΙ ΤΟ ΣΑΒΒΑΤΟΚΥΡΙΑΚΟ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621061000 +0000" stop="20200621070000 +0000" channel="ert2">
+  <programme start="20200621061000 +0300" stop="20200621070000 +0300" channel="ert2">
     <title lang="el">ΠΟΠ ΜΑΓΕΙΡΙΚΗ</title>
     <desc lang="el">Μαγειρική</desc>
   </programme>
-  <programme start="20200621063000 +0000" stop="20200621133000 +0000" channel="vouli">
+  <programme start="20200621063000 +0300" stop="20200621133000 +0300" channel="vouli">
     <title lang="el">ΕΠΑΝΑΛΗΨΗ ΠΡΟΓΡΑΜΜΑΤΟΣ</title>
     <desc lang="el">Promo</desc>
   </programme>
-  <programme start="20200621063000 +0000" stop="20200621073000 +0000" channel="ert3">
+  <programme start="20200621063000 +0300" stop="20200621073000 +0300" channel="ert3">
     <title lang="el">ΧΑΡΑ ΘΕΟΥ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621070000 +0000" stop="20200621080000 +0000" channel="ACTION24">
+  <programme start="20200621070000 +0300" stop="20200621080000 +0300" channel="ACTION24">
     <title lang="el">SUPER LEAGUE TRIATHLON</title>
     <desc lang="el">Αθλητική εκπομπή</desc>
   </programme>
-  <programme start="20200621070000 +0000" stop="20200621110000 +0000" channel="ANT1">
+  <programme start="20200621070000 +0300" stop="20200621110000 +0300" channel="ANT1">
     <title lang="el">ΠΡΩΙΝΟΙ ΤΥΠΟΙ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621070000 +0000" stop="20200621090000 +0000" channel="Mad TV">
+  <programme start="20200621070000 +0300" stop="20200621090000 +0300" channel="Mad TV">
     <title lang="el">MORNING HITS</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621070000 +0000" stop="20200621080000 +0000" channel="ert2">
+  <programme start="20200621070000 +0300" stop="20200621080000 +0300" channel="ert2">
     <title lang="el">ΤΟ ΣΥΜΠΑΝ 4</title>
     <desc lang="el">Ρευστό Σύμπαν</desc>
   </programme>
-  <programme start="20200621073000 +0000" stop="20200621074000 +0000" channel="Euronews">
+  <programme start="20200621073000 +0300" stop="20200621074000 +0300" channel="Euronews">
     <title lang="el">Η ΚΑΤΑΣΤΑΣΗ ΤΗΣ ΕΝΩΣΗΣ</title>
     <desc lang="el">Τα νέα της Ευρώπης</desc>
   </programme>
-  <programme start="20200621073000 +0000" stop="20200621080000 +0000" channel="ert3">
+  <programme start="20200621073000 +0300" stop="20200621080000 +0300" channel="ert3">
     <title lang="el">ΙΛΙΑΔΑ</title>
     <desc lang="el">Ιστορικό ντοκιμαντέρ</desc>
   </programme>
-  <programme start="20200621074000 +0000" stop="20200621125000 +0000" channel="Euronews">
+  <programme start="20200621074000 +0300" stop="20200621125000 +0300" channel="Euronews">
     <title lang="el">GLOBAL WEEKEND</title>
     <desc lang="el">Euronews</desc>
   </programme>
-  <programme start="20200621080000 +0000" stop="20200621090000 +0000" channel="ACTION24">
+  <programme start="20200621080000 +0300" stop="20200621090000 +0300" channel="ACTION24">
     <title lang="el">WORLD SAILING CUP</title>
     <desc lang="el">Ιστιοπλοϊα</desc>
   </programme>
-  <programme start="20200621080000 +0000" stop="20200621110000 +0000" channel="ertsports">
+  <programme start="20200621080000 +0300" stop="20200621110000 +0300" channel="ertsports">
     <title lang="el">FIFA ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ</title>
     <desc lang="el">Ολλανδία - Ισπανία</desc>
   </programme>
-  <programme start="20200621080000 +0000" stop="20200621083000 +0000" channel="ONE Channel">
+  <programme start="20200621080000 +0300" stop="20200621083000 +0300" channel="ONE Channel">
     <title lang="el">VITA</title>
     <desc lang="el">Μαγκαζίνο (E)</desc>
   </programme>
-  <programme start="20200621080000 +0000" stop="20200621110000 +0000" channel="ert2">
+  <programme start="20200621080000 +0300" stop="20200621110000 +0300" channel="ert2">
     <title lang="el">ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ</title>
     <desc lang="el">Θρησκευτική εκπομπή (Z)</desc>
   </programme>
-  <programme start="20200621080000 +0000" stop="20200621101000 +0000" channel="ert3">
+  <programme start="20200621080000 +0300" stop="20200621101000 +0300" channel="ert3">
     <title lang="el">Οι μουσικές νουβέλες του Θ. Μπακαλάκου</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621083000 +0000" stop="20200621090000 +0000" channel="ONE Channel">
+  <programme start="20200621083000 +0300" stop="20200621090000 +0300" channel="ONE Channel">
     <title lang="el">VITA</title>
     <desc lang="el">Μαγκαζίνο (E)</desc>
   </programme>
-  <programme start="20200621090000 +0000" stop="20200621140000 +0000" channel="ACTION24">
+  <programme start="20200621090000 +0300" stop="20200621140000 +0300" channel="ACTION24">
     <title lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</title>
     <desc lang="el">Τηλεαγορές</desc>
   </programme>
-  <programme start="20200621090000 +0000" stop="20200621093000 +0000" channel="Mad TV">
+  <programme start="20200621090000 +0300" stop="20200621093000 +0300" channel="Mad TV">
     <title lang="el">ΧΡΟΝΟΜΗΧΑΝΗ: 00'S</title>
     <desc lang="el">00's</desc>
   </programme>
-  <programme start="20200621090000 +0000" stop="20200621093000 +0000" channel="ONE Channel">
+  <programme start="20200621090000 +0300" stop="20200621093000 +0300" channel="ONE Channel">
     <title lang="el">ΓΥΜΝΑΣΤΙΚΗ.... ΑΠΟ ΣΠΙΤΙ</title>
     <desc lang="el">Εκπομπή γυμναστικής</desc>
   </programme>
-  <programme start="20200621090000 +0000" stop="20200621103000 +0000" channel="vouli">
+  <programme start="20200621090000 +0300" stop="20200621103000 +0300" channel="vouli">
     <title lang="el">Η ΣΥΝΑΥΛΙΑ ΤΗΣ ΚΥΡΙΑΚΗΣ</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621090000 +0000" stop="20200621120000 +0000" channel="ert1">
+  <programme start="20200621090000 +0300" stop="20200621120000 +0300" channel="ert1">
     <title lang="el">ΕΠΙΛΟΓΕΣ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621091000 +0000" stop="20200621092000 +0000" channel="Euronews">
+  <programme start="20200621091000 +0300" stop="20200621092000 +0300" channel="Euronews">
     <title lang="el">UNREPORTED EUROPE</title>
     <desc lang="el">Euronews</desc>
   </programme>
-  <programme start="20200621092000 +0000" stop="20200621093000 +0000" channel="Euronews">
+  <programme start="20200621092000 +0300" stop="20200621093000 +0300" channel="Euronews">
     <title lang="el">Η ΚΑΤΑΣΤΑΣΗ ΤΗΣ ΕΝΩΣΗΣ</title>
     <desc lang="el">Τα νέα της Ευρώπης</desc>
   </programme>
-  <programme start="20200621093000 +0000" stop="20200621100000 +0000" channel="Mad TV">
+  <programme start="20200621093000 +0300" stop="20200621100000 +0300" channel="Mad TV">
     <title lang="el">GREEK SUPER HEROES</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621093000 +0000" stop="20200621100000 +0000" channel="ONE Channel">
+  <programme start="20200621093000 +0300" stop="20200621100000 +0300" channel="ONE Channel">
     <title lang="el">ΒΗΜΑGAZINO</title>
     <desc lang="el">Μαγκαζίνο (E)</desc>
   </programme>
-  <programme start="20200621093500 +0000" stop="20200621144500 +0000" channel="Euronews">
+  <programme start="20200621093500 +0300" stop="20200621144500 +0300" channel="Euronews">
     <title lang="el">GLOBAL WEEKEND</title>
     <desc lang="el">Euronews</desc>
   </programme>
-  <programme start="20200621095000 +0000" stop="20200621130000 +0000" channel="OPEN BEYOND">
+  <programme start="20200621095000 +0300" stop="20200621130000 +0300" channel="OPEN BEYOND">
     <title lang="el">ΕΛΑ ΧΑΜΟΓΕΛΑ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200621100000 +0000" stop="20200621110000 +0000" channel="KONTRA">
+  <programme start="20200621100000 +0300" stop="20200621110000 +0300" channel="KONTRA">
     <title lang="el">ΟΙΚΟ ΖΗΝ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200621100000 +0000" stop="20200621110000 +0000" channel="Mad TV">
+  <programme start="20200621100000 +0300" stop="20200621110000 +0300" channel="Mad TV">
     <title lang="el">15 SUPER MAD HITS INTL</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621100000 +0000" stop="20200621103000 +0000" channel="ONE Channel">
+  <programme start="20200621100000 +0300" stop="20200621103000 +0300" channel="ONE Channel">
     <title lang="el">ΝΕΕΣ ΕΠΟΧΕΣ</title>
     <desc lang="el">Πολιτισμός</desc>
   </programme>
-  <programme start="20200621100000 +0000" stop="20200621130000 +0000" channel="SKAI">
+  <programme start="20200621100000 +0300" stop="20200621130000 +0300" channel="SKAI">
     <title lang="el">ΑΚΡΑΙΑ ΦΑΙΝΟΜΕΝΑ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621101000 +0000" stop="20200621110000 +0000" channel="ert3">
+  <programme start="20200621101000 +0300" stop="20200621110000 +0300" channel="ert3">
     <title lang="el">ΕΛΛΗΝΩΝ ΔΡΩΜΕΝΑ 5</title>
     <desc lang="el">Μουσική Ακρόαση</desc>
   </programme>
-  <programme start="20200621101500 +0000" stop="20200621103000 +0000" channel="Euronews">
+  <programme start="20200621101500 +0300" stop="20200621103000 +0300" channel="Euronews">
     <title lang="el">INSPIRE MIDDLE EAST</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621102500 +0000" stop="20200621153500 +0000" channel="Euronews">
+  <programme start="20200621102500 +0300" stop="20200621153500 +0300" channel="Euronews">
     <title lang="el">GLOBAL WEEKEND</title>
     <desc lang="el">Euronews</desc>
   </programme>
-  <programme start="20200621103000 +0000" stop="20200621123000 +0000" channel="ONE Channel">
+  <programme start="20200621103000 +0300" stop="20200621123000 +0300" channel="ONE Channel">
     <title lang="el">ONE CHANNEL</title>
     <desc lang="el">Ξένο πρόγραμμα (Ε)</desc>
   </programme>
-  <programme start="20200621103000 +0000" stop="20200621120000 +0000" channel="vouli">
+  <programme start="20200621103000 +0300" stop="20200621120000 +0300" channel="vouli">
     <title lang="el">ΒΟΥΛΗ ΕΠΙ 7</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621103000 +0000" stop="20200621113000 +0000" channel="ert2">
+  <programme start="20200621103000 +0300" stop="20200621113000 +0300" channel="ert2">
     <title lang="el">ΦΩΤΕΙΝΑ ΜΟΝΟΠΑΤΙΑ 3</title>
     <desc lang="el">Μοναστήρια της Εύβοιας</desc>
   </programme>
-  <programme start="20200621110000 +0000" stop="20200621120000 +0000" channel="ANT1">
+  <programme start="20200621110000 +0300" stop="20200621120000 +0300" channel="ANT1">
     <title lang="el">ΥΓΕΙΑ ΠΑΝΩ ΑΠ' ΟΛΑ</title>
     <desc lang="el">Υγεία - Wellbeing</desc>
   </programme>
-  <programme start="20200621110000 +0000" stop="20200621140000 +0000" channel="ertsports">
+  <programme start="20200621110000 +0300" stop="20200621140000 +0300" channel="ertsports">
     <title lang="el">ΓΑΛΛΙΚΟ ΟΠΕΝ</title>
     <desc lang="el">Ραφαέλ Ναδάλ - Ντόμινικ Τιέμ</desc>
   </programme>
-  <programme start="20200621110000 +0000" stop="20200621150000 +0000" channel="KONTRA">
+  <programme start="20200621110000 +0300" stop="20200621150000 +0300" channel="KONTRA">
     <title lang="el">ΕΚΠΟΜΠΕΣ ΤΗΛΕΟΠΤΙΚΩΝ ΑΓΟΡΩΝ</title>
     <desc lang="el">Τηλεαγορές</desc>
   </programme>
-  <programme start="20200621110000 +0000" stop="20200621120000 +0000" channel="Mad TV">
+  <programme start="20200621110000 +0300" stop="20200621120000 +0300" channel="Mad TV">
     <title lang="el">GREATEST HITS 4 SUNDAYS</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621110000 +0000" stop="20200621120000 +0000" channel="ert3">
+  <programme start="20200621110000 +0300" stop="20200621120000 +0300" channel="ert3">
     <title lang="el">ΣΥΓΧΡΟΝΟΙ ΠΑΡΑΔΟΣΙΑΚΟΙ ΜΟΥΣΙΚΟΙ</title>
     <desc lang="el">Δημήτρης Σφίγγος</desc>
   </programme>
-  <programme start="20200621111000 +0000" stop="20200621112000 +0000" channel="Euronews">
+  <programme start="20200621111000 +0300" stop="20200621112000 +0300" channel="Euronews">
     <title lang="el">Η ΚΑΤΑΣΤΑΣΗ ΤΗΣ ΕΝΩΣΗΣ</title>
     <desc lang="el">Τα νέα της Ευρώπης</desc>
   </programme>
-  <programme start="20200621111500 +0000" stop="20200621162500 +0000" channel="Euronews">
+  <programme start="20200621111500 +0300" stop="20200621162500 +0300" channel="Euronews">
     <title lang="el">GLOBAL WEEKEND</title>
     <desc lang="el">Euronews</desc>
   </programme>
-  <programme start="20200621113000 +0000" stop="20200621120000 +0000" channel="ert2">
+  <programme start="20200621113000 +0300" stop="20200621120000 +0300" channel="ert2">
     <title lang="el">ΜΕ ΑΡΕΤΗ ΚΑΙ ΤΟΛΜΗ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200621120000 +0000" stop="20200621130000 +0000" channel="ACTION24">
+  <programme start="20200621120000 +0300" stop="20200621130000 +0300" channel="ACTION24">
     <title lang="el">ΑΓΩΝΕΣ ΑΥΤΟΚΙΝΗΤΩΝ</title>
     <desc lang="el">Τασμανία</desc>
   </programme>
-  <programme start="20200621120000 +0000" stop="20200621130000 +0000" channel="ANT1">
+  <programme start="20200621120000 +0300" stop="20200621130000 +0300" channel="ANT1">
     <title lang="el">ΕΚΕΙΝΕΣ ΚΙ ΕΓΩ</title>
     <desc lang="el">Κωμική σειρά</desc>
   </programme>
-  <programme start="20200621120000 +0000" stop="20200621123000 +0000" channel="Mad TV">
+  <programme start="20200621120000 +0300" stop="20200621123000 +0300" channel="Mad TV">
     <title lang="el">SHAZAM ME</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621120000 +0000" stop="20200621140000 +0000" channel="vouli">
+  <programme start="20200621120000 +0300" stop="20200621140000 +0300" channel="vouli">
     <title lang="el">ΑΠΟ ΤΟΠΟ ΣΕ ΤΟΠΟ</title>
     <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
-  <programme start="20200621120000 +0000" stop="20200621130000 +0000" channel="ert1">
+  <programme start="20200621120000 +0300" stop="20200621130000 +0300" channel="ert1">
     <title lang="el">ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200621120000 +0000" stop="20200621125500 +0000" channel="ert2">
+  <programme start="20200621120000 +0300" stop="20200621125500 +0300" channel="ert2">
     <title lang="el">ΒΙΟΙ ΠΑΡΑΛΛΗΛΟΙ</title>
     <desc lang="el">Ελευθέριος Βενιζέλος - Ιωάννης Μεταξάς</desc>
   </programme>
-  <programme start="20200621120000 +0000" stop="20200621130000 +0000" channel="ert3">
+  <programme start="20200621120000 +0300" stop="20200621130000 +0300" channel="ert3">
     <title lang="el">ΜΙΑ ΑΠΙΘΑΝΗ ΜΑΕΣΤΡΟΣ</title>
     <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
-  <programme start="20200621123000 +0000" stop="20200621130000 +0000" channel="Mad TV">
+  <programme start="20200621123000 +0300" stop="20200621130000 +0300" channel="Mad TV">
     <title lang="el">NEWCOMERS TIME</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621123000 +0000" stop="20200621130000 +0000" channel="SKAI">
+  <programme start="20200621123000 +0300" stop="20200621130000 +0300" channel="SKAI">
     <title lang="el">Τα Νέα των Μικρομεσαίων Επιχειρήσεων</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621125500 +0000" stop="20200621131500 +0000" channel="ert2">
+  <programme start="20200621125500 +0300" stop="20200621131500 +0300" channel="ert2">
     <title lang="el">ΝΗΣΤΙΚΟ ΑΡΚΟΥΔΙ</title>
     <desc lang="el">Μαγειρική</desc>
   </programme>
-  <programme start="20200621130000 +0000" stop="20200621180000 +0000" channel="ACTION24">
+  <programme start="20200621130000 +0300" stop="20200621180000 +0300" channel="ACTION24">
     <title lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</title>
     <desc lang="el">Τηλεαγορές</desc>
   </programme>
-  <programme start="20200621130000 +0000" stop="20200621140000 +0000" channel="ANT1">
+  <programme start="20200621130000 +0300" stop="20200621140000 +0300" channel="ANT1">
     <title lang="el">ANT1 NEWS</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200621130000 +0000" stop="20200621133000 +0000" channel="Mad TV">
+  <programme start="20200621130000 +0300" stop="20200621133000 +0300" channel="Mad TV">
     <title lang="el">LIFE IS A SOUNDTRACK</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621130000 +0000" stop="20200621140000 +0000" channel="OPEN BEYOND">
+  <programme start="20200621130000 +0300" stop="20200621140000 +0300" channel="OPEN BEYOND">
     <title lang="el">OPEN NEWS</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200621130000 +0000" stop="20200621140000 +0000" channel="SKAI">
+  <programme start="20200621130000 +0300" stop="20200621140000 +0300" channel="SKAI">
     <title lang="el">DOT.</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200621130000 +0000" stop="20200621150000 +0000" channel="ert1">
+  <programme start="20200621130000 +0300" stop="20200621150000 +0300" channel="ert1">
     <title lang="el">ΤΟ ΑΛΑΤΙ ΤΗΣ ΓΗΣ: ΝΕΟΣ ΚΥΚΛΟΣ</title>
     <desc lang="el">Παγκόσμια Ημέρα Μουσικής</desc>
   </programme>
-  <programme start="20200621130000 +0000" stop="20200621140000 +0000" channel="ert3">
+  <programme start="20200621130000 +0300" stop="20200621140000 +0300" channel="ert3">
     <title lang="el">Το Υπέροχο Βασίλειο του Πάπα Αλέβ</title>
     <desc lang="el">Αληθινή ιστορία</desc>
   </programme>
-  <programme start="20200621131500 +0000" stop="20200621140000 +0000" channel="ert2">
+  <programme start="20200621131500 +0300" stop="20200621140000 +0300" channel="ert2">
     <title lang="el">ΠΟΠ ΜΑΓΕΙΡΙΚΗ</title>
     <desc lang="el">Μαγειρική</desc>
   </programme>
-  <programme start="20200621133000 +0000" stop="20200621143000 +0000" channel="Mad TV">
+  <programme start="20200621133000 +0300" stop="20200621143000 +0300" channel="Mad TV">
     <title lang="el">MAD MOVES!</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621133000 +0000" stop="20200621144000 +0000" channel="OPEN BEYOND">
+  <programme start="20200621133000 +0300" stop="20200621144000 +0300" channel="OPEN BEYOND">
     <title lang="el">ΠΟΙΟΣ ΡΩΤΑΕΙ;</title>
     <desc lang="el">Τηλεπαιχνίδι</desc>
   </programme>
-  <programme start="20200621140000 +0000" stop="20200621150000 +0000" channel="ANT1">
+  <programme start="20200621140000 +0300" stop="20200621150000 +0300" channel="ANT1">
     <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title>
     <desc lang="el">Κωμική σειρά</desc>
   </programme>
-  <programme start="20200621140000 +0000" stop="20200621180000 +0000" channel="ertsports">
+  <programme start="20200621140000 +0300" stop="20200621180000 +0300" channel="ertsports">
     <title lang="el">ΕΝΟΡΓΑΝΗ ΓΥΜΝΑΣΤΙΚΗ</title>
     <desc lang="el">Τελικοί Ανδρών, Γυναικών</desc>
   </programme>
-  <programme start="20200621140000 +0000" stop="20200621150000 +0000" channel="SKAI">
+  <programme start="20200621140000 +0300" stop="20200621150000 +0300" channel="SKAI">
     <title lang="el">ΟΙ ΕΙΔΗΣΕΙΣ ΤΟΥ ΣΚΑΙ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200621140000 +0000" stop="20200621150000 +0000" channel="vouli">
+  <programme start="20200621140000 +0300" stop="20200621150000 +0300" channel="vouli">
     <title lang="el">ΚΑΤΑΘΕΣΗ ΨΥΧΗΣ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200621140000 +0000" stop="20200621151500 +0000" channel="ert2">
+  <programme start="20200621140000 +0300" stop="20200621151500 +0300" channel="ert2">
     <title lang="el">ΗΣΑΙΑ ΧΟΡΕΥΕ</title>
     <desc lang="el">Κωμωδία</desc>
   </programme>
-  <programme start="20200621140000 +0000" stop="20200621150000 +0000" channel="ert3">
+  <programme start="20200621140000 +0300" stop="20200621150000 +0300" channel="ert3">
     <title lang="el">ΕΡΤ ΕΙΔΗΣΕΙΣ - ΚΑΙΡΟΣ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200621143000 +0000" stop="20200621153000 +0000" channel="Mad TV">
+  <programme start="20200621143000 +0300" stop="20200621153000 +0300" channel="Mad TV">
     <title lang="el">MAD VINTAGE</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621143000 +0000" stop="20200621153000 +0000" channel="ert3">
+  <programme start="20200621143000 +0300" stop="20200621153000 +0300" channel="ert3">
     <title lang="el">ΚΑΘΕ ΤΟΠΟΣ ΚΑΙ ΤΡΑΓΟΥΔΙ 2</title>
     <desc lang="el">Οι δρόμοι των χάλκινων</desc>
   </programme>
-  <programme start="20200621144000 +0000" stop="20200621174500 +0000" channel="OPEN BEYOND">
+  <programme start="20200621144000 +0300" stop="20200621174500 +0300" channel="OPEN BEYOND">
     <title lang="el">ΑΝΝΙΤΑ ΚΟΙΤΑ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200621145000 +0000" stop="20200621173000 +0000" channel="SKAI">
+  <programme start="20200621145000 +0300" stop="20200621173000 +0300" channel="SKAI">
     <title lang="el">ΜΑΖΙ ΣΟΥ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621150000 +0000" stop="20200621160000 +0000" channel="ACTION24">
+  <programme start="20200621150000 +0300" stop="20200621160000 +0300" channel="ACTION24">
     <title lang="el">WORLD SAILING CUP</title>
     <desc lang="el">Ιστιοπλοϊα</desc>
   </programme>
-  <programme start="20200621150000 +0000" stop="20200621163000 +0000" channel="vouli">
+  <programme start="20200621150000 +0300" stop="20200621163000 +0300" channel="vouli">
     <title lang="el">ΤΙ ΛΕΕΙ Ο ΝΟΜΟΣ</title>
     <desc lang="el">Θεματικό</desc>
   </programme>
-  <programme start="20200621150000 +0000" stop="20200621160000 +0000" channel="ert1">
+  <programme start="20200621150000 +0300" stop="20200621160000 +0300" channel="ert1">
     <title lang="el">ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200621151500 +0000" stop="20200621153000 +0000" channel="ert2">
+  <programme start="20200621151500 +0300" stop="20200621153000 +0300" channel="ert2">
     <title lang="el">ΕΝΤΟΣ ΑΤΤΙΚΗΣ 3</title>
     <desc lang="el">Ραφήνα</desc>
   </programme>
-  <programme start="20200621152500 +0000" stop="20200621153500 +0000" channel="Euronews">
+  <programme start="20200621152500 +0300" stop="20200621153500 +0300" channel="Euronews">
     <title lang="el">UNREPORTED EUROPE</title>
     <desc lang="el">Euronews</desc>
   </programme>
-  <programme start="20200621153000 +0000" stop="20200621160000 +0000" channel="Mad TV">
+  <programme start="20200621153000 +0300" stop="20200621160000 +0300" channel="Mad TV">
     <title lang="el">MAD WRAPPED</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621153000 +0000" stop="20200621170000 +0000" channel="ert2">
+  <programme start="20200621153000 +0300" stop="20200621170000 +0300" channel="ert2">
     <title lang="el">ΟΔΟΣ ΑΝΘΕΩΝ</title>
     <desc lang="el">Κωμική σειρά</desc>
   </programme>
-  <programme start="20200621153000 +0000" stop="20200621163000 +0000" channel="ert3">
+  <programme start="20200621153000 +0300" stop="20200621163000 +0300" channel="ert3">
     <title lang="el">ΝΤΟΚΙΜΑΝΤΕΡ</title>
     <desc lang="el">Ντοκιμαντέρ</desc>
   </programme>
-  <programme start="20200621154500 +0000" stop="20200621205500 +0000" channel="Euronews">
+  <programme start="20200621154500 +0300" stop="20200621205500 +0300" channel="Euronews">
     <title lang="el">GLOBAL WEEKEND</title>
     <desc lang="el">Euronews</desc>
   </programme>
-  <programme start="20200621160000 +0000" stop="20200621170000 +0000" channel="ANT1">
+  <programme start="20200621160000 +0300" stop="20200621170000 +0300" channel="ANT1">
     <title lang="el">FOOD N' FRIENDS</title>
     <desc lang="el">Μαγειρική</desc>
   </programme>
-  <programme start="20200621160000 +0000" stop="20200621163000 +0000" channel="Mad TV">
+  <programme start="20200621160000 +0300" stop="20200621163000 +0300" channel="Mad TV">
     <title lang="el">MUSIC REPORT</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621160000 +0000" stop="20200621170000 +0000" channel="ert1">
+  <programme start="20200621160000 +0300" stop="20200621170000 +0300" channel="ert1">
     <title lang="el">ΠΡΟΣΩΠΙΚΑ</title>
     <desc lang="el">Ευτυχία Παπαγιαννοπούλου, Β' Μέρος</desc>
   </programme>
-  <programme start="20200621163000 +0000" stop="20200621173000 +0000" channel="ACTION24">
+  <programme start="20200621163000 +0300" stop="20200621173000 +0300" channel="ACTION24">
     <title lang="el">SUPER LEAGUE TRIATHLON</title>
     <desc lang="el">Αθλητική εκπομπή</desc>
   </programme>
-  <programme start="20200621163000 +0000" stop="20200621164000 +0000" channel="Euronews">
+  <programme start="20200621163000 +0300" stop="20200621164000 +0300" channel="Euronews">
     <title lang="el">Η ΚΑΤΑΣΤΑΣΗ ΤΗΣ ΕΝΩΣΗΣ</title>
     <desc lang="el">Τα νέα της Ευρώπης</desc>
   </programme>
-  <programme start="20200621163000 +0000" stop="20200621173000 +0000" channel="Mad TV">
+  <programme start="20200621163000 +0300" stop="20200621173000 +0300" channel="Mad TV">
     <title lang="el">MAD TOP</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621163000 +0000" stop="20200621170000 +0000" channel="vouli">
+  <programme start="20200621163000 +0300" stop="20200621170000 +0300" channel="vouli">
     <title lang="el">Τα Μικρά Μυστικά των Μεγάλων Ζωγράφων</title>
     <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
-  <programme start="20200621163000 +0000" stop="20200621173000 +0000" channel="ert3">
+  <programme start="20200621163000 +0300" stop="20200621173000 +0300" channel="ert3">
     <title lang="el">Ο ΔΡΟΜΟΣ ΜΕ ΤΟΥΣ ΠΙΑΝΙΣΤΕΣ</title>
     <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
-  <programme start="20200621164500 +0000" stop="20200621170000 +0000" channel="Euronews">
+  <programme start="20200621164500 +0300" stop="20200621170000 +0300" channel="Euronews">
     <title lang="el">INSPIRE MIDDLE EAST</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621170000 +0000" stop="20200621184500 +0000" channel="ANT1">
+  <programme start="20200621170000 +0300" stop="20200621184500 +0300" channel="ANT1">
     <title lang="el">ΖΗΤΕΙΤΑΙ ΨΕΥΤΗΣ</title>
     <desc lang="el">Κωμωδία</desc>
   </programme>
-  <programme start="20200621170000 +0000" stop="20200621221000 +0000" channel="Euronews">
+  <programme start="20200621170000 +0300" stop="20200621221000 +0300" channel="Euronews">
     <title lang="el">GLOBAL WEEKEND</title>
     <desc lang="el">Euronews</desc>
   </programme>
-  <programme start="20200621170000 +0000" stop="20200621173000 +0000" channel="ONE Channel">
+  <programme start="20200621170000 +0300" stop="20200621173000 +0300" channel="ONE Channel">
     <title lang="el">ΓΥΜΝΑΣΤΙΚΗ.... ΑΠΟ ΣΠΙΤΙ</title>
     <desc lang="el">Εκπομπή γυμναστικής</desc>
   </programme>
-  <programme start="20200621170000 +0000" stop="20200621183000 +0000" channel="vouli">
+  <programme start="20200621170000 +0300" stop="20200621183000 +0300" channel="vouli">
     <title lang="el">ΤΑ ΚΡΟΚΟΔΕΙΛΑΚΙΑ</title>
     <desc lang="el">Οικογενειακή ταινία</desc>
   </programme>
-  <programme start="20200621170000 +0000" stop="20200621174000 +0000" channel="ert1">
+  <programme start="20200621170000 +0300" stop="20200621174000 +0300" channel="ert1">
     <title lang="el">ΑΥΤΟΣ ΚΑΙ Ο ΑΛΛΟΣ</title>
     <desc lang="el">Τι Γυρεύει η Ωραία Ελένη στην ΕΡΤ;</desc>
   </programme>
-  <programme start="20200621170000 +0000" stop="20200621180000 +0000" channel="ert2">
+  <programme start="20200621170000 +0300" stop="20200621180000 +0300" channel="ert2">
     <title lang="el">Σπουδαιότερες Διαδρομές &amp; Περιπέτειες</title>
     <desc lang="el">Πτήσεις</desc>
   </programme>
-  <programme start="20200621173000 +0000" stop="20200621174500 +0000" channel="ANT1">
+  <programme start="20200621173000 +0300" stop="20200621174500 +0300" channel="ANT1">
     <title lang="el">ΑΝΤ1 News - Δελτίο στη Νοηματική</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200621173000 +0000" stop="20200621193000 +0000" channel="ertsports">
+  <programme start="20200621173000 +0300" stop="20200621193000 +0300" channel="ertsports">
     <title lang="el">JUVENTUS TV</title>
     <desc lang="el">Γιουβέντους - Μίλαν</desc>
   </programme>
-  <programme start="20200621173000 +0000" stop="20200621180000 +0000" channel="Mad TV">
+  <programme start="20200621173000 +0300" stop="20200621180000 +0300" channel="Mad TV">
     <title lang="el">MAD FOR FASHION</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200621173000 +0000" stop="20200621180000 +0000" channel="ONE Channel">
+  <programme start="20200621173000 +0300" stop="20200621180000 +0300" channel="ONE Channel">
     <title lang="el">VITA</title>
     <desc lang="el">Μαγκαζίνο (E)</desc>
   </programme>
-  <programme start="20200621173000 +0000" stop="20200621174000 +0000" channel="SKAI">
+  <programme start="20200621173000 +0300" stop="20200621174000 +0300" channel="SKAI">
     <title lang="el">ΔΕΛΤΙΟ ΣΤΗ ΝΟΗΜΑΤΙΚΗ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200621173000 +0000" stop="20200621190000 +0000" channel="ert3">
+  <programme start="20200621173000 +0300" stop="20200621190000 +0300" channel="ert3">
     <title lang="el">Ο Ανθρωπος Πίσω από τους Beatles</title>
     <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
-  <programme start="20200621174000 +0000" stop="20200621185000 +0000" channel="SKAI">
+  <programme start="20200621174000 +0300" stop="20200621185000 +0300" channel="SKAI">
     <title lang="el">HAPPY TRAVELLER</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200621174000 +0000" stop="20200621180000 +0000" channel="ert1">
+  <programme start="20200621174000 +0300" stop="20200621180000 +0300" channel="ert1">
     <title lang="el">ΣΑΝ ΣΗΜΕΡΑ ΤΟΝ 20Ο ΑΙΩΝΑ</title>
     <desc lang="el">Παρουσίαση - Ανασκόπηση</desc>
   </programme>
-  <programme start="20200621174500 +0000" stop="20200621193000 +0000" channel="ANT1">
+  <programme start="20200621174500 +0300" stop="20200621193000 +0300" channel="ANT1">
     <title lang="el">ΖΗΤΕΙΤΑΙ ΨΕΥΤΗΣ</title>
     <desc lang="el">Κωμωδία</desc>
   </programme>
-  <programme start="20200621174500 +0000" stop="20200621180000 +0000" channel="OPEN BEYOND">
+  <programme start="20200621174500 +0300" stop="20200621180000 +0300" channel="OPEN BEYOND">
     <title lang="el">OPEN NEWS ΣΤΗ ΝΟΗΜΑΤΙΚΗ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200621180000 +0000" stop="20200621181500 +0000" channel="ACTION24">
+  <programme start="20200621180000 +0300" stop="20200621181500 +0300" channel="ACTION24">
     <title lang="el">SPORT NEWS</title>
     <desc lang="el">Διάφορα σπορ</desc>
   </programme>
-  <programme start="20200621180000 +0000" stop="20200621190000 +0000" channel="KONTRA">
+  <programme start="20200621180000 +0300" stop="20200621190000 +0300" channel="KONTRA">
     <title lang="el">ΟΙΚΟ ΖΗΝ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200621180000 +0000" stop="20200621190000 +0000" channel="Mad TV">
+  <programme start="20200621180000 +0300" stop="20200621190000 +0300" channel="Mad TV">
     <title lang="el">15 SUPER MAD HITS GR</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621180000 +0000" stop="20200621210500 +0000" channel="OPEN BEYOND">
+  <programme start="20200621180000 +0300" stop="20200621210500 +0300" channel="OPEN BEYOND">
     <title lang="el">ΑΝΝΙΤΑ ΚΟΙΤΑ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200621180000 +0000" stop="20200621183000 +0000" channel="ONE Channel">
+  <programme start="20200621180000 +0300" stop="20200621183000 +0300" channel="ONE Channel">
     <title lang="el">VITA</title>
     <desc lang="el">Μαγκαζίνο (E)</desc>
   </programme>
-  <programme start="20200621180000 +0000" stop="20200621183000 +0000" channel="ert1">
+  <programme start="20200621180000 +0300" stop="20200621183000 +0300" channel="ert1">
     <title lang="el">ΕΡΤ Ειδήσεις: Δελτίο Στη Νοηματική</title>
     <desc lang="el">Δελτίο Στη Νοηματική</desc>
   </programme>
-  <programme start="20200621180000 +0000" stop="20200621182500 +0000" channel="ert2">
+  <programme start="20200621180000 +0300" stop="20200621182500 +0300" channel="ert2">
     <title lang="el">ΟΙ ΑΔΕΛΦΟΙ ΝΤΑΛΝΤΟΝ</title>
     <desc lang="el">Κινούμενα σχέδια</desc>
   </programme>
-  <programme start="20200621181500 +0000" stop="20200621200000 +0000" channel="ert1">
+  <programme start="20200621181500 +0300" stop="20200621200000 +0300" channel="ert1">
     <title lang="el">ΑΝ ΕΧΕΙΣ ΤΥΧΗ</title>
     <desc lang="el">Κωμωδία</desc>
   </programme>
-  <programme start="20200621183000 +0000" stop="20200621190000 +0000" channel="ACTION24">
+  <programme start="20200621183000 +0300" stop="20200621190000 +0300" channel="ACTION24">
     <title lang="el">MOTO IN ACTION</title>
     <desc lang="el">Μηχανοκίνητα σπορ</desc>
   </programme>
-  <programme start="20200621183000 +0000" stop="20200621190000 +0000" channel="ONE Channel">
+  <programme start="20200621183000 +0300" stop="20200621190000 +0300" channel="ONE Channel">
     <title lang="el">ΒΗΜΑGAZINO</title>
     <desc lang="el">Μαγκαζίνο (E)</desc>
   </programme>
-  <programme start="20200621183000 +0000" stop="20200621190000 +0000" channel="vouli">
+  <programme start="20200621183000 +0300" stop="20200621190000 +0300" channel="vouli">
     <title lang="el">ΦΟΙΤΗΤΙΒΙΣΜΑΤΑ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621183000 +0000" stop="20200621190000 +0000" channel="ert2">
+  <programme start="20200621183000 +0300" stop="20200621190000 +0300" channel="ert2">
     <title lang="el">ΑΝΑΖΗΤΩΝΤΑΣ ΤΗ ΧΑΜΕΝΗ ΕΙΚΟΝΑ</title>
     <desc lang="el">Λόγος Μάνου Χατζιδάκι</desc>
   </programme>
-  <programme start="20200621184000 +0000" stop="20200621195000 +0000" channel="SKAI">
+  <programme start="20200621184000 +0300" stop="20200621195000 +0300" channel="SKAI">
     <title lang="el">Ο ΠΙΟ ΑΔΥΝΑΜΟΣ ΚΡΙΚΟΣ</title>
     <desc lang="el">Τηλεπαιχνίδι</desc>
   </programme>
-  <programme start="20200621184500 +0000" stop="20200621193000 +0000" channel="OPEN BEYOND">
+  <programme start="20200621184500 +0300" stop="20200621193000 +0300" channel="OPEN BEYOND">
     <title lang="el">MY GREECE</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200621190000 +0000" stop="20200621200000 +0000" channel="ACTION24">
+  <programme start="20200621190000 +0300" stop="20200621200000 +0300" channel="ACTION24">
     <title lang="el">Ο ΑΓΙΟΣ</title>
     <desc lang="el">Σειρά περιπέτειας</desc>
   </programme>
-  <programme start="20200621190000 +0000" stop="20200621230000 +0000" channel="KONTRA">
+  <programme start="20200621190000 +0300" stop="20200621230000 +0300" channel="KONTRA">
     <title lang="el">ΕΚΠΟΜΠΕΣ ΤΗΛΕΟΠΤΙΚΩΝ ΑΓΟΡΩΝ</title>
     <desc lang="el">Τηλεαγορές</desc>
   </programme>
-  <programme start="20200621190000 +0000" stop="20200621200000 +0000" channel="Mad TV">
+  <programme start="20200621190000 +0300" stop="20200621200000 +0300" channel="Mad TV">
     <title lang="el">ΛΑΙΚ ΣΤΑ ΛΑΙΚΑ</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621190000 +0000" stop="20200621193000 +0000" channel="ONE Channel">
+  <programme start="20200621190000 +0300" stop="20200621193000 +0300" channel="ONE Channel">
     <title lang="el">ΝΕΕΣ ΕΠΟΧΕΣ</title>
     <desc lang="el">Πολιτισμός</desc>
   </programme>
-  <programme start="20200621190000 +0000" stop="20200621200000 +0000" channel="vouli">
+  <programme start="20200621190000 +0300" stop="20200621200000 +0300" channel="vouli">
     <title lang="el">ΣΥΝΑΝΤΗΣΗ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200621190000 +0000" stop="20200621210000 +0000" channel="ert2">
+  <programme start="20200621190000 +0300" stop="20200621210000 +0300" channel="ert2">
     <title lang="el">ΣΥΝΑΥΛΙΑ</title>
     <desc lang="el">Ευρωπαϊκή ημέρα μουσικής</desc>
   </programme>
-  <programme start="20200621190000 +0000" stop="20200621200000 +0000" channel="ert3">
+  <programme start="20200621190000 +0300" stop="20200621200000 +0300" channel="ert3">
     <title lang="el">EUROVISIONS</title>
     <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
-  <programme start="20200621193000 +0000" stop="20200621203000 +0000" channel="ANT1">
+  <programme start="20200621193000 +0300" stop="20200621203000 +0300" channel="ANT1">
     <title lang="el">ANT1 NEWS</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200621193000 +0000" stop="20200621213000 +0000" channel="ertsports">
+  <programme start="20200621193000 +0300" stop="20200621213000 +0300" channel="ertsports">
     <title lang="el">ΞΑΝΘΗ ΑΟ - ΠΑΝΑΙΤΩΛΙΚΟΣ</title>
     <desc lang="el">Super League 2019-2020 (Z)</desc>
   </programme>
-  <programme start="20200621193000 +0000" stop="20200621203000 +0000" channel="OPEN BEYOND">
+  <programme start="20200621193000 +0300" stop="20200621203000 +0300" channel="OPEN BEYOND">
     <title lang="el">OPEN NEWS</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200621193000 +0000" stop="20200621213000 +0000" channel="ONE Channel">
+  <programme start="20200621193000 +0300" stop="20200621213000 +0300" channel="ONE Channel">
     <title lang="el">ONE CHANNEL</title>
     <desc lang="el">Ξένο πρόγραμμα (Ε)</desc>
   </programme>
-  <programme start="20200621195000 +0000" stop="20200621200000 +0000" channel="Euronews">
+  <programme start="20200621195000 +0300" stop="20200621200000 +0300" channel="Euronews">
     <title lang="el">Η ΚΑΤΑΣΤΑΣΗ ΤΗΣ ΕΝΩΣΗΣ</title>
     <desc lang="el">Τα νέα της Ευρώπης</desc>
   </programme>
-  <programme start="20200621195000 +0000" stop="20200621213000 +0000" channel="SKAI">
+  <programme start="20200621195000 +0300" stop="20200621213000 +0300" channel="SKAI">
     <title lang="el">ΤΑ ΝΕΑ ΤΟΥ ΣΚΑΙ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200621195500 +0000" stop="20200621210000 +0000" channel="KONTRA">
+  <programme start="20200621195500 +0300" stop="20200621210000 +0300" channel="KONTRA">
     <title lang="el">KONTRA NEWS</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200621200000 +0000" stop="20200621210000 +0000" channel="ACTION24">
+  <programme start="20200621200000 +0300" stop="20200621210000 +0300" channel="ACTION24">
     <title lang="el">ΜΗΝ ΤΟ ΠΕΙΣ ΣΤΟ ΑΦΕΝΤΙΚΟ</title>
     <desc lang="el">Κωμική σειρά</desc>
   </programme>
-  <programme start="20200621200000 +0000" stop="20200620011000 +0000" channel="Euronews">
+  <programme start="20200621200000 +0300" stop="20200620011000 +0300" channel="Euronews">
     <title lang="el">GLOBAL WEEKEND</title>
     <desc lang="el">Euronews</desc>
   </programme>
-  <programme start="20200621200000 +0000" stop="20200621203000 +0000" channel="Mad TV">
+  <programme start="20200621200000 +0300" stop="20200621203000 +0300" channel="Mad TV">
     <title lang="el">ROCK ON MIXER</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621200000 +0000" stop="20200621210000 +0000" channel="vouli">
+  <programme start="20200621200000 +0300" stop="20200621210000 +0300" channel="vouli">
     <title lang="el">ΒΙΒΛΙΟΒΟΥΛΙΟ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621200000 +0000" stop="20200621210000 +0000" channel="ert1">
+  <programme start="20200621200000 +0300" stop="20200621210000 +0300" channel="ert1">
     <title lang="el">Η ΜΗΧΑΝΗ ΤΟΥ ΧΡΟΝΟΥ</title>
     <desc lang="el">Σαντορίνη</desc>
   </programme>
-  <programme start="20200621200000 +0000" stop="20200621202000 +0000" channel="ert3">
+  <programme start="20200621200000 +0300" stop="20200621202000 +0300" channel="ert3">
     <title lang="el">ΕΡΤ ΕΙΔΗΣΕΙΣ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200621203000 +0000" stop="20200621210000 +0000" channel="Mad TV">
+  <programme start="20200621203000 +0300" stop="20200621210000 +0300" channel="Mad TV">
     <title lang="el">ALTERNATIVE LOCAL</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621203000 +0000" stop="20200621220000 +0000" channel="ert3">
+  <programme start="20200621203000 +0300" stop="20200621220000 +0300" channel="ert3">
     <title lang="el">ΣΥΝΑΥΛΙΑ</title>
     <desc lang="el">Ο Yianni στο Ηρώδειο</desc>
   </programme>
-  <programme start="20200621204500 +0000" stop="20200621223000 +0000" channel="ANT1">
+  <programme start="20200621204500 +0300" stop="20200621223000 +0300" channel="ANT1">
     <title lang="el">STILL STANDING GOLDEN EDITION</title>
     <desc lang="el">Τηλεπαιχνίδι</desc>
   </programme>
-  <programme start="20200621210000 +0000" stop="20200621230000 +0000" channel="ACTION24">
+  <programme start="20200621210000 +0300" stop="20200621230000 +0300" channel="ACTION24">
     <title lang="el">TANGO PER LA LIBERTA</title>
     <desc lang="el">Δραματική σειρά</desc>
   </programme>
-  <programme start="20200621210000 +0000" stop="20200620010000 +0000" channel="KONTRA">
+  <programme start="20200621210000 +0300" stop="20200620010000 +0300" channel="KONTRA">
     <title lang="el">ΕΚΠΟΜΠΕΣ ΤΗΛΕΟΠΤΙΚΩΝ ΑΓΟΡΩΝ</title>
     <desc lang="el">Τηλεαγορές</desc>
   </programme>
-  <programme start="20200621210000 +0000" stop="20200621220000 +0000" channel="Mad TV">
+  <programme start="20200621210000 +0300" stop="20200621220000 +0300" channel="Mad TV">
     <title lang="el">15 SUPER MAD HITS GR</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621210000 +0000" stop="20200621230000 +0000" channel="OPEN BEYOND">
+  <programme start="20200621210000 +0300" stop="20200621230000 +0300" channel="OPEN BEYOND">
     <title lang="el">ΤΑΙΝΙΑ</title>
     <desc lang="el">Ταινία</desc>
   </programme>
-  <programme start="20200621210000 +0000" stop="20200621220000 +0000" channel="vouli">
+  <programme start="20200621210000 +0300" stop="20200621220000 +0300" channel="vouli">
     <title lang="el">ΘΕΑΤΡΟΣΚΟΠΙΟ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200621210000 +0000" stop="20200621223000 +0000" channel="ert1">
+  <programme start="20200621210000 +0300" stop="20200621223000 +0300" channel="ert1">
     <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200621210000 +0000" stop="20200621220000 +0000" channel="ert2">
+  <programme start="20200621210000 +0300" stop="20200621220000 +0300" channel="ert2">
     <title lang="el">Η ΥΠΕΡΟΧΗ ΦΙΛΗ ΜΟΥ</title>
     <desc lang="el">Μεταμορφώσεις</desc>
   </programme>
-  <programme start="20200621211500 +0000" stop="20200621230000 +0000" channel="SKAI">
+  <programme start="20200621211500 +0300" stop="20200621230000 +0300" channel="SKAI">
     <title lang="el">FASTER</title>
     <desc lang="el">Περιπέτεια</desc>
   </programme>
-  <programme start="20200621213000 +0000" stop="20200621220000 +0000" channel="ertsports">
+  <programme start="20200621213000 +0300" stop="20200621220000 +0300" channel="ertsports">
     <title lang="el">ΣΤΙΒΟΣ: ΜΑΓΚΑΖΙΝΟ</title>
     <desc lang="el">Αθλητική Εκπομπή</desc>
   </programme>
-  <programme start="20200621214500 +0000" stop="20200621220000 +0000" channel="Euronews">
+  <programme start="20200621214500 +0300" stop="20200621220000 +0300" channel="Euronews">
     <title lang="el">INSPIRE MIDDLE EAST</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621220000 +0000" stop="20200620000000 +0000" channel="ertsports">
+  <programme start="20200621220000 +0300" stop="20200620000000 +0300" channel="ertsports">
     <title lang="el">MANCHESTER CITY TV</title>
     <desc lang="el">Μάντσεστερ Σίτι - Αρσεναλ</desc>
   </programme>
-  <programme start="20200621220000 +0000" stop="20200620031000 +0000" channel="Euronews">
+  <programme start="20200621220000 +0300" stop="20200620031000 +0300" channel="Euronews">
     <title lang="el">GLOBAL WEEKEND</title>
     <desc lang="el">Euronews</desc>
   </programme>
-  <programme start="20200621220000 +0000" stop="20200621230000 +0000" channel="Mad TV">
+  <programme start="20200621220000 +0300" stop="20200621230000 +0300" channel="Mad TV">
     <title lang="el">ΣΤΗ ΔΙΑΠΑΣΩΝ</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621220000 +0000" stop="20200621230000 +0000" channel="vouli">
+  <programme start="20200621220000 +0300" stop="20200621230000 +0300" channel="vouli">
     <title lang="el">Η ΜΕΓΑΛΗ ΑΙΚΑΤΕΡΙΝΗ</title>
     <desc lang="el">Δραματική σειρά - Επ. 16</desc>
   </programme>
-  <programme start="20200621220000 +0000" stop="20200621230000 +0000" channel="ert1">
+  <programme start="20200621220000 +0300" stop="20200621230000 +0300" channel="ert1">
     <title lang="el">ΑΘΛΗΤΙΚΗ ΚΥΡΙΑΚΗ</title>
     <desc lang="el">Διάφορα σπορ</desc>
   </programme>
-  <programme start="20200621220000 +0000" stop="20200621230000 +0000" channel="ert2">
+  <programme start="20200621220000 +0300" stop="20200621230000 +0300" channel="ert2">
     <title lang="el">Η ΥΠΕΡΟΧΗ ΦΙΛΗ ΜΟΥ</title>
     <desc lang="el">Ξεπερνώντας τα σύνορα</desc>
   </programme>
-  <programme start="20200621220000 +0000" stop="20200621230000 +0000" channel="ert3">
+  <programme start="20200621220000 +0300" stop="20200621230000 +0300" channel="ert3">
     <title lang="el">VOLUME 2</title>
     <desc lang="el">Grikanta</desc>
   </programme>
-  <programme start="20200621221500 +0000" stop="20200620011500 +0000" channel="ANT1">
+  <programme start="20200621221500 +0300" stop="20200620011500 +0300" channel="ANT1">
     <title lang="el">ALLOU FUN MARK</title>
     <desc lang="el">Θεατρική παράσταση</desc>
   </programme>
-  <programme start="20200621230000 +0000" stop="20200620010000 +0000" channel="ACTION24">
+  <programme start="20200621230000 +0300" stop="20200620010000 +0300" channel="ACTION24">
     <title lang="el">ΕΛΕΥΘΕΡΟΣ ΣΚΟΠΕΥΤΗΣ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621230000 +0000" stop="20200620000000 +0000" channel="Mad TV">
+  <programme start="20200621230000 +0300" stop="20200620000000 +0300" channel="Mad TV">
     <title lang="el">ΛΑΙΚ ΣΤΑ ΛΑΙΚΑ</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200621230000 +0000" stop="20200620004500 +0000" channel="OPEN BEYOND">
+  <programme start="20200621230000 +0300" stop="20200620004500 +0300" channel="OPEN BEYOND">
     <title lang="el">ΠΟΔΟΣΦΑΙΡΟ ΩΡΑ ΜΗΔΕΝ</title>
     <desc lang="el">Ποδόσφαιρο</desc>
   </programme>
-  <programme start="20200621230000 +0000" stop="20200620014500 +0000" channel="SKAI">
+  <programme start="20200621230000 +0300" stop="20200620014500 +0300" channel="SKAI">
     <title lang="el">ΜΙΚΡΟΚΟΣΜΟΣ</title>
     <desc lang="el">Δράμα</desc>
   </programme>
-  <programme start="20200621230000 +0000" stop="20200620010000 +0000" channel="vouli">
+  <programme start="20200621230000 +0300" stop="20200620010000 +0300" channel="vouli">
     <title lang="el">ΟΠΕΡΑ</title>
     <desc lang="el">Θεατρική παράσταση</desc>
   </programme>
-  <programme start="20200621230000 +0000" stop="20200620004000 +0000" channel="ert2">
+  <programme start="20200621230000 +0300" stop="20200620004000 +0300" channel="ert2">
     <title lang="el">ΓΥΝΑΙΚΕΣ ΔΗΛΗΤΗΡΙΟ</title>
     <desc lang="el">Κωμωδία</desc>
   </programme>
-  <programme start="20200621230000 +0000" stop="20200620003000 +0000" channel="ert3">
+  <programme start="20200621230000 +0300" stop="20200620003000 +0300" channel="ert3">
     <title lang="el">ΜΕ ΕΠΙΣΗΜΟ ΕΝΔΥΜΑ</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622000000 +0000" stop="20200622010000 +0000" channel="ertsports">
+  <programme start="20200622000000 +0300" stop="20200622010000 +0300" channel="ertsports">
     <title lang="el">ΣΠΟΡ ΙΣΤΟΡΙΕΣ</title>
     <desc lang="el">Κ. Κεντέρης, Α' Μέρος</desc>
   </programme>
-  <programme start="20200622000000 +0000" stop="20200622040000 +0000" channel="KONTRA">
+  <programme start="20200622000000 +0300" stop="20200622040000 +0300" channel="KONTRA">
     <title lang="el">ΕΚΠΟΜΠΕΣ ΤΗΛΕΟΠΤΙΚΩΝ ΑΓΟΡΩΝ</title>
     <desc lang="el">Τηλεαγορές</desc>
   </programme>
-  <programme start="20200622000000 +0000" stop="20200622013000 +0000" channel="Mad TV">
+  <programme start="20200622000000 +0300" stop="20200622013000 +0300" channel="Mad TV">
     <title lang="el">TV WAR</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200622000000 +0000" stop="20200622010000 +0000" channel="ert1">
+  <programme start="20200622000000 +0300" stop="20200622010000 +0300" channel="ert1">
     <title lang="el">ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200622001500 +0000" stop="20200622032000 +0000" channel="ert1">
+  <programme start="20200622001500 +0300" stop="20200622032000 +0300" channel="ert1">
     <title lang="el">ΓΥΝΑΙΚΕΣ</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622003000 +0000" stop="20200622020000 +0000" channel="ert3">
+  <programme start="20200622003000 +0300" stop="20200622020000 +0300" channel="ert3">
     <title lang="el">JOHN LEE HOOKER: Η ΙΣΤΟΡΙΑ ΜΟΥ</title>
     <desc lang="el">Ταινία ντοκιμαντέρ</desc>
   </programme>
-  <programme start="20200622004000 +0000" stop="20200622010000 +0000" channel="ert2">
+  <programme start="20200622004000 +0300" stop="20200622010000 +0300" channel="ert2">
     <title lang="el">ΜΙΚΡΕΣ ΙΣΤΟΡΙΕΣ</title>
     <desc lang="el">Sad Girl Weekend</desc>
   </programme>
-  <programme start="20200622004500 +0000" stop="20200622014500 +0000" channel="OPEN BEYOND">
+  <programme start="20200622004500 +0300" stop="20200622014500 +0300" channel="OPEN BEYOND">
     <title lang="el">CRIMINAL MINDS</title>
     <desc lang="el">Σειρά μυστηρίου</desc>
   </programme>
-  <programme start="20200622005000 +0000" stop="20200622010000 +0000" channel="Euronews">
+  <programme start="20200622005000 +0300" stop="20200622010000 +0300" channel="Euronews">
     <title lang="el">Η ΚΑΤΑΣΤΑΣΗ ΤΗΣ ΕΝΩΣΗΣ</title>
     <desc lang="el">Τα νέα της Ευρώπης</desc>
   </programme>
-  <programme start="20200622010000 +0000" stop="20200622020000 +0000" channel="ertsports">
+  <programme start="20200622010000 +0300" stop="20200622020000 +0300" channel="ertsports">
     <title lang="el">ΣΠΟΡ ΙΣΤΟΡΙΕΣ</title>
     <desc lang="el">Κ. Κεντέρης, Β' Μέρος</desc>
   </programme>
-  <programme start="20200622010000 +0000" stop="20200622024500 +0000" channel="Euronews">
+  <programme start="20200622010000 +0300" stop="20200622024500 +0300" channel="Euronews">
     <title lang="el">EURONEWS TONIGHT</title>
     <desc lang="el">Διεθνής ειδησεογραφία</desc>
   </programme>
-  <programme start="20200622010000 +0000" stop="20200622030000 +0000" channel="vouli">
+  <programme start="20200622010000 +0300" stop="20200622030000 +0300" channel="vouli">
     <title lang="el">ΑΠΟ ΤΟΠΟ ΣΕ ΤΟΠΟ</title>
     <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
-  <programme start="20200622010000 +0000" stop="20200622015500 +0000" channel="ert2">
+  <programme start="20200622010000 +0300" stop="20200622015500 +0300" channel="ert2">
     <title lang="el">ΒΙΟΙ ΠΑΡΑΛΛΗΛΟΙ</title>
     <desc lang="el">Αληθινή ιστορία</desc>
   </programme>
-  <programme start="20200622011500 +0000" stop="20200622030000 +0000" channel="ANT1">
+  <programme start="20200622011500 +0300" stop="20200622030000 +0300" channel="ANT1">
     <title lang="el">Ο ΑΠΙΘΑΝΟΣ</title>
     <desc lang="el">Κωμωδία</desc>
   </programme>
-  <programme start="20200622013000 +0000" stop="20200622020000 +0000" channel="ACTION24">
+  <programme start="20200622013000 +0300" stop="20200622020000 +0300" channel="ACTION24">
     <title lang="el">MOTO IN ACTION</title>
     <desc lang="el">Μηχανοκίνητα σπορ</desc>
   </programme>
-  <programme start="20200622013000 +0000" stop="20200622023000 +0000" channel="Mad TV">
+  <programme start="20200622013000 +0300" stop="20200622023000 +0300" channel="Mad TV">
     <title lang="el">MUSIC NON STOP GR</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622014500 +0000" stop="20200622024500 +0000" channel="OPEN BEYOND">
+  <programme start="20200622014500 +0300" stop="20200622024500 +0300" channel="OPEN BEYOND">
     <title lang="el">LIFE STORIES</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200622014500 +0000" stop="20200622033000 +0000" channel="SKAI">
+  <programme start="20200622014500 +0300" stop="20200622033000 +0300" channel="SKAI">
     <title lang="el">Τζέιμς Κάμερον: Υποβρύχια Εξερεύνηση</title>
     <desc lang="el">Φύση</desc>
   </programme>
-  <programme start="20200622020000 +0000" stop="20200622040000 +0000" channel="ACTION24">
+  <programme start="20200622020000 +0300" stop="20200622040000 +0300" channel="ACTION24">
     <title lang="el">THE HAMMER SERIES</title>
     <desc lang="el">Αθλητική εκπομπή</desc>
   </programme>
-  <programme start="20200622020000 +0000" stop="20200622040000 +0000" channel="ertsports">
+  <programme start="20200622020000 +0300" stop="20200622040000 +0300" channel="ertsports">
     <title lang="el">BAYERN TV</title>
     <desc lang="el">Βέρντερ - Μπάγιερν</desc>
   </programme>
-  <programme start="20200622020000 +0000" stop="20200622030000 +0000" channel="Mad TV">
+  <programme start="20200622020000 +0300" stop="20200622030000 +0300" channel="Mad TV">
     <title lang="el">ΛΑΙΚ ΣΤΑ ΛΑΙΚΑ</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622020000 +0000" stop="20200622030000 +0000" channel="ert2">
+  <programme start="20200622020000 +0300" stop="20200622030000 +0300" channel="ert2">
     <title lang="el">Σπουδαιότερες Διαδρομές &amp; Περιπέτειες</title>
     <desc lang="el">Πτήσεις</desc>
   </programme>
-  <programme start="20200622020000 +0000" stop="20200622030000 +0000" channel="ert3">
+  <programme start="20200622020000 +0300" stop="20200622030000 +0300" channel="ert3">
     <title lang="el">ΣΥΓΧΡΟΝΟΙ ΠΑΡΑΔΟΣΙΑΚΟΙ ΜΟΥΣΙΚΟΙ</title>
     <desc lang="el">Δημήτρης Σφίγγος</desc>
   </programme>
-  <programme start="20200622024500 +0000" stop="20200622030000 +0000" channel="Euronews">
+  <programme start="20200622024500 +0300" stop="20200622030000 +0300" channel="Euronews">
     <title lang="el">INSPIRE MIDDLE EAST</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622024500 +0000" stop="20200622034500 +0000" channel="OPEN BEYOND">
+  <programme start="20200622024500 +0300" stop="20200622034500 +0300" channel="OPEN BEYOND">
     <title lang="el">CRIMINAL MINDS</title>
     <desc lang="el">Σειρά μυστηρίου</desc>
   </programme>
-  <programme start="20200622030000 +0000" stop="20200622041500 +0000" channel="ANT1">
+  <programme start="20200622030000 +0300" stop="20200622041500 +0300" channel="ANT1">
     <title lang="el">ΕΡΩΤΑΣ</title>
     <desc lang="el">Κοινωνική σειρά</desc>
   </programme>
-  <programme start="20200622030000 +0000" stop="20200622044500 +0000" channel="Euronews">
+  <programme start="20200622030000 +0300" stop="20200622044500 +0300" channel="Euronews">
     <title lang="el">EURONEWS TONIGHT</title>
     <desc lang="el">Διεθνής ειδησεογραφία</desc>
   </programme>
-  <programme start="20200622030000 +0000" stop="20200622040000 +0000" channel="Mad TV">
+  <programme start="20200622030000 +0300" stop="20200622040000 +0300" channel="Mad TV">
     <title lang="el">MUSIC NON STOP GR</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622030000 +0000" stop="20200622100000 +0000" channel="vouli">
+  <programme start="20200622030000 +0300" stop="20200622100000 +0300" channel="vouli">
     <title lang="el">ΕΠΑΝΑΛΗΨΗ ΠΡΟΓΡΑΜΜΑΤΟΣ</title>
     <desc lang="el">Promo</desc>
   </programme>
-  <programme start="20200622030000 +0000" stop="20200622050000 +0000" channel="ert2">
+  <programme start="20200622030000 +0300" stop="20200622050000 +0300" channel="ert2">
     <title lang="el">Η ΥΠΕΡΟΧΗ ΦΙΛΗ ΜΟΥ</title>
     <desc lang="el">Δραματική σειρά</desc>
   </programme>
-  <programme start="20200622030000 +0000" stop="20200622043000 +0000" channel="ert3">
+  <programme start="20200622030000 +0300" stop="20200622043000 +0300" channel="ert3">
     <title lang="el">Ο Ανθρωπος Πίσω από τους Beatles</title>
     <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
-  <programme start="20200622032000 +0000" stop="20200622042000 +0000" channel="ert1">
+  <programme start="20200622032000 +0300" stop="20200622042000 +0300" channel="ert1">
     <title lang="el">ΠΡΟΣΩΠΙΚΑ</title>
     <desc lang="el">Ευτυχία Παπαγιαννοπούλου, Β' Μέρος</desc>
   </programme>
-  <programme start="20200622033000 +0000" stop="20200622053000 +0000" channel="ACTION24">
+  <programme start="20200622033000 +0300" stop="20200622053000 +0300" channel="ACTION24">
     <title lang="el">Ποδηλασία: Ο Γύρος της Νορβηγίας</title>
     <desc lang="el">Αθλητική εκπομπή</desc>
   </programme>
-  <programme start="20200622033000 +0000" stop="20200622044000 +0000" channel="SKAI">
+  <programme start="20200622033000 +0300" stop="20200622044000 +0300" channel="SKAI">
     <title lang="el">HAPPY TRAVELLER</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200622034500 +0000" stop="20200622044500 +0000" channel="OPEN BEYOND">
+  <programme start="20200622034500 +0300" stop="20200622044500 +0300" channel="OPEN BEYOND">
     <title lang="el">CRIMINAL MINDS</title>
     <desc lang="el">Σειρά μυστηρίου</desc>
   </programme>
-  <programme start="20200622035000 +0000" stop="20200622040000 +0000" channel="Euronews">
+  <programme start="20200622035000 +0300" stop="20200622040000 +0300" channel="Euronews">
     <title lang="el">Η ΚΑΤΑΣΤΑΣΗ ΤΗΣ ΕΝΩΣΗΣ</title>
     <desc lang="el">Τα νέα της Ευρώπης</desc>
   </programme>
-  <programme start="20200622040000 +0000" stop="20200622060000 +0000" channel="ertsports">
+  <programme start="20200622040000 +0300" stop="20200622060000 +0300" channel="ertsports">
     <title lang="el">SPORTS.DOC</title>
     <desc lang="el">Ντούσαν Ιβκοβιτς</desc>
   </programme>
-  <programme start="20200622040000 +0000" stop="20200622054500 +0000" channel="Euronews">
+  <programme start="20200622040000 +0300" stop="20200622054500 +0300" channel="Euronews">
     <title lang="el">EURONEWS TONIGHT</title>
     <desc lang="el">Διεθνής ειδησεογραφία</desc>
   </programme>
-  <programme start="20200622040000 +0000" stop="20200622050500 +0000" channel="KONTRA">
+  <programme start="20200622040000 +0300" stop="20200622050500 +0300" channel="KONTRA">
     <title lang="el">KONTRA NEWS</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200622040000 +0000" stop="20200622050000 +0000" channel="Mad TV">
+  <programme start="20200622040000 +0300" stop="20200622050000 +0300" channel="Mad TV">
     <title lang="el">MUSIC NON STOP INTL</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622040000 +0000" stop="20200622050000 +0000" channel="ert3">
+  <programme start="20200622040000 +0300" stop="20200622050000 +0300" channel="ert3">
     <title lang="el">Ο ΔΡΟΜΟΣ ΜΕ ΤΟΥΣ ΠΙΑΝΙΣΤΕΣ</title>
     <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
-  <programme start="20200622041500 +0000" stop="20200622051500 +0000" channel="SKAI">
+  <programme start="20200622041500 +0300" stop="20200622051500 +0300" channel="SKAI">
     <title lang="el">DOT.</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200622042000 +0000" stop="20200622052000 +0000" channel="ert1">
+  <programme start="20200622042000 +0300" stop="20200622052000 +0300" channel="ert1">
     <title lang="el">Η ΜΗΧΑΝΗ ΤΟΥ ΧΡΟΝΟΥ</title>
     <desc lang="el">Σαντορίνη</desc>
   </programme>
-  <programme start="20200622044500 +0000" stop="20200622054500 +0000" channel="OPEN BEYOND">
+  <programme start="20200622044500 +0300" stop="20200622054500 +0300" channel="OPEN BEYOND">
     <title lang="el">ΕΠΑΝΑΛΗΨΗ ΠΡΟΓΡΑΜΜΑΤΟΣ</title>
     <desc lang="el">Promo</desc>
   </programme>
-  <programme start="20200622050000 +0000" stop="20200622060000 +0000" channel="ANT1">
+  <programme start="20200622050000 +0300" stop="20200622060000 +0300" channel="ANT1">
     <title lang="el">ΤΡΙΚΥΜΙΑ</title>
     <desc lang="el">Κοινωνική σειρά</desc>
   </programme>
-  <programme start="20200622050000 +0000" stop="20200622064500 +0000" channel="Euronews">
+  <programme start="20200622050000 +0300" stop="20200622064500 +0300" channel="Euronews">
     <title lang="el">EURONEWS TONIGHT</title>
     <desc lang="el">Διεθνής ειδησεογραφία</desc>
   </programme>
-  <programme start="20200622050000 +0000" stop="20200622060000 +0000" channel="Mad TV">
+  <programme start="20200622050000 +0300" stop="20200622060000 +0300" channel="Mad TV">
     <title lang="el">MUSIC NON STOP GR</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622050000 +0000" stop="20200622074000 +0000" channel="SKAI">
+  <programme start="20200622050000 +0300" stop="20200622074000 +0300" channel="SKAI">
     <title lang="el">ΜΑΖΙ ΣΟΥ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622050000 +0000" stop="20200622063000 +0000" channel="ert2">
+  <programme start="20200622050000 +0300" stop="20200622063000 +0300" channel="ert2">
     <title lang="el">ΟΔΟΣ ΑΝΘΕΩΝ</title>
     <desc lang="el">Κωμική σειρά</desc>
   </programme>
-  <programme start="20200622060000 +0000" stop="20200622070000 +0000" channel="ACTION24">
+  <programme start="20200622060000 +0300" stop="20200622070000 +0300" channel="ACTION24">
     <title lang="el">SUPER LEAGUE TRIATHLON</title>
     <desc lang="el">Αθλητική εκπομπή</desc>
   </programme>
-  <programme start="20200622060000 +0000" stop="20200622100000 +0000" channel="ANT1">
+  <programme start="20200622060000 +0300" stop="20200622100000 +0300" channel="ANT1">
     <title lang="el">ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622060000 +0000" stop="20200622080000 +0000" channel="ertsports">
+  <programme start="20200622060000 +0300" stop="20200622080000 +0300" channel="ertsports">
     <title lang="el">ΕΡΤ SPORTS HD</title>
     <desc lang="el">Διάφορα σπορ</desc>
   </programme>
-  <programme start="20200622060000 +0000" stop="20200622100000 +0000" channel="KONTRA">
+  <programme start="20200622060000 +0300" stop="20200622100000 +0300" channel="KONTRA">
     <title lang="el">ΕΚΠΟΜΠΕΣ ΤΗΛΕΟΠΤΙΚΩΝ ΑΓΟΡΩΝ</title>
     <desc lang="el">Τηλεαγορές</desc>
   </programme>
-  <programme start="20200622060000 +0000" stop="20200622070000 +0000" channel="Mad TV">
+  <programme start="20200622060000 +0300" stop="20200622070000 +0300" channel="Mad TV">
     <title lang="el">UK TOP</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622060000 +0000" stop="20200622080000 +0000" channel="ONE Channel">
+  <programme start="20200622060000 +0300" stop="20200622080000 +0300" channel="ONE Channel">
     <title lang="el">ONE CHANNEL</title>
     <desc lang="el">Ξένο πρόγραμμα (Ε)</desc>
   </programme>
-  <programme start="20200622060000 +0000" stop="20200622100000 +0000" channel="SKAI">
+  <programme start="20200622060000 +0300" stop="20200622100000 +0300" channel="SKAI">
     <title lang="el">ΣΗΜΕΡΑ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622060000 +0000" stop="20200622130000 +0000" channel="vouli">
+  <programme start="20200622060000 +0300" stop="20200622130000 +0300" channel="vouli">
     <title lang="el">ΕΠΑΝΑΛΗΨΗ ΠΡΟΓΡΑΜΜΑΤΟΣ</title>
     <desc lang="el">Promo</desc>
   </programme>
-  <programme start="20200622062000 +0000" stop="20200622070500 +0000" channel="ert2">
+  <programme start="20200622062000 +0300" stop="20200622070500 +0300" channel="ert2">
     <title lang="el">ΠΟΠ ΜΑΓΕΙΡΙΚΗ</title>
     <desc lang="el">Μαγειρική</desc>
   </programme>
-  <programme start="20200622063000 +0000" stop="20200622073000 +0000" channel="ert3">
+  <programme start="20200622063000 +0300" stop="20200622073000 +0300" channel="ert3">
     <title lang="el">EUROVISIONS</title>
     <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
-  <programme start="20200622064500 +0000" stop="20200622070000 +0000" channel="Euronews">
+  <programme start="20200622064500 +0300" stop="20200622070000 +0300" channel="Euronews">
     <title lang="el">INSPIRE MIDDLE EAST</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622070000 +0000" stop="20200622090000 +0000" channel="ACTION24">
+  <programme start="20200622070000 +0300" stop="20200622090000 +0300" channel="ACTION24">
     <title lang="el">THE HAMMER SERIES</title>
     <desc lang="el">Αθλητική εκπομπή</desc>
   </programme>
-  <programme start="20200622070000 +0000" stop="20200622084500 +0000" channel="Euronews">
+  <programme start="20200622070000 +0300" stop="20200622084500 +0300" channel="Euronews">
     <title lang="el">EURONEWS TONIGHT</title>
     <desc lang="el">Διεθνής ειδησεογραφία</desc>
   </programme>
-  <programme start="20200622070000 +0000" stop="20200622090000 +0000" channel="Mad TV">
+  <programme start="20200622070000 +0300" stop="20200622090000 +0300" channel="Mad TV">
     <title lang="el">MORNING HITS</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622070000 +0000" stop="20200622095000 +0000" channel="OPEN BEYOND">
+  <programme start="20200622070000 +0300" stop="20200622095000 +0300" channel="OPEN BEYOND">
     <title lang="el">ΩΡΑ ΕΛΛΑΔΟΣ 07:00</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622070000 +0000" stop="20200622080000 +0000" channel="ert2">
+  <programme start="20200622070000 +0300" stop="20200622080000 +0300" channel="ert2">
     <title lang="el">ΑΝΕΞΕΡΕΥΝΗΤΑ ΤΟΠΙΑ</title>
     <desc lang="el">Canyon Country, ΗΠΑ</desc>
   </programme>
-  <programme start="20200622073000 +0000" stop="20200622083000 +0000" channel="ert3">
+  <programme start="20200622073000 +0300" stop="20200622083000 +0300" channel="ert3">
     <title lang="el">ΜΙΑ ΑΠΙΘΑΝΗ ΜΑΕΣΤΡΟΣ</title>
     <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
-  <programme start="20200622074500 +0000" stop="20200622081500 +0000" channel="ert2">
+  <programme start="20200622074500 +0300" stop="20200622081500 +0300" channel="ert2">
     <title lang="el">ΦΡΟΥΤΟΠΙΑ</title>
     <desc lang="el">Παιδικό πρόγραμμα</desc>
   </programme>
-  <programme start="20200622080000 +0000" stop="20200622100000 +0000" channel="ertsports">
+  <programme start="20200622080000 +0300" stop="20200622100000 +0300" channel="ertsports">
     <title lang="el">ΕΡΤ SPORTS HD</title>
     <desc lang="el">Διάφορα σπορ</desc>
   </programme>
-  <programme start="20200622080000 +0000" stop="20200622130000 +0000" channel="Euronews">
+  <programme start="20200622080000 +0300" stop="20200622130000 +0300" channel="Euronews">
     <title lang="el">GOOD MORNING EUROPE</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622080000 +0000" stop="20200622083000 +0000" channel="ONE Channel">
+  <programme start="20200622080000 +0300" stop="20200622083000 +0300" channel="ONE Channel">
     <title lang="el">VITA</title>
     <desc lang="el">Μαγκαζίνο (E)</desc>
   </programme>
-  <programme start="20200622081500 +0000" stop="20200622084500 +0000" channel="ert2">
+  <programme start="20200622081500 +0300" stop="20200622084500 +0300" channel="ert2">
     <title lang="el">1.000 ΧΡΩΜΑΤΑ ΤΟΥ ΧΡΗΣΤΟΥ</title>
     <desc lang="el">Παιδική σειρά</desc>
   </programme>
-  <programme start="20200622083000 +0000" stop="20200622090000 +0000" channel="ONE Channel">
+  <programme start="20200622083000 +0300" stop="20200622090000 +0300" channel="ONE Channel">
     <title lang="el">VITA</title>
     <desc lang="el">Μαγκαζίνο (E)</desc>
   </programme>
-  <programme start="20200622083000 +0000" stop="20200622090000 +0000" channel="ert3">
+  <programme start="20200622083000 +0300" stop="20200622090000 +0300" channel="ert3">
     <title lang="el">ΤΕΧΝΙΤΕΣ ΑΠΟ ΟΛΟ ΤΟΝ ΚΟΣΜΟ</title>
     <desc lang="el">Τοσκάνη</desc>
   </programme>
-  <programme start="20200622084500 +0000" stop="20200622091000 +0000" channel="ert2">
+  <programme start="20200622084500 +0300" stop="20200622091000 +0300" channel="ert2">
     <title lang="el">ΑΣΤΥΝΟΜΟΣ ΣΑΙΝΗΣ</title>
     <desc lang="el">Παιδική σειρά</desc>
   </programme>
-  <programme start="20200622090000 +0000" stop="20200622100000 +0000" channel="ACTION24">
+  <programme start="20200622090000 +0300" stop="20200622100000 +0300" channel="ACTION24">
     <title lang="el">WORLD SAILING CUP</title>
     <desc lang="el">Ιστιοπλοϊα</desc>
   </programme>
-  <programme start="20200622090000 +0000" stop="20200622093000 +0000" channel="Mad TV">
+  <programme start="20200622090000 +0300" stop="20200622093000 +0300" channel="Mad TV">
     <title lang="el">ΧΡΟΝΟΜΗΧΑΝΗ: 00'S</title>
     <desc lang="el">00's</desc>
   </programme>
-  <programme start="20200622090000 +0000" stop="20200622093000 +0000" channel="ONE Channel">
+  <programme start="20200622090000 +0300" stop="20200622093000 +0300" channel="ONE Channel">
     <title lang="el">ΓΥΜΝΑΣΤΙΚΗ.... ΑΠΟ ΣΠΙΤΙ</title>
     <desc lang="el">Εκπομπή γυμναστικής</desc>
   </programme>
-  <programme start="20200622090000 +0000" stop="20200622100000 +0000" channel="vouli">
+  <programme start="20200622090000 +0300" stop="20200622100000 +0300" channel="vouli">
     <title lang="el">ΠΡΩΙΝΗ ΕΠΙΣΚΟΠΗΣΗ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622090000 +0000" stop="20200622100000 +0000" channel="ert3">
+  <programme start="20200622090000 +0300" stop="20200622100000 +0300" channel="ert3">
     <title lang="el">BALKAN EXPRESS</title>
     <desc lang="el">Ρουμανία - Μπρασόφ</desc>
   </programme>
-  <programme start="20200622090500 +0000" stop="20200622094500 +0000" channel="ert2">
+  <programme start="20200622090500 +0300" stop="20200622094500 +0300" channel="ert2">
     <title lang="el">OLD TOM</title>
     <desc lang="el">Παιδική σειρά</desc>
   </programme>
-  <programme start="20200622093000 +0000" stop="20200622100000 +0000" channel="Mad TV">
+  <programme start="20200622093000 +0300" stop="20200622100000 +0300" channel="Mad TV">
     <title lang="el">GREEK SUPER HEROES</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622093000 +0000" stop="20200622100000 +0000" channel="ONE Channel">
+  <programme start="20200622093000 +0300" stop="20200622100000 +0300" channel="ONE Channel">
     <title lang="el">ΒΗΜΑGAZINO</title>
     <desc lang="el">Μαγκαζίνο (E)</desc>
   </programme>
-  <programme start="20200622095000 +0000" stop="20200622130000 +0000" channel="OPEN BEYOND">
+  <programme start="20200622095000 +0300" stop="20200622130000 +0300" channel="OPEN BEYOND">
     <title lang="el">ΕΥΤΥΧΕΙΤΕ!</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200622095000 +0000" stop="20200622104000 +0000" channel="ert2">
+  <programme start="20200622095000 +0300" stop="20200622104000 +0300" channel="ert2">
     <title lang="el">ΓΑΤΟΣ ΣΠΙΡΟΥΝΑΤΟΣ</title>
     <desc lang="el">Κινούμενα σχέδια</desc>
   </programme>
-  <programme start="20200622100000 +0000" stop="20200622150000 +0000" channel="ACTION24">
+  <programme start="20200622100000 +0300" stop="20200622150000 +0300" channel="ACTION24">
     <title lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</title>
     <desc lang="el">Τηλεαγορές</desc>
   </programme>
-  <programme start="20200622100000 +0000" stop="20200622130000 +0000" channel="ANT1">
+  <programme start="20200622100000 +0300" stop="20200622130000 +0300" channel="ANT1">
     <title lang="el">ΤΟ ΠΡΩΙΝΟ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200622100000 +0000" stop="20200622110000 +0000" channel="KONTRA">
+  <programme start="20200622100000 +0300" stop="20200622110000 +0300" channel="KONTRA">
     <title lang="el">ΟΙΚΟ ΖΗΝ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200622100000 +0000" stop="20200622110000 +0000" channel="Mad TV">
+  <programme start="20200622100000 +0300" stop="20200622110000 +0300" channel="Mad TV">
     <title lang="el">ALL TIME HITS GR</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622100000 +0000" stop="20200622103000 +0000" channel="ONE Channel">
+  <programme start="20200622100000 +0300" stop="20200622103000 +0300" channel="ONE Channel">
     <title lang="el">ΝΕΕΣ ΕΠΟΧΕΣ</title>
     <desc lang="el">Πολιτισμός</desc>
   </programme>
-  <programme start="20200622100000 +0000" stop="20200622120000 +0000" channel="SKAI">
+  <programme start="20200622100000 +0300" stop="20200622120000 +0300" channel="SKAI">
     <title lang="el">ΑΤΑΙΡΙΑΣΤΟΙ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622100000 +0000" stop="20200622123000 +0000" channel="vouli">
+  <programme start="20200622100000 +0300" stop="20200622123000 +0300" channel="vouli">
     <title lang="el">ΚΟΙΝΟΒΟΥΛΕΥΤΙΚΟ ΕΡΓΟ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622100000 +0000" stop="20200622110000 +0000" channel="ert1">
+  <programme start="20200622100000 +0300" stop="20200622110000 +0300" channel="ert1">
     <title lang="el">ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200622100000 +0000" stop="20200622120000 +0000" channel="ert3">
+  <programme start="20200622100000 +0300" stop="20200622120000 +0300" channel="ert3">
     <title lang="el">ΚΑΘΕ ΜΕΡΑ ΕΛΛΑΔΑ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622101000 +0000" stop="20200622103000 +0000" channel="ert2">
+  <programme start="20200622101000 +0300" stop="20200622103000 +0300" channel="ert2">
     <title lang="el">Η ΜΙΡΕΤ ΕΡΕΥΝΑ</title>
     <desc lang="el">Παιδική σειρά</desc>
   </programme>
-  <programme start="20200622101500 +0000" stop="20200622121500 +0000" channel="ert1">
+  <programme start="20200622101500 +0300" stop="20200622121500 +0300" channel="ert1">
     <title lang="el">ΕΠΙ-ΚΟΙΝΩΝΙΑ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622103000 +0000" stop="20200622123000 +0000" channel="ONE Channel">
+  <programme start="20200622103000 +0300" stop="20200622123000 +0300" channel="ONE Channel">
     <title lang="el">ONE CHANNEL</title>
     <desc lang="el">Ξένο πρόγραμμα (Ε)</desc>
   </programme>
-  <programme start="20200622103000 +0000" stop="20200622104500 +0000" channel="ert2">
+  <programme start="20200622103000 +0300" stop="20200622104500 +0300" channel="ert2">
     <title lang="el">ΖΙΓΚ ΚΑΙ ΣΑΡΚΟ</title>
     <desc lang="el">Κινούμενα σχέδια</desc>
   </programme>
-  <programme start="20200622105500 +0000" stop="20200622110500 +0000" channel="ert2">
+  <programme start="20200622105500 +0300" stop="20200622110500 +0300" channel="ert2">
     <title lang="el">ΜΟΝΚ</title>
     <desc lang="el">Κινούμενα σχέδια</desc>
   </programme>
-  <programme start="20200622110000 +0000" stop="20200622150000 +0000" channel="KONTRA">
+  <programme start="20200622110000 +0300" stop="20200622150000 +0300" channel="KONTRA">
     <title lang="el">ΕΚΠΟΜΠΕΣ ΤΗΛΕΟΠΤΙΚΩΝ ΑΓΟΡΩΝ</title>
     <desc lang="el">Τηλεαγορές</desc>
   </programme>
-  <programme start="20200622110000 +0000" stop="20200622120000 +0000" channel="Mad TV">
+  <programme start="20200622110000 +0300" stop="20200622120000 +0300" channel="Mad TV">
     <title lang="el">MAD TOP</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622110500 +0000" stop="20200622113000 +0000" channel="ert2">
+  <programme start="20200622110500 +0300" stop="20200622113000 +0300" channel="ert2">
     <title lang="el">Το μεγάλο ταξίδι του Μπουμ Μπουμ</title>
     <desc lang="el">Κινούμενα σχέδια</desc>
   </programme>
-  <programme start="20200622113000 +0000" stop="20200622113500 +0000" channel="ert2">
+  <programme start="20200622113000 +0300" stop="20200622113500 +0300" channel="ert2">
     <title lang="el">ΙΣΤΟΡΙΕΣ ΓΙΑ ΠΑΙΔΙΑ</title>
     <desc lang="el">Παιδική Σειρά</desc>
   </programme>
-  <programme start="20200622113500 +0000" stop="20200622120000 +0000" channel="ert2">
+  <programme start="20200622113500 +0300" stop="20200622120000 +0300" channel="ert2">
     <title lang="el">ΑΣΤΥΝΟΜΟΣ ΣΑΙΝΗΣ</title>
     <desc lang="el">Παιδική σειρά</desc>
   </programme>
-  <programme start="20200622120000 +0000" stop="20200622130000 +0000" channel="Mad TV">
+  <programme start="20200622120000 +0300" stop="20200622130000 +0300" channel="Mad TV">
     <title lang="el">ΛΑΙΚ ΣΤΑ ΛΑΙΚΑ</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622120000 +0000" stop="20200622140000 +0000" channel="SKAI">
+  <programme start="20200622120000 +0300" stop="20200622140000 +0300" channel="SKAI">
     <title lang="el">ΜΕΣΗΜΕΡΙ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200622120000 +0000" stop="20200622143000 +0000" channel="vouli">
+  <programme start="20200622120000 +0300" stop="20200622143000 +0300" channel="vouli">
     <title lang="el">ΚΟΙΝΟΒΟΥΛΕΥΤΙΚΟ ΕΡΓΟ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622120000 +0000" stop="20200622130000 +0000" channel="ert1">
+  <programme start="20200622120000 +0300" stop="20200622130000 +0300" channel="ert1">
     <title lang="el">ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200622120000 +0000" stop="20200622122500 +0000" channel="ert2">
+  <programme start="20200622120000 +0300" stop="20200622122500 +0300" channel="ert2">
     <title lang="el">ΟΙ ΑΔΕΛΦΟΙ ΝΤΑΛΝΤΟΝ</title>
     <desc lang="el">Κινούμενα σχέδια</desc>
   </programme>
-  <programme start="20200622120000 +0000" stop="20200622130000 +0000" channel="ert3">
+  <programme start="20200622120000 +0300" stop="20200622130000 +0300" channel="ert3">
     <title lang="el">BORDERS 2</title>
     <desc lang="el">Μουσικά όργανα</desc>
   </programme>
-  <programme start="20200622123000 +0000" stop="20200622130000 +0000" channel="ert2">
+  <programme start="20200622123000 +0300" stop="20200622130000 +0300" channel="ert2">
     <title lang="el">1.000 Χρώματα του Χρήστου: Κύκλος 2020</title>
     <desc lang="el">Παιδική σειρά - Επ. 45</desc>
   </programme>
-  <programme start="20200622130000 +0000" stop="20200622140000 +0000" channel="ANT1">
+  <programme start="20200622130000 +0300" stop="20200622140000 +0300" channel="ANT1">
     <title lang="el">ANT1 NEWS</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200622130000 +0000" stop="20200622134500 +0000" channel="Euronews">
+  <programme start="20200622130000 +0300" stop="20200622134500 +0300" channel="Euronews">
     <title lang="el">EURONEWS NOW</title>
     <desc lang="el">Διεθνής ειδησεογραφία</desc>
   </programme>
-  <programme start="20200622130000 +0000" stop="20200622133000 +0000" channel="Mad TV">
+  <programme start="20200622130000 +0300" stop="20200622133000 +0300" channel="Mad TV">
     <title lang="el">RETROVISION: 00'S</title>
     <desc lang="el">00's</desc>
   </programme>
-  <programme start="20200622130000 +0000" stop="20200622140000 +0000" channel="OPEN BEYOND">
+  <programme start="20200622130000 +0300" stop="20200622140000 +0300" channel="OPEN BEYOND">
     <title lang="el">OPEN NEWS</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200622130000 +0000" stop="20200622150000 +0000" channel="ert1">
+  <programme start="20200622130000 +0300" stop="20200622150000 +0300" channel="ert1">
     <title lang="el">ΣΥΝΔΕΣΕΙΣ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622130000 +0000" stop="20200622140000 +0000" channel="ert2">
+  <programme start="20200622130000 +0300" stop="20200622140000 +0300" channel="ert2">
     <title lang="el">ΑΝΕΞΕΡΕΥΝΗΤΑ ΤΟΠΙΑ</title>
     <desc lang="el">Μπαχάμες</desc>
   </programme>
-  <programme start="20200622130000 +0000" stop="20200622140000 +0000" channel="ert3">
+  <programme start="20200622130000 +0300" stop="20200622140000 +0300" channel="ert3">
     <title lang="el">ΕΝΑ ΔΕΝΤΡΟ, ΜΙΑ ΙΣΤΟΡΙΑ 2</title>
     <desc lang="el">Τα αξιολάτρευτα δέντρα</desc>
   </programme>
-  <programme start="20200622133000 +0000" stop="20200622140000 +0000" channel="Mad TV">
+  <programme start="20200622133000 +0300" stop="20200622140000 +0300" channel="Mad TV">
     <title lang="el">GREEK SUPER HEROES</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622140000 +0000" stop="20200622150000 +0000" channel="ANT1">
+  <programme start="20200622140000 +0300" stop="20200622150000 +0300" channel="ANT1">
     <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title>
     <desc lang="el">Κωμική σειρά</desc>
   </programme>
-  <programme start="20200622140000 +0000" stop="20200622150000 +0000" channel="Mad TV">
+  <programme start="20200622140000 +0300" stop="20200622150000 +0300" channel="Mad TV">
     <title lang="el">15 SUPER MAD HITS GR</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622140000 +0000" stop="20200622150000 +0000" channel="OPEN BEYOND">
+  <programme start="20200622140000 +0300" stop="20200622150000 +0300" channel="OPEN BEYOND">
     <title lang="el">ΓΙΑ ΠΑΝΤΑ ΠΑΙΔΙΑ</title>
     <desc lang="el">Κωμική σειρά</desc>
   </programme>
-  <programme start="20200622140000 +0000" stop="20200622150000 +0000" channel="SKAI">
+  <programme start="20200622140000 +0300" stop="20200622150000 +0300" channel="SKAI">
     <title lang="el">ΟΙ ΕΙΔΗΣΕΙΣ ΤΟΥ ΣΚΑΙ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200622140000 +0000" stop="20200622163000 +0000" channel="vouli">
+  <programme start="20200622140000 +0300" stop="20200622163000 +0300" channel="vouli">
     <title lang="el">ΚΟΙΝΟΒΟΥΛΕΥΤΙΚΟ ΕΡΓΟ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622140000 +0000" stop="20200622144500 +0000" channel="ert2">
+  <programme start="20200622140000 +0300" stop="20200622144500 +0300" channel="ert2">
     <title lang="el">ΓΕΥΣΕΙΣ ΑΠΟ ΕΛΛΑΔΑ</title>
     <desc lang="el">Φράουλες</desc>
   </programme>
-  <programme start="20200622140000 +0000" stop="20200622150000 +0000" channel="ert3">
+  <programme start="20200622140000 +0300" stop="20200622150000 +0300" channel="ert3">
     <title lang="el">ΕΡΤ ΕΙΔΗΣΕΙΣ - ΚΑΙΡΟΣ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200622144500 +0000" stop="20200622161500 +0000" channel="ert2">
+  <programme start="20200622144500 +0300" stop="20200622161500 +0300" channel="ert2">
     <title lang="el">ΣΤΑ ΦΤΕΡΑ ΤΟΥ ΕΡΩΤΑ</title>
     <desc lang="el">Κοινωνική σειρά</desc>
   </programme>
-  <programme start="20200622145000 +0000" stop="20200622150000 +0000" channel="Euronews">
+  <programme start="20200622145000 +0300" stop="20200622150000 +0300" channel="Euronews">
     <title lang="el">UNREPORTED EUROPE</title>
     <desc lang="el">Euronews</desc>
   </programme>
-  <programme start="20200622150000 +0000" stop="20200622160000 +0000" channel="ACTION24">
+  <programme start="20200622150000 +0300" stop="20200622160000 +0300" channel="ACTION24">
     <title lang="el">SUPER LEAGUE TRIATHLON</title>
     <desc lang="el">Αθλητική εκπομπή</desc>
   </programme>
-  <programme start="20200622150000 +0000" stop="20200622160000 +0000" channel="ANT1">
+  <programme start="20200622150000 +0300" stop="20200622160000 +0300" channel="ANT1">
     <title lang="el">ΡΟΥΚ ΖΟΥΚ</title>
     <desc lang="el">Τηλεπαιχνίδι</desc>
   </programme>
-  <programme start="20200622150000 +0000" stop="20200622154500 +0000" channel="Euronews">
+  <programme start="20200622150000 +0300" stop="20200622154500 +0300" channel="Euronews">
     <title lang="el">EURONEWS NOW</title>
     <desc lang="el">Διεθνής ειδησεογραφία</desc>
   </programme>
-  <programme start="20200622150000 +0000" stop="20200622160000 +0000" channel="Mad TV">
+  <programme start="20200622150000 +0300" stop="20200622160000 +0300" channel="Mad TV">
     <title lang="el">ALL TIME HITS GR</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622150000 +0000" stop="20200622164500 +0000" channel="OPEN BEYOND">
+  <programme start="20200622150000 +0300" stop="20200622164500 +0300" channel="OPEN BEYOND">
     <title lang="el">OPEN ΕΛΛΑΔΑ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622150000 +0000" stop="20200622165000 +0000" channel="SKAI">
+  <programme start="20200622150000 +0300" stop="20200622165000 +0300" channel="SKAI">
     <title lang="el">ΚΑΛΟ ΜΕΣΗΜΕΡΑΚΙ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200622150000 +0000" stop="20200622160000 +0000" channel="ert1">
+  <programme start="20200622150000 +0300" stop="20200622160000 +0300" channel="ert1">
     <title lang="el">ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200622150000 +0000" stop="20200622153000 +0000" channel="ert3">
+  <programme start="20200622150000 +0300" stop="20200622153000 +0300" channel="ert3">
     <title lang="el">ΔΕΙΞΕ ΜΟΥ ΤΟ ΣΠΙΤΙ ΣΟΥ</title>
     <desc lang="el">Vorarlberg, η πράσινη κοιλάδα</desc>
   </programme>
-  <programme start="20200622153000 +0000" stop="20200622163000 +0000" channel="ert3">
+  <programme start="20200622153000 +0300" stop="20200622163000 +0300" channel="ert3">
     <title lang="el">ΔΙΑΚΟΠΕΣ ΣΤΑ ΓΚΑΛΑΠΑΓΚΟΣ 2</title>
     <desc lang="el">Ταξίδια - Επ. 3</desc>
   </programme>
-  <programme start="20200622160000 +0000" stop="20200622170000 +0000" channel="ANT1">
+  <programme start="20200622160000 +0300" stop="20200622170000 +0300" channel="ANT1">
     <title lang="el">ΟΝΕΙΡΟΠΑΓΙΔΑ</title>
     <desc lang="el">Κωμική σειρά</desc>
   </programme>
-  <programme start="20200622160000 +0000" stop="20200622180000 +0000" channel="ertsports">
+  <programme start="20200622160000 +0300" stop="20200622180000 +0300" channel="ertsports">
     <title lang="el">ΕΡΤ SPORTS HD</title>
     <desc lang="el">Διάφορα σπορ</desc>
   </programme>
-  <programme start="20200622160000 +0000" stop="20200622170000 +0000" channel="Mad TV">
+  <programme start="20200622160000 +0300" stop="20200622170000 +0300" channel="Mad TV">
     <title lang="el">15 SUPER MAD HITS GR</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622160000 +0000" stop="20200622183000 +0000" channel="vouli">
+  <programme start="20200622160000 +0300" stop="20200622183000 +0300" channel="vouli">
     <title lang="el">ΚΟΙΝΟΒΟΥΛΕΥΤΙΚΟ ΕΡΓΟ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622160000 +0000" stop="20200622180000 +0000" channel="ert1">
+  <programme start="20200622160000 +0300" stop="20200622180000 +0300" channel="ert1">
     <title lang="el">ΦΛΕΡΤ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200622163000 +0000" stop="20200622170000 +0000" channel="ert2">
+  <programme start="20200622163000 +0300" stop="20200622170000 +0300" channel="ert2">
     <title lang="el">ΠΑΝΕΛΛΑΔΙΚΕΣ ΕΞΕΤΑΣΕΙΣ 2020</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622163000 +0000" stop="20200622170000 +0000" channel="ert3">
+  <programme start="20200622163000 +0300" stop="20200622170000 +0300" channel="ert3">
     <title lang="el">ΤΕΧΝΙΤΕΣ ΑΠΟ ΟΛΟ ΤΟΝ ΚΟΣΜΟ</title>
     <desc lang="el">Τοσκάνη</desc>
   </programme>
-  <programme start="20200622164500 +0000" stop="20200622170000 +0000" channel="Euronews">
+  <programme start="20200622164500 +0300" stop="20200622170000 +0300" channel="Euronews">
     <title lang="el">INSPIRE MIDDLE EAST</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622164500 +0000" stop="20200622170000 +0000" channel="OPEN BEYOND">
+  <programme start="20200622164500 +0300" stop="20200622170000 +0300" channel="OPEN BEYOND">
     <title lang="el">ΘΥΡΙΔΑ ΤΗΛΕΠΩΛΗΣΗΣ</title>
     <desc lang="el">Τηλεαγορές</desc>
   </programme>
-  <programme start="20200622164500 +0000" stop="20200622174500 +0000" channel="ert2">
+  <programme start="20200622164500 +0300" stop="20200622174500 +0300" channel="ert2">
     <title lang="el">ΤΑΞΙΔΕΥΟΝΤΑΣ ΜΕ ΤΡΕΝΟ</title>
     <desc lang="el">Από το Κάμλουπς στο Κάλγκαρι</desc>
   </programme>
-  <programme start="20200622165000 +0000" stop="20200622181500 +0000" channel="SKAI">
+  <programme start="20200622165000 +0300" stop="20200622181500 +0300" channel="SKAI">
     <title lang="el">ΦΤΕΡΩΤΟΣ ΘΕΟΣ</title>
     <desc lang="el">Κωμική σειρά - Επ. 158</desc>
   </programme>
-  <programme start="20200622165500 +0000" stop="20200622174000 +0000" channel="Euronews">
+  <programme start="20200622165500 +0300" stop="20200622174000 +0300" channel="Euronews">
     <title lang="el">EURONEWS NOW</title>
     <desc lang="el">Διεθνής ειδησεογραφία</desc>
   </programme>
-  <programme start="20200622170000 +0000" stop="20200622190000 +0000" channel="ACTION24">
+  <programme start="20200622170000 +0300" stop="20200622190000 +0300" channel="ACTION24">
     <title lang="el">THE HAMMER SERIES</title>
     <desc lang="el">Αθλητική εκπομπή</desc>
   </programme>
-  <programme start="20200622170000 +0000" stop="20200622171500 +0000" channel="ANT1">
+  <programme start="20200622170000 +0300" stop="20200622171500 +0300" channel="ANT1">
     <title lang="el">ΑΝΤ1 News - Δελτίο στη Νοηματική</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200622170000 +0000" stop="20200622190000 +0000" channel="Mad TV">
+  <programme start="20200622170000 +0300" stop="20200622190000 +0300" channel="Mad TV">
     <title lang="el">OK</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200622170000 +0000" stop="20200622171500 +0000" channel="OPEN BEYOND">
+  <programme start="20200622170000 +0300" stop="20200622171500 +0300" channel="OPEN BEYOND">
     <title lang="el">OPEN NEWS ΣΤΗ ΝΟΗΜΑΤΙΚΗ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200622170000 +0000" stop="20200622173000 +0000" channel="ONE Channel">
+  <programme start="20200622170000 +0300" stop="20200622173000 +0300" channel="ONE Channel">
     <title lang="el">ΓΥΜΝΑΣΤΙΚΗ.... ΑΠΟ ΣΠΙΤΙ</title>
     <desc lang="el">Εκπομπή γυμναστικής</desc>
   </programme>
-  <programme start="20200622170000 +0000" stop="20200622172000 +0000" channel="ert3">
+  <programme start="20200622170000 +0300" stop="20200622172000 +0300" channel="ert3">
     <title lang="el">ΕΡΤ ΕΙΔΗΣΕΙΣ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200622171500 +0000" stop="20200622181500 +0000" channel="ANT1">
+  <programme start="20200622171500 +0300" stop="20200622181500 +0300" channel="ANT1">
     <title lang="el">STILL STANDING</title>
     <desc lang="el">Τηλεπαιχνίδι</desc>
   </programme>
-  <programme start="20200622171500 +0000" stop="20200622191500 +0000" channel="OPEN BEYOND">
+  <programme start="20200622171500 +0300" stop="20200622191500 +0300" channel="OPEN BEYOND">
     <title lang="el">ΤΑΙΝΙΑ</title>
     <desc lang="el">Ταινία</desc>
   </programme>
-  <programme start="20200622173000 +0000" stop="20200622180000 +0000" channel="ONE Channel">
+  <programme start="20200622173000 +0300" stop="20200622180000 +0300" channel="ONE Channel">
     <title lang="el">VITA</title>
     <desc lang="el">Μαγκαζίνο (E)</desc>
   </programme>
-  <programme start="20200622173000 +0000" stop="20200622183000 +0000" channel="ert2">
+  <programme start="20200622173000 +0300" stop="20200622183000 +0300" channel="ert2">
     <title lang="el">ΤΟ ΣΥΜΠΑΝ 4</title>
     <desc lang="el">Αναζήτηση για γαλαξιακά σμήνη</desc>
   </programme>
-  <programme start="20200622173000 +0000" stop="20200622181500 +0000" channel="ert3">
+  <programme start="20200622173000 +0300" stop="20200622181500 +0300" channel="ert3">
     <title lang="el">Ο ΤΟΠΟΣ ΤΗΣ ΚΑΡΔΙΑΣ ΜΑΣ 8</title>
     <desc lang="el">Επιστροφές</desc>
   </programme>
-  <programme start="20200622180000 +0000" stop="20200622190000 +0000" channel="KONTRA">
+  <programme start="20200622180000 +0300" stop="20200622190000 +0300" channel="KONTRA">
     <title lang="el">ΟΙΚΟ ΖΗΝ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200622180000 +0000" stop="20200622183000 +0000" channel="ONE Channel">
+  <programme start="20200622180000 +0300" stop="20200622183000 +0300" channel="ONE Channel">
     <title lang="el">VITA</title>
     <desc lang="el">Μαγκαζίνο (E)</desc>
   </programme>
-  <programme start="20200622180000 +0000" stop="20200622203000 +0000" channel="vouli">
+  <programme start="20200622180000 +0300" stop="20200622203000 +0300" channel="vouli">
     <title lang="el">ΚΟΙΝΟΒΟΥΛΕΥΤΙΚΟ ΕΡΓΟ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622180000 +0000" stop="20200622183000 +0000" channel="ert1">
+  <programme start="20200622180000 +0300" stop="20200622183000 +0300" channel="ert1">
     <title lang="el">ΕΡΤ Ειδήσεις: Δελτίο Στη Νοηματική</title>
     <desc lang="el">Δελτίο Στη Νοηματική</desc>
   </programme>
-  <programme start="20200622181500 +0000" stop="20200622193000 +0000" channel="ANT1">
+  <programme start="20200622181500 +0300" stop="20200622193000 +0300" channel="ANT1">
     <title lang="el">ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ 2</title>
     <desc lang="el">Δραματική σειρά - Επ. 146</desc>
   </programme>
-  <programme start="20200622181500 +0000" stop="20200622182500 +0000" channel="SKAI">
+  <programme start="20200622181500 +0300" stop="20200622182500 +0300" channel="SKAI">
     <title lang="el">ΔΕΛΤΙΟ ΣΤΗ ΝΟΗΜΑΤΙΚΗ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200622181500 +0000" stop="20200622200000 +0000" channel="ert1">
+  <programme start="20200622181500 +0300" stop="20200622200000 +0300" channel="ert1">
     <title lang="el">Πονηρό Θηλυκό, Κατεργάρα Γυναίκα</title>
     <desc lang="el">Περιπέτεια</desc>
   </programme>
-  <programme start="20200622181500 +0000" stop="20200622190000 +0000" channel="ert3">
+  <programme start="20200622181500 +0300" stop="20200622190000 +0300" channel="ert3">
     <title lang="el">Ο ΤΟΠΟΣ ΤΗΣ ΚΑΡΔΙΑΣ ΜΑΣ 8</title>
     <desc lang="el">Το μεγάλο τείχος</desc>
   </programme>
-  <programme start="20200622183000 +0000" stop="20200622190000 +0000" channel="ONE Channel">
+  <programme start="20200622183000 +0300" stop="20200622190000 +0300" channel="ONE Channel">
     <title lang="el">ΒΗΜΑGAZINO</title>
     <desc lang="el">Μαγκαζίνο (E)</desc>
   </programme>
-  <programme start="20200622183000 +0000" stop="20200622195000 +0000" channel="SKAI">
+  <programme start="20200622183000 +0300" stop="20200622195000 +0300" channel="SKAI">
     <title lang="el">Ο Γιατρός, η Ιστορία ενός Θαύματος</title>
     <desc lang="el">Δραματική σειρά</desc>
   </programme>
-  <programme start="20200622183000 +0000" stop="20200622191500 +0000" channel="ert2">
+  <programme start="20200622183000 +0300" stop="20200622191500 +0300" channel="ert2">
     <title lang="el">Ο ΠΑΡΑΔΕΙΣΟΣ ΤΩΝ ΚΥΡΙΩΝ 3</title>
     <desc lang="el">Δραματική σειρά - Επ. 211</desc>
   </programme>
-  <programme start="20200622185500 +0000" stop="20200622210000 +0000" channel="KONTRA">
+  <programme start="20200622185500 +0300" stop="20200622210000 +0300" channel="KONTRA">
     <title lang="el">ΕΠΙ ΤΟΥ ΠΙΕΣΤΗΡΙΟΥ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622190000 +0000" stop="20200622200000 +0000" channel="ACTION24">
+  <programme start="20200622190000 +0300" stop="20200622200000 +0300" channel="ACTION24">
     <title lang="el">Ο ΑΓΙΟΣ</title>
     <desc lang="el">Σειρά περιπέτειας</desc>
   </programme>
-  <programme start="20200622190000 +0000" stop="20200622200000 +0000" channel="Mad TV">
+  <programme start="20200622190000 +0300" stop="20200622200000 +0300" channel="Mad TV">
     <title lang="el">MAD SPOTIFY</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622190000 +0000" stop="20200622193000 +0000" channel="ONE Channel">
+  <programme start="20200622190000 +0300" stop="20200622193000 +0300" channel="ONE Channel">
     <title lang="el">ΝΕΕΣ ΕΠΟΧΕΣ</title>
     <desc lang="el">Πολιτισμός</desc>
   </programme>
-  <programme start="20200622190000 +0000" stop="20200622195500 +0000" channel="ert3">
+  <programme start="20200622190000 +0300" stop="20200622195500 +0300" channel="ert3">
     <title lang="el">Μεγάλα Θηρία: Οι Τελευταίοι Γίγαντες</title>
     <desc lang="el">Αυστραλία και Ασία</desc>
   </programme>
-  <programme start="20200622191500 +0000" stop="20200622200000 +0000" channel="ert2">
+  <programme start="20200622191500 +0300" stop="20200622200000 +0300" channel="ert2">
     <title lang="el">Ο ΠΑΡΑΔΕΙΣΟΣ ΤΩΝ ΚΥΡΙΩΝ 3</title>
     <desc lang="el">Δραματική σειρά - Επ. 212</desc>
   </programme>
-  <programme start="20200622193000 +0000" stop="20200622203000 +0000" channel="ANT1">
+  <programme start="20200622193000 +0300" stop="20200622203000 +0300" channel="ANT1">
     <title lang="el">ANT1 NEWS</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200622193000 +0000" stop="20200622203000 +0000" channel="OPEN BEYOND">
+  <programme start="20200622193000 +0300" stop="20200622203000 +0300" channel="OPEN BEYOND">
     <title lang="el">OPEN NEWS</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200622193000 +0000" stop="20200622213000 +0000" channel="ONE Channel">
+  <programme start="20200622193000 +0300" stop="20200622213000 +0300" channel="ONE Channel">
     <title lang="el">ONE CHANNEL</title>
     <desc lang="el">Ξένο πρόγραμμα (Ε)</desc>
   </programme>
-  <programme start="20200622195000 +0000" stop="20200622213000 +0000" channel="SKAI">
+  <programme start="20200622195000 +0300" stop="20200622213000 +0300" channel="SKAI">
     <title lang="el">ΤΑ ΝΕΑ ΤΟΥ ΣΚΑΙ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200622200000 +0000" stop="20200622210000 +0000" channel="ACTION24">
+  <programme start="20200622200000 +0300" stop="20200622210000 +0300" channel="ACTION24">
     <title lang="el">ΜΗΝ ΤΟ ΠΕΙΣ ΣΤΟ ΑΦΕΝΤΙΚΟ</title>
     <desc lang="el">Κωμική σειρά</desc>
   </programme>
-  <programme start="20200622200000 +0000" stop="20200622214500 +0000" channel="Euronews">
+  <programme start="20200622200000 +0300" stop="20200622214500 +0300" channel="Euronews">
     <title lang="el">EURONEWS TONIGHT</title>
     <desc lang="el">Διεθνής ειδησεογραφία</desc>
   </programme>
-  <programme start="20200622200000 +0000" stop="20200622203000 +0000" channel="Mad TV">
+  <programme start="20200622200000 +0300" stop="20200622203000 +0300" channel="Mad TV">
     <title lang="el">K-POP STARS</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622200000 +0000" stop="20200622210000 +0000" channel="ert1">
+  <programme start="20200622200000 +0300" stop="20200622210000 +0300" channel="ert1">
     <title lang="el">ΔΕΣ &amp; ΒΡΕΣ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200622200000 +0000" stop="20200622203000 +0000" channel="ert2">
+  <programme start="20200622200000 +0300" stop="20200622203000 +0300" channel="ert2">
     <title lang="el">ΜΟΝΟΓΡΑΜΜΑ: ΚΥΚΛΟΣ 2020</title>
     <desc lang="el">Λάκης Χαλκιάς</desc>
   </programme>
-  <programme start="20200622200000 +0000" stop="20200622210000 +0000" channel="ert3">
+  <programme start="20200622200000 +0300" stop="20200622210000 +0300" channel="ert3">
     <title lang="el">ΕΝΑ ΔΕΝΤΡΟ, ΜΙΑ ΙΣΤΟΡΙΑ 2</title>
     <desc lang="el">Τα αξιολάτρευτα δέντρα</desc>
   </programme>
-  <programme start="20200622203000 +0000" stop="20200622210000 +0000" channel="Mad TV">
+  <programme start="20200622203000 +0300" stop="20200622210000 +0300" channel="Mad TV">
     <title lang="el">LYRIC VIDEO SHOW</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622203000 +0000" stop="20200622210000 +0000" channel="ert2">
+  <programme start="20200622203000 +0300" stop="20200622210000 +0300" channel="ert2">
     <title lang="el">ΑΝΙΜΕΡΤ</title>
     <desc lang="el">Greeks can</desc>
   </programme>
-  <programme start="20200622204500 +0000" stop="20200622214500 +0000" channel="ANT1">
+  <programme start="20200622204500 +0300" stop="20200622214500 +0300" channel="ANT1">
     <title lang="el">ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ 2</title>
     <desc lang="el">Η μεσίτρια</desc>
   </programme>
-  <programme start="20200622210000 +0000" stop="20200622230000 +0000" channel="ACTION24">
+  <programme start="20200622210000 +0300" stop="20200622230000 +0300" channel="ACTION24">
     <title lang="el">ALDO MORO</title>
     <desc lang="el">Κωμική σειρά</desc>
   </programme>
-  <programme start="20200622210000 +0000" stop="20200622220000 +0000" channel="KONTRA">
+  <programme start="20200622210000 +0300" stop="20200622220000 +0300" channel="KONTRA">
     <title lang="el">WESTERN</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622210000 +0000" stop="20200622220000 +0000" channel="Mad TV">
+  <programme start="20200622210000 +0300" stop="20200622220000 +0300" channel="Mad TV">
     <title lang="el">SUMMER HITS</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622210000 +0000" stop="20200622230000 +0000" channel="OPEN BEYOND">
+  <programme start="20200622210000 +0300" stop="20200622230000 +0300" channel="OPEN BEYOND">
     <title lang="el">ΤΑΙΝΙΑ</title>
     <desc lang="el">Ταινία</desc>
   </programme>
-  <programme start="20200622210000 +0000" stop="20200622220000 +0000" channel="SKAI">
+  <programme start="20200622210000 +0300" stop="20200622220000 +0300" channel="SKAI">
     <title lang="el">ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ</title>
     <desc lang="el">Μια συγγραφέας, ένα καρδιακό...</desc>
   </programme>
-  <programme start="20200622210000 +0000" stop="20200622220000 +0000" channel="vouli">
+  <programme start="20200622210000 +0300" stop="20200622220000 +0300" channel="vouli">
     <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΟΙ ΔΗΜΙΟΥΡΓΟΙ</title>
     <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
-  <programme start="20200622210000 +0000" stop="20200622223000 +0000" channel="ert1">
+  <programme start="20200622210000 +0300" stop="20200622223000 +0300" channel="ert1">
     <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200622210000 +0000" stop="20200622220000 +0000" channel="ert2">
+  <programme start="20200622210000 +0300" stop="20200622220000 +0300" channel="ert2">
     <title lang="el">Η ΚΥΡΙΑ ΥΠΟΥΡΓΟΣ 2</title>
     <desc lang="el">Νεύμα ενότητας</desc>
   </programme>
-  <programme start="20200622210000 +0000" stop="20200622220000 +0000" channel="ert3">
+  <programme start="20200622210000 +0300" stop="20200622220000 +0300" channel="ert3">
     <title lang="el">SALVATION 2</title>
     <desc lang="el">Μαντζουριανός υποψήφιος</desc>
   </programme>
-  <programme start="20200622214500 +0000" stop="20200622224500 +0000" channel="ANT1">
+  <programme start="20200622214500 +0300" stop="20200622224500 +0300" channel="ANT1">
     <title lang="el">ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ 2</title>
     <desc lang="el">Κωμική σειρά</desc>
   </programme>
-  <programme start="20200622220000 +0000" stop="20200620000000 +0000" channel="KONTRA">
+  <programme start="20200622220000 +0300" stop="20200620000000 +0300" channel="KONTRA">
     <title lang="el">KONTRA NEWS</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200622220000 +0000" stop="20200622230000 +0000" channel="Mad TV">
+  <programme start="20200622220000 +0300" stop="20200622230000 +0300" channel="Mad TV">
     <title lang="el">ΣΤΗ ΔΙΑΠΑΣΩΝ</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622220000 +0000" stop="20200620000000 +0000" channel="SKAI">
+  <programme start="20200622220000 +0300" stop="20200620000000 +0300" channel="SKAI">
     <title lang="el">ΑΤΑΚΤΗ ΚΑΘΗΓΗΤΡΙΑ</title>
     <desc lang="el">Κωμωδία</desc>
   </programme>
-  <programme start="20200622220000 +0000" stop="20200622230000 +0000" channel="vouli">
+  <programme start="20200622220000 +0300" stop="20200622230000 +0300" channel="vouli">
     <title lang="el">ΣΥΝΑΝΤΗΣΗ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200622220000 +0000" stop="20200622230000 +0000" channel="ert1">
+  <programme start="20200622220000 +0300" stop="20200622230000 +0300" channel="ert1">
     <title lang="el">ΝΤΕΤΕΚΤΙΒ ΜΕΡΝΤΟΧ 10</title>
     <desc lang="el">Ο διάβολος μέσα του</desc>
   </programme>
-  <programme start="20200622220000 +0000" stop="20200622235000 +0000" channel="ert2">
+  <programme start="20200622220000 +0300" stop="20200622235000 +0300" channel="ert2">
     <title lang="el">ΟΛΑ ΟΣΑ ΜΑΘΑΜΕ ΜΑΖΙ</title>
     <desc lang="el">Μουσική ταινία</desc>
   </programme>
-  <programme start="20200622220000 +0000" stop="20200622232000 +0000" channel="ert3">
+  <programme start="20200622220000 +0300" stop="20200622232000 +0300" channel="ert3">
     <title lang="el">ΤΑ ΔΕΙΝΑ ΤΗΣ ΘΑΛΑΣΣΑΣ</title>
     <desc lang="el">Σειρά ντοκιμαντέρ</desc>
   </programme>
-  <programme start="20200622224500 +0000" stop="20200620000000 +0000" channel="ANT1">
+  <programme start="20200622224500 +0300" stop="20200620000000 +0300" channel="ANT1">
     <title lang="el">ΑΓΡΙΕΣ ΜΕΛΙΣΣΕΣ</title>
     <desc lang="el">Δραματική σειρά - Επ. 110</desc>
   </programme>
-  <programme start="20200622230000 +0000" stop="20200620000000 +0000" channel="ACTION24">
+  <programme start="20200622230000 +0300" stop="20200620000000 +0300" channel="ACTION24">
     <title lang="el">BULL</title>
     <desc lang="el">Δραματική σειρά</desc>
   </programme>
-  <programme start="20200622230000 +0000" stop="20200620000000 +0000" channel="Mad TV">
+  <programme start="20200622230000 +0300" stop="20200620000000 +0300" channel="Mad TV">
     <title lang="el">ΛΑΙΚ ΣΤΑ ΛΑΙΚΑ</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622230000 +0000" stop="20200620003000 +0000" channel="vouli">
+  <programme start="20200622230000 +0300" stop="20200620003000 +0300" channel="vouli">
     <title lang="el">ΤΟ ΜΑΡΓΑΡΙΤΑΡΕΝΙΟ ΚΟΥΜΠΙ</title>
     <desc lang="el">Ταινία ντοκιμαντέρ</desc>
   </programme>
-  <programme start="20200622230000 +0000" stop="20200620000000 +0000" channel="ert1">
+  <programme start="20200622230000 +0300" stop="20200620000000 +0300" channel="ert1">
     <title lang="el">10</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200622232000 +0000" stop="20200620000000 +0000" channel="ert3">
+  <programme start="20200622232000 +0300" stop="20200620000000 +0300" channel="ert3">
     <title lang="el">ΕΤΣΙ ΒΛΕΠΩ ΤΟΝ ΚΟΣΜΟ</title>
     <desc lang="el">Επιστήμη και Νέος Πολιτισμός</desc>
   </programme>
-  <programme start="20200622235000 +0000" stop="20200620000000 +0000" channel="Euronews">
+  <programme start="20200622235000 +0300" stop="20200620000000 +0300" channel="Euronews">
     <title lang="el">UNREPORTED EUROPE</title>
     <desc lang="el">Euronews</desc>
   </programme>
-  <programme start="20200622235000 +0000" stop="20200620004500 +0000" channel="ert2">
+  <programme start="20200622235000 +0300" stop="20200620004500 +0300" channel="ert2">
     <title lang="el">YUBI</title>
     <desc lang="el">Αληθινή ιστορία</desc>
   </programme>
-  <programme start="20200623000000 +0000" stop="20200623010000 +0000" channel="ACTION24">
+  <programme start="20200623000000 +0300" stop="20200623010000 +0300" channel="ACTION24">
     <title lang="el">WORLD SAILING CUP</title>
     <desc lang="el">Ιστιοπλοϊα</desc>
   </programme>
-  <programme start="20200623000000 +0000" stop="20200623014500 +0000" channel="ANT1">
+  <programme start="20200623000000 +0300" stop="20200623014500 +0300" channel="ANT1">
     <title lang="el">ΕΝΩΠΙΟΣ ΕΝΩΠΙΩ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200623000000 +0000" stop="20200623020000 +0000" channel="ertsports">
+  <programme start="20200623000000 +0300" stop="20200623020000 +0300" channel="ertsports">
     <title lang="el">ΕΡΤ SPORTS HD</title>
     <desc lang="el">Διάφορα σπορ</desc>
   </programme>
-  <programme start="20200623000000 +0000" stop="20200623014500 +0000" channel="Euronews">
+  <programme start="20200623000000 +0300" stop="20200623014500 +0300" channel="Euronews">
     <title lang="el">EURONEWS TONIGHT</title>
     <desc lang="el">Διεθνής ειδησεογραφία</desc>
   </programme>
-  <programme start="20200623000000 +0000" stop="20200623020000 +0000" channel="KONTRA">
+  <programme start="20200623000000 +0300" stop="20200623020000 +0300" channel="KONTRA">
     <title lang="el">KONTRA 24</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200623000000 +0000" stop="20200623010000 +0000" channel="Mad TV">
+  <programme start="20200623000000 +0300" stop="20200623010000 +0300" channel="Mad TV">
     <title lang="el">A-KATALILO URBAN</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200623000000 +0000" stop="20200623010000 +0000" channel="SKAI">
+  <programme start="20200623000000 +0300" stop="20200623010000 +0300" channel="SKAI">
     <title lang="el">DEADLY WOMEN 11</title>
     <desc lang="el">Illicit and Lethal</desc>
   </programme>
-  <programme start="20200623000000 +0000" stop="20200623010000 +0000" channel="ert1">
+  <programme start="20200623000000 +0300" stop="20200623010000 +0300" channel="ert1">
     <title lang="el">ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200623000000 +0000" stop="20200623010000 +0000" channel="ert3">
+  <programme start="20200623000000 +0300" stop="20200623010000 +0300" channel="ert3">
     <title lang="el">ΜΠΟΡΙΣ ΓΚΟΝΤΟΥΝΟΦ 2</title>
     <desc lang="el">Δραματική σειρά - Επ. 8</desc>
   </programme>
-  <programme start="20200623001500 +0000" stop="20200623010000 +0000" channel="ert1">
+  <programme start="20200623001500 +0300" stop="20200623010000 +0300" channel="ert1">
     <title lang="el">ΣΗΜΕΙΟ ΣΥΝΑΝΤΗΣΗΣ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200623003000 +0000" stop="20200623013000 +0000" channel="vouli">
+  <programme start="20200623003000 +0300" stop="20200623013000 +0300" channel="vouli">
     <title lang="el">ΜΟΥΣΙΚΟΙ ΔΙΑΛΟΓΟΙ</title>
     <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
-  <programme start="20200623004500 +0000" stop="20200623011500 +0000" channel="ert2">
+  <programme start="20200623004500 +0300" stop="20200623011500 +0300" channel="ert2">
     <title lang="el">ΜΟΝΟΓΡΑΜΜΑ: ΚΥΚΛΟΣ 2020</title>
     <desc lang="el">Λάκης Χαλκιάς</desc>
   </programme>
-  <programme start="20200623010000 +0000" stop="20200623020000 +0000" channel="Mad TV">
+  <programme start="20200623010000 +0300" stop="20200623020000 +0300" channel="Mad TV">
     <title lang="el">MUSIC NON STOP GR</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200623010000 +0000" stop="20200623020000 +0000" channel="SKAI">
+  <programme start="20200623010000 +0300" stop="20200623020000 +0300" channel="SKAI">
     <title lang="el">S.W.A.T.</title>
     <desc lang="el">Αστυνομική σειρά</desc>
   </programme>
-  <programme start="20200623010000 +0000" stop="20200623030000 +0000" channel="ert1">
+  <programme start="20200623010000 +0300" stop="20200623030000 +0300" channel="ert1">
     <title lang="el">ΦΛΕΡΤ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200623010000 +0000" stop="20200623015500 +0000" channel="ert3">
+  <programme start="20200623010000 +0300" stop="20200623015500 +0300" channel="ert3">
     <title lang="el">Μεγάλα Θηρία: Οι Τελευταίοι Γίγαντες</title>
     <desc lang="el">Αυστραλία και Ασία</desc>
   </programme>
-  <programme start="20200623011500 +0000" stop="20200623014500 +0000" channel="ert2">
+  <programme start="20200623011500 +0300" stop="20200623014500 +0300" channel="ert2">
     <title lang="el">ΑΝΙΜΕΡΤ</title>
     <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
-  <programme start="20200623013000 +0000" stop="20200623083000 +0000" channel="vouli">
+  <programme start="20200623013000 +0300" stop="20200623083000 +0300" channel="vouli">
     <title lang="el">ΕΠΑΝΑΛΗΨΗ ΠΡΟΓΡΑΜΜΑΤΟΣ</title>
     <desc lang="el">Promo</desc>
   </programme>
-  <programme start="20200623014500 +0000" stop="20200623024500 +0000" channel="ANT1">
+  <programme start="20200623014500 +0300" stop="20200623024500 +0300" channel="ANT1">
     <title lang="el">VICE SPECIALS 9</title>
     <desc lang="el">Η Μάσκα που Εγινε Σύμβολο</desc>
   </programme>
-  <programme start="20200623014500 +0000" stop="20200623024500 +0000" channel="OPEN BEYOND">
+  <programme start="20200623014500 +0300" stop="20200623024500 +0300" channel="OPEN BEYOND">
     <title lang="el">LIFE STORIES</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200623014500 +0000" stop="20200623023000 +0000" channel="ert2">
+  <programme start="20200623014500 +0300" stop="20200623023000 +0300" channel="ert2">
     <title lang="el">Η ΚΥΡΙΑ ΥΠΟΥΡΓΟΣ</title>
     <desc lang="el">Δραματική σειρά</desc>
   </programme>
-  <programme start="20200623020000 +0000" stop="20200623040000 +0000" channel="ACTION24">
+  <programme start="20200623020000 +0300" stop="20200623040000 +0300" channel="ACTION24">
     <title lang="el">THE HAMMER SERIES</title>
     <desc lang="el">Αθλητική εκπομπή</desc>
   </programme>
-  <programme start="20200623020000 +0000" stop="20200623060000 +0000" channel="KONTRA">
+  <programme start="20200623020000 +0300" stop="20200623060000 +0300" channel="KONTRA">
     <title lang="el">ΕΚΠΟΜΠΕΣ ΤΗΛΕΟΠΤΙΚΩΝ ΑΓΟΡΩΝ</title>
     <desc lang="el">Τηλεαγορές</desc>
   </programme>
-  <programme start="20200623020000 +0000" stop="20200623030000 +0000" channel="Mad TV">
+  <programme start="20200623020000 +0300" stop="20200623030000 +0300" channel="Mad TV">
     <title lang="el">ΛΑΙΚ ΣΤΑ ΛΑΙΚΑ</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200623020000 +0000" stop="20200623034500 +0000" channel="SKAI">
+  <programme start="20200623020000 +0300" stop="20200623034500 +0300" channel="SKAI">
     <title lang="el">FASTER</title>
     <desc lang="el">Περιπέτεια</desc>
   </programme>
-  <programme start="20200623020000 +0000" stop="20200623030000 +0000" channel="ert3">
+  <programme start="20200623020000 +0300" stop="20200623030000 +0300" channel="ert3">
     <title lang="el">SALVATION 2</title>
     <desc lang="el">Μαντζουριανός υποψήφιος</desc>
   </programme>
-  <programme start="20200623024000 +0000" stop="20200623034000 +0000" channel="ert2">
+  <programme start="20200623024000 +0300" stop="20200623034000 +0300" channel="ert2">
     <title lang="el">ΤΟ ΣΥΜΠΑΝ 4</title>
     <desc lang="el">Αναζήτηση για γαλαξιακά σμήνη</desc>
   </programme>
-  <programme start="20200623024500 +0000" stop="20200623034500 +0000" channel="ANT1">
+  <programme start="20200623024500 +0300" stop="20200623034500 +0300" channel="ANT1">
     <title lang="el">ΑΝΑΤΟΜΙΑ ΕΝΟΣ ΕΓΚΛΗΜΑΤΟΣ</title>
     <desc lang="el">Αστυνομική σειρά</desc>
   </programme>
-  <programme start="20200623024500 +0000" stop="20200623044500 +0000" channel="OPEN BEYOND">
+  <programme start="20200623024500 +0300" stop="20200623044500 +0300" channel="OPEN BEYOND">
     <title lang="el">ΤΑΙΝΙΑ</title>
     <desc lang="el">Ταινία</desc>
   </programme>
-  <programme start="20200623025000 +0000" stop="20200623033500 +0000" channel="ert1">
+  <programme start="20200623025000 +0300" stop="20200623033500 +0300" channel="ert1">
     <title lang="el">ΣΗΜΕΙΟ ΣΥΝΑΝΤΗΣΗΣ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200623030000 +0000" stop="20200623040000 +0000" channel="Mad TV">
+  <programme start="20200623030000 +0300" stop="20200623040000 +0300" channel="Mad TV">
     <title lang="el">MUSIC NON STOP GR</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200623030000 +0000" stop="20200623050000 +0000" channel="ert3">
+  <programme start="20200623030000 +0300" stop="20200623050000 +0300" channel="ert3">
     <title lang="el">ΚΑΘΕ ΜΕΡΑ ΕΛΛΑΔΑ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200623033000 +0000" stop="20200623044500 +0000" channel="SKAI">
+  <programme start="20200623033000 +0300" stop="20200623044500 +0300" channel="SKAI">
     <title lang="el">ΦΤΕΡΩΤΟΣ ΘΕΟΣ</title>
     <desc lang="el">Κωμική σειρά</desc>
   </programme>
-  <programme start="20200623033000 +0000" stop="20200623043000 +0000" channel="ert1">
+  <programme start="20200623033000 +0300" stop="20200623043000 +0300" channel="ert1">
     <title lang="el">ΔΕΣ &amp; ΒΡΕΣ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20200623033000 +0000" stop="20200623043000 +0000" channel="ert2">
+  <programme start="20200623033000 +0300" stop="20200623043000 +0300" channel="ert2">
     <title lang="el">ΤΑΞΙΔΕΥΟΝΤΑΣ ΜΕ ΤΡΕΝΟ</title>
     <desc lang="el">Από το Εντμοντον στο Τζάσπερ</desc>
   </programme>
-  <programme start="20200623034500 +0000" stop="20200623050000 +0000" channel="ANT1">
+  <programme start="20200623034500 +0300" stop="20200623050000 +0300" channel="ANT1">
     <title lang="el">ΕΡΩΤΑΣ</title>
     <desc lang="el">Κοινωνική σειρά</desc>
   </programme>
-  <programme start="20200623040000 +0000" stop="20200623043000 +0000" channel="ACTION24">
+  <programme start="20200623040000 +0300" stop="20200623043000 +0300" channel="ACTION24">
     <title lang="el">FORMULA E</title>
     <desc lang="el">Μηχανοκίνητα σπορ</desc>
   </programme>
-  <programme start="20200623040000 +0000" stop="20200623060000 +0000" channel="KONTRA">
+  <programme start="20200623040000 +0300" stop="20200623060000 +0300" channel="KONTRA">
     <title lang="el">KONTRA NEWS</title>
     <desc lang="el">Ειδήσεις</desc>
   </programme>
-  <programme start="20200623040000 +0000" stop="20200623050000 +0000" channel="Mad TV">
+  <programme start="20200623040000 +0300" stop="20200623050000 +0300" channel="Mad TV">
     <title lang="el">MUSIC NON STOP INTL</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200623040000 +0000" stop="20200623110000 +0000" channel="vouli">
+  <programme start="20200623040000 +0300" stop="20200623110000 +0300" channel="vouli">
     <title lang="el">ΕΠΑΝΑΛΗΨΗ ΠΡΟΓΡΑΜΜΑΤΟΣ</title>
     <desc lang="el">Promo</desc>
   </programme>
-  <programme start="20200623043000 +0000" stop="20200623070000 +0000" channel="ACTION24">
+  <programme start="20200623043000 +0300" stop="20200623070000 +0300" channel="ACTION24">
     <title lang="el">ΕΛΛΗΝΙΚΟ ΠΡΩΤΑΘΛΗΜΑ FUTSAL</title>
     <desc lang="el">Παναθηναϊκός - ΑΕΚ (Ε)</desc>
   </programme>
-  <programme start="20200623043000 +0000" stop="20200623053000 +0000" channel="OPEN BEYOND">
+  <programme start="20200623043000 +0300" stop="20200623053000 +0300" channel="OPEN BEYOND">
     <title lang="el">ΕΠΑΝΑΛΗΨΗ ΠΡΟΓΡΑΜΜΑΤΟΣ</title>
     <desc lang="el">Promo</desc>
   </programme>
-  <programme start="20200623043000 +0000" stop="20200623053000 +0000" channel="ert1">
+  <programme start="20200623043000 +0300" stop="20200623053000 +0300" channel="ert1">
     <title lang="el">ΝΤΕΤΕΚΤΙΒ ΜΕΡΝΤΟΧ 10</title>
     <desc lang="el">Ο διάβολος μέσα του</desc>
   </programme>
-  <programme start="20200623043000 +0000" stop="20200623060000 +0000" channel="ert2">
+  <programme start="20200623043000 +0300" stop="20200623060000 +0300" channel="ert2">
     <title lang="el">Ο ΠΑΡΑΔΕΙΣΟΣ ΤΩΝ ΚΥΡΙΩΝ</title>
     <desc lang="el">Δραματική σειρά</desc>
   </programme>
-  <programme start="20200623044500 +0000" stop="20200623064500 +0000" channel="SKAI">
+  <programme start="20200623044500 +0300" stop="20200623064500 +0300" channel="SKAI">
     <title lang="el">ΑΤΑΙΡΙΑΣΤΟΙ</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
-  <programme start="20200623050000 +0000" stop="20200623060000 +0000" channel="ANT1">
+  <programme start="20200623050000 +0300" stop="20200623060000 +0300" channel="ANT1">
     <title lang="el">ΤΡΙΚΥΜΙΑ</title>
     <desc lang="el">Κοινωνική σειρά</desc>
   </programme>
-  <programme start="20200623050000 +0000" stop="20200623064500 +0000" channel="Euronews">
+  <programme start="20200623050000 +0300" stop="20200623064500 +0300" channel="Euronews">
     <title lang="el">EURONEWS TONIGHT</title>
     <desc lang="el">Διεθνής ειδησεογραφία</desc>
   </programme>
-  <programme start="20200623050000 +0000" stop="20200623060000 +0000" channel="Mad TV">
+  <programme start="20200623050000 +0300" stop="20200623060000 +0300" channel="Mad TV">
     <title lang="el">MUSIC NON STOP GR</title>
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
-  <programme start="20200623050000 +0000" stop="20200623060000 +0000" channel="ert3">
+  <programme start="20200623050000 +0300" stop="20200623060000 +0300" channel="ert3">
     <title lang="el">BORDERS</title>
     <desc lang="el">Μαγκαζίνο</desc>
   </programme>
