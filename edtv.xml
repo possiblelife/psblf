@@ -568,7 +568,7 @@
   </programme>
   <programme start="20200619163000 +0000" stop="20200619170000 +0000" channel="ert3">
     <title lang="el">ΤΕΧΝΙΤΕΣ ΑΠΟ ΟΛΟ ΤΟΝ ΚΟΣΜΟ</title>
-    <desc lang="el">Τέχνες & Γράμματα</desc>
+    <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
   <programme start="20200619164500 +0000" stop="20200619170000 +0000" channel="OPEN BEYOND">
     <title lang="el">ΘΥΡΙΔΑ ΤΗΛΕΠΩΛΗΣΗΣ</title>
@@ -735,7 +735,7 @@
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
   <programme start="20200619200000 +0000" stop="20200619210000 +0000" channel="ert1">
-    <title lang="el">ΔΕΣ & ΒΡΕΣ</title>
+    <title lang="el">ΔΕΣ &amp; ΒΡΕΣ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
   <programme start="20200619200000 +0000" stop="20200619210000 +0000" channel="ert2">
@@ -1448,7 +1448,7 @@
   </programme>
   <programme start="20200621120000 +0000" stop="20200621140000 +0000" channel="vouli">
     <title lang="el">ΑΠΟ ΤΟΠΟ ΣΕ ΤΟΠΟ</title>
-    <desc lang="el">Τέχνες & Γράμματα</desc>
+    <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
   <programme start="20200621120000 +0000" stop="20200621130000 +0000" channel="ert1">
     <title lang="el">ΕΡΤ Ειδήσεις - Αθλητικά - Καιρός</title>
@@ -1460,7 +1460,7 @@
   </programme>
   <programme start="20200621120000 +0000" stop="20200621130000 +0000" channel="ert3">
     <title lang="el">ΜΙΑ ΑΠΙΘΑΝΗ ΜΑΕΣΤΡΟΣ</title>
-    <desc lang="el">Τέχνες & Γράμματα</desc>
+    <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
   <programme start="20200621123000 +0000" stop="20200621130000 +0000" channel="Mad TV">
     <title lang="el">NEWCOMERS TIME</title>
@@ -1616,11 +1616,11 @@
   </programme>
   <programme start="20200621163000 +0000" stop="20200621170000 +0000" channel="vouli">
     <title lang="el">Τα Μικρά Μυστικά των Μεγάλων Ζωγράφων</title>
-    <desc lang="el">Τέχνες & Γράμματα</desc>
+    <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
   <programme start="20200621163000 +0000" stop="20200621173000 +0000" channel="ert3">
     <title lang="el">Ο ΔΡΟΜΟΣ ΜΕ ΤΟΥΣ ΠΙΑΝΙΣΤΕΣ</title>
-    <desc lang="el">Τέχνες & Γράμματα</desc>
+    <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
   <programme start="20200621164500 +0000" stop="20200621170000 +0000" channel="Euronews">
     <title lang="el">INSPIRE MIDDLE EAST</title>
@@ -1647,7 +1647,7 @@
     <desc lang="el">Τι Γυρεύει η Ωραία Ελένη στην ΕΡΤ;</desc>
   </programme>
   <programme start="20200621170000 +0000" stop="20200621180000 +0000" channel="ert2">
-    <title lang="el">Σπουδαιότερες Διαδρομές & Περιπέτειες</title>
+    <title lang="el">Σπουδαιότερες Διαδρομές &amp; Περιπέτειες</title>
     <desc lang="el">Πτήσεις</desc>
   </programme>
   <programme start="20200621173000 +0000" stop="20200621174500 +0000" channel="ANT1">
@@ -1672,7 +1672,7 @@
   </programme>
   <programme start="20200621173000 +0000" stop="20200621190000 +0000" channel="ert3">
     <title lang="el">Ο Ανθρωπος Πίσω από τους Beatles</title>
-    <desc lang="el">Τέχνες & Γράμματα</desc>
+    <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
   <programme start="20200621174000 +0000" stop="20200621185000 +0000" channel="SKAI">
     <title lang="el">HAPPY TRAVELLER</title>
@@ -1772,7 +1772,7 @@
   </programme>
   <programme start="20200621190000 +0000" stop="20200621200000 +0000" channel="ert3">
     <title lang="el">EUROVISIONS</title>
-    <desc lang="el">Τέχνες & Γράμματα</desc>
+    <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
   <programme start="20200621193000 +0000" stop="20200621203000 +0000" channel="ANT1">
     <title lang="el">ANT1 NEWS</title>
@@ -1984,7 +1984,7 @@
   </programme>
   <programme start="20200622010000 +0000" stop="20200622030000 +0000" channel="vouli">
     <title lang="el">ΑΠΟ ΤΟΠΟ ΣΕ ΤΟΠΟ</title>
-    <desc lang="el">Τέχνες & Γράμματα</desc>
+    <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
   <programme start="20200622010000 +0000" stop="20200622015500 +0000" channel="ert2">
     <title lang="el">ΒΙΟΙ ΠΑΡΑΛΛΗΛΟΙ</title>
@@ -2023,7 +2023,7 @@
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
   <programme start="20200622020000 +0000" stop="20200622030000 +0000" channel="ert2">
-    <title lang="el">Σπουδαιότερες Διαδρομές & Περιπέτειες</title>
+    <title lang="el">Σπουδαιότερες Διαδρομές &amp; Περιπέτειες</title>
     <desc lang="el">Πτήσεις</desc>
   </programme>
   <programme start="20200622020000 +0000" stop="20200622030000 +0000" channel="ert3">
@@ -2060,7 +2060,7 @@
   </programme>
   <programme start="20200622030000 +0000" stop="20200622043000 +0000" channel="ert3">
     <title lang="el">Ο Ανθρωπος Πίσω από τους Beatles</title>
-    <desc lang="el">Τέχνες & Γράμματα</desc>
+    <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
   <programme start="20200622032000 +0000" stop="20200622042000 +0000" channel="ert1">
     <title lang="el">ΠΡΟΣΩΠΙΚΑ</title>
@@ -2100,7 +2100,7 @@
   </programme>
   <programme start="20200622040000 +0000" stop="20200622050000 +0000" channel="ert3">
     <title lang="el">Ο ΔΡΟΜΟΣ ΜΕ ΤΟΥΣ ΠΙΑΝΙΣΤΕΣ</title>
-    <desc lang="el">Τέχνες & Γράμματα</desc>
+    <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
   <programme start="20200622041500 +0000" stop="20200622051500 +0000" channel="SKAI">
     <title lang="el">DOT.</title>
@@ -2172,7 +2172,7 @@
   </programme>
   <programme start="20200622063000 +0000" stop="20200622073000 +0000" channel="ert3">
     <title lang="el">EUROVISIONS</title>
-    <desc lang="el">Τέχνες & Γράμματα</desc>
+    <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
   <programme start="20200622064500 +0000" stop="20200622070000 +0000" channel="Euronews">
     <title lang="el">INSPIRE MIDDLE EAST</title>
@@ -2200,7 +2200,7 @@
   </programme>
   <programme start="20200622073000 +0000" stop="20200622083000 +0000" channel="ert3">
     <title lang="el">ΜΙΑ ΑΠΙΘΑΝΗ ΜΑΕΣΤΡΟΣ</title>
-    <desc lang="el">Τέχνες & Γράμματα</desc>
+    <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
   <programme start="20200622074500 +0000" stop="20200622081500 +0000" channel="ert2">
     <title lang="el">ΦΡΟΥΤΟΠΙΑ</title>
@@ -2671,7 +2671,7 @@
     <desc lang="el">Μουσικό μαγκαζίνο</desc>
   </programme>
   <programme start="20200622200000 +0000" stop="20200622210000 +0000" channel="ert1">
-    <title lang="el">ΔΕΣ & ΒΡΕΣ</title>
+    <title lang="el">ΔΕΣ &amp; ΒΡΕΣ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
   <programme start="20200622200000 +0000" stop="20200622203000 +0000" channel="ert2">
@@ -2716,7 +2716,7 @@
   </programme>
   <programme start="20200622210000 +0000" stop="20200622220000 +0000" channel="vouli">
     <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΟΙ ΔΗΜΙΟΥΡΓΟΙ</title>
-    <desc lang="el">Τέχνες & Γράμματα</desc>
+    <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
   <programme start="20200622210000 +0000" stop="20200622223000 +0000" channel="ert1">
     <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ</title>
@@ -2836,7 +2836,7 @@
   </programme>
   <programme start="20200623003000 +0000" stop="20200623013000 +0000" channel="vouli">
     <title lang="el">ΜΟΥΣΙΚΟΙ ΔΙΑΛΟΓΟΙ</title>
-    <desc lang="el">Τέχνες & Γράμματα</desc>
+    <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
   <programme start="20200623004500 +0000" stop="20200623011500 +0000" channel="ert2">
     <title lang="el">ΜΟΝΟΓΡΑΜΜΑ: ΚΥΚΛΟΣ 2020</title>
@@ -2860,7 +2860,7 @@
   </programme>
   <programme start="20200623011500 +0000" stop="20200623014500 +0000" channel="ert2">
     <title lang="el">ΑΝΙΜΕΡΤ</title>
-    <desc lang="el">Τέχνες & Γράμματα</desc>
+    <desc lang="el">Τέχνες &amp; Γράμματα</desc>
   </programme>
   <programme start="20200623013000 +0000" stop="20200623083000 +0000" channel="vouli">
     <title lang="el">ΕΠΑΝΑΛΗΨΗ ΠΡΟΓΡΑΜΜΑΤΟΣ</title>
@@ -2927,7 +2927,7 @@
     <desc lang="el">Κωμική σειρά</desc>
   </programme>
   <programme start="20200623033000 +0000" stop="20200623043000 +0000" channel="ert1">
-    <title lang="el">ΔΕΣ & ΒΡΕΣ</title>
+    <title lang="el">ΔΕΣ &amp; ΒΡΕΣ</title>
     <desc lang="el">Ψυχαγωγική εκπομπή</desc>
   </programme>
   <programme start="20200623033000 +0000" stop="20200623043000 +0000" channel="ert2">
@@ -4144,7 +4144,7 @@
     <title lang="el">[K] www.startvfm.gr</title>
   </programme>
   <programme start="20200619220000 +0300" stop="20200619230000 +0300" channel="STAR B. ELLADOS">
-    <title lang="el">[K8] Κοινωνία &amp; Πολιτισμός (Ε)</title>
+    <title lang="el">[K8] Κοινωνία &amp;amp; Πολιτισμός (Ε)</title>
   </programme>
   <programme start="20200619230000 +0300" stop="20200620000000 +0300" channel="STAR B. ELLADOS">
     <title lang="el">[K] Κεντρικό Δελτίο Ειδήσεων</title>
@@ -4180,7 +4180,7 @@
     <title lang="el">[K8] Τηλεμάρκετινγκ</title>
   </programme>
   <programme start="20200619140000 +0300" stop="20200619150000 +0300" channel="THRAKINET">
-    <title lang="el">[K8] Κόντρα &amp; Ρήξη</title>
+    <title lang="el">[K8] Κόντρα &amp;amp; Ρήξη</title>
   </programme>
   <programme start="20200619150000 +0300" stop="20200619160000 +0300" channel="THRAKINET">
     <title lang="el">[K8] Τηλεμάρκετινγκ</title>
@@ -4210,7 +4210,7 @@
     <title lang="el">[K8] Ordo Ab Chao</title>
   </programme>
   <programme start="20200619230000 +0300" stop="20200620000000 +0300" channel="THRAKINET">
-    <title lang="el">[K8] Στοχασμοί &amp; Εντυπώσεις (Ε)</title>
+    <title lang="el">[K8] Στοχασμοί &amp;amp; Εντυπώσεις (Ε)</title>
   </programme>
   <programme start="20200620000000 +0300" stop="20200620010000 +0300" channel="THRAKINET">
     <title lang="el">[K] Νυχτερινό Δελτίο Ειδήσεων</title>
@@ -4975,7 +4975,7 @@
     <title lang="el">[K8] Δελτίο Ειδήσεων</title>
   </programme>
   <programme start="20200619220000 +0300" stop="20200619230000 +0300" channel="BEST TV">
-    <title lang="el">[K8] Κόντρα &amp; Ρήξη </title>
+    <title lang="el">[K8] Κόντρα &amp;amp; Ρήξη </title>
   </programme>
   <programme start="20200619230000 +0300" stop="20200619233000 +0300" channel="BEST TV">
     <title lang="el">[K8] 24 Ώρες Ευρώπη (Ε)</title>
@@ -5233,7 +5233,7 @@
     <title lang="el">[K8] Ξένη Ταινία</title>
   </programme>
   <programme start="20200619150000 +0300" stop="20200619160000 +0300" channel="SUPER B">
-    <title lang="el">[K8] Κόντρα &amp; Ρήξη</title>
+    <title lang="el">[K8] Κόντρα &amp;amp; Ρήξη</title>
   </programme>
   <programme start="20200619160000 +0300" stop="20200619164500 +0300" channel="SUPER B">
     <title lang="el">[K8] Sales</title>
@@ -5257,7 +5257,7 @@
     <title lang="el">[K] Κεντρικό Δελτίο Ειδήσεων </title>
   </programme>
   <programme start="20200619213000 +0300" stop="20200619223000 +0300" channel="SUPER B">
-    <title lang="el">[K8] Κόντρα &amp; Ρήξη</title>
+    <title lang="el">[K8] Κόντρα &amp;amp; Ρήξη</title>
   </programme>
   <programme start="20200619223000 +0300" stop="20200620001000 +0300" channel="SUPER B">
     <title lang="el">[K8] Παρεμβάσεις</title>
@@ -5440,7 +5440,7 @@
     <title lang="el">[K] Σύντομα Γεγονότα</title>
   </programme>
   <programme start="20200619180000 +0300" stop="20200619183000 +0300" channel="STAR K.E.">
-    <title lang="el">[K8] Out Door &amp; Sports</title>
+    <title lang="el">[K8] Out Door &amp;amp; Sports</title>
   </programme>
   <programme start="20200619183000 +0300" stop="20200619190000 +0300" channel="STAR K.E.">
     <title lang="el">[K] Καρέ Καρέ Σκίτσο</title>
@@ -5593,7 +5593,7 @@
     <title lang="el">[K] Εκπομπές Τηλεοπτικών Αγορών</title>
   </programme>
   <programme start="20200619100000 +0300" stop="20200619110000 +0300" channel="BLUE SKY">
-    <title lang="el">[K8] Νανοτεχνολογία &amp; Υγεία</title>
+    <title lang="el">[K8] Νανοτεχνολογία &amp;amp; Υγεία</title>
   </programme>
   <programme start="20200619110000 +0300" stop="20200619125000 +0300" channel="BLUE SKY">
     <title lang="el">[K] Fashion Time </title>
@@ -5926,7 +5926,7 @@
     <title lang="el">[K8] On Air</title>
   </programme>
   <programme start="20200619090000 +0300" stop="20200619103000 +0300" channel="CRETA">
-    <title lang="el">[K8] Life &amp; Health </title>
+    <title lang="el">[K8] Life &amp;amp; Health </title>
   </programme>
   <programme start="20200619103000 +0300" stop="20200619110000 +0300" channel="CRETA">
     <title lang="el">[K8] Beauty Box By Oasis Med</title>
@@ -6055,7 +6055,7 @@
     <title lang="el">[K8] Modern Family</title>
   </programme>
   <programme start="20200620010000 +0300" stop="20200620013000 +0300" channel="NEA TV CRETE">
-    <title lang="el">[K16] Ζώδια &amp; Συμβουλές</title>
+    <title lang="el">[K16] Ζώδια &amp;amp; Συμβουλές</title>
   </programme>
   <programme start="20200620013000 +0300" stop="20200620030000 +0300" channel="NEA TV CRETE">
     <title lang="el">[K12] Colour Me Kubrick</title>
@@ -6466,7 +6466,7 @@
     <title lang="el">[K] Θυρίδα Τηλεπώλησης</title>
   </programme>
   <programme start="20200620060000 +0300" stop="20200620063000 +0300" channel="STAR">
-    <title lang="el">[K] Tom &amp; Jerry Kids</title>
+    <title lang="el">[K] Tom &amp;amp; Jerry Kids</title>
   </programme>
   <programme start="20200620063000 +0300" stop="20200620070000 +0300" channel="STAR">
     <title lang="el">[K] Sylvester And Tweety Mysteries</title>
@@ -6883,7 +6883,7 @@
     <title lang="el">[K8] Τηλεμάρκετινγκ</title>
   </programme>
   <programme start="20200620140000 +0300" stop="20200620150000 +0300" channel="THRAKINET">
-    <title lang="el">[K8] Κόντρα &amp; Ρήξη</title>
+    <title lang="el">[K8] Κόντρα &amp;amp; Ρήξη</title>
   </programme>
   <programme start="20200620150000 +0300" stop="20200620160000 +0300" channel="THRAKINET">
     <title lang="el">[K8] Τηλεμάρκετινγκ</title>
@@ -7171,7 +7171,7 @@
     <title lang="el">[K] Τζο Ο Τρομερός</title>
   </programme>
   <programme start="20200620193000 +0300" stop="20200620201500 +0300" channel="TV 100">
-    <title lang="el">[K] TV 100 Ειδήσεις &amp; Σύντομο Δελτίο Ειδήσεων Στη Νοηματική</title>
+    <title lang="el">[K] TV 100 Ειδήσεις &amp;amp; Σύντομο Δελτίο Ειδήσεων Στη Νοηματική</title>
   </programme>
   <programme start="20200620201500 +0300" stop="20200620203000 +0300" channel="TV 100">
     <title lang="el">[K] Ταξίδι Στη Γνώση</title>
@@ -7186,7 +7186,7 @@
     <title lang="el">[K12] Παράφορα (Down By Love)</title>
   </programme>
   <programme start="20200621000000 +0300" stop="20200621004500 +0300" channel="TV 100">
-    <title lang="el">[K] TV 100 Ειδήσεις &amp; Σύντομο Δελτίο Ειδήσεων Στη Νοηματική (Ε)</title>
+    <title lang="el">[K] TV 100 Ειδήσεις &amp;amp; Σύντομο Δελτίο Ειδήσεων Στη Νοηματική (Ε)</title>
   </programme>
   <programme start="20200621004500 +0300" stop="20200621024500 +0300" channel="TV 100">
     <title lang="el">[K] Τα Παντελόνια Είναι Περίεργα Ρούχα (Ε)</title>
@@ -7627,7 +7627,7 @@
     <title lang="el">[K8] Δελτίο Ειδήσεων</title>
   </programme>
   <programme start="20200620220000 +0300" stop="20200620230000 +0300" channel="BEST TV">
-    <title lang="el">[K8] Κόντρα &amp; Ρήξη </title>
+    <title lang="el">[K8] Κόντρα &amp;amp; Ρήξη </title>
   </programme>
   <programme start="20200620230000 +0300" stop="20200620234500 +0300" channel="BEST TV">
     <title lang="el">[K8] Μαχητικά</title>
@@ -7885,7 +7885,7 @@
     <title lang="el">[K8] 4 Best Teleshopping</title>
   </programme>
   <programme start="20200620140000 +0300" stop="20200620150000 +0300" channel="SUPER B">
-    <title lang="el">[K8] Κόντρα &amp; Ρήξη</title>
+    <title lang="el">[K8] Κόντρα &amp;amp; Ρήξη</title>
   </programme>
   <programme start="20200620150000 +0300" stop="20200620170000 +0300" channel="SUPER B">
     <title lang="el">[K8] Τα Χιόνια Του Κιλιμάντζαρο</title>
@@ -7906,7 +7906,7 @@
     <title lang="el">[K8] Moto In Action </title>
   </programme>
   <programme start="20200620213000 +0300" stop="20200620223000 +0300" channel="SUPER B">
-    <title lang="el">[K8] Κόντρα &amp; Ρήξη</title>
+    <title lang="el">[K8] Κόντρα &amp;amp; Ρήξη</title>
   </programme>
   <programme start="20200620223000 +0300" stop="20200621002000 +0300" channel="SUPER B">
     <title lang="el">[K16] Καλιφόρνια Ντρίμιν </title>
@@ -8497,7 +8497,7 @@
     <title lang="el">[K8] Gilmore Girls (E)</title>
   </programme>
   <programme start="20200621010000 +0300" stop="20200621013000 +0300" channel="NEA TV CRETE">
-    <title lang="el">[K16] Ζώδια &amp; Συμβουλές</title>
+    <title lang="el">[K16] Ζώδια &amp;amp; Συμβουλές</title>
   </programme>
   <programme start="20200621013000 +0300" stop="20200621033000 +0300" channel="NEA TV CRETE">
     <title lang="el">[K12] Bad Money</title>
@@ -8923,7 +8923,7 @@
     <title lang="el">[K] Θυρίδα Τηλεπώλησης</title>
   </programme>
   <programme start="20200621060000 +0300" stop="20200621063000 +0300" channel="STAR">
-    <title lang="el">[K] Tom &amp; Jerry Kids</title>
+    <title lang="el">[K] Tom &amp;amp; Jerry Kids</title>
   </programme>
   <programme start="20200621063000 +0300" stop="20200621070000 +0300" channel="STAR">
     <title lang="el">[K] Sylvester And Tweety Mysteries</title>
@@ -9280,7 +9280,7 @@
     <title lang="el">[K] Εκκλησιαστική Διδαχή </title>
   </programme>
   <programme start="20200621153000 +0300" stop="20200621170000 +0300" channel="STAR B. ELLADOS">
-    <title lang="el">[K] Μαγειρέματα &amp; Ζυμώματα</title>
+    <title lang="el">[K] Μαγειρέματα &amp;amp; Ζυμώματα</title>
   </programme>
   <programme start="20200621170000 +0300" stop="20200621180000 +0300" channel="STAR B. ELLADOS">
     <title lang="el">[K] www.startvfm.gr</title>
@@ -9292,7 +9292,7 @@
     <title lang="el">[K] Travel Guide</title>
   </programme>
   <programme start="20200621200000 +0300" stop="20200621210000 +0300" channel="STAR B. ELLADOS">
-    <title lang="el">[K8] Κοινωνία &amp; Πολιτισμός (Ε)</title>
+    <title lang="el">[K8] Κοινωνία &amp;amp; Πολιτισμός (Ε)</title>
   </programme>
   <programme start="20200621210000 +0300" stop="20200621230000 +0300" channel="STAR B. ELLADOS">
     <title lang="el">[K] www.startvfm.gr</title>
@@ -9325,7 +9325,7 @@
     <title lang="el">[K8] Τηλεμάρκετινγκ</title>
   </programme>
   <programme start="20200621140000 +0300" stop="20200621150000 +0300" channel="THRAKINET">
-    <title lang="el">[K8] Κόντρα &amp; Ρήξη</title>
+    <title lang="el">[K8] Κόντρα &amp;amp; Ρήξη</title>
   </programme>
   <programme start="20200621150000 +0300" stop="20200621160000 +0300" channel="THRAKINET">
     <title lang="el">[K8] Τηλεμάρκετινγκ</title>
@@ -9586,7 +9586,7 @@
     <title lang="el">[K] Πιάσαμε Την Καλή</title>
   </programme>
   <programme start="20200621193000 +0300" stop="20200621201500 +0300" channel="TV 100">
-    <title lang="el">[K] TV 100 Ειδήσεις &amp; Σύντομο Δελτίο Ειδήσεων Στη Νοηματική</title>
+    <title lang="el">[K] TV 100 Ειδήσεις &amp;amp; Σύντομο Δελτίο Ειδήσεων Στη Νοηματική</title>
   </programme>
   <programme start="20200621201500 +0300" stop="20200621202000 +0300" channel="TV 100">
     <title lang="el">[K] Ταξίδι Στη Γνώση</title>
@@ -9601,7 +9601,7 @@
     <title lang="el">[K12] Το Απόσπασμα Έπεσε Σε Ενέδρα (Seminole)</title>
   </programme>
   <programme start="20200622000000 +0300" stop="20200622004500 +0300" channel="TV 100">
-    <title lang="el">[K] TV 100 Ειδήσεις &amp; Σύντομο Δελτίο Ειδήσεων Στη Νοηματική (Ε)</title>
+    <title lang="el">[K] TV 100 Ειδήσεις &amp;amp; Σύντομο Δελτίο Ειδήσεων Στη Νοηματική (Ε)</title>
   </programme>
   <programme start="20200622004500 +0300" stop="20200622014500 +0300" channel="TV 100">
     <title lang="el">[K8] Fatsabook (Ε)</title>
@@ -9982,7 +9982,7 @@
     <title lang="el">[K8] Τηλεμάρκετινγκ</title>
   </programme>
   <programme start="20200621120000 +0300" stop="20200621130000 +0300" channel="BEST TV">
-    <title lang="el">[K8] Κόντρα &amp; Ρήξη </title>
+    <title lang="el">[K8] Κόντρα &amp;amp; Ρήξη </title>
   </programme>
   <programme start="20200621130000 +0300" stop="20200621150000 +0300" channel="BEST TV">
     <title lang="el">[K8] Τηλεμάρκετινγκ</title>
@@ -10000,7 +10000,7 @@
     <title lang="el">[K8] Τηλεμάρκετινγκ</title>
   </programme>
   <programme start="20200621183000 +0300" stop="20200621193000 +0300" channel="BEST TV">
-    <title lang="el">[K8] Κόντρα &amp; Ρήξη </title>
+    <title lang="el">[K8] Κόντρα &amp;amp; Ρήξη </title>
   </programme>
   <programme start="20200621193000 +0300" stop="20200621200000 +0300" channel="BEST TV">
     <title lang="el">[K8] 7 Ημέρες Λακωνία</title>
@@ -10249,7 +10249,7 @@
     <title lang="el">[K8] 4 Best Teleshopping</title>
   </programme>
   <programme start="20200621140000 +0300" stop="20200621150000 +0300" channel="SUPER B">
-    <title lang="el">[K8] Κόντρα &amp; Ρήξη</title>
+    <title lang="el">[K8] Κόντρα &amp;amp; Ρήξη</title>
   </programme>
   <programme start="20200621150000 +0300" stop="20200621161500 +0300" channel="SUPER B">
     <title lang="el">[K] Kido Το Super Φορτηγάκι </title>
@@ -10273,7 +10273,7 @@
     <title lang="el">[K8] Φιλικά Με Την Τίνα (Ε)</title>
   </programme>
   <programme start="20200621213000 +0300" stop="20200621223000 +0300" channel="SUPER B">
-    <title lang="el">[K8] Κόντρα &amp; Ρήξη</title>
+    <title lang="el">[K8] Κόντρα &amp;amp; Ρήξη</title>
   </programme>
   <programme start="20200621223000 +0300" stop="20200622004500 +0300" channel="SUPER B">
     <title lang="el">[K8] Μουσικό Πρόγραμμα </title>
@@ -10309,7 +10309,7 @@
     <title lang="el">[K12] Κυριακάτικη Αρένα</title>
   </programme>
   <programme start="20200622010000 +0300" stop="20200622030000 +0300" channel="ASTRA TV">
-    <title lang="el">[K] Black &amp; White</title>
+    <title lang="el">[K] Black &amp;amp; White</title>
   </programme>
   <programme start="20200622030000 +0300" stop="20200622053000 +0300" channel="ASTRA TV">
     <title lang="el">[K18] Night Zone</title>
@@ -11557,7 +11557,7 @@
     <title lang="el">[K8] Τηλεμάρκετινγκ</title>
   </programme>
   <programme start="20200622140000 +0300" stop="20200622150000 +0300" channel="THRAKINET">
-    <title lang="el">[K8] Κόντρα &amp; Ρήξη</title>
+    <title lang="el">[K8] Κόντρα &amp;amp; Ρήξη</title>
   </programme>
   <programme start="20200622150000 +0300" stop="20200622160000 +0300" channel="THRAKINET">
     <title lang="el">[K8] Τηλεμάρκετινγκ</title>
@@ -12106,7 +12106,7 @@
     <title lang="el">[K8] Κεντρικό Δελτίο Ειδήσεων</title>
   </programme>
   <programme start="20200622220000 +0300" stop="20200622230000 +0300" channel="BEST TV">
-    <title lang="el">[K8] Κόντρα &amp; Ρήξη </title>
+    <title lang="el">[K8] Κόντρα &amp;amp; Ρήξη </title>
   </programme>
   <programme start="20200622230000 +0300" stop="20200622233000 +0300" channel="BEST TV">
     <title lang="el">[K8] Με Αρετή Και Τόλμη</title>
