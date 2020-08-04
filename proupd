@@ -1,16 +1,11 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.30</latestVersion>
-    <latestVersionCode>57</latestVersionCode>
+    <latestVersion>2.31</latestVersion>
+    <latestVersionCode>58</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.loaderpro.player</url>
   <releaseNotes>
-Whats New V2.30:
-(1) New Black/Night Theme (change from settings)
-(2) Fix a bug which avoid proper loading Playlist.
-(3) Fix a bug which avoid proper loading EPG.
-(4) Adding list name for Xtream codes is now possible.
-(5) Fix translations.
-(6) Other bugs Fixed.
+Whats New V2.31:
+(1) Fix "Load Backup List" Crash.
     </releaseNotes>
   </update>
 </AppUpdater>
