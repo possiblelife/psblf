@@ -1,13 +1,14 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.32</latestVersion>
-    <latestVersionCode>59</latestVersionCode>
+    <latestVersion>2.33</latestVersion>
+    <latestVersionCode>60</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.loaderpro.player</url>
   <releaseNotes>
-Whats New V2.32:
-(1) Orientation button for internal players (portable devices) - Change default orientation.
-(2) Change default TVStyle orientation from settings.
-(3) Other bugs Fixed.
+Whats New V2.33:
+(1) Change List and EPG OSD Tansparency from settings (TVStyle).
+(2) Updated auto-player behavior (TVStyle).
+(3) Update Internal Player 1.
+(4) Other bugs Fixed.
     </releaseNotes>
   </update>
 </AppUpdater>
