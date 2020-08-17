@@ -1,6 +1,6 @@
     <latestVersion>1.00</latestVersion>
     <latestVersionCode>1</latestVersionCode>
-    <url>http://www.mediafire.com/file/vggzayv577pbk8x/e-Doctor_IPTV_Premium_V4.22.apk/file</url>
+    <url>http://www.mediafire.com/file/</url>
   <releaseNotes>
 Whats new v1.00
 (1)
