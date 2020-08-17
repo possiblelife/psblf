@@ -1,4 +1,4 @@
-    <latestVersion>1.00</latestVersion>
+    <latestVersion>1.01</latestVersion>
     <latestVersionCode>2</latestVersionCode>
     <url>http://www.mediafire.com/file/xd02jhlif3xrbtb/Greek_IPTV_v2.1.apk/file</url>
   <releaseNotes>
