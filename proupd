@@ -1,14 +1,12 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.33</latestVersion>
-    <latestVersionCode>60</latestVersionCode>
+    <latestVersion>2.34</latestVersion>
+    <latestVersionCode>61</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.loaderpro.player</url>
   <releaseNotes>
-Whats New V2.33:
-(1) Change List and EPG OSD Tansparency from settings (TVStyle).
-(2) Updated auto-player behavior (TVStyle).
-(3) Update Internal Player 1.
-(4) Other bugs Fixed.
+Whats New V2.34:
+(1) Fix a bug With Series (no error anymore).
+(2) Other bugs Fixed.
     </releaseNotes>
   </update>
 </AppUpdater>
