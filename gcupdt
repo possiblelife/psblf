@@ -1,11 +1,12 @@
 <AppUpdater>
   <update>
-    <latestVersion>3.07</latestVersion>
-    <latestVersionCode>54</latestVersionCode>
-    <url>http://www.mediafire.com/file/cj7r7y4dwfkqi1e/e-Doctor+IPTV+Gold+Edition+V3.07.apk/file</url>
+    <latestVersion>3.08</latestVersion>
+    <latestVersionCode>55</latestVersionCode>
+    <url>http://www.mediafire.com/file/1g8smojz3swlctb/e-Doctor+IPTV+Gold+Edition+V3.08.apk/file</url>
   <releaseNotes>
-Whats New 3.07:
-(1) Fix Live Matches 1 
+Whats New 3.08:
+(1) EPG support (country mode)
+(2) Other Fixes
    </releaseNotes>
   </update>
 </AppUpdater>
