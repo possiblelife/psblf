@@ -198,6 +198,9 @@
   <channel id="Sky Sports Racing UK">
     <display-name lang="en">Sky Sports Racing UK</display-name>
   </channel>
+  <channel id="Sky Sports Action">
+    <display-name lang="en">Sky Sports Action</display-name>
+  </channel>
   <channel id="Sky Sports Premier League">
     <display-name lang="en">Sky Sports Premier League</display-name>
   </channel>
@@ -20992,5 +20995,225 @@
   <programme start="20200914053000 +0100" stop="20200914055900 +0100" channel="Sky Sports Premier League">
     <title lang="en">Premier League 100 Club</title>
       <desc lang="en">A chance to relive the best of Peter Crouch's goals in the Premier League, scored for Aston Villa, Southampton, Liverpool, Portsmouth, Tottenham Hotspur and Stoke City</desc>
+  </programme>
+  <programme start="20200911060000 +0100" stop="20200911070000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL: America's Game</title>
+      <desc lang="en">The story of Pittsburgh Steelers' 2008 Super Bowl success over Arizona Cardinals at the Raymond James Stadium in Tampa, Florida. Pittsburgh's triumph was their sixth Super Bowl victory overall, making them the most successful team in the history of the NFL's showpiece occasion</desc>
+  </programme>
+  <programme start="20200911070000 +0100" stop="20200911071500 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Bitesize Highlights</title>
+      <desc lang="en">Kansas City Chiefs v Houston Texans</desc>
+  </programme>
+  <programme start="20200911071500 +0100" stop="20200911074500 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Gameday</title>
+      <desc lang="en"></desc>
+  </programme>
+  <programme start="20200911074500 +0100" stop="20200911080000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Bitesize Highlights</title>
+      <desc lang="en">Kansas City Chiefs v Houston Texans</desc>
+  </programme>
+  <programme start="20200911080000 +0100" stop="20200911090000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Highlights</title>
+      <desc lang="en">Carolina Panthers v Tampa Bay Buccaneers from 2019</desc>
+  </programme>
+  <programme start="20200911090000 +0100" stop="20200911120000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL</title>
+      <desc lang="en">Kansas City Chiefs v Houston Texans</desc>
+  </programme>
+  <programme start="20200911120000 +0100" stop="20200911150000 +0100" channel="Sky Sports Action">
+    <title lang="en">Live: Good Morning Football</title>
+      <desc lang="en">The latest NFL news and talking points</desc>
+  </programme>
+  <programme start="20200911150000 +0100" stop="20200911180000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL</title>
+      <desc lang="en">Kansas City Chiefs v Houston Texans</desc>
+  </programme>
+  <programme start="20200911180000 +0100" stop="20200911190000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL: America's Game</title>
+      <desc lang="en">A look back at the Kansas City Chiefs side of 2020, who overcame San Francisco 49ers in Super Bowl LIV at Hard Rock Stadium in Miami, Florida</desc>
+  </programme>
+  <programme start="20200911190000 +0100" stop="20200911210000 +0100" channel="Sky Sports Action">
+    <title lang="en">NBC's Pro-Football Talk</title>
+      <desc lang="en">American football discussion</desc>
+  </programme>
+  <programme start="20200911210000 +0100" stop="20200912000000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Highlights</title>
+      <desc lang="en">Kansas City Chiefs v Houston Texans</desc>
+  </programme>
+  <programme start="20200912000000 +0100" stop="20200912010000 +0100" channel="Sky Sports Action">
+    <title lang="en">Live: Total Access</title>
+      <desc lang="en">The latest NFL news and talking points</desc>
+  </programme>
+  <programme start="20200912010000 +0100" stop="20200912040000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL</title>
+      <desc lang="en">Kansas City Chiefs v Houston Texans</desc>
+  </programme>
+  <programme start="20200912040000 +0100" stop="20200912050000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL: America's Game</title>
+      <desc lang="en">A look back at the Kansas City Chiefs side of 2020, who overcame San Francisco 49ers in Super Bowl LIV at Hard Rock Stadium in Miami, Florida</desc>
+  </programme>
+  <programme start="20200912050000 +0100" stop="20200912055900 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL: America's Game</title>
+      <desc lang="en">Revisiting New York Giants' 2011 Super Bowl victory over New England Patriots at the Lucas Oil Stadium in Indianapolis, Indiana. This was the second Super Bowl win in five years for the Giants, having also triumphed over the Patriots in 2008</desc>
+  </programme>
+  <programme start="20200912060000 +0100" stop="20200912063000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Roundtable</title>
+      <desc lang="en">A look at some of the finest offensive linemen of all time</desc>
+  </programme>
+  <programme start="20200912063000 +0100" stop="20200912070000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Roundtable</title>
+      <desc lang="en">Discussing the league's great quarter-backs</desc>
+  </programme>
+  <programme start="20200912070000 +0100" stop="20200912073000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Roundtable</title>
+      <desc lang="en"></desc>
+  </programme>
+  <programme start="20200912073000 +0100" stop="20200912080000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Roundtable</title>
+      <desc lang="en"></desc>
+  </programme>
+  <programme start="20200912080000 +0100" stop="20200912083000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Roundtable</title>
+      <desc lang="en">An NFL 100 round-table discussion looking at the league's great defensive backs</desc>
+  </programme>
+  <programme start="20200912083000 +0100" stop="20200912090000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Roundtable</title>
+      <desc lang="en">An NFL 100 round-table discussion looking at the league's great defensive linemen, as the likes of Michael Strahan and Bruce Smith discuss the best to have played the game</desc>
+  </programme>
+  <programme start="20200912090000 +0100" stop="20200912093000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Roundtable</title>
+      <desc lang="en">An NFL 100 round-table discussion looking at the league's great tight ends, as the likes of Shannon Sharpe and Tony Gonzalez discuss the best to have played the game</desc>
+  </programme>
+  <programme start="20200912093000 +0100" stop="20200912103000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Highlights</title>
+      <desc lang="en">Denver Broncos v New England Patriots. Action from the AFC clash at Sports Authority Field at Mile High</desc>
+  </programme>
+  <programme start="20200912103000 +0100" stop="20200912113000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Highlights</title>
+      <desc lang="en">Oakland Raiders v New England Patriots. Action from the week 11 fixture, which took place at the Oakland-Alameda County Coliseum</desc>
+  </programme>
+  <programme start="20200912113000 +0100" stop="20200912130000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Highlights</title>
+      <desc lang="en">New England Patriots v Jacksonville Jaguars. Action from the AFC Championship Game at Gillette Stadium, as the teams competed for a place in Super Bowl LII</desc>
+  </programme>
+  <programme start="20200912130000 +0100" stop="20200912140000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Highlights</title>
+      <desc lang="en">Los Angeles Rams v Kansas City Chiefs</desc>
+  </programme>
+  <programme start="20200912140000 +0100" stop="20200912170000 +0100" channel="Sky Sports Action">
+    <title lang="en">Live: Good Morning Football</title>
+      <desc lang="en">The Good Morning Football Weekend team presents the talking points from around the NFL ahead of the first weekend of matches</desc>
+  </programme>
+  <programme start="20200912170000 +0100" stop="20200912180000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Highlights</title>
+      <desc lang="en">Pittsburgh Steelers v Kansas City Chiefs</desc>
+  </programme>
+  <programme start="20200912180000 +0100" stop="20200912190000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Highlights</title>
+      <desc lang="en">Baltimore Ravens v New England Patriots</desc>
+  </programme>
+  <programme start="20200912190000 +0100" stop="20200912200000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Highlights</title>
+      <desc lang="en">Baltimore Ravens v New York Jets from 2019</desc>
+  </programme>
+  <programme start="20200912200000 +0100" stop="20200912210000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Highlights</title>
+      <desc lang="en">Los Angeles Rams v Baltimore Ravens from 2019</desc>
+  </programme>
+  <programme start="20200912210000 +0100" stop="20200912213000 +0100" channel="Sky Sports Action">
+    <title lang="en">Jags All Access: UK</title>
+      <desc lang="en"></desc>
+  </programme>
+  <programme start="20200912213000 +0100" stop="20200912220000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Gameday</title>
+      <desc lang="en"></desc>
+  </programme>
+  <programme start="20200912220000 +0100" stop="20200912230000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL: America's Game</title>
+      <desc lang="en">A look back at the Kansas City Chiefs side of 2020, who overcame San Francisco 49ers in Super Bowl LIV at Hard Rock Stadium in Miami, Florida</desc>
+  </programme>
+  <programme start="20200912230000 +0100" stop="20200913000000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL: A Football Life</title>
+      <desc lang="en">A look at the life of 2020 Pro Football Hall of Famer Bill Cowher</desc>
+  </programme>
+  <programme start="20200913000000 +0100" stop="20200913020000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Highlights</title>
+      <desc lang="en">New England Patriots v Philadelphia Eagles. Action from the showpiece match, which took place at US Bank Stadium in Minneapolis, Minnesota</desc>
+  </programme>
+  <programme start="20200913020000 +0100" stop="20200913040000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Highlights</title>
+      <desc lang="en">New England Patriots v Atlanta Falcons. Action from American football's showpiece match, which took place at NRG Stadium in Houston, Texas</desc>
+  </programme>
+  <programme start="20200913040000 +0100" stop="20200913055900 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Highlights</title>
+      <desc lang="en">Denver Broncos v Carolina Panthers. Highlights of the showpiece event from Levi's Stadium in Santa Clara, California</desc>
+  </programme>
+  <programme start="20200913060000 +0100" stop="20200913070000 +0100" channel="Sky Sports Action">
+    <title lang="en">The Story of NFL Europe</title>
+      <desc lang="en">A look back at the former NFL development league, which featured teams such as London Monarchs and Scottish Claymores</desc>
+  </programme>
+  <programme start="20200913070000 +0100" stop="20200913080000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Highlights</title>
+      <desc lang="en">Cincinnati Bengals v Washington Redskins. Action from the match in the eighth round of 2016 fixtures, which took place at Wembley Stadium</desc>
+  </programme>
+  <programme start="20200913080000 +0100" stop="20200913090000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Highlights</title>
+      <desc lang="en">Jacksonville Jaguars v Baltimore Ravens. Action from the 2017 match between the respective AFC South and AFC North teams, which took place at Wembley Stadium</desc>
+  </programme>
+  <programme start="20200913090000 +0100" stop="20200913100000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Highlights</title>
+      <desc lang="en">Los Angeles Rams v Arizona Cardinals. Action from the week seven fixture in 2017, which took place at Twickenham in London</desc>
+  </programme>
+  <programme start="20200913100000 +0100" stop="20200913110000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Highlights</title>
+      <desc lang="en">Oakland Raiders v Seattle Seahawks in 2018</desc>
+  </programme>
+  <programme start="20200913110000 +0100" stop="20200913120000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Highlights</title>
+      <desc lang="en">Jacksonville Jaguars v Philadelphia Eagles from 2018</desc>
+  </programme>
+  <programme start="20200913120000 +0100" stop="20200913130000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Highlights</title>
+      <desc lang="en">Tampa Bay Buccaneers v Carolina Panthers from 2019</desc>
+  </programme>
+  <programme start="20200913130000 +0100" stop="20200913140000 +0100" channel="Sky Sports Action">
+    <title lang="en">The Story of NFL Europe</title>
+      <desc lang="en">A look back at the former NFL development league, which featured teams such as London Monarchs and Scottish Claymores</desc>
+  </programme>
+  <programme start="20200913140000 +0100" stop="20200913170000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Gameday</title>
+      <desc lang="en">A round-up of the latest American football news and results and a look ahead to forthcoming matches</desc>
+  </programme>
+  <programme start="20200913170000 +0100" stop="20200913211500 +0100" channel="Sky Sports Action">
+    <title lang="en">Live NFL</title>
+      <desc lang="en">New England Patriots v Miami Dolphins (Kick-off 6.00pm). Coverage of the week one match at Gillette Stadium</desc>
+  </programme>
+  <programme start="20200913211500 +0100" stop="20200914003000 +0100" channel="Sky Sports Action">
+    <title lang="en">Live NFL</title>
+      <desc lang="en">New Orleans Saints v Tampa Bay Buccaneers (Kick-off 9.25pm) Coverage of the week one match at Mercedes-Benz Superdome</desc>
+  </programme>
+  <programme start="20200914003000 +0100" stop="20200914012000 +0100" channel="Sky Sports Action">
+    <title lang="en">Live NBC's FNIA</title>
+      <desc lang="en">Coverage of Football Night in America, which looks ahead to the latest live NFL fixture</desc>
+  </programme>
+  <programme start="20200914012000 +0100" stop="20200914050000 +0100" channel="Sky Sports Action">
+    <title lang="en">Live NFL</title>
+      <desc lang="en">Los Angeles Rams v Dallas Cowboys (Kick-off 1.20am). Coverage of the week one fixture at SoFi Stadium in Inglewood, California</desc>
+  </programme>
+  <programme start="20200914050000 +0100" stop="20200914051500 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Bitesize Highlights</title>
+      <desc lang="en">Kansas City Chiefs v Houston Texans</desc>
+  </programme>
+  <programme start="20200914051500 +0100" stop="20200914053000 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Bitesize Highlights</title>
+      <desc lang="en">Miami Dolphins</desc>
+  </programme>
+  <programme start="20200914053000 +0100" stop="20200914054500 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Bitesize Highlights</title>
+      <desc lang="en">New Orleans Saints v Tampa Bay Buccaneers</desc>
+  </programme>
+  <programme start="20200914054500 +0100" stop="20200914055900 +0100" channel="Sky Sports Action">
+    <title lang="en">NFL Bitesize Highlights</title>
+      <desc lang="en">Kansas City Chiefs v Houston Texans</desc>
   </programme>
 </tv>
