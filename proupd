@@ -1,12 +1,13 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.36</latestVersion>
-    <latestVersionCode>63</latestVersionCode>
+    <latestVersion>2.37</latestVersion>
+    <latestVersionCode>64</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.loaderpro.player</url>
   <releaseNotes>
-Whats New V2.36:
-(1) Updated " add Playlist from Storage" New method
-(2) Fix brightness control for some devices (no blurry video)
+Whats New V2.37:
+(1) Can change Icon size (Xtream codes main menu).
+(2) Fix load epg for some devices.
+(3) Android 11 compatibility Fix
     </releaseNotes>
   </update>
 </AppUpdater>
