@@ -1,13 +1,11 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.37</latestVersion>
-    <latestVersionCode>64</latestVersionCode>
+    <latestVersion>2.38</latestVersion>
+    <latestVersionCode>65</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.loaderpro.player</url>
   <releaseNotes>
-Whats New V2.37:
-(1) Can change Icon size (Xtream codes main menu).
-(2) Fix load epg for some devices.
-(3) Android 11 compatibility Fix
+Whats New V2.38:
+(1) Fix possible crushes when loading components (Xtream codes).
     </releaseNotes>
   </update>
 </AppUpdater>
