@@ -1,12 +1,13 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.42</latestVersion>
-    <latestVersionCode>69</latestVersionCode>
+    <latestVersion>2.43</latestVersion>
+    <latestVersionCode>70</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.loaderpro.player</url>
   <releaseNotes>
-Whats New V2.42:
-(1) Change Clock Position (tvstyle only).
-(2) Added https support for Xtream Codes.
+Whats New V2.43:
+(1) add/remove red outline - tvstyle (Display settings)
+(2) all buttons in one row - tvstyle (Display settings) 
+(3) Fix a bug with mouse wheel.
     </releaseNotes>
   </update>
 </AppUpdater>
