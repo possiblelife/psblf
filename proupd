@@ -1,18 +1,17 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.55</latestVersion>
-    <latestVersionCode>82</latestVersionCode>
+    <latestVersion>2.60</latestVersion>
+    <latestVersionCode>83</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.loaderpro.player</url>
   <releaseNotes>
-Whats New V2.55:
-(1) Fix media controller - Change media bar forward and backwards to 10s.
-(2) Fix and added remote buttons.
-(3) Change export list (choose groups to export).
-(4) Fix Boost sound, boost level will stay.
-(5) Mark saw Series and movies (Xtream codes only).
-(6) More details about EPG preparation.
-(7) Ability to change video quality.
-(8) All available video tracks for internal player 1.
+Whats New V2.60:
+(1) MAG Portal Support (experimental).
+(2) Stability Fix for classic and TV style.
+(3) Change Xtream Codes Groups order method.
+(4) Removed add/delete favorites Confirmation.
+(5) Show/Copy url at popup menu
+(6) Fix autostart from Xtream Codes Account (not working before)
+(7) Other Fixes.
     </releaseNotes>
   </update>
 </AppUpdater>
