@@ -1,12 +1,12 @@
-    <latestVersion>4.37</latestVersion>
-    <latestVersionCode>82</latestVersionCode>
-    <url>https://www.mediafire.com/file/h5wihs2w62nuj14/e-Doctor_IPTV_Premium_V4.37.apk/file</url>
+    <latestVersion>4.38</latestVersion>
+    <latestVersionCode>83</latestVersionCode>
+    <url>https://www.mediafire.com/file/sll0p8ik64o09n0/e-Doctor+IPTV+Premium+V4.38.apk/file</url>
   <releaseNotes>
 ΠΡΟΣΟΧΗ: ΑΝ ΔΕΝ ΔΟΥΛΕΥΕΙ Η ΑΥΤΟΜΑΤΗ ΑΝΑΒΑΘΜΙΣΗ ΚΑΤΕΒΑΣΤΕ ΤΗΝ ΑΝΑΒΑΘΜΙΣΗ ΑΠΟ ΤΟ ΠΙΟ ΚΑΤΩ ΣΥΝΔΕΣΜΟ:
 https://rebrand.ly/iptvpremium
 
-ΑΛΛΑΓΕΣ ΣΤΟ 4.37
-(1) Διόρθωση EPG-Cathup.
-(2) Sleep timer για TVstyle (ενεργοποίηση απο τις ρυθμίσεις).
+ΑΛΛΑΓΕΣ ΣΤΟ 4.38
+(1) Διόρθωση στο EPG (οχι πλέον κρασιάρισμα όταν δεν έχει cathup).
+(2) Πρόσθεση στο Sleep timer 15 λεπτα, 30 λεπτα και 1 ώρα για TVstyle (ενεργοποίηση απο τις ρυθμίσεις).
 (3) ΑΛΛΕΣ ΑΛΛΑΓΕΣ ΚΑΙ ΔΙΟΡΘΩΣΕΙΣ.
     </releaseNotes>
