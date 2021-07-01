@@ -293,7 +293,7 @@
   </programme>
   <programme start="20210701190000 +0300" stop="20210701210000 +0300" channel="ert1">
     <title lang="el">Το Μικρό Σπίτι στο Λιβάδι Κ3 Ε7</title>
-   <desc lang="el">lass='aui ltr' dir='ltr' lang='el-GR'> <head> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>COSMOTE TV</title> <!-- Handlebar templates --> <script id="day-program-search-result-template" type="text/x-handlebars-template"> <div class="program-search-result"> <a href="{{closeUpUrl}}"> <img src="{{imageUrl}}" alt="{{title}}"> </a> <div class="info"> <a href="{{closeUpUrl}}" class="title">{{{title}}}</a> <p class="category">{{category}}</p> <p class="when">{{dateFormatted}}&amp;nbsp;|&amp;nbsp;{{timeFormatted}}</p> </desc>
+   <desc lang="el"></desc>
   </programme>
   <programme start="20210701190000 +0300" stop="20210701195000 +0300" channel="ert1">
     <title lang="el">Το Μικρό Σπίτι στο Λιβάδι Κ3 Ε8</title>
@@ -313,7 +313,7 @@
   </programme>
   <programme start="20210701220000 +0300" stop="20210701230000 +0300" channel="ert1">
     <title lang="el">Τα Καλύτερά μας Χρόνια</title>
-   <desc lang="el">lass='aui ltr' dir='ltr' lang='el-GR'> <head> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>COSMOTE TV</title> <!-- Handlebar templates --> <script id="day-program-search-result-template" type="text/x-handlebars-template"> <div class="program-search-result"> <a href="{{closeUpUrl}}"> <img src="{{imageUrl}}" alt="{{title}}"> </a> <div class="info"> <a href="{{closeUpUrl}}" class="title">{{{title}}}</a> <p class="category">{{category}}</p> <p class="when">{{dateFormatted}}&amp;nbsp;|&amp;nbsp;{{timeFormatted}}</p> </desc>
+   <desc lang="el"></desc>
   </programme>
   <programme start="20210701220000 +0300" stop="20210701230000 +0300" channel="ert1">
     <title lang="el">Τα Καλύτερά μας Χρόνια Ε4</title>
@@ -329,7 +329,7 @@
   </programme>
   <programme start="20210702001500 +0300" stop="20210702011500 +0300" channel="ert1">
     <title lang="el">Κεραία (Ε)</title>
-   <desc lang="el">lass='aui ltr' dir='ltr' lang='el-GR'> <head> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>COSMOTE TV</title> <!-- Handlebar templates --> <script id="day-program-search-result-template" type="text/x-handlebars-template"> <div class="program-search-result"> <a href="{{closeUpUrl}}"> <img src="{{imageUrl}}" alt="{{title}}"> </a> <div class="info"> <a href="{{closeUpUrl}}" class="title">{{{title}}}</a> <p class="category">{{category}}</p> <p class="when">{{dateFormatted}}&amp;nbsp;|&amp;nbsp;{{timeFormatted}}</p> </desc>
+   <desc lang="el"></desc>
   </programme>
   <programme start="20210702001500 +0300" stop="20210702011500 +0300" channel="ert1">
     <title lang="el">Αυτός και ο Άλλος</title>
@@ -337,7 +337,7 @@
   </programme>
   <programme start="20210702011500 +0300" stop="20210702023000 +0300" channel="ert1">
     <title lang="el">Θάλασσα από Πλαστικό Κ2 Ε12 (Ε)</title>
-   <desc lang="el">lass='aui ltr' dir='ltr' lang='el-GR'> <head> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>COSMOTE TV</title> <!-- Handlebar templates --> <script id="day-program-search-result-template" type="text/x-handlebars-template"> <div class="program-search-result"> <a href="{{closeUpUrl}}"> <img src="{{imageUrl}}" alt="{{title}}"> </a> <div class="info"> <a href="{{closeUpUrl}}" class="title">{{{title}}}</a> <p class="category">{{category}}</p> <p class="when">{{dateFormatted}}&amp;nbsp;|&amp;nbsp;{{timeFormatted}}</p> </desc>
+   <desc lang="el"></desc>
   </programme>
   <programme start="20210702011500 +0300" stop="20210702023000 +0300" channel="ert1">
     <title lang="el">Θάλασσα από Πλαστικό Κ2 Ε10</title>
@@ -393,7 +393,7 @@
   </programme>
   <programme start="20210702190000 +0300" stop="20210702210000 +0300" channel="ert1">
     <title lang="el">Το Μικρό Σπίτι στο Λιβάδι Κ3 Ε9</title>
-   <desc lang="el">lass='aui ltr' dir='ltr' lang='el-GR'> <head> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>COSMOTE TV</title> <!-- Handlebar templates --> <script id="day-program-search-result-template" type="text/x-handlebars-template"> <div class="program-search-result"> <a href="{{closeUpUrl}}"> <img src="{{imageUrl}}" alt="{{title}}"> </a> <div class="info"> <a href="{{closeUpUrl}}" class="title">{{{title}}}</a> <p class="category">{{category}}</p> <p class="when">{{dateFormatted}}&amp;nbsp;|&amp;nbsp;{{timeFormatted}}</p> </desc>
+   <desc lang="el"></desc>
   </programme>
   <programme start="20210702190000 +0300" stop="20210702195000 +0300" channel="ert1">
     <title lang="el">Το Μικρό Σπίτι στο Λιβάδι Κ3 Ε10</title>
@@ -413,7 +413,7 @@
   </programme>
   <programme start="20210702220000 +0300" stop="20210702230000 +0300" channel="ert1">
     <title lang="el">Τα Καλύτερά μας Χρόνια</title>
-   <desc lang="el">lass='aui ltr' dir='ltr' lang='el-GR'> <head> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>COSMOTE TV</title> <!-- Handlebar templates --> <script id="day-program-search-result-template" type="text/x-handlebars-template"> <div class="program-search-result"> <a href="{{closeUpUrl}}"> <img src="{{imageUrl}}" alt="{{title}}"> </a> <div class="info"> <a href="{{closeUpUrl}}" class="title">{{{title}}}</a> <p class="category">{{category}}</p> <p class="when">{{dateFormatted}}&amp;nbsp;|&amp;nbsp;{{timeFormatted}}</p> </desc>
+   <desc lang="el"></desc>
   </programme>
   <programme start="20210702220000 +0300" stop="20210702230000 +0300" channel="ert1">
     <title lang="el">Τα Καλύτερά μας Χρόνια Ε5 (Ε)</title>
@@ -421,7 +421,7 @@
   </programme>
   <programme start="20210702230000 +0300" stop="20210703000000 +0300" channel="ert1">
     <title lang="el">Προσωπικά</title>
-   <desc lang="el">lass='aui ltr' dir='ltr' lang='el-GR'> <head> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>COSMOTE TV</title> <!-- Handlebar templates --> <script id="day-program-search-result-template" type="text/x-handlebars-template"> <div class="program-search-result"> <a href="{{closeUpUrl}}"> <img src="{{imageUrl}}" alt="{{title}}"> </a> <div class="info"> <a href="{{closeUpUrl}}" class="title">{{{title}}}</a> <p class="category">{{category}}</p> <p class="when">{{dateFormatted}}&amp;nbsp;|&amp;nbsp;{{timeFormatted}}</p> </desc>
+   <desc lang="el"></desc>
   </programme>
   <programme start="20210702230000 +0300" stop="20210703000000 +0300" channel="ert1">
     <title lang="el">Προσωπικά</title>
@@ -433,7 +433,7 @@
   </programme>
   <programme start="20210703001500 +0300" stop="20210703021500 +0300" channel="ert1">
     <title lang="el">Μουσικό Κουτί (Ε)</title>
-   <desc lang="el">lass='aui ltr' dir='ltr' lang='el-GR'> <head> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>COSMOTE TV</title> <!-- Handlebar templates --> <script id="day-program-search-result-template" type="text/x-handlebars-template"> <div class="program-search-result"> <a href="{{closeUpUrl}}"> <img src="{{imageUrl}}" alt="{{title}}"> </a> <div class="info"> <a href="{{closeUpUrl}}" class="title">{{{title}}}</a> <p class="category">{{category}}</p> <p class="when">{{dateFormatted}}&amp;nbsp;|&amp;nbsp;{{timeFormatted}}</p> </desc>
+   <desc lang="el"></desc>
   </programme>
   <programme start="20210703001500 +0300" stop="20210703021500 +0300" channel="ert1">
     <title lang="el">Μουσικό Κουτί Ε3</title>
@@ -441,7 +441,7 @@
   </programme>
   <programme start="20210703021500 +0300" stop="20210703033000 +0300" channel="ert1">
     <title lang="el">Θάλασσα από Πλαστικό Κ2 Ε13 (Ε)</title>
-   <desc lang="el">lass='aui ltr' dir='ltr' lang='el-GR'> <head> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>COSMOTE TV</title> <!-- Handlebar templates --> <script id="day-program-search-result-template" type="text/x-handlebars-template"> <div class="program-search-result"> <a href="{{closeUpUrl}}"> <img src="{{imageUrl}}" alt="{{title}}"> </a> <div class="info"> <a href="{{closeUpUrl}}" class="title">{{{title}}}</a> <p class="category">{{category}}</p> <p class="when">{{dateFormatted}}&amp;nbsp;|&amp;nbsp;{{timeFormatted}}</p> </desc>
+   <desc lang="el"></desc>
   </programme>
   <programme start="20210703021500 +0300" stop="20210703033000 +0300" channel="ert1">
     <title lang="el">Θάλασσα από Πλαστικό Κ2 Ε11</title>
@@ -453,7 +453,7 @@
   </programme>
   <programme start="20210703043500 +0300" stop="20210703053000 +0300" channel="ert1">
     <title lang="el">Η Ζωή Αλλιώς Κ1</title>
-   <desc lang="el">lass='aui ltr' dir='ltr' lang='el-GR'> <head> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>COSMOTE TV</title> <!-- Handlebar templates --> <script id="day-program-search-result-template" type="text/x-handlebars-template"> <div class="program-search-result"> <a href="{{closeUpUrl}}"> <img src="{{imageUrl}}" alt="{{title}}"> </a> <div class="info"> <a href="{{closeUpUrl}}" class="title">{{{title}}}</a> <p class="category">{{category}}</p> <p class="when">{{dateFormatted}}&amp;nbsp;|&amp;nbsp;{{timeFormatted}}</p> </desc>
+   <desc lang="el"></desc>
   </programme>
   <programme start="20210703043500 +0300" stop="20210703053000 +0300" channel="ert1">
     <title lang="el">Χίος - Ψαρά - Οινούσσες, των Αρωμάτων και των Μύθων</title>
@@ -865,7 +865,7 @@
   </programme>
   <programme start="20210702170000 +0300" stop="20210702190000 +0300" channel="ert2">
     <title lang="el">Ξένη Σειρά</title>
-   <desc lang="el">lass='aui ltr' dir='ltr' lang='el-GR'> <head> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>COSMOTE TV</title> <!-- Handlebar templates --> <script id="day-program-search-result-template" type="text/x-handlebars-template"> <div class="program-search-result"> <a href="{{closeUpUrl}}"> <img src="{{imageUrl}}" alt="{{title}}"> </a> <div class="info"> <a href="{{closeUpUrl}}" class="title">{{{title}}}</a> <p class="category">{{category}}</p> <p class="when">{{dateFormatted}}&amp;nbsp;|&amp;nbsp;{{timeFormatted}}</p> </desc>
+   <desc lang="el"></desc>
   </programme>
   <programme start="20210702170000 +0300" stop="20210702180000 +0300" channel="ert2">
     <title lang="el">Βικτώρια Κ3</title>
@@ -961,7 +961,7 @@
   </programme>
   <programme start="20210703131500 +0300" stop="20210703141500 +0300" channel="ert2">
     <title lang="el">ΠΟΠ Μαγειρική Κ3 (Ε)</title>
-   <desc lang="el">lass='aui ltr' dir='ltr' lang='el-GR'> <head> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>COSMOTE TV</title> <!-- Handlebar templates --> <script id="day-program-search-result-template" type="text/x-handlebars-template"> <div class="program-search-result"> <a href="{{closeUpUrl}}"> <img src="{{imageUrl}}" alt="{{title}}"> </a> <div class="info"> <a href="{{closeUpUrl}}" class="title">{{{title}}}</a> <p class="category">{{category}}</p> <p class="when">{{dateFormatted}}&amp;nbsp;|&amp;nbsp;{{timeFormatted}}</p> </desc>
+   <desc lang="el"></desc>
   </programme>
   <programme start="20210703131500 +0300" stop="20210703141500 +0300" channel="ert2">
     <title lang="el">ΠΟΠ Μαγειρική Κ3 Ε21</title>
@@ -989,7 +989,7 @@
   </programme>
   <programme start="20210703200000 +0300" stop="20210703210000 +0300" channel="ert2">
     <title lang="el">Οι Αταίριαστοι</title>
-   <desc lang="el">lass='aui ltr' dir='ltr' lang='el-GR'> <head> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>COSMOTE TV</title> <!-- Handlebar templates --> <script id="day-program-search-result-template" type="text/x-handlebars-template"> <div class="program-search-result"> <a href="{{closeUpUrl}}"> <img src="{{imageUrl}}" alt="{{title}}"> </a> <div class="info"> <a href="{{closeUpUrl}}" class="title">{{{title}}}</a> <p class="category">{{category}}</p> <p class="when">{{dateFormatted}}&amp;nbsp;|&amp;nbsp;{{timeFormatted}}</p> </desc>
+   <desc lang="el"></desc>
   </programme>
   <programme start="20210703200000 +0300" stop="20210703210000 +0300" channel="ert2">
     <title lang="el">Art Week Κ7 Ε36</title>
@@ -1005,7 +1005,7 @@
   </programme>
   <programme start="20210703234500 +0300" stop="20210704012000 +0300" channel="ert2">
     <title lang="el">Νέος Ελληνικός Κινηματογράφος</title>
-   <desc lang="el">lass='aui ltr' dir='ltr' lang='el-GR'> <head> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>COSMOTE TV</title> <!-- Handlebar templates --> <script id="day-program-search-result-template" type="text/x-handlebars-template"> <div class="program-search-result"> <a href="{{closeUpUrl}}"> <img src="{{imageUrl}}" alt="{{title}}"> </a> <div class="info"> <a href="{{closeUpUrl}}" class="title">{{{title}}}</a> <p class="category">{{category}}</p> <p class="when">{{dateFormatted}}&amp;nbsp;|&amp;nbsp;{{timeFormatted}}</p> </desc>
+   <desc lang="el"></desc>
   </programme>
   <programme start="20210703234500 +0300" stop="20210704012000 +0300" channel="ert2">
     <title lang="el">L</title>
@@ -1105,7 +1105,7 @@
   </programme>
   <programme start="20210701053000 +0300" stop="20210701063000 +0300" channel="ert3">
     <title lang="el">Λιμάνια του Κόσμου Ε23 (Ε)</title>
-   <desc lang="el">lass='aui ltr' dir='ltr' lang='el-GR'> <head> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>COSMOTE TV</title> <!-- Handlebar templates --> <script id="day-program-search-result-template" type="text/x-handlebars-template"> <div class="program-search-result"> <a href="{{closeUpUrl}}"> <img src="{{imageUrl}}" alt="{{title}}"> </a> <div class="info"> <a href="{{closeUpUrl}}" class="title">{{{title}}}</a> <p class="category">{{category}}</p> <p class="when">{{dateFormatted}}&amp;nbsp;|&amp;nbsp;{{timeFormatted}}</p> </desc>
+   <desc lang="el"></desc>
   </programme>
   <programme start="20210701053000 +0300" stop="20210701073000 +0300" channel="ert3">
     <title lang="el">Μπάσκετ: Τουρκία - Τσεχία (Ζ)</title>
@@ -1113,11 +1113,11 @@
   </programme>
   <programme start="20210701063000 +0300" stop="20210701070000 +0300" channel="ert3">
     <title lang="el">Καλλιεργώντας για τον Πλανήτη</title>
-   <desc lang="el">lass='aui ltr' dir='ltr' lang='el-GR'> <head> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>COSMOTE TV</title> <!-- Handlebar templates --> <script id="day-program-search-result-template" type="text/x-handlebars-template"> <div class="program-search-result"> <a href="{{closeUpUrl}}"> <img src="{{imageUrl}}" alt="{{title}}"> </a> <div class="info"> <a href="{{closeUpUrl}}" class="title">{{{title}}}</a> <p class="category">{{category}}</p> <p class="when">{{dateFormatted}}&amp;nbsp;|&amp;nbsp;{{timeFormatted}}</p> </desc>
+   <desc lang="el"></desc>
   </programme>
   <programme start="20210701070000 +0300" stop="20210701073000 +0300" channel="ert3">
     <title lang="el">Έμπνευση και Καινοτομία Ε1 (Ε)</title>
-   <desc lang="el">lass='aui ltr' dir='ltr' lang='el-GR'> <head> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>COSMOTE TV</title> <!-- Handlebar templates --> <script id="day-program-search-result-template" type="text/x-handlebars-template"> <div class="program-search-result"> <a href="{{closeUpUrl}}"> <img src="{{imageUrl}}" alt="{{title}}"> </a> <div class="info"> <a href="{{closeUpUrl}}" class="title">{{{title}}}</a> <p class="category">{{category}}</p> <p class="when">{{dateFormatted}}&amp;nbsp;|&amp;nbsp;{{timeFormatted}}</p> </desc>
+   <desc lang="el"></desc>
   </programme>
   <programme start="20210701073000 +0300" stop="20210701080000 +0300" channel="ert3">
     <title lang="el">Μικρές Φάρμες Κ5 Ε12 (Ε)</title>
@@ -1217,7 +1217,7 @@
   </programme>
   <programme start="20210702053000 +0300" stop="20210702063000 +0300" channel="ert3">
     <title lang="el">Λιμάνια του Κόσμου Ε24 (Ε)</title>
-   <desc lang="el">lass='aui ltr' dir='ltr' lang='el-GR'> <head> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>COSMOTE TV</title> <!-- Handlebar templates --> <script id="day-program-search-result-template" type="text/x-handlebars-template"> <div class="program-search-result"> <a href="{{closeUpUrl}}"> <img src="{{imageUrl}}" alt="{{title}}"> </a> <div class="info"> <a href="{{closeUpUrl}}" class="title">{{{title}}}</a> <p class="category">{{category}}</p> <p class="when">{{dateFormatted}}&amp;nbsp;|&amp;nbsp;{{timeFormatted}}</p> </desc>
+   <desc lang="el"></desc>
   </programme>
   <programme start="20210702053000 +0300" stop="20210702073000 +0300" channel="ert3">
     <title lang="el">Μπάσκετ: Τσεχία - Ουρουγουάη (Ζ)</title>
@@ -1225,11 +1225,11 @@
   </programme>
   <programme start="20210702063000 +0300" stop="20210702070000 +0300" channel="ert3">
     <title lang="el">Balkan Express Ε9 (Ε)</title>
-   <desc lang="el">lass='aui ltr' dir='ltr' lang='el-GR'> <head> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>COSMOTE TV</title> <!-- Handlebar templates --> <script id="day-program-search-result-template" type="text/x-handlebars-template"> <div class="program-search-result"> <a href="{{closeUpUrl}}"> <img src="{{imageUrl}}" alt="{{title}}"> </a> <div class="info"> <a href="{{closeUpUrl}}" class="title">{{{title}}}</a> <p class="category">{{category}}</p> <p class="when">{{dateFormatted}}&amp;nbsp;|&amp;nbsp;{{timeFormatted}}</p> </desc>
+   <desc lang="el"></desc>
   </programme>
   <programme start="20210702070000 +0300" stop="20210702073000 +0300" channel="ert3">
     <title lang="el">Στο Τραπέζι του Γείτονα Ε14 (Ε)</title>
-   <desc lang="el">lass='aui ltr' dir='ltr' lang='el-GR'> <head> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>COSMOTE TV</title> <!-- Handlebar templates --> <script id="day-program-search-result-template" type="text/x-handlebars-template"> <div class="program-search-result"> <a href="{{closeUpUrl}}"> <img src="{{imageUrl}}" alt="{{title}}"> </a> <div class="info"> <a href="{{closeUpUrl}}" class="title">{{{title}}}</a> <p class="category">{{category}}</p> <p class="when">{{dateFormatted}}&amp;nbsp;|&amp;nbsp;{{timeFormatted}}</p> </desc>
+   <desc lang="el"></desc>
   </programme>
   <programme start="20210702073000 +0300" stop="20210702080000 +0300" channel="ert3">
     <title lang="el">Μικρές Φάρμες Κ3 Ε1 (Ε)</title>
@@ -1529,7 +1529,7 @@
   </programme>
   <programme start="20210701041000 +0300" stop="20210701044000 +0300" channel="Mega">
     <title lang="el">Και Πάλι Φίλοι Ε7</title>
-   <desc lang="el">lass='aui ltr' dir='ltr' lang='el-GR'> <head> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>COSMOTE TV</title> <!-- Handlebar templates --> <script id="day-program-search-result-template" type="text/x-handlebars-template"> <div class="program-search-result"> <a href="{{closeUpUrl}}"> <img src="{{imageUrl}}" alt="{{title}}"> </a> <div class="info"> <a href="{{closeUpUrl}}" class="title">{{{title}}}</a> <p class="category">{{category}}</p> <p class="when">{{dateFormatted}}&amp;nbsp;|&amp;nbsp;{{timeFormatted}}</p> </desc>
+   <desc lang="el"></desc>
   </programme>
   <programme start="20210701050000 +0300" stop="20210701053000 +0300" channel="Mega">
     <title lang="el">Τηλεμπόρα Ε30</title>
