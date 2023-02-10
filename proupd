@@ -1,0 +1,17 @@
+<AppUpdater>
+  <update>
+    <latestVersion>2.82</latestVersion>
+    <latestVersionCode>103</latestVersionCode>
+    <url>https://play.google.com/store/apps/details?id=com.loaderpro.player</url>
+  <releaseNotes>
+Whats New V2.82:
+(1) More MAG Portals support.
+(2) Fix possible crushes when changing channels with up or down arrows.
+(3) New m3u encryption tool/support uload encrypted m3u.
+(4) Fix possible crushes for mag portal.
+(5) Better support for huge epg files.
+(6) Added Polish Language.
+(7) Other optimizations and Fixes.
+    </releaseNotes>
+  </update>
+</AppUpdater>

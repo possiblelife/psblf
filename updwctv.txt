@@ -1,0 +1,7 @@
+    <latestVersion>1.00</latestVersion>
+    <latestVersionCode>1</latestVersionCode>
+    <url>http://www.mediafire.com/file/f0hyf2ff0pqzonk/WorldclassTV+V1.00.apk/file</url>
+  <releaseNotes>
+Whats new v1.00
+(1)First Release
+    </releaseNotes>
