@@ -1,10 +1,14 @@
-    <latestVersion>4.79</latestVersion>
-    <latestVersionCode>114</latestVersionCode>
-    <url>https://dl.dropboxusercontent.com/s/26tadb4qpkxc04r/e-Doctor%20IPTV%20Premium%20V4.79%20FIRE.apk?dl=0</url>
+    <latestVersion>4.80</latestVersion>
+    <latestVersionCode>115</latestVersionCode>
+    <url>https://dl.dropboxusercontent.com/s/dfiu9sds6p6d68w/e-Doctor%20IPTV%20Premium%20V4.80%20FIRE.apk?dl=0</url>
   <releaseNotes>
-ΑΛΛΑΓΕΣ ΣΤΟ 4.79
-(1) Προετοιμασία του epg στο παρασκήνιο (σαν προεπιλογή). 
-(2) Νέα στυλ/τύποι να επιλέξετε για το μενού στο tvstyle.
-(3) Δυνατότητα αλλαγής του URL του εικονίδιο σε κάποιο κανάλι/ταινία.
-(4) Άλλες αλλαγές και βελτιώσεις.
+ΠΡΟΣΟΧΗ: ΠΑΡΑΚΑΛΩ ΚΑΝΕΤΕ ΤΗΝ ΑΝΑΒΑΘΜΙΣΗ ΓΙΑ ΤΗΝ ΣΩΣΤΗ ΛΕΙΤΟΥΡΓΙΑ ΤΩΝ ΚΑΝΑΛΙΩΝ ΚΑΙ ΣΩΣΤΗ ΤΑΞΙΝΟΜΗΣΗ ΚΑΤΗΓΟΡΙΩΝ.
+
+ΑΛΛΑΓΕΣ ΣΤΟ 4.80
+(1) ΔΙΟΡΘΩΣΗ ΚΑΤΗΓΟΡΙΩΝ ΚΑΙ ΚΑΝΑΛΙΩΝ. 
+(2) ΠΙΟ ΓΡΗΓΟΡΗ ΚΑΙ ΚΑΛΥΤΕΡΗ ΠΡΟΕΤΟΙΜΑΣΙΑ EPG, ΣΩΣΤΟ EPG ΣΤΟΥΣ INTERNAL PLAYER ΣΕ CLASSIC STYLE.
+(3) ΠΡΟΣΘΗΚΗ ΕΙΚΟΝΙΔΙΟΥ ΑΝΑΛΟΓΙΑΣ ΟΘΟΝΗΣ, ΔΙΟΡΘΩΣΗ ΑΝΑΛΟΓΙΑ ΣΕ ΠΕΡΙΣΤΡΟΦΗ.
+(4) ΔΙΟΡΘΩΣΗ ΠΡΟΒΛΗΜΑΤΟΣ ΤΗΣ ΜΠΑΡΑΣ ΚΟΥΜΠΙΩΝ ΣΤΙΣ ΤΑΙΝΙΕΣ.
+(5) ΠΡΟΣΘΕΣΗ ΚΟΥΜΠΙΟΥ ΑΝΑΝΕΩΣΗΣ ΛΙΣΤΑΣ ΣΤΟ ΚΕΝΤΡΙΚΟ ΜΕΝΟΥ.  
+(6) Άλλες αλλαγές και βελτιώσεις.
     </releaseNotes>
