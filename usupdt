@@ -1,9 +1,11 @@
-    <latestVersion>2.31</latestVersion>
-    <latestVersionCode>45</latestVersionCode>
-    <url>https://www.mediafire.com/file/kfffogxa95bv00j/USA_TV_%2526_Radio_V2.31.apk/file</url>
+    <latestVersion>3.00</latestVersion>
+    <latestVersionCode>46</latestVersionCode>
+    <url>https://dl.dropboxusercontent.com/scl/fi/eggpz1qzfl5j07gy8z5j9/USA-TV-Radio-V3.00.apk?rlkey=eptn3m0mm95b9aso5mizmxp72&dl=0</url>
   <releaseNotes>
-NOTE: New version requires Plugin v4.11.
+NOTE: New version requires Plugin v4.24
 
-Whats New V2.31:
-(1) Fix Android 13 Compatibility.
+Whats New V3.00:
+(1) Complete redesign
+(2) Remove simple mode
+(3) New style
     </releaseNotes>
