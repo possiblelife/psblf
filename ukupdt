@@ -1,8 +1,11 @@
-<latestVersion>3.00</latestVersion>
-    <latestVersionCode>59</latestVersionCode>
-    <url>https://www.mediafire.com/file/pol09ebsb4p48ya/UK_TV_%2526_Radio_V3.00.apk/file</url>
+<latestVersion>3.01</latestVersion>
+    <latestVersionCode>60</latestVersionCode>
+    <url>https://www.mediafire.com/file/h0mq2vdo3n167k2/UK_TV_%2526_Radio_V3.01.apk/file</url>
   <releaseNotes>
 NOTE: New version requires Plugin v4.24 
+
+Whats New V3.01:
+(1) Fix EPG not loading
 
 Whats New V3.00:
 (1) Complete redesign
