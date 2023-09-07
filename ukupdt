@@ -1,14 +1,12 @@
-<latestVersion>3.01</latestVersion>
-    <latestVersionCode>60</latestVersionCode>
-    <url>https://dl.dropboxusercontent.com/scl/fi/7wk2kmit7646ssgemyqoz/UK-TV-Radio-V3.01.apk?rlkey=tr81mpchyw7z353cm3rqg1cpe&dl=0</url>
+<latestVersion>3.02</latestVersion>
+    <latestVersionCode>61</latestVersionCode>
+    <url>https://dl.dropboxusercontent.com/scl/fi/duiyvhnttbf35pya2jgj3/UK-TV-Radio-V3.02.apk?rlkey=k1m0i8p0hwttqsjbfkdakbh6n&dl=0</url>
   <releaseNotes>
 NOTE: New version requires Plugin v4.24 
 
-Whats New V3.01:
-(1) Fix EPG not loading
-
-Whats New V3.00:
+Whats New V3.02:
 (1) Complete redesign
 (2) Remove simple mode
 (3) New style
+(4) VIP
     </releaseNotes>
