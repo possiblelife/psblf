@@ -4916,7 +4916,7 @@ To πιο πρωτότυπο, το πιο διασκεδαστικό τηλεπ�
     <desc lang="el">Το κανάλι υψηλής ευκρίνειας του ΡΙΚ. Μεταδίδει διάφορες ψυχαγωγικές και ενημερωτικές εκπομπές καθώς και αθλητικά γεγονότα.
 Το κανάλι υψηλής ευκρίνειας του ΡΙΚ. Μεταδίδει διάφορες ψυχαγωγικές και ενημερωτικές εκπομπές καθώς και αθλητικά γεγονότα.</desc>
   </programme>
-  <programme start="20231030064500 +0300" stop="20231030093000 +0300" channel="rik1">
+  <programme start="20231030064500 +0200" stop="20231030093000 +0200" channel="rik1">
     <title lang="el">Πρώτη Ενημέρωση</title>
    <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
 
@@ -4926,7 +4926,7 @@ To πιο πρωτότυπο, το πιο διασκεδαστικό τηλεπ�
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/1-PROTH-ENHMEROSH-F.jpg"/>
   </programme>
-  <programme start="20231030093000 +0300" stop="20231030110000 +0300" channel="rik1">
+  <programme start="20231030093000 +0200" stop="20231030110000 +0200" channel="rik1">
     <title lang="el">Όμορφη Μέρα</title>
    <desc lang="el">
 Ζωντανή, καθημερινή, ενημερωτική, ψυχαγωγική εκπομπή, που κρατά συντροφιά στους τηλεθεατές με μεγάλη ποικιλία θεμάτων.
@@ -4934,7 +4934,7 @@ To πιο πρωτότυπο, το πιο διασκεδαστικό τηλεπ�
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/2-OMORFH-MERA-F.jpg"/>
   </programme>
-  <programme start="20231030110000 +0300" stop="20231030140000 +0300" channel="rik1">
+  <programme start="20231030110000 +0200" stop="20231030140000 +0200" channel="rik1">
     <title lang="el">Κουζίνα σε Ρόδες</title>
    <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
 
@@ -4943,13 +4943,13 @@ To πιο πρωτότυπο, το πιο διασκεδαστικό τηλεπ�
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/3-APO-MERA-F.jpg"/>
   </programme>
-  <programme start="20231030140000 +0300" stop="20231030143000 +0300" channel="rik1">
+  <programme start="20231030140000 +0200" stop="20231030143000 +0200" channel="rik1">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el">Δελτίο Ειδήσεων στις 2 το μεσημέρι επτά ημέρες την εβδομάδα.
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2022/09/4-EIDHSEIS-TON-2-F.jpg"/>
   </programme>
-  <programme start="20231030143000 +0300" stop="20231030153000 +0300" channel="rik1">
+  <programme start="20231030143000 +0200" stop="20231030153000 +0200" channel="rik1">
     <title lang="el">Εμείς κι ο Κόσμος μας</title>
    <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει  ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
 
@@ -4957,12 +4957,12 @@ To πιο πρωτότυπο, το πιο διασκεδαστικό τηλεπ�
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/09/5-EMEIS-KI-F.jpg"/>
   </programme>
-  <programme start="20231030153000 +0300" stop="20231030183000 +0300" channel="rik1">
+  <programme start="20231030153000 +0200" stop="20231030183000 +0200" channel="rik1">
     <title lang="el">Καμώματα τζι Αρώματα</title>
    <desc lang="el">Τα σημαντικότερα γεγονότα μέχρι το απόγευμα και ο προπομπός των ειδήσεων που θα δούμε αναλυτικά στο κύριο δελτίο των 8.</desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/7-EIDHSEIS-TON-6-F.jpg"/>
   </programme>
-  <programme start="20231030183000 +0300" stop="20231030210000 +0300" channel="rik1">
+  <programme start="20231030183000 +0200" stop="20231030210000 +0200" channel="rik1">
     <title lang="el">Κουζίνα σε Ρόδες</title>
    <desc lang="el">Το Κεντρικό Δελτίο Ειδήσεων της Δημόσιας Ραδιοτηλεόρασης με σοβαρότητα και εγκυρότητα στην πρώτη γραμμή της ενημέρωσης.
 Με ρεπορτάζ, ζωντανές συνδέσεις, ανταποκρίσεις από την Κύπρο και το εξωτερικό ενημερώνει με υπευθυνότητα τους τηλεθεατές για όλη την τοπική και διεθνή επικαιρότητα της ημέρας.
@@ -4973,28 +4973,28 @@ To πιο πρωτότυπο, το πιο διασκεδαστικό τηλεπ�
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/11-EIDHSEIS-TON-8-F.jpg"/>
   </programme>
-  <programme start="20231030210000 +0300" stop="20231030235900 +0300" channel="rik1">
+  <programme start="20231030210000 +0200" stop="20231030235900 +0200" channel="rik1">
     <title lang="el">Στα Όρια</title>
    <desc lang="el">Η εβδομαδιαία ποδοσφαιρική εκπομπή του ΡΙΚ. Η ανάλυση της αγωνιστικής, τα πρόσωπα που ξεχώρισαν, συνεντεύξεις των πρωταγωνιστών, οι επίμαχες φάσεις και τεχνική ανάλυση. Η ελλαδική και η διεθνής ποδοσφαιρική επικαιρότητα. Στο στούντιο εκλεκτοί προσκεκλημένοι, προπονητές, ποδοσφαιριστές και αθλητικοί παράγοντες του τόπου.
 Παραγωγή – Σκηνοθεσία: Μαρίνος Γιαννάκη
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/13-GOAL-K-THEAMA-F.jpg"/>
   </programme>
-  <programme start="20231030063000 +0300" stop="20231030093000 +0300" channel="rik2">
+  <programme start="20231030063000 +0200" stop="20231030093000 +0200" channel="rik2">
     <title lang="el">Little House on the Prairie</title>
    <desc lang="el">
 Το παιδικό πρόγραμμα του ΡΙΚ συνεχίζει για 9η χρονιά με τους μικρούς και μεγάλους μας φίλους.Έχοντας ως βάση το αναλυτικό πρόγραμμα του Υπουργείου Παιδείας, Αθλητισμού και Νεολαίας, συνδυάζει την εκπαίδευση μαζί με τη ψυχαγωγία μέσα από πολλές θεματικές ενότητες.Μια ευχάριστη παρέα που εκτός από το να κρατά συντροφιά στα παιδιά, ανοίγει όμορφους δρόμους στον κόσμο της μάθησης αλλα και της ζωής.
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/38-POP-CORN-F.jpg"/>
   </programme>
-  <programme start="20231030093000 +0300" stop="20231030195000 +0300" channel="rik2">
+  <programme start="20231030093000 +0200" stop="20231030195000 +0200" channel="rik2">
     <title lang="el">Παιδική Ζώνη</title>
    <desc lang="el">Daily news bulletin in english.
 Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώσσα.
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/35-ENGLISH-NEWS-F.jpg"/>
   </programme>
-  <programme start="20231030195000 +0300" stop="20231030200000 +0300" channel="rik2">
+  <programme start="20231030195000 +0200" stop="20231030200000 +0200" channel="rik2">
     <title lang="el">Haberler</title>
    <desc lang="el">Hergün türkçe haber bülteni.
 
@@ -5002,12 +5002,12 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/36-HABERLER-F.jpg"/>
   </programme>
-  <programme start="20231030200000 +0300" stop="20231030235900 +0300" channel="rik2">
+  <programme start="20231030200000 +0200" stop="20231030235900 +0200" channel="rik2">
     <title lang="el">Κεντρικό Δελτίο Ειδήσεων στη Νοηματική</title>
    <desc lang="el"></desc>
    <icon src="https://cybc.com.cy/wp-content/themes/custom/images/RIKSAT_bg.png"/>
   </programme>
-  <programme start="20231030064500 +0300" stop="20231030093000 +0300" channel="riksat">
+  <programme start="20231030064500 +0200" stop="20231030093000 +0200" channel="riksat">
     <title lang="el">Πρώτη Ενημέρωση</title>
    <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
 
@@ -5017,7 +5017,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/1-PROTH-ENHMEROSH-F.jpg"/>
   </programme>
-  <programme start="20231030093000 +0300" stop="20231030110000 +0300" channel="riksat">
+  <programme start="20231030093000 +0200" stop="20231030110000 +0200" channel="riksat">
     <title lang="el">Όμορφη Μέρα </title>
    <desc lang="el">
 Ζωντανή, καθημερινή, ενημερωτική, ψυχαγωγική εκπομπή, που κρατά συντροφιά στους τηλεθεατές με μεγάλη ποικιλία θεμάτων.
@@ -5025,7 +5025,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/2-OMORFH-MERA-F.jpg"/>
   </programme>
-  <programme start="20231030110000 +0300" stop="20231030140000 +0300" channel="riksat">
+  <programme start="20231030110000 +0200" stop="20231030140000 +0200" channel="riksat">
     <title lang="el">Κουζίνα σε Ρόδες</title>
    <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
 
@@ -5034,13 +5034,13 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/3-APO-MERA-F.jpg"/>
   </programme>
-  <programme start="20231030140000 +0300" stop="20231030143000 +0300" channel="riksat">
+  <programme start="20231030140000 +0200" stop="20231030143000 +0200" channel="riksat">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el">Δελτίο Ειδήσεων στις 2 το μεσημέρι επτά ημέρες την εβδομάδα.
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2022/09/4-EIDHSEIS-TON-2-F.jpg"/>
   </programme>
-  <programme start="20231030143000 +0300" stop="20231030153000 +0300" channel="riksat">
+  <programme start="20231030143000 +0200" stop="20231030153000 +0200" channel="riksat">
     <title lang="el">Εμείς κι ο Κόσμος μας</title>
    <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει  ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
 
@@ -5048,12 +5048,12 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/09/5-EMEIS-KI-F.jpg"/>
   </programme>
-  <programme start="20231030153000 +0300" stop="20231030183000 +0300" channel="riksat">
+  <programme start="20231030153000 +0200" stop="20231030183000 +0200" channel="riksat">
     <title lang="el">Καμώματα τζι Αρώματα</title>
    <desc lang="el">Τα σημαντικότερα γεγονότα μέχρι το απόγευμα και ο προπομπός των ειδήσεων που θα δούμε αναλυτικά στο κύριο δελτίο των 8.</desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/7-EIDHSEIS-TON-6-F.jpg"/>
   </programme>
-  <programme start="20231030183000 +0300" stop="20231030210000 +0300" channel="riksat">
+  <programme start="20231030183000 +0200" stop="20231030210000 +0200" channel="riksat">
     <title lang="el">Κουζίνα σε Ρόδες</title>
    <desc lang="el">Το Κεντρικό Δελτίο Ειδήσεων της Δημόσιας Ραδιοτηλεόρασης με σοβαρότητα και εγκυρότητα στην πρώτη γραμμή της ενημέρωσης.
 Με ρεπορτάζ, ζωντανές συνδέσεις, ανταποκρίσεις από την Κύπρο και το εξωτερικό ενημερώνει με υπευθυνότητα τους τηλεθεατές για όλη την τοπική και διεθνή επικαιρότητα της ημέρας.
@@ -5064,19 +5064,19 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/11-EIDHSEIS-TON-8-F.jpg"/>
   </programme>
-  <programme start="20231030210000 +0300" stop="20231030233000 +0300" channel="riksat">
+  <programme start="20231030210000 +0200" stop="20231030233000 +0200" channel="riksat">
     <title lang="el">Στα Όρια</title>
    <desc lang="el">Η εβδομαδιαία ποδοσφαιρική εκπομπή του ΡΙΚ. Η ανάλυση της αγωνιστικής, τα πρόσωπα που ξεχώρισαν, συνεντεύξεις των πρωταγωνιστών, οι επίμαχες φάσεις και τεχνική ανάλυση. Η ελλαδική και η διεθνής ποδοσφαιρική επικαιρότητα. Στο στούντιο εκλεκτοί προσκεκλημένοι, προπονητές, ποδοσφαιριστές και αθλητικοί παράγοντες του τόπου.
 Παραγωγή – Σκηνοθεσία: Μαρίνος Γιαννάκη
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/13-GOAL-K-THEAMA-F.jpg"/>
   </programme>
-  <programme start="20231030233000 +0300" stop="20231030235900 +0300" channel="riksat">
+  <programme start="20231030233000 +0200" stop="20231030235900 +0200" channel="riksat">
     <title lang="el">Ειδήσεις στην Αγγλική και Τουρκική</title>
    <desc lang="el"></desc>
    <icon src="https://cybc.com.cy/wp-content/themes/custom/images/RIK1_bg.png"/>
   </programme>
-  <programme start="20231031064500 +0300" stop="20231031093000 +0300" channel="rik1">
+  <programme start="20231031064500 +0200" stop="20231031093000 +0200" channel="rik1">
     <title lang="el">Πρώτη Ενημέρωση</title>
    <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
 
@@ -5086,7 +5086,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/1-PROTH-ENHMEROSH-F.jpg"/>
   </programme>
-  <programme start="20231031093000 +0300" stop="20231031110000 +0300" channel="rik1">
+  <programme start="20231031093000 +0200" stop="20231031110000 +0200" channel="rik1">
     <title lang="el">Όμορφη Μέρα </title>
    <desc lang="el">
 Ζωντανή, καθημερινή, ενημερωτική, ψυχαγωγική εκπομπή, που κρατά συντροφιά στους τηλεθεατές με μεγάλη ποικιλία θεμάτων.
@@ -5094,7 +5094,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/2-OMORFH-MERA-F.jpg"/>
   </programme>
-  <programme start="20231031110000 +0300" stop="20231031140000 +0300" channel="rik1">
+  <programme start="20231031110000 +0200" stop="20231031140000 +0200" channel="rik1">
     <title lang="el">Κουζίνα σε Ρόδες</title>
    <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
 
@@ -5103,13 +5103,13 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/3-APO-MERA-F.jpg"/>
   </programme>
-  <programme start="20231031140000 +0300" stop="20231031143000 +0300" channel="rik1">
+  <programme start="20231031140000 +0200" stop="20231031143000 +0200" channel="rik1">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el">Δελτίο Ειδήσεων στις 2 το μεσημέρι επτά ημέρες την εβδομάδα.
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2022/09/4-EIDHSEIS-TON-2-F.jpg"/>
   </programme>
-  <programme start="20231031143000 +0300" stop="20231031153000 +0300" channel="rik1">
+  <programme start="20231031143000 +0200" stop="20231031153000 +0200" channel="rik1">
     <title lang="el">Εμείς κι ο Κόσμος μας</title>
    <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει  ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
 
@@ -5117,12 +5117,12 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/09/5-EMEIS-KI-F.jpg"/>
   </programme>
-  <programme start="20231031153000 +0300" stop="20231031183000 +0300" channel="rik1">
+  <programme start="20231031153000 +0200" stop="20231031183000 +0200" channel="rik1">
     <title lang="el">Καμώματα τζι Αρώματα</title>
    <desc lang="el">Τα σημαντικότερα γεγονότα μέχρι το απόγευμα και ο προπομπός των ειδήσεων που θα δούμε αναλυτικά στο κύριο δελτίο των 8.</desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/7-EIDHSEIS-TON-6-F.jpg"/>
   </programme>
-  <programme start="20231031183000 +0300" stop="20231031210000 +0300" channel="rik1">
+  <programme start="20231031183000 +0200" stop="20231031210000 +0200" channel="rik1">
     <title lang="el">Κουζίνα σε Ρόδες</title>
    <desc lang="el">Το Κεντρικό Δελτίο Ειδήσεων της Δημόσιας Ραδιοτηλεόρασης με σοβαρότητα και εγκυρότητα στην πρώτη γραμμή της ενημέρωσης.
 Με ρεπορτάζ, ζωντανές συνδέσεις, ανταποκρίσεις από την Κύπρο και το εξωτερικό ενημερώνει με υπευθυνότητα τους τηλεθεατές για όλη την τοπική και διεθνή επικαιρότητα της ημέρας.
@@ -5133,7 +5133,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/11-EIDHSEIS-TON-8-F.jpg"/>
   </programme>
-  <programme start="20231031210000 +0300" stop="20231031230000 +0300" channel="rik1">
+  <programme start="20231031210000 +0200" stop="20231031230000 +0200" channel="rik1">
     <title lang="el">Στα Όρια</title>
    <desc lang="el">Η εκπομπή, ΚΩΔΙΚΑΣ ΣΙΩΠΗΣ σε στυλ ωριαίου ντοκιμαντέρ 50-55 λεπτών, δίνει φωνή σε ανεκμετάλλευτο  ιστορικό υλικό,  ντοκουμέντα και πρωτογενή δημοσιογραφική ύλη από το προσωπικό αρχείο του Πέτρου Μελαϊση και το Αρχείο του ΡΙΚ . Η εκπομπή περιλαμβάνει κινηματογραφήσεις στους χώρους των γεγονότων και συνεντεύξεις από τους πρωταγωνιστές με μαρτυρίες για σχετικά άγνωστες ιστορίες, ή μαρτυρίες για άγνωστες πτυχές από γνωστές ιστορίες.
 
@@ -5142,19 +5142,19 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2022/09/16-KODIKAS-SIOPHS-F.jpg"/>
   </programme>
-  <programme start="20231031230000 +0300" stop="20231031235900 +0300" channel="rik1">
+  <programme start="20231031230000 +0200" stop="20231031235900 +0200" channel="rik1">
     <title lang="el">Σε Ξένα Χέρια</title>
    <desc lang="el"></desc>
    <icon src="https://cybc.com.cy/wp-content/themes/custom/images/RIK2_bg.png"/>
   </programme>
-  <programme start="20231031063000 +0300" stop="20231031195000 +0300" channel="rik2">
+  <programme start="20231031063000 +0200" stop="20231031195000 +0200" channel="rik2">
     <title lang="el">Little House on the Prairie</title>
    <desc lang="el">Daily news bulletin in english.
 Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώσσα.
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/35-ENGLISH-NEWS-F.jpg"/>
   </programme>
-  <programme start="20231031195000 +0300" stop="20231031200000 +0300" channel="rik2">
+  <programme start="20231031195000 +0200" stop="20231031200000 +0200" channel="rik2">
     <title lang="el">Haberler</title>
    <desc lang="el">Hergün türkçe haber bülteni.
 
@@ -5162,12 +5162,12 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/36-HABERLER-F.jpg"/>
   </programme>
-  <programme start="20231031200000 +0300" stop="20231031235900 +0300" channel="rik2">
+  <programme start="20231031200000 +0200" stop="20231031235900 +0200" channel="rik2">
     <title lang="el">Κεντρικό Δελτίο Ειδήσεων στη Νοηματική</title>
    <desc lang="el"></desc>
    <icon src="https://cybc.com.cy/wp-content/themes/custom/images/RIKSAT_bg.png"/>
   </programme>
-  <programme start="20231031064500 +0300" stop="20231031093000 +0300" channel="riksat">
+  <programme start="20231031064500 +0200" stop="20231031093000 +0200" channel="riksat">
     <title lang="el">Πρώτη Ενημέρωση</title>
    <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
 
@@ -5177,7 +5177,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/1-PROTH-ENHMEROSH-F.jpg"/>
   </programme>
-  <programme start="20231031093000 +0300" stop="20231031110000 +0300" channel="riksat">
+  <programme start="20231031093000 +0200" stop="20231031110000 +0200" channel="riksat">
     <title lang="el">Όμορφη Μέρα </title>
    <desc lang="el">
 Ζωντανή, καθημερινή, ενημερωτική, ψυχαγωγική εκπομπή, που κρατά συντροφιά στους τηλεθεατές με μεγάλη ποικιλία θεμάτων.
@@ -5185,7 +5185,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/2-OMORFH-MERA-F.jpg"/>
   </programme>
-  <programme start="20231031110000 +0300" stop="20231031140000 +0300" channel="riksat">
+  <programme start="20231031110000 +0200" stop="20231031140000 +0200" channel="riksat">
     <title lang="el">Κουζίνα σε Ρόδες</title>
    <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
 
@@ -5194,13 +5194,13 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/3-APO-MERA-F.jpg"/>
   </programme>
-  <programme start="20231031140000 +0300" stop="20231031143000 +0300" channel="riksat">
+  <programme start="20231031140000 +0200" stop="20231031143000 +0200" channel="riksat">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el">Δελτίο Ειδήσεων στις 2 το μεσημέρι επτά ημέρες την εβδομάδα.
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2022/09/4-EIDHSEIS-TON-2-F.jpg"/>
   </programme>
-  <programme start="20231031143000 +0300" stop="20231031153000 +0300" channel="riksat">
+  <programme start="20231031143000 +0200" stop="20231031153000 +0200" channel="riksat">
     <title lang="el">Εμείς κι ο Κόσμος μας</title>
    <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει  ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
 
@@ -5208,12 +5208,12 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/09/5-EMEIS-KI-F.jpg"/>
   </programme>
-  <programme start="20231031153000 +0300" stop="20231031183000 +0300" channel="riksat">
+  <programme start="20231031153000 +0200" stop="20231031183000 +0200" channel="riksat">
     <title lang="el">Καμώματα τζι Αρώματα</title>
    <desc lang="el">Τα σημαντικότερα γεγονότα μέχρι το απόγευμα και ο προπομπός των ειδήσεων που θα δούμε αναλυτικά στο κύριο δελτίο των 8.</desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/7-EIDHSEIS-TON-6-F.jpg"/>
   </programme>
-  <programme start="20231031183000 +0300" stop="20231031210000 +0300" channel="riksat">
+  <programme start="20231031183000 +0200" stop="20231031210000 +0200" channel="riksat">
     <title lang="el">Κουζίνα σε Ρόδες</title>
    <desc lang="el">Το Κεντρικό Δελτίο Ειδήσεων της Δημόσιας Ραδιοτηλεόρασης με σοβαρότητα και εγκυρότητα στην πρώτη γραμμή της ενημέρωσης.
 Με ρεπορτάζ, ζωντανές συνδέσεις, ανταποκρίσεις από την Κύπρο και το εξωτερικό ενημερώνει με υπευθυνότητα τους τηλεθεατές για όλη την τοπική και διεθνή επικαιρότητα της ημέρας.
@@ -5224,7 +5224,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/11-EIDHSEIS-TON-8-F.jpg"/>
   </programme>
-  <programme start="20231031210000 +0300" stop="20231031230000 +0300" channel="riksat">
+  <programme start="20231031210000 +0200" stop="20231031230000 +0200" channel="riksat">
     <title lang="el">Στα Όρια</title>
    <desc lang="el">Η εκπομπή, ΚΩΔΙΚΑΣ ΣΙΩΠΗΣ σε στυλ ωριαίου ντοκιμαντέρ 50-55 λεπτών, δίνει φωνή σε ανεκμετάλλευτο  ιστορικό υλικό,  ντοκουμέντα και πρωτογενή δημοσιογραφική ύλη από το προσωπικό αρχείο του Πέτρου Μελαϊση και το Αρχείο του ΡΙΚ . Η εκπομπή περιλαμβάνει κινηματογραφήσεις στους χώρους των γεγονότων και συνεντεύξεις από τους πρωταγωνιστές με μαρτυρίες για σχετικά άγνωστες ιστορίες, ή μαρτυρίες για άγνωστες πτυχές από γνωστές ιστορίες.
 
@@ -5233,12 +5233,12 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2022/09/16-KODIKAS-SIOPHS-F.jpg"/>
   </programme>
-  <programme start="20231031230000 +0300" stop="20231031235900 +0300" channel="riksat">
+  <programme start="20231031230000 +0200" stop="20231031235900 +0200" channel="riksat">
     <title lang="el">Ειδήσεις στην Αγγλική και Τουρκική</title>
    <desc lang="el"></desc>
    <icon src="https://cybc.com.cy/wp-content/themes/custom/images/RIK1_bg.png"/>
   </programme>
-  <programme start="20231101064500 +0300" stop="20231101093000 +0300" channel="rik1">
+  <programme start="20231101064500 +0200" stop="20231101093000 +0200" channel="rik1">
     <title lang="el">Πρώτη Ενημέρωση</title>
    <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
 
@@ -5248,7 +5248,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/1-PROTH-ENHMEROSH-F.jpg"/>
   </programme>
-  <programme start="20231101093000 +0300" stop="20231101110000 +0300" channel="rik1">
+  <programme start="20231101093000 +0200" stop="20231101110000 +0200" channel="rik1">
     <title lang="el">Όμορφη Μέρα </title>
    <desc lang="el">
 Ζωντανή, καθημερινή, ενημερωτική, ψυχαγωγική εκπομπή, που κρατά συντροφιά στους τηλεθεατές με μεγάλη ποικιλία θεμάτων.
@@ -5256,7 +5256,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/2-OMORFH-MERA-F.jpg"/>
   </programme>
-  <programme start="20231101110000 +0300" stop="20231101140000 +0300" channel="rik1">
+  <programme start="20231101110000 +0200" stop="20231101140000 +0200" channel="rik1">
     <title lang="el">Κουζίνα σε Ρόδες</title>
    <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
 
@@ -5265,13 +5265,13 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/3-APO-MERA-F.jpg"/>
   </programme>
-  <programme start="20231101140000 +0300" stop="20231101143000 +0300" channel="rik1">
+  <programme start="20231101140000 +0200" stop="20231101143000 +0200" channel="rik1">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el">Δελτίο Ειδήσεων στις 2 το μεσημέρι επτά ημέρες την εβδομάδα.
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2022/09/4-EIDHSEIS-TON-2-F.jpg"/>
   </programme>
-  <programme start="20231101143000 +0300" stop="20231101153000 +0300" channel="rik1">
+  <programme start="20231101143000 +0200" stop="20231101153000 +0200" channel="rik1">
     <title lang="el">Εμείς κι ο Κόσμος μας</title>
    <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει  ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
 
@@ -5279,12 +5279,12 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/09/5-EMEIS-KI-F.jpg"/>
   </programme>
-  <programme start="20231101153000 +0300" stop="20231101183000 +0300" channel="rik1">
+  <programme start="20231101153000 +0200" stop="20231101183000 +0200" channel="rik1">
     <title lang="el">Καμώματα τζι Αρώματα</title>
    <desc lang="el">Τα σημαντικότερα γεγονότα μέχρι το απόγευμα και ο προπομπός των ειδήσεων που θα δούμε αναλυτικά στο κύριο δελτίο των 8.</desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/7-EIDHSEIS-TON-6-F.jpg"/>
   </programme>
-  <programme start="20231101183000 +0300" stop="20231101210000 +0300" channel="rik1">
+  <programme start="20231101183000 +0200" stop="20231101210000 +0200" channel="rik1">
     <title lang="el">Κουζίνα σε Ρόδες</title>
    <desc lang="el">Το Κεντρικό Δελτίο Ειδήσεων της Δημόσιας Ραδιοτηλεόρασης με σοβαρότητα και εγκυρότητα στην πρώτη γραμμή της ενημέρωσης.
 Με ρεπορτάζ, ζωντανές συνδέσεις, ανταποκρίσεις από την Κύπρο και το εξωτερικό ενημερώνει με υπευθυνότητα τους τηλεθεατές για όλη την τοπική και διεθνή επικαιρότητα της ημέρας.
@@ -5295,7 +5295,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/11-EIDHSEIS-TON-8-F.jpg"/>
   </programme>
-  <programme start="20231101210000 +0300" stop="20231101220000 +0300" channel="rik1">
+  <programme start="20231101210000 +0200" stop="20231101220000 +0200" channel="rik1">
     <title lang="el">Τρικυμία</title>
    <desc lang="el">Κύπρος 1878. Η θάλασσα φουσκώνει για μια νέα μεγάλη Τρικυμία στον 2 κύκλο της σειράς.  Ο πόλεμος ανάμεσα στην Οθωμανική Αυτοκρατορία και τον Ορθόδοξο Συνασπισμό με επικεφαλής τη Ρωσία τελειώνει με ήττα των Οθωμανών. Οι Τούρκοι αναγκάζονται να παραχωρήσουν την Κύπρο στη Βρετανική Αυτοκρατορία και ένα νέο κεφάλαιο ανοίγεται στην ιστορία του τόπου μας. Νέοι κατακτητές, νέοι αγώνες και μια συνεχής μάχη των προγόνων μας για επιβίωση. Αυτή η συγκλονιστική εποχή σκιαγραφείται μέσα από τη δραματική σειρά εποχής Τρικυμία που επιστρέφει ανανεωμένη με τους αγαπημένους σας ήρωες σε νέες συγκλονιστικές ιστορίες και περιπέτειες.
 Ηθοποιοί: Αντρέας Τσουρής, Αντρούλα Ηρακλέους, Νεοκλής Νεοκλέους, Κύνθια Παυλίδου, Σίμος Τσιάκκας, Γιώργος Αναγιωτός,  Αθηνά Σάββα, Βάσια Αδάμου.
@@ -5307,19 +5307,19 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2022/09/12-TRYKIMIA-F.jpg"/>
   </programme>
-  <programme start="20231101220000 +0300" stop="20231101235900 +0300" channel="rik1">
+  <programme start="20231101220000 +0200" stop="20231101235900 +0200" channel="rik1">
     <title lang="el">Καθρέφτης</title>
    <desc lang="el"></desc>
    <icon src="https://cybc.com.cy/wp-content/themes/custom/images/RIK2_bg.png"/>
   </programme>
-  <programme start="20231101063000 +0300" stop="20231101195000 +0300" channel="rik2">
+  <programme start="20231101063000 +0200" stop="20231101195000 +0200" channel="rik2">
     <title lang="el">Little House on the Prairie</title>
    <desc lang="el">Daily news bulletin in english.
 Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώσσα.
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/35-ENGLISH-NEWS-F.jpg"/>
   </programme>
-  <programme start="20231101195000 +0300" stop="20231101200000 +0300" channel="rik2">
+  <programme start="20231101195000 +0200" stop="20231101200000 +0200" channel="rik2">
     <title lang="el">Haberler</title>
    <desc lang="el">Hergün türkçe haber bülteni.
 
@@ -5327,12 +5327,12 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/36-HABERLER-F.jpg"/>
   </programme>
-  <programme start="20231101200000 +0300" stop="20231101235900 +0300" channel="rik2">
+  <programme start="20231101200000 +0200" stop="20231101235900 +0200" channel="rik2">
     <title lang="el">Κεντρικό Δελτίο Ειδήσεων στη Νοηματική</title>
    <desc lang="el"></desc>
    <icon src="https://cybc.com.cy/wp-content/themes/custom/images/RIKSAT_bg.png"/>
   </programme>
-  <programme start="20231101064500 +0300" stop="20231101093000 +0300" channel="riksat">
+  <programme start="20231101064500 +0200" stop="20231101093000 +0200" channel="riksat">
     <title lang="el">Πρώτη Ενημέρωση</title>
    <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
 
@@ -5342,7 +5342,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/1-PROTH-ENHMEROSH-F.jpg"/>
   </programme>
-  <programme start="20231101093000 +0300" stop="20231101110000 +0300" channel="riksat">
+  <programme start="20231101093000 +0200" stop="20231101110000 +0200" channel="riksat">
     <title lang="el">Όμορφη Μέρα </title>
    <desc lang="el">
 Ζωντανή, καθημερινή, ενημερωτική, ψυχαγωγική εκπομπή, που κρατά συντροφιά στους τηλεθεατές με μεγάλη ποικιλία θεμάτων.
@@ -5350,7 +5350,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/2-OMORFH-MERA-F.jpg"/>
   </programme>
-  <programme start="20231101110000 +0300" stop="20231101140000 +0300" channel="riksat">
+  <programme start="20231101110000 +0200" stop="20231101140000 +0200" channel="riksat">
     <title lang="el">Κουζίνα σε Ρόδες</title>
    <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
 
@@ -5359,13 +5359,13 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/3-APO-MERA-F.jpg"/>
   </programme>
-  <programme start="20231101140000 +0300" stop="20231101143000 +0300" channel="riksat">
+  <programme start="20231101140000 +0200" stop="20231101143000 +0200" channel="riksat">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el">Δελτίο Ειδήσεων στις 2 το μεσημέρι επτά ημέρες την εβδομάδα.
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2022/09/4-EIDHSEIS-TON-2-F.jpg"/>
   </programme>
-  <programme start="20231101143000 +0300" stop="20231101153000 +0300" channel="riksat">
+  <programme start="20231101143000 +0200" stop="20231101153000 +0200" channel="riksat">
     <title lang="el">Εμείς κι ο Κόσμος μας</title>
    <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει  ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
 
@@ -5373,12 +5373,12 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/09/5-EMEIS-KI-F.jpg"/>
   </programme>
-  <programme start="20231101153000 +0300" stop="20231101183000 +0300" channel="riksat">
+  <programme start="20231101153000 +0200" stop="20231101183000 +0200" channel="riksat">
     <title lang="el">Καμώματα τζι Αρώματα</title>
    <desc lang="el">Τα σημαντικότερα γεγονότα μέχρι το απόγευμα και ο προπομπός των ειδήσεων που θα δούμε αναλυτικά στο κύριο δελτίο των 8.</desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/7-EIDHSEIS-TON-6-F.jpg"/>
   </programme>
-  <programme start="20231101183000 +0300" stop="20231101210000 +0300" channel="riksat">
+  <programme start="20231101183000 +0200" stop="20231101210000 +0200" channel="riksat">
     <title lang="el">Κουζίνα σε Ρόδες</title>
    <desc lang="el">Το Κεντρικό Δελτίο Ειδήσεων της Δημόσιας Ραδιοτηλεόρασης με σοβαρότητα και εγκυρότητα στην πρώτη γραμμή της ενημέρωσης.
 Με ρεπορτάζ, ζωντανές συνδέσεις, ανταποκρίσεις από την Κύπρο και το εξωτερικό ενημερώνει με υπευθυνότητα τους τηλεθεατές για όλη την τοπική και διεθνή επικαιρότητα της ημέρας.
@@ -5389,7 +5389,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/11-EIDHSEIS-TON-8-F.jpg"/>
   </programme>
-  <programme start="20231101210000 +0300" stop="20231101220000 +0300" channel="riksat">
+  <programme start="20231101210000 +0200" stop="20231101220000 +0200" channel="riksat">
     <title lang="el">Τρικυμία</title>
    <desc lang="el">Κύπρος 1878. Η θάλασσα φουσκώνει για μια νέα μεγάλη Τρικυμία στον 2 κύκλο της σειράς.  Ο πόλεμος ανάμεσα στην Οθωμανική Αυτοκρατορία και τον Ορθόδοξο Συνασπισμό με επικεφαλής τη Ρωσία τελειώνει με ήττα των Οθωμανών. Οι Τούρκοι αναγκάζονται να παραχωρήσουν την Κύπρο στη Βρετανική Αυτοκρατορία και ένα νέο κεφάλαιο ανοίγεται στην ιστορία του τόπου μας. Νέοι κατακτητές, νέοι αγώνες και μια συνεχής μάχη των προγόνων μας για επιβίωση. Αυτή η συγκλονιστική εποχή σκιαγραφείται μέσα από τη δραματική σειρά εποχής Τρικυμία που επιστρέφει ανανεωμένη με τους αγαπημένους σας ήρωες σε νέες συγκλονιστικές ιστορίες και περιπέτειες.
 Ηθοποιοί: Αντρέας Τσουρής, Αντρούλα Ηρακλέους, Νεοκλής Νεοκλέους, Κύνθια Παυλίδου, Σίμος Τσιάκκας, Γιώργος Αναγιωτός,  Αθηνά Σάββα, Βάσια Αδάμου.
@@ -5401,12 +5401,12 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2022/09/12-TRYKIMIA-F.jpg"/>
   </programme>
-  <programme start="20231101220000 +0300" stop="20231101235900 +0300" channel="riksat">
+  <programme start="20231101220000 +0200" stop="20231101235900 +0200" channel="riksat">
     <title lang="el">Καθρέφτης</title>
    <desc lang="el"></desc>
    <icon src="https://cybc.com.cy/wp-content/themes/custom/images/RIK1_bg.png"/>
   </programme>
-  <programme start="20231102064500 +0300" stop="20231102093000 +0300" channel="rik1">
+  <programme start="20231102064500 +0200" stop="20231102093000 +0200" channel="rik1">
     <title lang="el">Πρώτη Ενημέρωση</title>
    <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
 
@@ -5416,7 +5416,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/1-PROTH-ENHMEROSH-F.jpg"/>
   </programme>
-  <programme start="20231102093000 +0300" stop="20231102110000 +0300" channel="rik1">
+  <programme start="20231102093000 +0200" stop="20231102110000 +0200" channel="rik1">
     <title lang="el">Όμορφη Μέρα </title>
    <desc lang="el">
 Ζωντανή, καθημερινή, ενημερωτική, ψυχαγωγική εκπομπή, που κρατά συντροφιά στους τηλεθεατές με μεγάλη ποικιλία θεμάτων.
@@ -5424,7 +5424,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/2-OMORFH-MERA-F.jpg"/>
   </programme>
-  <programme start="20231102110000 +0300" stop="20231102140000 +0300" channel="rik1">
+  <programme start="20231102110000 +0200" stop="20231102140000 +0200" channel="rik1">
     <title lang="el">Κουζίνα σε Ρόδες</title>
    <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
 
@@ -5433,13 +5433,13 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/3-APO-MERA-F.jpg"/>
   </programme>
-  <programme start="20231102140000 +0300" stop="20231102143000 +0300" channel="rik1">
+  <programme start="20231102140000 +0200" stop="20231102143000 +0200" channel="rik1">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el">Δελτίο Ειδήσεων στις 2 το μεσημέρι επτά ημέρες την εβδομάδα.
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2022/09/4-EIDHSEIS-TON-2-F.jpg"/>
   </programme>
-  <programme start="20231102143000 +0300" stop="20231102153000 +0300" channel="rik1">
+  <programme start="20231102143000 +0200" stop="20231102153000 +0200" channel="rik1">
     <title lang="el">Εμείς κι ο Κόσμος μας</title>
    <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει  ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
 
@@ -5447,12 +5447,12 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/09/5-EMEIS-KI-F.jpg"/>
   </programme>
-  <programme start="20231102153000 +0300" stop="20231102183000 +0300" channel="rik1">
+  <programme start="20231102153000 +0200" stop="20231102183000 +0200" channel="rik1">
     <title lang="el">Καμώματα τζι Αρώματα</title>
    <desc lang="el">Τα σημαντικότερα γεγονότα μέχρι το απόγευμα και ο προπομπός των ειδήσεων που θα δούμε αναλυτικά στο κύριο δελτίο των 8.</desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/7-EIDHSEIS-TON-6-F.jpg"/>
   </programme>
-  <programme start="20231102183000 +0300" stop="20231102200000 +0300" channel="rik1">
+  <programme start="20231102183000 +0200" stop="20231102200000 +0200" channel="rik1">
     <title lang="el">Κουζίνα σε Ρόδες</title>
    <desc lang="el">Η κωμική σειρά εποχής που αγαπήσατε επιστρέφει για 3"sup"η"/sup" χρονιά για να χαρίσει ακόμη περισσότερες στιγμές γέλιου. Σημείο αναφοράς παραμένει η  κόντρα ανάμεσα στον ιερέα και τον μουχτάρη του χωριού και συνεχίζονται τα μπερδέματα, παρεξηγήσεις, έρωτες, τσακωμοί και ίντριγκες στο πιο τρελό χωριό!
 Ξανασμίγουν και πάλι, ύστερα από χρόνια με τον Κώστα Δημητρίου οι: Σταύρος Λούρας, Ζωή Κυπριανού, Ηράκλης Γιωργαλλή, Σώτος Σταυράκη,Μόνικα Μελέκκη, Αντρέας Βούλγαρης, Μιχάλης Χρίστου,ενώ συνεχίζει το μόνιμο καστ με τους Κρίστοφερ Γκρέκο, Μιχάλη Μουστάκα, Λουκία Μ. Μουσουλιώτη, Βαλεντίνα Σοφοκλέους, Αντρέα Μελέκκη, Κωνσταντίνο Αλκιβιάδη, Μαρία Μεσαρίτη, Εύρο Βασιλείου,
@@ -5464,7 +5464,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2021/10/10-EIRHNH-PASI-F.jpg"/>
   </programme>
-  <programme start="20231102200000 +0300" stop="20231102210000 +0300" channel="rik1">
+  <programme start="20231102200000 +0200" stop="20231102210000 +0200" channel="rik1">
     <title lang="el">Ειδήσεις στις 20:00</title>
    <desc lang="el">Το Κεντρικό Δελτίο Ειδήσεων της Δημόσιας Ραδιοτηλεόρασης με σοβαρότητα και εγκυρότητα στην πρώτη γραμμή της ενημέρωσης.
 Με ρεπορτάζ, ζωντανές συνδέσεις, ανταποκρίσεις από την Κύπρο και το εξωτερικό ενημερώνει με υπευθυνότητα τους τηλεθεατές για όλη την τοπική και διεθνή επικαιρότητα της ημέρας.
@@ -5475,7 +5475,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/11-EIDHSEIS-TON-8-F.jpg"/>
   </programme>
-  <programme start="20231102210000 +0300" stop="20231102220000 +0300" channel="rik1">
+  <programme start="20231102210000 +0200" stop="20231102220000 +0200" channel="rik1">
     <title lang="el">Τρικυμία</title>
    <desc lang="el">Κύπρος 1878. Η θάλασσα φουσκώνει για μια νέα μεγάλη Τρικυμία στον 2 κύκλο της σειράς.  Ο πόλεμος ανάμεσα στην Οθωμανική Αυτοκρατορία και τον Ορθόδοξο Συνασπισμό με επικεφαλής τη Ρωσία τελειώνει με ήττα των Οθωμανών. Οι Τούρκοι αναγκάζονται να παραχωρήσουν την Κύπρο στη Βρετανική Αυτοκρατορία και ένα νέο κεφάλαιο ανοίγεται στην ιστορία του τόπου μας. Νέοι κατακτητές, νέοι αγώνες και μια συνεχής μάχη των προγόνων μας για επιβίωση. Αυτή η συγκλονιστική εποχή σκιαγραφείται μέσα από τη δραματική σειρά εποχής Τρικυμία που επιστρέφει ανανεωμένη με τους αγαπημένους σας ήρωες σε νέες συγκλονιστικές ιστορίες και περιπέτειες.
 Ηθοποιοί: Αντρέας Τσουρής, Αντρούλα Ηρακλέους, Νεοκλής Νεοκλέους, Κύνθια Παυλίδου, Σίμος Τσιάκκας, Γιώργος Αναγιωτός,  Αθηνά Σάββα, Βάσια Αδάμου.
@@ -5487,7 +5487,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2022/09/12-TRYKIMIA-F.jpg"/>
   </programme>
-  <programme start="20231102220000 +0300" stop="20231102230000 +0300" channel="rik1">
+  <programme start="20231102220000 +0200" stop="20231102230000 +0200" channel="rik1">
     <title lang="el">Προκλήσεις</title>
    <desc lang="el">Επικαιρική εκπομπή με επίκεντρο τις πολιτικές εξελίξεις στην Κύπρο αλλά και διεθνώς.  Στόχος η ουσιαστική ανάλυση των θεμάτων της επικαιρότητας από πολιτικούς, ακαδημαϊκούς και κυρίως τους ίδιους  τους πρωταγωνιστές.
 
@@ -5496,19 +5496,19 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/18-PROKLHSEIS-F.jpg"/>
   </programme>
-  <programme start="20231102230000 +0300" stop="20231102235900 +0300" channel="rik1">
+  <programme start="20231102230000 +0200" stop="20231102235900 +0200" channel="rik1">
     <title lang="el">Σε Ξένα Χέρια</title>
    <desc lang="el"></desc>
    <icon src="https://cybc.com.cy/wp-content/themes/custom/images/RIK2_bg.png"/>
   </programme>
-  <programme start="20231102063000 +0300" stop="20231102195000 +0300" channel="rik2">
+  <programme start="20231102063000 +0200" stop="20231102195000 +0200" channel="rik2">
     <title lang="el">Little House on the Prairie</title>
    <desc lang="el">Daily news bulletin in english.
 Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώσσα.
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/35-ENGLISH-NEWS-F.jpg"/>
   </programme>
-  <programme start="20231102195000 +0300" stop="20231102200000 +0300" channel="rik2">
+  <programme start="20231102195000 +0200" stop="20231102200000 +0200" channel="rik2">
     <title lang="el">Haberler</title>
    <desc lang="el">Hergün türkçe haber bülteni.
 
@@ -5516,12 +5516,12 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/36-HABERLER-F.jpg"/>
   </programme>
-  <programme start="20231102200000 +0300" stop="20231102235900 +0300" channel="rik2">
+  <programme start="20231102200000 +0200" stop="20231102235900 +0200" channel="rik2">
     <title lang="el">Κεντρικό Δελτίο Ειδήσεων στη Νοηματική</title>
    <desc lang="el"></desc>
    <icon src="https://cybc.com.cy/wp-content/themes/custom/images/RIKSAT_bg.png"/>
   </programme>
-  <programme start="20231102064500 +0300" stop="20231102093000 +0300" channel="riksat">
+  <programme start="20231102064500 +0200" stop="20231102093000 +0200" channel="riksat">
     <title lang="el">Πρώτη Ενημέρωση</title>
    <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
 
@@ -5531,7 +5531,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/1-PROTH-ENHMEROSH-F.jpg"/>
   </programme>
-  <programme start="20231102093000 +0300" stop="20231102110000 +0300" channel="riksat">
+  <programme start="20231102093000 +0200" stop="20231102110000 +0200" channel="riksat">
     <title lang="el">Όμορφη Μέρα </title>
    <desc lang="el">
 Ζωντανή, καθημερινή, ενημερωτική, ψυχαγωγική εκπομπή, που κρατά συντροφιά στους τηλεθεατές με μεγάλη ποικιλία θεμάτων.
@@ -5539,7 +5539,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/2-OMORFH-MERA-F.jpg"/>
   </programme>
-  <programme start="20231102110000 +0300" stop="20231102140000 +0300" channel="riksat">
+  <programme start="20231102110000 +0200" stop="20231102140000 +0200" channel="riksat">
     <title lang="el">Κουζίνα σε Ρόδες</title>
    <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
 
@@ -5548,13 +5548,13 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/3-APO-MERA-F.jpg"/>
   </programme>
-  <programme start="20231102140000 +0300" stop="20231102143000 +0300" channel="riksat">
+  <programme start="20231102140000 +0200" stop="20231102143000 +0200" channel="riksat">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el">Δελτίο Ειδήσεων στις 2 το μεσημέρι επτά ημέρες την εβδομάδα.
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2022/09/4-EIDHSEIS-TON-2-F.jpg"/>
   </programme>
-  <programme start="20231102143000 +0300" stop="20231102153000 +0300" channel="riksat">
+  <programme start="20231102143000 +0200" stop="20231102153000 +0200" channel="riksat">
     <title lang="el">Εμείς κι ο Κόσμος μας</title>
    <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει  ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
 
@@ -5562,12 +5562,12 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/09/5-EMEIS-KI-F.jpg"/>
   </programme>
-  <programme start="20231102153000 +0300" stop="20231102183000 +0300" channel="riksat">
+  <programme start="20231102153000 +0200" stop="20231102183000 +0200" channel="riksat">
     <title lang="el">Καμώματα τζι Αρώματα</title>
    <desc lang="el">Τα σημαντικότερα γεγονότα μέχρι το απόγευμα και ο προπομπός των ειδήσεων που θα δούμε αναλυτικά στο κύριο δελτίο των 8.</desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/7-EIDHSEIS-TON-6-F.jpg"/>
   </programme>
-  <programme start="20231102183000 +0300" stop="20231102200000 +0300" channel="riksat">
+  <programme start="20231102183000 +0200" stop="20231102200000 +0200" channel="riksat">
     <title lang="el">Κουζίνα σε Ρόδες</title>
    <desc lang="el">Η κωμική σειρά εποχής που αγαπήσατε επιστρέφει για 3"sup"η"/sup" χρονιά για να χαρίσει ακόμη περισσότερες στιγμές γέλιου. Σημείο αναφοράς παραμένει η  κόντρα ανάμεσα στον ιερέα και τον μουχτάρη του χωριού και συνεχίζονται τα μπερδέματα, παρεξηγήσεις, έρωτες, τσακωμοί και ίντριγκες στο πιο τρελό χωριό!
 Ξανασμίγουν και πάλι, ύστερα από χρόνια με τον Κώστα Δημητρίου οι: Σταύρος Λούρας, Ζωή Κυπριανού, Ηράκλης Γιωργαλλή, Σώτος Σταυράκη,Μόνικα Μελέκκη, Αντρέας Βούλγαρης, Μιχάλης Χρίστου,ενώ συνεχίζει το μόνιμο καστ με τους Κρίστοφερ Γκρέκο, Μιχάλη Μουστάκα, Λουκία Μ. Μουσουλιώτη, Βαλεντίνα Σοφοκλέους, Αντρέα Μελέκκη, Κωνσταντίνο Αλκιβιάδη, Μαρία Μεσαρίτη, Εύρο Βασιλείου,
@@ -5579,7 +5579,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2021/10/10-EIRHNH-PASI-F.jpg"/>
   </programme>
-  <programme start="20231102200000 +0300" stop="20231102210000 +0300" channel="riksat">
+  <programme start="20231102200000 +0200" stop="20231102210000 +0200" channel="riksat">
     <title lang="el">Ειδήσεις στις 20:00</title>
    <desc lang="el">Το Κεντρικό Δελτίο Ειδήσεων της Δημόσιας Ραδιοτηλεόρασης με σοβαρότητα και εγκυρότητα στην πρώτη γραμμή της ενημέρωσης.
 Με ρεπορτάζ, ζωντανές συνδέσεις, ανταποκρίσεις από την Κύπρο και το εξωτερικό ενημερώνει με υπευθυνότητα τους τηλεθεατές για όλη την τοπική και διεθνή επικαιρότητα της ημέρας.
@@ -5590,7 +5590,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/11-EIDHSEIS-TON-8-F.jpg"/>
   </programme>
-  <programme start="20231102210000 +0300" stop="20231102220000 +0300" channel="riksat">
+  <programme start="20231102210000 +0200" stop="20231102220000 +0200" channel="riksat">
     <title lang="el">Τρικυμία</title>
    <desc lang="el">Κύπρος 1878. Η θάλασσα φουσκώνει για μια νέα μεγάλη Τρικυμία στον 2 κύκλο της σειράς.  Ο πόλεμος ανάμεσα στην Οθωμανική Αυτοκρατορία και τον Ορθόδοξο Συνασπισμό με επικεφαλής τη Ρωσία τελειώνει με ήττα των Οθωμανών. Οι Τούρκοι αναγκάζονται να παραχωρήσουν την Κύπρο στη Βρετανική Αυτοκρατορία και ένα νέο κεφάλαιο ανοίγεται στην ιστορία του τόπου μας. Νέοι κατακτητές, νέοι αγώνες και μια συνεχής μάχη των προγόνων μας για επιβίωση. Αυτή η συγκλονιστική εποχή σκιαγραφείται μέσα από τη δραματική σειρά εποχής Τρικυμία που επιστρέφει ανανεωμένη με τους αγαπημένους σας ήρωες σε νέες συγκλονιστικές ιστορίες και περιπέτειες.
 Ηθοποιοί: Αντρέας Τσουρής, Αντρούλα Ηρακλέους, Νεοκλής Νεοκλέους, Κύνθια Παυλίδου, Σίμος Τσιάκκας, Γιώργος Αναγιωτός,  Αθηνά Σάββα, Βάσια Αδάμου.
@@ -5602,7 +5602,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2022/09/12-TRYKIMIA-F.jpg"/>
   </programme>
-  <programme start="20231102220000 +0300" stop="20231102230000 +0300" channel="riksat">
+  <programme start="20231102220000 +0200" stop="20231102230000 +0200" channel="riksat">
     <title lang="el">Προκλήσεις</title>
    <desc lang="el">Επικαιρική εκπομπή με επίκεντρο τις πολιτικές εξελίξεις στην Κύπρο αλλά και διεθνώς.  Στόχος η ουσιαστική ανάλυση των θεμάτων της επικαιρότητας από πολιτικούς, ακαδημαϊκούς και κυρίως τους ίδιους  τους πρωταγωνιστές.
 
@@ -5611,7 +5611,7 @@ Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώ
 </desc>
    <icon src="https://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/18-PROKLHSEIS-F.jpg"/>
   </programme>
-  <programme start="20231102230000 +0300" stop="20231102235900 +0300" channel="riksat">
+  <programme start="20231102230000 +0200" stop="20231102235900 +0200" channel="riksat">
     <title lang="el">Ειδήσεις στην Αγγλική και Τουρκική</title>
    <desc lang="el"></desc>
    <icon src="https://cybc.com.cy/wp-content/themes/custom/images/RIK1_bg.png"/>
