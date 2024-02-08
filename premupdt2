@@ -1,9 +1,16 @@
-    <latestVersion>4.96</latestVersion>
-    <latestVersionCode>124</latestVersionCode>
-    <url>https://dl.dropboxusercontent.com/scl/fi/0x0h77blxa5xnid5u80w5/e-Doctor-IPTV-Premium-V4.96.apk?rlkey=p5445oaekzpwnjr0ydkiner6h&dl=0</url>
+    <latestVersion>4.97</latestVersion>
+    <latestVersionCode>125</latestVersionCode>
+    <url>https://dl.dropboxusercontent.com/scl/fi/yz4yum58u7a622w3kxvv8/e-Doctor-IPTV-Premium-V4.97.apk?rlkey=qqcp2enjgzhatnan67tzb3n8w&dl=0</url>
   <releaseNotes>
-ΑΛΛΑΓΕΣ ΣΤΟ 4.96
-(1) Διόρθωση του recorder. 
-(2) Δυνατότητα αλλαγής της επέκτασης από mp4 σε mkv.
-(3) Άλλες αλλαγές και βελτιώσεις.
+ΑΛΛΑΓΕΣ ΣΤΟ 4.97
+1. Πιο εύκολος τρόπος απόκρυψης καναλιών (από ρυθμίσεις-> εμφάνιση/απόκρυψη καναλιών). 
+2. Νέα γραμμή επιλογής χρώματος, συμβατή με τηλεχειριστήριο Android TV (το παλιό υπάρχει ακόμα ως επιλογή).
+3. Δυνατότητα διαγραφής μόνο ενός καναλιού από το ιστορικό.
+4. Δυνατότητα απόκρυψης epg ή ακόμα και λογότυπου από τη λίστα καναλιών.
+5. Ρυθμιζόμενοι χρόνοι επανασύνδεσης και χρονικό όριο επανασύνδεσης.
+6. Νέο ρολόι για προγραμματισμένη εγγραφή.
+7. Νέα στυλ για Classic style.
+8. Αυτόματη ενημέρωση λίστας και epg πριν από το άνοιγμα μιας κατηγορίας (εάν χρειάζεται, με δυνατότητα διαμόρφωσης από τις ρυθμίσεις)
+9. Η λίστα θα είναι ορατή κατά την αλλαγή του μεγέθους της γραμματοσειράς ως προεπισκόπηση.
+10. Άλλες αλλαγές και βελτιώσεις.
     </releaseNotes>
