@@ -1,7 +1,11 @@
-    <latestVersion>4.98_1</latestVersion>
-    <latestVersionCode>129</latestVersionCode>
-    <url>https://www.dropbox.com/scl/fi/h1c19p5796s7d304tt4k2/GREEK-IPTV-V4.98_1.apk?rlkey=a5cv4ow30s1co2fbwrossm81g&st=tyq30swq&dl=1</url>
+    <latestVersion>4.99</latestVersion>
+    <latestVersionCode>130</latestVersionCode>
+    <url>https://www.dropbox.com/scl/fi/ig9mrdi97fckgewzx02r4/GREEK-IPTV-V4.99.apk?rlkey=glp687ialkavwwz79i8y1db0g&st=k9h4fzzw&dl=1</url>
   <releaseNotes>
-(1) Μείωση του buffer στους internal players (μείωση διακοπών σε συσκευές όπως android tv)
-(2) Άλλες αλλαγές και βελτιώσεις.
+(1) Διόρθωση σφάλματος με τη γραμμή OSD πολυμέσων.
+(2) Νέο αναδυόμενο μενού αντίστροφης μέτρησης για συνέχιση ή έναρξη μιας ταινίας ή επεισοδίου (μπορεί να απενεργοποιηθεί από τις προτιμήσεις βίντεο/ήχου και να οριστεί η ώρα στο 0).
+(3) Νέο αναδυόμενο μενού αντίστροφης μέτρησης για να ξεκινήσει ένα νέο επεισόδιο όταν τελειώσει το τρέχον (μπορεί να απενεργοποιηθεί από τις προτιμήσεις βίντεο/ήχου και να οριστεί η ώρα στο 0).
+(4) Γραμμή προόδου για επεισόδια σειράς που έχουν ήδη παιχτεί (μόνο Xtream).
+(5) Νέες προεπιλογές buffer/Caches (χαμηλό/μέσο/υψηλό).
+(6) Άλλες αλλαγές και βελτιώσεις.
     </releaseNotes>
