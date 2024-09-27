@@ -1,11 +1,9 @@
-    <latestVersion>4.99</latestVersion>
-    <latestVersionCode>130</latestVersionCode>
+    <latestVersion>4.100</latestVersion>
+    <latestVersionCode>131</latestVersionCode>
     <url>https://www.dropbox.com/scl/fi/xj0e1u0wn33eebth9wimf/e-Doctor-IPTV-Premium.apk?rlkey=u3p9czhqeszg4x7v0mtr3rnhu&dl=1</url>
   <releaseNotes>
-(1) Διόρθωση σφάλματος με τη γραμμή OSD πολυμέσων.
-(2) Νέο αναδυόμενο μενού αντίστροφης μέτρησης για συνέχιση ή έναρξη μιας ταινίας ή επεισοδίου (μπορεί να απενεργοποιηθεί από τις προτιμήσεις βίντεο/ήχου και να οριστεί η ώρα στο 0).
-(3) Νέο αναδυόμενο μενού αντίστροφης μέτρησης για να ξεκινήσει ένα νέο επεισόδιο όταν τελειώσει το τρέχον (μπορεί να απενεργοποιηθεί από τις προτιμήσεις βίντεο/ήχου και να οριστεί η ώρα στο 0).
-(4) Γραμμή προόδου για επεισόδια σειράς που έχουν ήδη παιχτεί (μόνο Xtream).
-(5) Νέες προεπιλογές buffer/Caches (χαμηλό/μέσο/υψηλό).
-(6) Άλλες αλλαγές και βελτιώσεις.
+(1) Νέες προηγμένες ρυθμήσεις για internal players όπως AFR, Auto resolution και Tunneling.
+(2) Διόρθωση του στυλ μενού 4.
+(3) Active DNS
+(4) Άλλες αλλαγές και βελτιώσεις.
     </releaseNotes>
