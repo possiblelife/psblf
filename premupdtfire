@@ -1,9 +1,10 @@
-    <latestVersion>4.100</latestVersion>
-    <latestVersionCode>131</latestVersionCode>
+    <latestVersion>4.101</latestVersion>
+    <latestVersionCode>132</latestVersionCode>
     <url>https://www.dropbox.com/scl/fi/svisspx2xupbmcae3jurg/e-Doctor-IPTV-Premium-FIRE.apk?rlkey=0hdqoll2g8e5ftpxcgeen1oyv&dl=1</url>
   <releaseNotes>
-(1) Νέες προηγμένες ρυθμήσεις για internal players όπως AFR, Auto resolution και Tunneling.
-(2) Διόρθωση του στυλ μενού 4.
-(3) Active DNS
-(4) Άλλες αλλαγές και βελτιώσεις.
+(1) Διορθώσεις στο στυλ μενού 3 και 4.
+(2) Διόρθωση προβλήματος με την αναζήτηση.
+(3) Φόρτωση πλέον όλων των λιστών κατά την εκκίνηση της εφαρμογής
+(4) Δυνατότητα επιλογής short epg.
+(5) Άλλες αλλαγές και βελτιώσεις.
     </releaseNotes>
