@@ -1,9 +1,8 @@
-    <latestVersion>4.102</latestVersion>
-    <latestVersionCode>133</latestVersionCode>
-    <url>https://www.dropbox.com/scl/fi/ihksi2d3cplzx01i5osbr/GREEK-IPTV-V4.102.apk?rlkey=8odw3ly1apd62olywqtkvtlz3&st=wgvzgtbc&dl=1</url>
+    <latestVersion>4.103</latestVersion>
+    <latestVersionCode>134</latestVersionCode>
+    <url>https://www.dropbox.com/scl/fi/yamw4fkwmqyizx7nau66x/GREEK-IPTV-V4.103.apk?rlkey=ufniqlxpfczojd2c77d2xaoo7&st=clk1yp6s&dl=1</url>
   <releaseNotes>
-(1) Διορθώσεις στο στυλ μενού 4.
-(2) Μικρότερο το grid στις σειρές/ταινίες
-(3) Κουμπί επανεκκίνησης σειράς/ταινίας
-(4) Άλλες αλλαγές και βελτιώσεις.
+(1) Νέο Xlarge Grid.
+(2) Διορθώθηκαν προβλήματα με τη νέα οθόνη προετοιμασίας.
+(3) Άλλες αλλαγές και βελτιώσεις.
     </releaseNotes>
