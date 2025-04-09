@@ -1,8 +1,13 @@
-    <latestVersion>4.103</latestVersion>
-    <latestVersionCode>134</latestVersionCode>
-    <url>https://www.dropbox.com/scl/fi/yamw4fkwmqyizx7nau66x/GREEK-IPTV-V4.103.apk?rlkey=ufniqlxpfczojd2c77d2xaoo7&st=clk1yp6s&dl=1</url>
+    <latestVersion>4.105</latestVersion>
+    <latestVersionCode>136</latestVersionCode>
+    <url>https://dl.dropboxusercontent.com/scl/fi/se30wvliff9mg00lzbh0w/GREEK-IPTV-V4.105.apk?rlkey=be9a4z6e9mflnfdnj2aksjx6y&st=piaf1f5d&dl=0</url>
   <releaseNotes>
-(1) Νέο Xlarge Grid.
-(2) Διορθώθηκαν προβλήματα με τη νέα οθόνη προετοιμασίας.
-(3) Άλλες αλλαγές και βελτιώσεις.
+Τι νέο υπάρχει:
+(1) Ο Internal Player 2 αφαιρέθηκε (discontinued).
+(2) Ενημερώθηκε ο Internal Player 1.
+(3) Προστέθηκαν κωδικοποιητές βίντεο ffmpeg (H.264, HEVC, VP8, VP9) για τον Internal Player 1.
+(4) Ενημέρωση των κωδικοποιητών του Internal Player 3 (νέος Internal Player 2).
+(5) Νέος autoplayer για κλασικό στυλ (ο γνωστός autoplayer από το tvstyle).
+(6) Διάφορες διορθώσεις στους Internal Player.
+(7) Άλλες αλλαγές και βελτιώσεις.
     </releaseNotes>
