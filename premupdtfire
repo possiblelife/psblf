@@ -1,12 +1,9 @@
-    <latestVersion>4.108</latestVersion>
-    <latestVersionCode>139</latestVersionCode>
+    <latestVersion>4.109</latestVersion>
+    <latestVersionCode>1340</latestVersionCode>
     <url>https://dl.dropboxusercontent.com/scl/fi/nt5ltyznebxkhakgoexrd/e-Doctor-IPTV-Premium-FIRE.apk?rlkey=wtihgymemc7718be5cjkw81wb&dl=0</url>
   <releaseNotes>
 Τι νέο υπάρχει:
-(1) Ο αποκωδικοποιητής FFmpeg για τον εσωτερικό παίκτη 1 είναι απενεργοποιημένος από προεπιλογή (προκαλεί προβλήματα "εξάντλησης μνήμης" σε ορισμένες συσκευές). Μπορεί να ενεργοποιηθεί από τις προτιμήσεις του εσωτερικού παίκτη 1, εάν το επιθυμείτε (A+ και SW+).
-(2) Διορθώθηκαν σφάλματα με το auto player.
-(3) Δυνατότητα αφαίρεσης του φόντου ταινιών/σειρών στο tvstyle (από τις ρυθμίσεις οθόνης).
-(4) Διορθώθηκαν πιθανά crush με τον μετρητή fps.
-(5) Διορθώθηκαν πιθανά crush.
-(6) Άλλες αλλαγές και βελτιώσεις.
+(1) Αλλαγή του stream στο catchup/ετεροχρονισμένη θέαση, καλύτερη και πιο γρήγορη στην φόρτωση.
+(2) Επιλογή φόρτωση προεπιλογών των caches/buffer των player στις ρυθμήσεις caches/buffers.
+(3) Άλλες αλλαγές και βελτιώσεις.
     </releaseNotes>
