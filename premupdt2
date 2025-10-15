@@ -1,9 +1,11 @@
-    <latestVersion>4.109</latestVersion>
-    <latestVersionCode>140</latestVersionCode>
+    <latestVersion>4.110</latestVersion>
+    <latestVersionCode>141</latestVersionCode>
     <url>https://dl.dropboxusercontent.com/scl/fi/xj0e1u0wn33eebth9wimf/e-Doctor-IPTV-Premium.apk?rlkey=u3p9czhqeszg4x7v0mtr3rnhu&dl=0</url>
   <releaseNotes>
 Τι νέο υπάρχει:
-(1) Αλλαγή του stream στο catchup/ετεροχρονισμένη θέαση, καλύτερη και πιο γρήγορη στην φόρτωση.
-(2) Επιλογή φόρτωση προεπιλογών των caches/buffer των player στις ρυθμήσεις caches/buffers.
-(3) Άλλες αλλαγές και βελτιώσεις.
+(1) Προστέθηκε η ταξινόμηση κατά βαθμολογία
+(2) Νέα επιλογή για AFR (χρήση εσωτερικού προγράμματος αναπαραγωγής για τον υπολογισμό των fps αντί για κωδικοποιητές ffmpeg).
+(3) Ξεχωριστή ταξινόμηση για ταινίες/σειρές, διαφορετική για ζωντανή τηλεόραση.
+(4) Διορθώθηκε η ανίχνευση παρουσίας τρέιλερ στο παράθυρο διαλόγου πληροφοριών σειράς και ταινίας. Διορθώθηκε επίσης το εσωτερικό πρόγραμμα αναπαραγωγής του youtube.
+(5) Άλλες αλλαγές και βελτιώσεις.
     </releaseNotes>
