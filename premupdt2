@@ -1,8 +1,10 @@
-    <latestVersion>4.112_1</latestVersion>
-    <latestVersionCode>145</latestVersionCode>
+    <latestVersion>4.113</latestVersion>
+    <latestVersionCode>146</latestVersionCode>
     <url>https://dl.dropboxusercontent.com/scl/fi/xj0e1u0wn33eebth9wimf/e-Doctor-IPTV-Premium.apk?rlkey=u3p9czhqeszg4x7v0mtr3rnhu&dl=0</url>
   <releaseNotes>
 Τι νέο υπάρχει:
-(1) Κάποιες διορθώσεις.
-(2) Άλλες αλλαγές και βελτιώσεις.
+(1) Βελτίωση της βιντεογράφησης του internal  player 2.
+(2) Δυνατότητα βιντεογράφησης με τον internal  player 1 (δοκιμαστικό).
+(3) Νέες μεθόδους χρήσης της μνημης συσκευής για τις βιντεογραφησεις και για τα backup, δυνατότητα επιλογής απο τις ρυθμήσεις. Δυνατότητα χρήσης και smb.
+(4) Άλλες αλλαγές και βελτιώσεις.
     </releaseNotes>
